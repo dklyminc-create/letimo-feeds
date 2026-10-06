@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-06 18:38">
+<yml_catalog date="2026-10-06 19:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -40573,57 +40573,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">80см</param>
 <param name="Склад">Тринитка : 70% бавовна, 30% поліестер</param>
 </offer>
-   <offer id="2615" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT596451-9za3b</article>
-<name_ua><![CDATA[Накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>761</price>
-<price_old>761</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/16/58866129883612_+e05094e62b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/14156783870074_+5ad6194ef9.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/32516494907904_+85dd715f6a.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Сатин - 100% бавовна</param>
-</offer>
-   <offer id="2616" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT596451-1ynmi</article>
-<name_ua><![CDATA[Накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>761</price>
-<price_old>761</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/17/27345163674560_+1631df1069.jpg</picture>
-<picture>https://letimo.com.ua/content/images/17/19875642679017_+37907a466d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/17/38966333049852_+ab4f4ef510.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Сатин - 100% бавовна</param>
-</offer>
-   <offer id="2617" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT596451-ytf1j</article>
-<name_ua><![CDATA[Накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>761</price>
-<price_old>761</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/18/80349401872625_+5168db4d63.jpg</picture>
-<picture>https://letimo.com.ua/content/images/18/27553010814211_+aaac867609.jpg</picture>
-<picture>https://letimo.com.ua/content/images/18/57716360062904_+b4dfe48102.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Сатин - 100% бавовна</param>
-</offer>
    <offer id="2618" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1163</categoryId>
@@ -41315,40 +41264,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">комбінований</param>
 <param name="Розмір">3-6 міс</param>
 <param name="Склад">Двониточний трикотаж на флісі</param>
-</offer>
-   <offer id="2662" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT617451-62idr</article>
-<name_ua><![CDATA[Муслінова накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Муслінова накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>820</price>
-<price_old>820</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/57878864237402_+007dc5110b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/42886461655090_+3c54cf497c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/21544303315680_+20fd156e5c.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Муслін</param>
-</offer>
-   <offer id="2663" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT617451-1j354</article>
-<name_ua><![CDATA[Муслінова накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Муслінова накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>820</price>
-<price_old>820</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/14/68525711160738_+8c474c2daa.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/99820654125734_+7dce20e8de.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/29423327209494_+8561dd0e9d.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Муслін</param>
 </offer>
    <offer id="2667" available="true">
 <currencyId>UAH</currencyId>
@@ -45252,125 +45167,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">сірий</param>
 <param name="Розмір">-</param>
 <param name="Склад">В язаний трикотаж: 50% бавовна, 50% акрил; підкладка: Інтерлок: 100% бавовна; утеплювач: Силіконізований синтепон</param>
-</offer>
-   <offer id="4839" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT617451-h2kr9</article>
-<name_ua><![CDATA[Муслінова накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Муслінова накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>820</price>
-<price_old>820</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/40/20236785055195_+8484994a74.jpg</picture>
-<picture>https://letimo.com.ua/content/images/40/44381747775951_+209932b818.jpg</picture>
-<picture>https://letimo.com.ua/content/images/40/37998031187904_+02d39b5aee.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Муслін</param>
-</offer>
-   <offer id="4840" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT617451</article>
-<name_ua><![CDATA[Муслінова накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Муслінова накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>820</price>
-<price_old>820</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/41/25805000076303_+a35dcb362d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/41/50276975638856_+eb607acff6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/41/64973097952488_+90fea09660.jpg</picture>
-<param name="Колір">синій</param>
-<param name="Розмір">-</param>
-<param name="Склад">Муслін</param>
-</offer>
-   <offer id="4841" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT617451-1fspj</article>
-<name_ua><![CDATA[Муслінова накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Муслінова накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>820</price>
-<price_old>820</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/42/87291272613329_+0c624c3f81.jpg</picture>
-<picture>https://letimo.com.ua/content/images/42/83077860406638_+bca45a2998.jpg</picture>
-<picture>https://letimo.com.ua/content/images/42/57844334579046_+6366bce2bf.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">-</param>
-<param name="Склад">Муслін</param>
-</offer>
-   <offer id="4842" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT596451-fzil2</article>
-<name_ua><![CDATA[Накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>761</price>
-<price_old>761</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/43/49550043296528_+9ca081d0a1.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/49076269860447_+99829530c6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/35775827054416_+cbfe5765fa.jpg</picture>
-<param name="Колір">бежевий</param>
-<param name="Розмір">-</param>
-<param name="Склад">Сатин - 100% бавовна</param>
-</offer>
-   <offer id="4843" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT596451-12nto</article>
-<name_ua><![CDATA[Накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>761</price>
-<price_old>761</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/44/93111749952346_+1aa2a90ef6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/44/41209183617039_+2715aa304c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/44/49677183801574_+a25349ab8c.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Сатин - 100% бавовна</param>
-</offer>
-   <offer id="4844" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT596451-h6ist</article>
-<name_ua><![CDATA[Накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>761</price>
-<price_old>761</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/45/45792588194946_+cddd6a3799.jpg</picture>
-<picture>https://letimo.com.ua/content/images/45/78564769395437_+55fccd7c8e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/45/24985836138723_+82ff7db6af.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">-</param>
-<param name="Склад">Сатин - 100% бавовна</param>
-</offer>
-   <offer id="5121" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1095</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT617451-6rzy6</article>
-<name_ua><![CDATA[Муслінова накидка для годування з сумочкою чохлом]]></name_ua>
-<description_ua><![CDATA[<p>Муслінова накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
-<price>820</price>
-<price_old>820</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/22/49524007956662_+9b2350139e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/22/28834162658947_+8f212d0db0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/22/75279263355680_+7c2a0a0575.jpg</picture>
-<param name="Колір">світло-жовтий</param>
-<param name="Розмір">-</param>
-<param name="Склад">Муслін</param>
 </offer>
    <offer id="2846" available="true">
 <currencyId>UAH</currencyId>
