@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-06 23:39">
+<yml_catalog date="2026-10-07 00:39">
 <offers>
 <offer id="1210848654" available="false">
 <price>1038</price>
@@ -13972,138 +13972,6 @@
 <param name="Розмір (міжнародний)" paramcode="8076" valuecode="22f1b94aa9adfba52c9a34336d48902d">80</param>
 <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
 <param name="Зріст" paramcode="11972" valuecode="4913">80</param>
-<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-<param name="Вид" paramcode="51" valuecode="59474de50e0c1">штани</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,914509742d72b4e83f08792215c2ef46,gaslt0maz3oaouua,59474de5129e0">бавовна,двохнитка,поліестер,вовна</param>
-<param name="Колір виробника" paramcode="78" valuecode="2gnuojuhhguggjne,e3fyw7jf">капучино,бежевий</param>
-<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
-<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
-</offer>
-<offer id="2129712576" available="false">
-<price>584</price>
-<category code="2428">Штани дитячі</category>
-<attribute_set code="2428">Штани дитячі</attribute_set>
-<name lang="ua">Штани Lilian, Капучино 86 (12-18 міс.), Унісекс</name>
-<name lang="ru">Штани "Lilian", Капучино 86 (12-18 мес.), Унисекс</name>
-<picture>https://letimo.com.ua/content/images/1/64565072446278_+f58d8d28e6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/1/shtany-lilian-kapuchyno-86-12-18-mes.-uniseks-78393696901983_+33dc16d58d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/1/shtany-lilian-kapuchyno-86-12-18-mes.-uniseks-22279974882597_+3bf3af8c87.jpg</picture>
-<picture>https://letimo.com.ua/content/images/1/shtany-lilian-kapuchyno-86-12-18-mes.-uniseks-60604315249921_+99bbd5f79a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/1/shtany-lilian-kapuchyno-86-12-18-mes.-uniseks-40310321381414_+7ea5741c91.jpg</picture>
-<description lang="ua">&lt;p&gt;Штани-банани  Lilian    літні штани з двонитки, які тримають форму.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 70% бавовна, 30% поліестер.&lt;/li&gt;&lt;li&gt;Двонитка з дрібною петлею всередині.&lt;/li&gt;&lt;li&gt;Широка зручна гумка на талії.&lt;/li&gt;&lt;li&gt;У серії є худі й шорти  Lilian .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; штани легко поєднати з футболками й худі.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[Літні штанці-банани, створені, щоб насолоджуватися прогулянками сповна. Пошиті з двонитки з дуже дрібною петлею всередині. Завдяки цьому вони чудово тримають форму і мають дуже стильний вигляд. Приємні до тіла і не парять у спекотні дні. На талії широка та зручна гумка. Такі штани — класна база для літніх луків. Доповніть комплект худі та шортами з серії «Lilian» та комбінуйте їх з іншими речами, як заманеться.]]></description>
-<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">30</param>
-<param name="Глибина" paramcode="length">250</param>
-<param name="Ширина" paramcode="width">200</param>
-<param name="Вага" paramcode="weight">250</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">70% бавовна 30% поліестер</param>
-<param name="Розмір (міжнародний)" paramcode="8076" valuecode="96234bbb455f840ab0261f3e3e88c1bb">86</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Зріст" paramcode="11972" valuecode="4917">86</param>
-<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-<param name="Вид" paramcode="51" valuecode="59474de50e0c1">штани</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,914509742d72b4e83f08792215c2ef46,gaslt0maz3oaouua,59474de5129e0">бавовна,двохнитка,поліестер,вовна</param>
-<param name="Колір виробника" paramcode="78" valuecode="2gnuojuhhguggjne,e3fyw7jf">капучино,бежевий</param>
-<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
-<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
-</offer>
-<offer id="2129712577" available="true">
-<price>584</price>
-<category code="2428">Штани дитячі</category>
-<attribute_set code="2428">Штани дитячі</attribute_set>
-<name lang="ua">Штани Lilian, Капучино 92 (18-24 міс.), Унісекс</name>
-<name lang="ru">Штани "Lilian", Капучино 92 (18-24 мес.), Унисекс</name>
-<picture>https://letimo.com.ua/content/images/2/69295331658864_+b66caf908b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/shtany-lilian-kapuchyno-92-18-24-mis.-uniseks-93336850429737_+6d984298f7.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/shtany-lilian-kapuchyno-92-18-24-mis.-uniseks-23322303220766_+50dc98c818.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/shtany-lilian-kapuchyno-92-18-24-mis.-uniseks-61579318752062_+1b9ad4e04d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/shtany-lilian-kapuchyno-92-18-24-mis.-uniseks-87452260198316_+e84b981a34.jpg</picture>
-<description lang="ua">&lt;p&gt;Штани-банани  Lilian    літні штани з двонитки, які тримають форму.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 70% бавовна, 30% поліестер.&lt;/li&gt;&lt;li&gt;Двонитка з дрібною петлею всередині.&lt;/li&gt;&lt;li&gt;Широка зручна гумка на талії.&lt;/li&gt;&lt;li&gt;У серії є худі й шорти  Lilian .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; штани легко поєднати з футболками й худі.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[Літні штанці-банани, створені, щоб насолоджуватися прогулянками сповна. Пошиті з двонитки з дуже дрібною петлею всередині. Завдяки цьому вони чудово тримають форму і мають дуже стильний вигляд. Приємні до тіла і не парять у спекотні дні. На талії широка та зручна гумка. Такі штани — класна база для літніх луків. Доповніть комплект худі та шортами з серії «Lilian» та комбінуйте їх з іншими речами, як заманеться.]]></description>
-<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">30</param>
-<param name="Глибина" paramcode="length">250</param>
-<param name="Ширина" paramcode="width">200</param>
-<param name="Вага" paramcode="weight">250</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">70% бавовна 30% поліестер</param>
-<param name="Розмір (міжнародний)" paramcode="8076" valuecode="a0a9e184acca4c7badbf8636451761d3">92</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Зріст" paramcode="11972" valuecode="4919">92</param>
-<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-<param name="Вид" paramcode="51" valuecode="59474de50e0c1">штани</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,914509742d72b4e83f08792215c2ef46,gaslt0maz3oaouua,59474de5129e0">бавовна,двохнитка,поліестер,вовна</param>
-<param name="Колір виробника" paramcode="78" valuecode="2gnuojuhhguggjne,e3fyw7jf">капучино,бежевий</param>
-<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
-<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
-</offer>
-<offer id="2129712578" available="true">
-<price>584</price>
-<category code="2428">Штани дитячі</category>
-<attribute_set code="2428">Штани дитячі</attribute_set>
-<name lang="ua">Штани Lilian, Капучино 98 (2-3 роки), Унісекс</name>
-<name lang="ru">Штани "Lilian", Капучино 98 (2-3 года), Унисекс</name>
-<picture>https://letimo.com.ua/content/images/3/19080685519245_+18d45553d0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/shtany-lilian-kapuchyno-98-2-3-roky-uniseks-77779351432070_+376fdb3340.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/shtany-lilian-kapuchyno-98-2-3-roky-uniseks-34438097832994_+cc8e67afbf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/shtany-lilian-kapuchyno-98-2-3-roky-uniseks-46126935269198_+8dc37d4a3e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/shtany-lilian-kapuchyno-98-2-3-roky-uniseks-25839879734071_+2f2410c741.jpg</picture>
-<description lang="ua">&lt;p&gt;Штани-банани  Lilian    літні штани з двонитки, які тримають форму.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 70% бавовна, 30% поліестер.&lt;/li&gt;&lt;li&gt;Двонитка з дрібною петлею всередині.&lt;/li&gt;&lt;li&gt;Широка зручна гумка на талії.&lt;/li&gt;&lt;li&gt;У серії є худі й шорти  Lilian .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; штани легко поєднати з футболками й худі.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[Літні штанці-банани, створені, щоб насолоджуватися прогулянками сповна. Пошиті з двонитки з дуже дрібною петлею всередині. Завдяки цьому вони чудово тримають форму і мають дуже стильний вигляд. Приємні до тіла і не парять у спекотні дні. На талії широка та зручна гумка. Такі штани — класна база для літніх луків. Доповніть комплект худі та шортами з серії «Lilian» та комбінуйте їх з іншими речами, як заманеться.]]></description>
-<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">30</param>
-<param name="Глибина" paramcode="length">250</param>
-<param name="Ширина" paramcode="width">200</param>
-<param name="Вага" paramcode="weight">250</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">70% бавовна 30% поліестер</param>
-<param name="Розмір (міжнародний)" paramcode="8076" valuecode="ba3c9d4aa376e255af3496fc294055e1">98</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Зріст" paramcode="11972" valuecode="4921">98</param>
-<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-<param name="Вид" paramcode="51" valuecode="59474de50e0c1">штани</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,914509742d72b4e83f08792215c2ef46,gaslt0maz3oaouua,59474de5129e0">бавовна,двохнитка,поліестер,вовна</param>
-<param name="Колір виробника" paramcode="78" valuecode="2gnuojuhhguggjne,e3fyw7jf">капучино,бежевий</param>
-<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
-<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
-</offer>
-<offer id="2129712579" available="true">
-<price>584</price>
-<category code="2428">Штани дитячі</category>
-<attribute_set code="2428">Штани дитячі</attribute_set>
-<name lang="ua">Штани Lilian, Капучино 104 (3-4 роки), Унісекс</name>
-<name lang="ru">Штани "Lilian", Капучино 104 (3-4 года), Унисекс</name>
-<picture>https://letimo.com.ua/content/images/4/38701464571562_+080699c7b7.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/shtany-lilian-kapuchyno-104-3-4-roky-uniseks-38532214789734_+fb17e8cb7d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/shtany-lilian-kapuchyno-104-3-4-roky-uniseks-43367012784146_+90a177c46a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/shtany-lilian-kapuchyno-104-3-4-roky-uniseks-67992342828587_+06eba1726d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/shtany-lilian-kapuchyno-104-3-4-roky-uniseks-60349131902116_+5382c46b08.jpg</picture>
-<description lang="ua">&lt;p&gt;Штани-банани  Lilian    літні штани з двонитки, які тримають форму.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 70% бавовна, 30% поліестер.&lt;/li&gt;&lt;li&gt;Двонитка з дрібною петлею всередині.&lt;/li&gt;&lt;li&gt;Широка зручна гумка на талії.&lt;/li&gt;&lt;li&gt;У серії є худі й шорти  Lilian .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; штани легко поєднати з футболками й худі.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[Літні штанці-банани, створені, щоб насолоджуватися прогулянками сповна. Пошиті з двонитки з дуже дрібною петлею всередині. Завдяки цьому вони чудово тримають форму і мають дуже стильний вигляд. Приємні до тіла і не парять у спекотні дні. На талії широка та зручна гумка. Такі штани — класна база для літніх луків. Доповніть комплект худі та шортами з серії «Lilian» та комбінуйте їх з іншими речами, як заманеться.]]></description>
-<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">30</param>
-<param name="Глибина" paramcode="length">250</param>
-<param name="Ширина" paramcode="width">200</param>
-<param name="Вага" paramcode="weight">250</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">70% бавовна 30% поліестер</param>
-<param name="Розмір (міжнародний)" paramcode="8076" valuecode="80b8a1938b7e104d98a885d96cca0259">104</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Зріст" paramcode="11972" valuecode="4924">104</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Вид" paramcode="51" valuecode="59474de50e0c1">штани</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,914509742d72b4e83f08792215c2ef46,gaslt0maz3oaouua,59474de5129e0">бавовна,двохнитка,поліестер,вовна</param>
@@ -41957,7 +41825,6 @@
 <category code="2427">Костюми дитячі</category>
 <attribute_set code="2427">Костюми дитячі</attribute_set>
 <name lang="ua">Костюм з начосом "Noemi", Морський 98 (2-3 роки)</name>
-<name lang="ru">Костюм з начосом "Noemi", Морський 98 (2-3 роки)</name>
 <picture>https://letimo.com.ua/content/images/15/16622350181465_+8a64cd69d6.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/kostium-z-nachosom-noemi-morskyi-98-2-3-roky-41822457099776_+5a0c5b0699.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/kostium-z-nachosom-noemi-morskyi-98-2-3-roky-99681911398410_+729f318c29.jpg</picture>
@@ -41967,7 +41834,6 @@
 <picture>https://letimo.com.ua/content/images/15/kostium-z-nachosom-noemi-morskyi-98-2-3-roky-36508804962883_+83a388d48f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/kostium-z-nachosom-noemi-morskyi-98-2-3-roky-70256576744094_+bb9e00bea3.jpg</picture>
 <description lang="ua">&lt;p&gt;Костюм  Noemi  з начосом   для затишних прогулянок у прохолодну пору.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тринитка на м'якому флісі, тримає тепло і не парить.&lt;/li&gt;&lt;li&gt;Кофта на блискавці   легко зняти, якщо стало спекотно.&lt;/li&gt;&lt;li&gt;Декоративні кнопки з боків розстібаються.&lt;/li&gt;&lt;li&gt;Штани на широкому еластичному поясі.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; до костюма можна докупити додаткові штани  Noemi  в іншому кольорі.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[Костюм з начосом Noemi Цей костюм просто створений для затишних прогулянок у прохолодну пору. Декоративні шви та кнопки з боків — ось родзинка, що додає стилю. До речі, кнопки розстібаються. Пошито з тринитки на м’якому флісі. Тканина приємна до тіла, добре тримає тепло, але не «парить» і не спричиняє алергії. Кофта застібається на блискавку. Зручно взяти з собою на випадок, якщо стане прохолодніше. А якщо від активних ігор стане спекотно — можна швидко зняти. М’які манжети на рукавах не дають їм сповзати та заважати під час руху. Штани на широкому еластичному поясі з гумкою. До костюма можна докупити пару додаткових штанів Noemi в інших кольорах — для змінного комплекту або щоб мати запас на кожен день.]]></description>
 <param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Noemi]]></param>
 <vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
 <country_of_origin code="ukr">Україна</country_of_origin>
@@ -41995,7 +41861,6 @@
 <category code="2427">Костюми дитячі</category>
 <attribute_set code="2427">Костюми дитячі</attribute_set>
 <name lang="ua">Костюм з начосом "Noemi", Морський 104 (3-4 роки)</name>
-<name lang="ru">Костюм з начосом "Noemi", Морський 104 (3-4 роки)</name>
 <picture>https://letimo.com.ua/content/images/16/16686231068843_+3954f03662.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/kostium-z-nachosom-noemi-morskyi-104-3-4-roky-56820988111721_+789c11a6d2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/kostium-z-nachosom-noemi-morskyi-104-3-4-roky-71700834151382_+e42796afd3.jpg</picture>
@@ -42005,7 +41870,6 @@
 <picture>https://letimo.com.ua/content/images/16/kostium-z-nachosom-noemi-morskyi-104-3-4-roky-30907434801006_+a8f9349609.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/kostium-z-nachosom-noemi-morskyi-104-3-4-roky-44609089174610_+4738636517.jpg</picture>
 <description lang="ua">&lt;p&gt;Костюм  Noemi  з начосом   для затишних прогулянок у прохолодну пору.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тринитка на м'якому флісі, тримає тепло і не парить.&lt;/li&gt;&lt;li&gt;Кофта на блискавці   легко зняти, якщо стало спекотно.&lt;/li&gt;&lt;li&gt;Декоративні кнопки з боків розстібаються.&lt;/li&gt;&lt;li&gt;Штани на широкому еластичному поясі.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; до костюма можна докупити додаткові штани  Noemi  в іншому кольорі.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[Костюм з начосом Noemi Цей костюм просто створений для затишних прогулянок у прохолодну пору. Декоративні шви та кнопки з боків — ось родзинка, що додає стилю. До речі, кнопки розстібаються. Пошито з тринитки на м’якому флісі. Тканина приємна до тіла, добре тримає тепло, але не «парить» і не спричиняє алергії. Кофта застібається на блискавку. Зручно взяти з собою на випадок, якщо стане прохолодніше. А якщо від активних ігор стане спекотно — можна швидко зняти. М’які манжети на рукавах не дають їм сповзати та заважати під час руху. Штани на широкому еластичному поясі з гумкою. До костюма можна докупити пару додаткових штанів Noemi в інших кольорах — для змінного комплекту або щоб мати запас на кожен день.]]></description>
 <param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Noemi]]></param>
 <vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
 <country_of_origin code="ukr">Україна</country_of_origin>
@@ -42033,7 +41897,6 @@
 <category code="2427">Костюми дитячі</category>
 <attribute_set code="2427">Костюми дитячі</attribute_set>
 <name lang="ua">Костюм з начосом "Noemi", Морський 110 (4-5 роки)</name>
-<name lang="ru">Костюм з начосом "Noemi", Морський 110 (4-5 роки)</name>
 <picture>https://letimo.com.ua/content/images/17/81264290465886_+88a3c54096.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/kostium-z-nachosom-noemi-morskyi-110-4-5-roky-86160961060707_+19d82c012d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/kostium-z-nachosom-noemi-morskyi-110-4-5-roky-16994121454175_+13869777a1.jpg</picture>
@@ -42043,7 +41906,6 @@
 <picture>https://letimo.com.ua/content/images/17/kostium-z-nachosom-noemi-morskyi-110-4-5-roky-46580994238704_+7e104ba1b0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/kostium-z-nachosom-noemi-morskyi-110-4-5-roky-78208064377991_+cf09dfebdf.jpg</picture>
 <description lang="ua">&lt;p&gt;Костюм  Noemi  з начосом   для затишних прогулянок у прохолодну пору.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тринитка на м'якому флісі, тримає тепло і не парить.&lt;/li&gt;&lt;li&gt;Кофта на блискавці   легко зняти, якщо стало спекотно.&lt;/li&gt;&lt;li&gt;Декоративні кнопки з боків розстібаються.&lt;/li&gt;&lt;li&gt;Штани на широкому еластичному поясі.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; до костюма можна докупити додаткові штани  Noemi  в іншому кольорі.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[Костюм з начосом Noemi Цей костюм просто створений для затишних прогулянок у прохолодну пору. Декоративні шви та кнопки з боків — ось родзинка, що додає стилю. До речі, кнопки розстібаються. Пошито з тринитки на м’якому флісі. Тканина приємна до тіла, добре тримає тепло, але не «парить» і не спричиняє алергії. Кофта застібається на блискавку. Зручно взяти з собою на випадок, якщо стане прохолодніше. А якщо від активних ігор стане спекотно — можна швидко зняти. М’які манжети на рукавах не дають їм сповзати та заважати під час руху. Штани на широкому еластичному поясі з гумкою. До костюма можна докупити пару додаткових штанів Noemi в інших кольорах — для змінного комплекту або щоб мати запас на кожен день.]]></description>
 <param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Noemi]]></param>
 <vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
 <country_of_origin code="ukr">Україна</country_of_origin>
