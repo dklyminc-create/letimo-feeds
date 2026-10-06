@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-06 19:10">
+<yml_catalog date="2026-10-06 19:17">
 <offers>
 <offer id="1210848654" available="false">
 <price>1038</price>
@@ -4269,6 +4269,112 @@
 <param name="Форма продажу" paramcode="12907" valuecode="194b667ae2d9b1675ce6c0c8a2dc5ac4">набір</param>
 <param name="Зріст" paramcode="11972" valuecode="4911">74</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+</offer>
+<offer id="1818501805" available="true">
+<price>348</price>
+<category code="2418">Шарфи і снуди дитячі</category>
+<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
+<name lang="ua">Снуд із лапши "Ronny", Бежевий</name>
+<name lang="ru">Снуд из лапши "Ronny", Бежевый</name>
+<picture>https://letimo.com.ua/content/images/8/73133411683528_+7921b2e2e1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/snud-iz-lapshy-ronny-bezhevyi-47680855159994_+be51134e03.jpg</picture>
+<description lang="ua">&lt;p&gt;Снуд  Ronny  з трикотажу  лапша    заміна шарфу, яка не розв'язується і не звисає.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 100% бавовна.&lt;/li&gt;&lt;li&gt;Рубчик  лапша  м'який і добре тягнеться.&lt;/li&gt;&lt;li&gt;Закриває шию від вітру в прохолодну погоду.&lt;/li&gt;&lt;li&gt;Пасує до шапки  Ronny .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, сушити розкладеним.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; для малюків снуд зручніший і безпечніший за довгий шарф.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Ronny]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Вид" paramcode="51" valuecode="gfaukzbef71ifowo">снуд</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5129e0">бавовна,вовна</param>
+<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="1818503470" available="true">
+<price>348</price>
+<category code="2418">Шарфи і снуди дитячі</category>
+<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
+<name lang="ua">Снуд із лапши "Ronny", сизий</name>
+<picture>https://letimo.com.ua/content/images/9/26057109414016_+abc2cd5504.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/snud-iz-lapshy-ronny-syzyi-28305498971926_+e200b2b93f.jpg</picture>
+<description lang="ua">&lt;p&gt;Снуд  Ronny  з трикотажу  лапша    заміна шарфу, яка не розв'язується і не звисає.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 100% бавовна.&lt;/li&gt;&lt;li&gt;Рубчик  лапша  м'який і добре тягнеться.&lt;/li&gt;&lt;li&gt;Закриває шию від вітру в прохолодну погоду.&lt;/li&gt;&lt;li&gt;Пасує до шапки  Ronny .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, сушити розкладеним.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; для малюків снуд зручніший і безпечніший за довгий шарф.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Ronny]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+<param name="Вид" paramcode="51" valuecode="gfaukzbef71ifowo">снуд</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5129e0">бавовна,вовна</param>
+<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
+<param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="1818508936" available="true">
+<price>348</price>
+<category code="2418">Шарфи і снуди дитячі</category>
+<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
+<name lang="ua">Снуд із лапши "Ronny", хакі</name>
+<picture>https://letimo.com.ua/content/images/10/71356602902859_+e58eed7714.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/snud-iz-lapshy-ronny-khaki-46692452710482_+47b83b5a99.jpg</picture>
+<description lang="ua">&lt;p&gt;Снуд  Ronny  з трикотажу  лапша    заміна шарфу, яка не розв'язується і не звисає.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 100% бавовна.&lt;/li&gt;&lt;li&gt;Рубчик  лапша  м'який і добре тягнеться.&lt;/li&gt;&lt;li&gt;Закриває шию від вітру в прохолодну погоду.&lt;/li&gt;&lt;li&gt;Пасує до шапки  Ronny .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, сушити розкладеним.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; для малюків снуд зручніший і безпечніший за довгий шарф.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Ronny]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+<param name="Вид" paramcode="51" valuecode="gfaukzbef71ifowo">снуд</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5129e0">бавовна,вовна</param>
+<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="1818510202" available="true">
+<price>348</price>
+<category code="2418">Шарфи і снуди дитячі</category>
+<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
+<name lang="ua">Снуд із лапши "Ronny", Молочний</name>
+<name lang="ru">Снуд из лапши "Ronny", Молочный</name>
+<picture>https://letimo.com.ua/content/images/11/15980368676660_+ef35b90f40.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/snud-iz-lapshy-ronny-molochnyi-68633569581626_+c0a5efa185.jpg</picture>
+<description lang="ua">&lt;p&gt;Снуд  Ronny  з трикотажу  лапша    заміна шарфу, яка не розв'язується і не звисає.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 100% бавовна.&lt;/li&gt;&lt;li&gt;Рубчик  лапша  м'який і добре тягнеться.&lt;/li&gt;&lt;li&gt;Закриває шию від вітру в прохолодну погоду.&lt;/li&gt;&lt;li&gt;Пасує до шапки  Ronny .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, сушити розкладеним.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; для малюків снуд зручніший і безпечніший за довгий шарф.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Ronny]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Вид" paramcode="51" valuecode="gfaukzbef71ifowo">снуд</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5129e0">бавовна,вовна</param>
+<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
 </offer>
 <offer id="1860756877" available="true">
 <price>2814</price>
@@ -16199,6 +16305,246 @@
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 </offer>
+<offer id="2186361653" available="true">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", темно-сині 0-6 міс</name>
+<name lang="ru">Носки Couple, темно-синие 0-6 мес</name>
+<picture>https://letimo.com.ua/content/images/6/20607486491050_+1d06811a9d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/6/shkarpetky-couple-temno-syni-0-6-mis-64263634483560_+4353163c5b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/6/shkarpetky-couple-temno-syni-0-6-mis-39769069835179_+88a0b1dfc6.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+</offer>
+<offer id="2186361654" available="false">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", темно-сині 6-12 міс</name>
+<name lang="ru">Носки Couple, темно-синие 6-12 мес</name>
+<picture>https://letimo.com.ua/content/images/7/33303055927560_+e327d6c722.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/shkarpetky-couple-temno-syni-6-12-mis-30209152725543_+c13bd0c8f3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/shkarpetky-couple-temno-syni-6-12-mis-47457793676685_+19c32b8174.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+</offer>
+<offer id="2186361655" available="false">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", темно-сині 12-18 міс</name>
+<name lang="ru">Носки Couple, темно-синие 12-18 мес</name>
+<picture>https://letimo.com.ua/content/images/8/62128861894234_+d4cd556714.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/shkarpetky-couple-temno-syni-12-18-mis-25968893156231_+4afbdc0beb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/shkarpetky-couple-temno-syni-12-18-mis-73431523576802_+afb6c85e78.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+</offer>
+<offer id="2186361656" available="false">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", темно-сині 18-24 міс</name>
+<name lang="ru">Носки Couple, темно-синие 18-24 мес</name>
+<picture>https://letimo.com.ua/content/images/9/24468654722377_+84b1db825d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/shkarpetky-couple-temno-syni-18-24-mis-76492908370731_+89ce6c29b4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/shkarpetky-couple-temno-syni-18-24-mis-67653772986468_+d1965f02d5.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+</offer>
+<offer id="2186376796" available="false">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", рожеві 0-6 міс</name>
+<name lang="ru">Носки Couple, розовые 0-6 мес</name>
+<picture>https://letimo.com.ua/content/images/10/87233200108706_+19272a50a2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/shkarpetky-couple-rozhevi-0-6-mis-55867149268265_+aad3c9b8fd.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/shkarpetky-couple-rozhevi-0-6-mis-93045974276933_+319e75b1a4.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2186376797" available="true">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", рожеві 6-12 міс</name>
+<name lang="ru">Носки Couple, розовые 6-12 мес</name>
+<picture>https://letimo.com.ua/content/images/11/18259528137491_+583a90d6d8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/shkarpetky-couple-rozhevi-6-12-mis-23497728645119_+479401ad7e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/shkarpetky-couple-rozhevi-6-12-mis-83839019535715_+3106b48bc6.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2186376798" available="true">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", рожеві 12-18 міс</name>
+<name lang="ru">Носки Couple, розовые 12-18 мес</name>
+<picture>https://letimo.com.ua/content/images/12/24237640774237_+575b033cd1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/shkarpetky-couple-rozhevi-12-18-mis-91165213281462_+e7217b9a9a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/shkarpetky-couple-rozhevi-12-18-mis-71026957358681_+d01e552303.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2186376799" available="false">
+<price>195</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Couple", рожеві 18-24 міс</name>
+<name lang="ru">Носки Couple, розовые 18-24 мес</name>
+<picture>https://letimo.com.ua/content/images/13/89400846089793_+36cad9b180.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/shkarpetky-couple-rozhevi-18-24-mis-17819161008028_+1448617eae.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/shkarpetky-couple-rozhevi-18-24-mis-59678062787626_+325aaa0c28.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Couple    дві пари базових бавовняних шкарпеток: одна з силіконовими вставками на стопі, друга без.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Силіконові вставки не дають ковзати на гладкій підлозі, коли малюк починає вставати й ходити.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;li&gt;М'які й не перетискають ніжку.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток малюку потрібно багато, тож зручно брати одразу кілька наборів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Носочков много не бывает! Согласны? Особенно если они именно такие: базовые, хлопковые и такие мягенькие. Нежно окутывают маленькие пяточки и не дают им замерзнуть, и, что главное, не вызывают аллергию, потому что из натуральных материалов. Мы позаботились о силиконовых вставках на стопе для того, чтобы не было скользко на гладком полу, когда малыш начнет вставать и бегать. Поэтому одна пара в комплекте идет со "стопами", а вторая без. Базовые цвета отлично подойдут как для девочек, так и для мальчиков. Универсальны для каждой крохи и любого события.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Couple]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
 <offer id="2216725669" available="true">
 <price>407</price>
 <category code="6511">Лосини дитячі</category>
@@ -24102,6 +24448,348 @@
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="2396693937" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Молочні 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/33/65472725416430_+b7293280b3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/shkarpetky-na-makhri-terry-molochni-6-12-mis.-45591789139275_+03f3ccb4dc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/shkarpetky-na-makhri-terry-molochni-6-12-mis.-94630981985893_+b4b7aa821c.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2396693938" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Молочні 12-18 міс.</name>
+<picture>https://letimo.com.ua/content/images/34/86946925057337_+a81d54035f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/34/shkarpetky-na-makhri-terry-molochni-12-18-mis.-61785896985096_+4e4a96bac3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/34/shkarpetky-na-makhri-terry-molochni-12-18-mis.-59233172885522_+967729c032.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2396693939" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Молочні 18-24 міс.</name>
+<picture>https://letimo.com.ua/content/images/35/12782630971404_+f7d9424261.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/shkarpetky-na-makhri-terry-molochni-18-24-mis.-19720485721141_+d4969cf9be.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/shkarpetky-na-makhri-terry-molochni-18-24-mis.-58825828027232_+3773b24182.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2396704244" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Темно-сині 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/36/12789317947294_+60fd1b7e85.jpg</picture>
+<picture>https://letimo.com.ua/content/images/36/shkarpetky-na-makhri-terry-temno-syni-6-12-mis.-32198095739711_+ee0c2265bf.jpg</picture>
+<picture>https://letimo.com.ua/content/images/36/shkarpetky-na-makhri-terry-temno-syni-6-12-mis.-87842011631025_+a1e7964cfa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/36/shkarpetky-na-makhri-terry-temno-syni-6-12-mis.-79011904264179_+d64a5d49b0.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+</offer>
+<offer id="2396704245" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Темно-сині 12-18 міс.</name>
+<picture>https://letimo.com.ua/content/images/37/43163723149332_+0b23c77907.jpg</picture>
+<picture>https://letimo.com.ua/content/images/37/shkarpetky-na-makhri-terry-temno-syni-12-18-mis.-32445684315029_+9947b46059.jpg</picture>
+<picture>https://letimo.com.ua/content/images/37/shkarpetky-na-makhri-terry-temno-syni-12-18-mis.-20613686148494_+a5c9083fe7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/37/shkarpetky-na-makhri-terry-temno-syni-12-18-mis.-28799640219672_+2d09c132ef.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+</offer>
+<offer id="2396704246" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Темно-сині 18-24 міс.</name>
+<picture>https://letimo.com.ua/content/images/38/14613681988382_+950c8dd229.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/shkarpetky-na-makhri-terry-temno-syni-18-24-mis.-96621428788576_+1deef9199b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/shkarpetky-na-makhri-terry-temno-syni-18-24-mis.-46110572627792_+b3f32ddb37.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/shkarpetky-na-makhri-terry-temno-syni-18-24-mis.-79962059057393_+ff2446166a.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+</offer>
+<offer id="2396705454" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Сірі 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/39/83304398012334_+213965390f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/shkarpetky-na-makhri-terry-siri-6-12-mis.-35438948693323_+e668f107f5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/shkarpetky-na-makhri-terry-siri-6-12-mis.-47696182867043_+a5ae9b103b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/shkarpetky-na-makhri-terry-siri-6-12-mis.-73881528176138_+6a4d73fb1b.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+</offer>
+<offer id="2396705455" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Сірі 12-18 міс.</name>
+<picture>https://letimo.com.ua/content/images/40/72986333912534_+300338f1ff.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/shkarpetky-na-makhri-terry-siri-12-18-mis.-89366187116634_+88b763da54.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/shkarpetky-na-makhri-terry-siri-12-18-mis.-83971676672349_+be9c19116d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/shkarpetky-na-makhri-terry-siri-12-18-mis.-74834847290279_+8cb8af4932.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+</offer>
+<offer id="2396705456" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Сірі 18-24 міс.</name>
+<picture>https://letimo.com.ua/content/images/41/19599489028667_+9f419ca8ad.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/shkarpetky-na-makhri-terry-siri-18-24-mis.-37127758238280_+7ec7687a71.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/shkarpetky-na-makhri-terry-siri-18-24-mis.-20330242505762_+c67a02a394.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/shkarpetky-na-makhri-terry-siri-18-24-mis.-45052136974064_+ce730fd1b9.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+</offer>
+<offer id="2396710519" available="false">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Білі 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/42/74002231209175_+4434963bb0.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/shkarpetky-na-makhri-terry-bili-6-12-mis.-16453384860621_+e2f71bf2af.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/shkarpetky-na-makhri-terry-bili-6-12-mis.-71260781346963_+034449ab85.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2396710520" available="false">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Білі 12-18 міс.</name>
+<picture>https://letimo.com.ua/content/images/43/25529034194647_+d73cfea5df.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/shkarpetky-na-makhri-terry-bili-12-18-mis.-98368965560169_+f2215d9f88.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/shkarpetky-na-makhri-terry-bili-12-18-mis.-90635201043552_+d80c8f1f11.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2396710521" available="true">
+<price>189</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки на махрі "Terry", Білі 18-24 міс.</name>
+<picture>https://letimo.com.ua/content/images/44/99259685340133_+967d143a3b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/shkarpetky-na-makhri-terry-bili-18-24-mis.-42043479730422_+71a94b20d6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/shkarpetky-na-makhri-terry-bili-18-24-mis.-63002445492630_+35d1fda1eb.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
 </offer>
 <offer id="2440039636" available="true">
 <price>1392</price>
@@ -35602,6 +36290,114 @@
 <param name="Довжина рукава" paramcode="2387" valuecode="c49d2e2ee81edeb6dfd44cb5b77f3c17">короткі</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 </offer>
+<offer id="2582223828" available="false">
+<price>555</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Base", Білий 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/50/83173904052760_+ceb87e7e5d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/17251477349286_+538e6eb180.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/28145359775374_+eb6eebd865.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2582223829" available="true">
+<price>555</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Base", Білий 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/1/25640305365131_+c918ae6819.jpg</picture>
+<picture>https://letimo.com.ua/content/images/1/11635118126295_+d266653dcb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/1/81114551011486_+11dafa0d68.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2582226770" available="true">
+<price>555</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Base", Бежевий меланж 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/2/65714718010338_+818f178665.jpg</picture>
+<picture>https://letimo.com.ua/content/images/2/96148657440800_+69c4006065.jpg</picture>
+<picture>https://letimo.com.ua/content/images/2/86838378896401_+c4bd230489.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+</offer>
+<offer id="2582226771" available="true">
+<price>555</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Base", Бежевий меланж 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/3/36584586855662_+3d9f077285.jpg</picture>
+<picture>https://letimo.com.ua/content/images/3/24546751459661_+94e4167f02.jpg</picture>
+<picture>https://letimo.com.ua/content/images/3/28150237749735_+c2253f51d8.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+</offer>
 <offer id="2582247561" available="false">
 <price>425</price>
 <category code="2428">Штани дитячі</category>
@@ -36693,6 +37489,118 @@
 <param name="Вік дитини" paramcode="2289" valuecode="0df546b76ef463856f3f9fafbeb3f033">від 12 місяців</param>
 <param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
 </offer>
+<offer id="2583023908" available="true">
+<price>230</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Base", Білі 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/16/35984775305281_+55ed2f8b40.jpg</picture>
+<picture>https://letimo.com.ua/content/images/16/12428502868376_+c71309c6ab.jpg</picture>
+<picture>https://letimo.com.ua/content/images/16/71041612221210_+cd22612f1a.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2583023909" available="true">
+<price>230</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Base", Білі 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/17/45146708362625_+10c84401e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/17/40693052782254_+f206a31492.jpg</picture>
+<picture>https://letimo.com.ua/content/images/17/86873914005052_+16b6b34161.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2583024733" available="true">
+<price>230</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Base", Бежевий меланж 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/18/68531241826222_+b656acc4ca.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/56861884236055_+38b98913e0.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/17094532552985_+31b5b1501b.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+</offer>
+<offer id="2583024734" available="true">
+<price>230</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Base", Бежевий меланж 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/19/32702787906252_+5e3ebf1d3b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/23432403528308_+96f1337130.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/74428109620840_+6995412415.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+</offer>
 <offer id="2583031907" available="false">
 <price>702</price>
 <category code="2428">Штани дитячі</category>
@@ -37458,6 +38366,108 @@
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+</offer>
+<offer id="2624142460" available="false">
+<price>555</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Base", Молочний 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/45/27992019760369_+04038d1e56.png</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2624142461" available="true">
+<price>555</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Base", Молочний 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/46/12291223463126_+fee9791b2a.png</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2624143857" available="false">
+<price>230</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Base", Молочні 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/47/59073826377985_+3852f51f0c.png</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2624143858" available="true">
+<price>230</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Base", Молочні 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/48/57444276988837_+9fbb61b3d6.png</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Base    базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Тонкі бавовняні шкарпетки на кожен день.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Base]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
 </offer>
 <offer id="2635576208" available="true">
 <price>1050</price>
@@ -43129,6 +44139,206 @@
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="2741553150" available="false">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Біло-рожеві 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/46/25440858817617_+23f120061e.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2741553151" available="true">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Біло-рожеві 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/47/59947358430065_+f6a75ff0d5.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2741553152" available="false">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Біло-рожеві 12-18 міс.</name>
+<picture>https://letimo.com.ua/content/images/48/63650272627675_+caa6661dd8.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2741553153" available="false">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Біло-рожеві 18-24 міс.</name>
+<picture>https://letimo.com.ua/content/images/49/62656777043716_+3b5a204569.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2741564515" available="true">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Молочно-бежеві 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/50/64060551336371_+55ac481db5.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2741564516" available="true">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Молочно-бежеві 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/1/92951876318893_+a164d543d3.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2741564517" available="true">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Молочно-бежеві 12-18 міс.</name>
+<picture>https://letimo.com.ua/content/images/2/99598893426466_+b94da733f5.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2741566863" available="true">
+<price>366</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Синьо-сірі 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/4/77463012275748_+3eb870f077.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="29088ff0633f40253afc0c3deefed9e5,gsyiryzw">синьо-сірий,сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
 </offer>
 <offer id="2829567032" available="true">
 <price>572</price>
@@ -51532,6 +52742,432 @@
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Сезон" paramcode="2295" valuecode="c66f6045e0a38e52f7672d3e8e959bba">літо</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
+</offer>
+<offer id="2902151580" available="false">
+<price>136</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Fluffy", Рожеві 0-6 міс.</name>
+<name lang="ru">Носки "Fluffy", Розовые 0-6 мес.</name>
+<picture>https://letimo.com.ua/content/images/46/65879187505164_+a7e998c2ab.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/shkarpetky-fluffy-rozhevi-0-6-mis.-99407148034151_+2e2af454a8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/shkarpetky-fluffy-rozhevi-0-6-mis.-20966164944392_+b8dc00a9e3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/shkarpetky-fluffy-rozhevi-0-6-mis.-84247081901933_+13a78c746e.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Fluffy    теплі пухнасті шкарпетки для холодної пори.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому, сну й під теплий одяг.&lt;/li&gt;&lt;li&gt;Дуже м'які.&lt;/li&gt;&lt;li&gt;Підходять немовлятам.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холодну пору зручно вдягати на ніч.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Надзвичайно теплі та м’які пухнасті шкарпетки для малюків - ідеальні для холодної пори року. Український виробник дитячого одягу MagBaby точно знає як в холодну пору хочеться особливого затишку та тепла вдома чи на прогулянці. Тому рекомендує одягати шкарпетки вдома, для сну, відпочинку або під теплий одяг у холодну пору року. Вони чудово підходять немовлятам та дітям для носіння з піжамами, бодіками, чоловічками та теплими костюмами. Переваги - Пухнаста нижня частина максимально зберігає тепло. - Неймовірно м’які, підходять для чутливої дитячої шкіри. - Ідеальні для зими та міжсезоння. - Комфортна посадка - добре тримаються, не здавлюють ніжку. - Спокійний базовий дизайн. Догляд - Прання вручну або на делікатному режимі при 30°C. - Використовуйте м’які засоби без відбілювача. - Сушіть природним способом. FAQ Чи підходять шкарпетки для зими? Так, це один з найтепліших варіантів для холодної погоди та прохолодних приміщень. Чи не тиснуть шкарпетки ніжку? Ні, вони мають м’яку резинку та комфортну посадку без перетискання. Чи не парять ніжки? Матеріал м’який і дихаючий, забезпечує комфорт без перегріву. Чи можна прати в машинці? Так, на делікатному режимі при температурі до 30°C.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fluffy]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902151581" available="true">
+<price>136</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Fluffy", Рожеві 6-12 міс.</name>
+<name lang="ru">Носки "Fluffy", Розовые 6-12 мес.</name>
+<picture>https://letimo.com.ua/content/images/47/23649370401810_+bd14c056c3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/shkarpetky-fluffy-rozhevi-6-12-mis.-22402003391772_+cc7a6214fd.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/shkarpetky-fluffy-rozhevi-6-12-mis.-55519753364126_+1a8a89bd3c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/shkarpetky-fluffy-rozhevi-6-12-mis.-46017596107728_+ab5997c7dc.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Fluffy    теплі пухнасті шкарпетки для холодної пори.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому, сну й під теплий одяг.&lt;/li&gt;&lt;li&gt;Дуже м'які.&lt;/li&gt;&lt;li&gt;Підходять немовлятам.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холодну пору зручно вдягати на ніч.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[Надзвичайно теплі та м’які пухнасті шкарпетки для малюків - ідеальні для холодної пори року. Український виробник дитячого одягу MagBaby точно знає як в холодну пору хочеться особливого затишку та тепла вдома чи на прогулянці. Тому рекомендує одягати шкарпетки вдома, для сну, відпочинку або під теплий одяг у холодну пору року. Вони чудово підходять немовлятам та дітям для носіння з піжамами, бодіками, чоловічками та теплими костюмами. Переваги - Пухнаста нижня частина максимально зберігає тепло. - Неймовірно м’які, підходять для чутливої дитячої шкіри. - Ідеальні для зими та міжсезоння. - Комфортна посадка - добре тримаються, не здавлюють ніжку. - Спокійний базовий дизайн. Догляд - Прання вручну або на делікатному режимі при 30°C. - Використовуйте м’які засоби без відбілювача. - Сушіть природним способом. FAQ Чи підходять шкарпетки для зими? Так, це один з найтепліших варіантів для холодної погоди та прохолодних приміщень. Чи не тиснуть шкарпетки ніжку? Ні, вони мають м’яку резинку та комфортну посадку без перетискання. Чи не парять ніжки? Матеріал м’який і дихаючий, забезпечує комфорт без перегріву. Чи можна прати в машинці? Так, на делікатному режимі при температурі до 30°C.]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fluffy]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902153298" available="true">
+<price>136</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Fluffy", Зелені 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/49/20978084933214_+27c1096a80.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/shkarpetky-fluffy-zeleni-0-6-mis.-85250817439151_+2a7a78761f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/shkarpetky-fluffy-zeleni-0-6-mis.-60097449694508_+342b82b56a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/shkarpetky-fluffy-zeleni-0-6-mis.-25202676582723_+7aebbe0fec.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Fluffy    теплі пухнасті шкарпетки для холодної пори.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому, сну й під теплий одяг.&lt;/li&gt;&lt;li&gt;Дуже м'які.&lt;/li&gt;&lt;li&gt;Підходять немовлятам.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холодну пору зручно вдягати на ніч.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fluffy]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+</offer>
+<offer id="2902153299" available="true">
+<price>136</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Шкарпетки "Fluffy", Зелені 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/50/72857560579390_+132341096a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/shkarpetky-fluffy-zeleni-6-12-mis.-72642508602987_+b2b7fcad08.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/shkarpetky-fluffy-zeleni-6-12-mis.-41080116749694_+81d35da85b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/shkarpetky-fluffy-zeleni-6-12-mis.-93037777098479_+1ea2310875.jpg</picture>
+<description lang="ua">&lt;p&gt;Шкарпетки  Fluffy    теплі пухнасті шкарпетки для холодної пори.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому, сну й під теплий одяг.&lt;/li&gt;&lt;li&gt;Дуже м'які.&lt;/li&gt;&lt;li&gt;Підходять немовлятам.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холодну пору зручно вдягати на ніч.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fluffy]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+</offer>
+<offer id="2902161928" available="true">
+<price>425</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір махрових шкарпеток "Warm", Блакитний 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/2/79543776545013_+4820984879.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір махрових шкарпеток  Warm    теплі махрові шкарпетки для осені й зими.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині.&lt;/li&gt;&lt;li&gt;Не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть навіть у теплій кімнаті.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Warm]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+</offer>
+<offer id="2902161929" available="false">
+<price>425</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір махрових шкарпеток "Warm", Блакитний 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/3/77039733481822_+5fac52e682.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір махрових шкарпеток  Warm    теплі махрові шкарпетки для осені й зими.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині.&lt;/li&gt;&lt;li&gt;Не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть навіть у теплій кімнаті.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Warm]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+</offer>
+<offer id="2902162303" available="true">
+<price>425</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір махрових шкарпеток "Warm", Рожевий 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/5/33396074422271_+af1ec40f7c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/5/nabir-makhrovykh-shkarpetok-warm-rozhevyi-0-6-mis.-34535758988599_+ad207b2e4e.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір махрових шкарпеток  Warm    теплі махрові шкарпетки для осені й зими.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині.&lt;/li&gt;&lt;li&gt;Не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть навіть у теплій кімнаті.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Warm]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902162304" available="true">
+<price>425</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір махрових шкарпеток "Warm", Рожевий 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/6/79465069975016_+e7841651cc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/6/nabir-makhrovykh-shkarpetok-warm-rozhevyi-6-12-mis.-85494692516782_+fe007b2472.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір махрових шкарпеток  Warm    теплі махрові шкарпетки для осені й зими.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині.&lt;/li&gt;&lt;li&gt;Не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть навіть у теплій кімнаті.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Warm]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51155d,59474de51348e">бавовна,еластан,вовна,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902171896" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Rubber", Рожево-фіолетовий 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/8/12628365833078_+c6e531775f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/nabir-shkarpetok-rubber-rozhevo-fioletovyi-0-6-mis.-46699839713367_+5d3c54f212.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Rubber    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому й прогулянок у теплу пору та міжсезоння.&lt;/li&gt;&lt;li&gt;М'які, не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть, тож шкарпетки знадобляться навіть удома.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Rubber]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902171897" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Rubber", Рожево-фіолетовий 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/9/68233654693777_+5b8895723d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/nabir-shkarpetok-rubber-rozhevo-fioletovyi-6-12-mis.-16009316297607_+720fa3a2b9.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Rubber    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому й прогулянок у теплу пору та міжсезоння.&lt;/li&gt;&lt;li&gt;М'які, не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть, тож шкарпетки знадобляться навіть удома.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Rubber]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902178694" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Rubber", Блакитно-молочний 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/12/35536082150851_+c89a7eb6dc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/nabir-shkarpetok-rubber-blakytno-molochnyi-0-6-mis.-23422131249482_+dc903f6e0d.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Rubber    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому й прогулянок у теплу пору та міжсезоння.&lt;/li&gt;&lt;li&gt;М'які, не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть, тож шкарпетки знадобляться навіть удома.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Rubber]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2902178697" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Rubber", Блакитно-молочний 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/13/63375126072290_+93bf58083b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/nabir-shkarpetok-rubber-blakytno-molochnyi-6-12-mis.-79243951519306_+1f56b93bee.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Rubber    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для дому й прогулянок у теплу пору та міжсезоння.&lt;/li&gt;&lt;li&gt;М'які, не перетискають ніжку.&lt;/li&gt;&lt;li&gt;Підходять новонародженим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; новонароджені часто мерзнуть, тож шкарпетки знадобляться навіть удома.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Rubber]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
+<offer id="2902224722" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Muzzle", Рожевий 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/16/50649615448949_+ca21d3050c.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Muzzle    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для теплої пори й міжсезоння.&lt;/li&gt;&lt;li&gt;М'які.&lt;/li&gt;&lt;li&gt;Для немовлят і дітей.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток зручно мати кілька наборів.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Muzzle]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902224723" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Muzzle", Рожевий 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/17/93770164658757_+43d5813def.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Muzzle    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для теплої пори й міжсезоння.&lt;/li&gt;&lt;li&gt;М'які.&lt;/li&gt;&lt;li&gt;Для немовлят і дітей.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток зручно мати кілька наборів.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Muzzle]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2902225237" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Muzzle", Блакитний 0-6 міс.</name>
+<picture>https://letimo.com.ua/content/images/19/69097240430194_+78ef4fa471.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Muzzle    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для теплої пори й міжсезоння.&lt;/li&gt;&lt;li&gt;М'які.&lt;/li&gt;&lt;li&gt;Для немовлят і дітей.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток зручно мати кілька наборів.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Muzzle]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+</offer>
+<offer id="2902225238" available="true">
+<price>307</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Набір шкарпеток "Muzzle", Блакитний 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/20/93571433337754_+b158495e93.jpg</picture>
+<description lang="ua">&lt;p&gt;Набір шкарпеток  Muzzle    легкі бавовняні шкарпетки на кожен день.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Для теплої пори й міжсезоння.&lt;/li&gt;&lt;li&gt;М'які.&lt;/li&gt;&lt;li&gt;Для немовлят і дітей.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; шкарпеток зручно мати кілька наборів.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Muzzle]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5129e0,59474de51348e">бавовна,еластан,вовна,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
 </offer>
 <offer id="2913254828" available="true">
 <price>661</price>
