@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-07 21:11">
+<yml_catalog date="2026-10-07 21:14">
 <offers>
 <offer id="1210848654" available="false">
 <price>1012</price>
@@ -4575,6 +4575,90 @@
 <param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Зріст" paramcode="11972" valuecode="4924">104</param>
+</offer>
+<offer id="2099562381" available="false">
+<price>564</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Гольф "Strip", хакі 110 (4-5 років)</name>
+<picture>https://letimo.com.ua/content/images/47/44239980607315_+a135bb050d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/holf-strip-khaki-110-4-5-rokiv-24084838446292_+ddcef1051e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/holf-strip-khaki-110-4-5-rokiv-65701816258767_+14a9917134.jpg</picture>
+<description lang="ua">&lt;p&gt;Гольф  Strip  з бавовняного рубчика  локшина    альтернатива шарфу для дітей, які його не люблять.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 100% бавовна.&lt;/li&gt;&lt;li&gt;Подвійна горловина закриває шию від вітру.&lt;/li&gt;&lt;li&gt;Довгий рукав, м'яка еластична тканина.&lt;/li&gt;&lt;li&gt;Пасує до джинсів, лосин, штанців і сарафана.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30 40  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; гольф   зручний перший шар під светр або жилетку в холодну пору.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Strip]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% Бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+<param name="Зріст" paramcode="11972" valuecode="4926">110</param>
+</offer>
+<offer id="2108661449" available="true">
+<price>564</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Гольф "Strip", Моко 80 (9-12 міс)</name>
+<picture>https://letimo.com.ua/content/images/23/48158604432157_+3a733b4743.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/holf-strip-moko-80-9-12-mis-29004049784265_+2a758fc5bb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/holf-strip-moko-80-9-12-mis-39414170798089_+6f0b1d4d11.jpg</picture>
+<description lang="ua">&lt;p&gt;Гольф  Strip  з бавовняного рубчика  локшина    альтернатива шарфу для дітей, які його не люблять.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 100% бавовна.&lt;/li&gt;&lt;li&gt;Подвійна горловина закриває шию від вітру.&lt;/li&gt;&lt;li&gt;Довгий рукав, м'яка еластична тканина.&lt;/li&gt;&lt;li&gt;Пасує до джинсів, лосин, штанців і сарафана.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30 40  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; гольф   зручний перший шар під светр або жилетку в холодну пору.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Strip]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% Бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4913">80</param>
+</offer>
+<offer id="2108661450" available="true">
+<price>564</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Гольф "Strip", Моко 86 (12-18 міс.)</name>
+<picture>https://letimo.com.ua/content/images/24/51901574667263_+a0c9132967.jpg</picture>
+<picture>https://letimo.com.ua/content/images/24/holf-strip-moko-86-12-18-mis.-71834022838042_+e2c083accb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/24/holf-strip-moko-86-12-18-mis.-46239573762221_+52fdd78dc8.jpg</picture>
+<description lang="ua">&lt;p&gt;Гольф  Strip  з бавовняного рубчика  локшина    альтернатива шарфу для дітей, які його не люблять.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 100% бавовна.&lt;/li&gt;&lt;li&gt;Подвійна горловина закриває шию від вітру.&lt;/li&gt;&lt;li&gt;Довгий рукав, м'яка еластична тканина.&lt;/li&gt;&lt;li&gt;Пасує до джинсів, лосин, штанців і сарафана.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30 40  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; гольф   зручний перший шар під светр або жилетку в холодну пору.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Strip]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% Бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917">86</param>
 </offer>
 <offer id="2108661451" available="false">
 <price>564</price>
@@ -18719,6 +18803,171 @@
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
 </offer>
+<offer id="2328880092" available="true">
+<price>2289</price>
+<category code="2427">Костюми дитячі</category>
+<attribute_set code="2427">Костюми дитячі</attribute_set>
+<name lang="ua">Костюм "Fler", Морський 92 (18-24 міс.)</name>
+<picture>https://letimo.com.ua/content/images/8/29961041505139_+69301d9c05.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/kostium-fler-morskyi-92-18-24-mis.-35264686300981_+bc4715bf10.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/kostium-fler-morskyi-92-18-24-mis.-83671240065785_+eb95c91db5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/kostium-fler-morskyi-92-18-24-mis.-28156968722711_+917d411139.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/kostium-fler-morskyi-92-18-24-mis.-36254075732708_+ca19cbb59b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/kostium-fler-morskyi-92-18-24-mis.-80905996018796_+c362b800fb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/kostium-fler-morskyi-92-18-24-mis.-63522893667550_+15d0e6bf4f.jpg</picture>
+<description lang="ua">&lt;p&gt;Флісовий костюм  Fler  оверсайз   для садочка, прогулянок і як утеплювальний шар у міжсезоння.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Полар-фліс: м'який і не  скрипить .&lt;/li&gt;&lt;li&gt;Капюшон, низ кофти й штанин регулюються.&lt;/li&gt;&lt;li&gt;М'які манжети не передавлюють шкіру.&lt;/li&gt;&lt;li&gt;Оверсайз крій: спершу вільна посадка, потім   звичайна, коли дитина підросте.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, без кондиціонера, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холод костюм вдягають під зимовий комбінезон або доповнюють жилеткою.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fler]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Полар фліс: 100% поліестер</param>
+<param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="65cd82b671afb8363e7aee137ae67652">штани і жилет</param>
+<param name="Зріст" paramcode="11972" valuecode="4919">92</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua,59474de5123ea">поліестер,фліс</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="2328880093" available="true">
+<price>2289</price>
+<category code="2427">Костюми дитячі</category>
+<attribute_set code="2427">Костюми дитячі</attribute_set>
+<name lang="ua">Костюм "Fler", Морський 98 (2-3 роки)</name>
+<picture>https://letimo.com.ua/content/images/9/26946216815883_+9d32cbd1e4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/kostium-fler-morskyi-98-2-3-roky-97370933956334_+8cc6bd4b1b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/kostium-fler-morskyi-98-2-3-roky-91401213952176_+023a2f40d4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/kostium-fler-morskyi-98-2-3-roky-64031511807215_+e0b55ce178.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/kostium-fler-morskyi-98-2-3-roky-86122088245902_+9f79679e5a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/kostium-fler-morskyi-98-2-3-roky-71628100768564_+877da4c78e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/kostium-fler-morskyi-98-2-3-roky-97784050435095_+a887ae06d6.jpg</picture>
+<description lang="ua">&lt;p&gt;Флісовий костюм  Fler  оверсайз   для садочка, прогулянок і як утеплювальний шар у міжсезоння.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Полар-фліс: м'який і не  скрипить .&lt;/li&gt;&lt;li&gt;Капюшон, низ кофти й штанин регулюються.&lt;/li&gt;&lt;li&gt;М'які манжети не передавлюють шкіру.&lt;/li&gt;&lt;li&gt;Оверсайз крій: спершу вільна посадка, потім   звичайна, коли дитина підросте.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, без кондиціонера, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холод костюм вдягають під зимовий комбінезон або доповнюють жилеткою.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fler]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Полар фліс: 100% поліестер</param>
+<param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="65cd82b671afb8363e7aee137ae67652">штани і жилет</param>
+<param name="Зріст" paramcode="11972" valuecode="4921">98</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua,59474de5123ea">поліестер,фліс</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="2328880094" available="true">
+<price>2289</price>
+<category code="2427">Костюми дитячі</category>
+<attribute_set code="2427">Костюми дитячі</attribute_set>
+<name lang="ua">Костюм "Fler", Морський 104 (3-4 роки)</name>
+<picture>https://letimo.com.ua/content/images/10/87981797041001_+d358cb8308.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/kostium-fler-morskyi-104-3-4-roky-17410261787648_+cafdcc4c3a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/kostium-fler-morskyi-104-3-4-roky-55527753250714_+022ee1c9a5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/kostium-fler-morskyi-104-3-4-roky-90567747386904_+d8271e1b09.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/kostium-fler-morskyi-104-3-4-roky-95361035808932_+25e3b81dee.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/kostium-fler-morskyi-104-3-4-roky-24910239242534_+85c21a38d4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/kostium-fler-morskyi-104-3-4-roky-59856670428624_+33f14fe7ec.jpg</picture>
+<description lang="ua">&lt;p&gt;Флісовий костюм  Fler  оверсайз   для садочка, прогулянок і як утеплювальний шар у міжсезоння.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Полар-фліс: м'який і не  скрипить .&lt;/li&gt;&lt;li&gt;Капюшон, низ кофти й штанин регулюються.&lt;/li&gt;&lt;li&gt;М'які манжети не передавлюють шкіру.&lt;/li&gt;&lt;li&gt;Оверсайз крій: спершу вільна посадка, потім   звичайна, коли дитина підросте.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, без кондиціонера, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холод костюм вдягають під зимовий комбінезон або доповнюють жилеткою.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fler]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Полар фліс: 100% поліестер</param>
+<param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="65cd82b671afb8363e7aee137ae67652">штани і жилет</param>
+<param name="Зріст" paramcode="11972" valuecode="4924">104</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua,59474de5123ea">поліестер,фліс</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="2328880095" available="true">
+<price>2289</price>
+<category code="2427">Костюми дитячі</category>
+<attribute_set code="2427">Костюми дитячі</attribute_set>
+<name lang="ua">Костюм "Fler", Морський 110 (4-5 роки)</name>
+<picture>https://letimo.com.ua/content/images/11/30514315372702_+2398340395.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/kostium-fler-morskyi-110-4-5-roky-34432827425933_+d281ea7dd1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/kostium-fler-morskyi-110-4-5-roky-33578093112063_+e8ee203bd9.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/kostium-fler-morskyi-110-4-5-roky-43831943186203_+b398f8fa59.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/kostium-fler-morskyi-110-4-5-roky-25352756784646_+6f7975523d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/kostium-fler-morskyi-110-4-5-roky-47519017284860_+8f410a37e1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/11/kostium-fler-morskyi-110-4-5-roky-60694253407423_+10b254443e.jpg</picture>
+<description lang="ua">&lt;p&gt;Флісовий костюм  Fler  оверсайз   для садочка, прогулянок і як утеплювальний шар у міжсезоння.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Полар-фліс: м'який і не  скрипить .&lt;/li&gt;&lt;li&gt;Капюшон, низ кофти й штанин регулюються.&lt;/li&gt;&lt;li&gt;М'які манжети не передавлюють шкіру.&lt;/li&gt;&lt;li&gt;Оверсайз крій: спершу вільна посадка, потім   звичайна, коли дитина підросте.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, без кондиціонера, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холод костюм вдягають під зимовий комбінезон або доповнюють жилеткою.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fler]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Полар фліс: 100% поліестер</param>
+<param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="65cd82b671afb8363e7aee137ae67652">штани і жилет</param>
+<param name="Зріст" paramcode="11972" valuecode="4926">110</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua,59474de5123ea">поліестер,фліс</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="2328880096" available="true">
+<price>2289</price>
+<category code="2427">Костюми дитячі</category>
+<attribute_set code="2427">Костюми дитячі</attribute_set>
+<name lang="ua">Костюм "Fler", Морський 116 (5-6 роки)</name>
+<picture>https://letimo.com.ua/content/images/12/42082118150015_+1da212e1dc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/kostium-fler-morskyi-116-5-6-roky-42922480344751_+ae5fcb1930.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/kostium-fler-morskyi-116-5-6-roky-32703029532538_+0ecf2b6f21.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/kostium-fler-morskyi-116-5-6-roky-84610381739610_+70e225a148.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/kostium-fler-morskyi-116-5-6-roky-24253367397988_+40810ab43a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/kostium-fler-morskyi-116-5-6-roky-95680061328615_+39d24b769d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/kostium-fler-morskyi-116-5-6-roky-19664978357082_+cd4b131dd0.jpg</picture>
+<description lang="ua">&lt;p&gt;Флісовий костюм  Fler  оверсайз   для садочка, прогулянок і як утеплювальний шар у міжсезоння.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Полар-фліс: м'який і не  скрипить .&lt;/li&gt;&lt;li&gt;Капюшон, низ кофти й штанин регулюються.&lt;/li&gt;&lt;li&gt;М'які манжети не передавлюють шкіру.&lt;/li&gt;&lt;li&gt;Оверсайз крій: спершу вільна посадка, потім   звичайна, коли дитина підросте.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати при 30  C, без кондиціонера, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; у холод костюм вдягають під зимовий комбінезон або доповнюють жилеткою.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Fler]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Полар фліс: 100% поліестер</param>
+<param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="65cd82b671afb8363e7aee137ae67652">штани і жилет</param>
+<param name="Зріст" paramcode="11972" valuecode="4933">116</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua,59474de5123ea">поліестер,фліс</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
 <offer id="2328913658" available="true">
 <price>2289</price>
 <category code="2427">Костюми дитячі</category>
@@ -27093,6 +27342,151 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Зріст" paramcode="11972" valuecode="4917">86</param>
+<param name="Вид" paramcode="51" valuecode="59474de50eb0b">лосини</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2445006668" available="true">
+<price>535</price>
+<category code="6511">Лосини дитячі</category>
+<attribute_set code="6511">Лосини дитячі</attribute_set>
+<name lang="ua">Лосини "Mila", Рожеві 92 (18-24 міс.)</name>
+<picture>https://letimo.com.ua/content/images/29/91644796246763_+0183b2db2e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/losyny-mila-rozhevi-92-18-24-mis.-76604433528692_+f552e6f8cf.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/losyny-mila-rozhevi-92-18-24-mis.-90348686100572_+c607b2a245.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/losyny-mila-rozhevi-92-18-24-mis.-40846097033764_+b7919c531f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/losyny-mila-rozhevi-92-18-24-mis.-76156236284259_+d610049464.png</picture>
+<description lang="ua">&lt;p&gt;Лосини  Mila  з ніжного кашкорсе   зручна заміна колготкам у садочку й удома.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: м'який кашкорсе   95% бавовна, 5% лайкра.&lt;/li&gt;&lt;li&gt;Не колються і добре пропускають повітря.&lt;/li&gt;&lt;li&gt;Легко вдягаються під сукню.&lt;/li&gt;&lt;li&gt;Можна придбати окремо або з сукнею  Mila .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; лосини зі шкарпетками доводиться прати рідше, ніж колготки.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Mila]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">М'який кашкорсе - 95% бавовна, 5% лайкра</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Зріст" paramcode="11972" valuecode="4919">92</param>
+<param name="Вид" paramcode="51" valuecode="59474de50eb0b">лосини</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2445006669" available="true">
+<price>535</price>
+<category code="6511">Лосини дитячі</category>
+<attribute_set code="6511">Лосини дитячі</attribute_set>
+<name lang="ua">Лосини "Mila", Рожеві 98 (2-3 роки)</name>
+<picture>https://letimo.com.ua/content/images/30/81866199857178_+9b55b809a0.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/losyny-mila-rozhevi-98-2-3-roky-13205754771820_+86cdeb7dc3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/losyny-mila-rozhevi-98-2-3-roky-20535677798112_+f60776ea55.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/losyny-mila-rozhevi-98-2-3-roky-36093547296802_+5ec5854647.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/losyny-mila-rozhevi-98-2-3-roky-13197446724516_+67ac1b4f23.png</picture>
+<description lang="ua">&lt;p&gt;Лосини  Mila  з ніжного кашкорсе   зручна заміна колготкам у садочку й удома.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: м'який кашкорсе   95% бавовна, 5% лайкра.&lt;/li&gt;&lt;li&gt;Не колються і добре пропускають повітря.&lt;/li&gt;&lt;li&gt;Легко вдягаються під сукню.&lt;/li&gt;&lt;li&gt;Можна придбати окремо або з сукнею  Mila .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; лосини зі шкарпетками доводиться прати рідше, ніж колготки.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Mila]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">М'який кашкорсе - 95% бавовна, 5% лайкра</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Зріст" paramcode="11972" valuecode="4921">98</param>
+<param name="Вид" paramcode="51" valuecode="59474de50eb0b">лосини</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2445006670" available="true">
+<price>535</price>
+<category code="6511">Лосини дитячі</category>
+<attribute_set code="6511">Лосини дитячі</attribute_set>
+<name lang="ua">Лосини "Mila", Рожеві 104 (3-4 роки)</name>
+<picture>https://letimo.com.ua/content/images/31/33375104715579_+750d87de57.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/losyny-mila-rozhevi-104-3-4-roky-20388641282395_+710e5ca427.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/losyny-mila-rozhevi-104-3-4-roky-96055897441146_+d161f7a675.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/losyny-mila-rozhevi-104-3-4-roky-13511870447481_+667382274e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/losyny-mila-rozhevi-104-3-4-roky-27611603486253_+6e5c31edf8.png</picture>
+<description lang="ua">&lt;p&gt;Лосини  Mila  з ніжного кашкорсе   зручна заміна колготкам у садочку й удома.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: м'який кашкорсе   95% бавовна, 5% лайкра.&lt;/li&gt;&lt;li&gt;Не колються і добре пропускають повітря.&lt;/li&gt;&lt;li&gt;Легко вдягаються під сукню.&lt;/li&gt;&lt;li&gt;Можна придбати окремо або з сукнею  Mila .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; лосини зі шкарпетками доводиться прати рідше, ніж колготки.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Mila]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">М'який кашкорсе - 95% бавовна, 5% лайкра</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Зріст" paramcode="11972" valuecode="4924">104</param>
+<param name="Вид" paramcode="51" valuecode="59474de50eb0b">лосини</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2445006671" available="true">
+<price>535</price>
+<category code="6511">Лосини дитячі</category>
+<attribute_set code="6511">Лосини дитячі</attribute_set>
+<name lang="ua">Лосини "Mila", Рожеві 110 (4-5 роки)</name>
+<picture>https://letimo.com.ua/content/images/32/55187622905030_+679a89661a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/losyny-mila-rozhevi-110-4-5-roky-61307364663758_+d9c4bec369.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/losyny-mila-rozhevi-110-4-5-roky-53012704055909_+43e47d45fc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/losyny-mila-rozhevi-110-4-5-roky-22866328873741_+3eacfbf19e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/losyny-mila-rozhevi-110-4-5-roky-69749275049664_+a6c76fc096.png</picture>
+<description lang="ua">&lt;p&gt;Лосини  Mila  з ніжного кашкорсе   зручна заміна колготкам у садочку й удома.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: м'який кашкорсе   95% бавовна, 5% лайкра.&lt;/li&gt;&lt;li&gt;Не колються і добре пропускають повітря.&lt;/li&gt;&lt;li&gt;Легко вдягаються під сукню.&lt;/li&gt;&lt;li&gt;Можна придбати окремо або з сукнею  Mila .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; лосини зі шкарпетками доводиться прати рідше, ніж колготки.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Mila]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">М'який кашкорсе - 95% бавовна, 5% лайкра</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Зріст" paramcode="11972" valuecode="4926">110</param>
+<param name="Вид" paramcode="51" valuecode="59474de50eb0b">лосини</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+</offer>
+<offer id="2445006672" available="true">
+<price>535</price>
+<category code="6511">Лосини дитячі</category>
+<attribute_set code="6511">Лосини дитячі</attribute_set>
+<name lang="ua">Лосини "Mila", Рожеві 116 (5-6 роки)</name>
+<picture>https://letimo.com.ua/content/images/33/11618183994503_+48e99204b2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/losyny-mila-rozhevi-116-5-6-roky-47716494728516_+a1fea6bae7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/losyny-mila-rozhevi-116-5-6-roky-18894786724962_+7ca1c2a221.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/losyny-mila-rozhevi-116-5-6-roky-63584950836124_+5ecf093301.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/losyny-mila-rozhevi-116-5-6-roky-23000566495723_+0bb12a586d.png</picture>
+<description lang="ua">&lt;p&gt;Лосини  Mila  з ніжного кашкорсе   зручна заміна колготкам у садочку й удома.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: м'який кашкорсе   95% бавовна, 5% лайкра.&lt;/li&gt;&lt;li&gt;Не колються і добре пропускають повітря.&lt;/li&gt;&lt;li&gt;Легко вдягаються під сукню.&lt;/li&gt;&lt;li&gt;Можна придбати окремо або з сукнею  Mila .&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити природним способом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; лосини зі шкарпетками доводиться прати рідше, ніж колготки.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Mila]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">М'який кашкорсе - 95% бавовна, 5% лайкра</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Зріст" paramcode="11972" valuecode="4933">116</param>
 <param name="Вид" paramcode="51" valuecode="59474de50eb0b">лосини</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
@@ -44177,6 +44571,31 @@
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
 </offer>
+<offer id="2741564518" available="true">
+<price>357</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Молочно-бежеві 18-24 міс.</name>
+<picture>https://letimo.com.ua/content/images/3/93957789396888_+f69bdc430a.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de51155d,59474de51348e">бавовна,еластан,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+</offer>
 <offer id="2741566863" available="true">
 <price>357</price>
 <category code="800">Шкарпетки дитячі</category>
@@ -44197,6 +44616,81 @@
 <param name="Колір виробника" paramcode="78" valuecode="29088ff0633f40253afc0c3deefed9e5,gsyiryzw">синьо-сірий,сірий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de51155d,59474de51348e">бавовна,еластан,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+</offer>
+<offer id="2741566864" available="true">
+<price>357</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Синьо-сірі 6-12 міс.</name>
+<picture>https://letimo.com.ua/content/images/5/93031658452803_+fb11c4e733.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="29088ff0633f40253afc0c3deefed9e5,gsyiryzw">синьо-сірий,сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de51155d,59474de51348e">бавовна,еластан,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+</offer>
+<offer id="2741566865" available="true">
+<price>357</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Синьо-сірі 12-18 міс.</name>
+<picture>https://letimo.com.ua/content/images/6/95125097495239_+049268e690.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="29088ff0633f40253afc0c3deefed9e5,gsyiryzw">синьо-сірий,сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de51155d,59474de51348e">бавовна,еластан,махра,поліамід</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+</offer>
+<offer id="2741566866" available="true">
+<price>357</price>
+<category code="800">Шкарпетки дитячі</category>
+<attribute_set code="800">Шкарпетки дитячі</attribute_set>
+<name lang="ua">Комплект шкарпеток "Terry", Синьо-сірі 18-24 міс.</name>
+<picture>https://letimo.com.ua/content/images/7/81020433706291_+0a0247e3eb.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект шкарпеток  Terry  на махрі   базові м'які шкарпетки на щодень.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Склад: 90% бавовна, 8% поліамід, 2% еластан.&lt;/li&gt;&lt;li&gt;Махра всередині   тепліші, ніж звичайні.&lt;/li&gt;&lt;li&gt;Одна пара з силіконовими вставками на стопі   не ковзко на гладкій підлозі, друга без них.&lt;/li&gt;&lt;li&gt;Базові кольори для хлопчиків і дівчаток.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C, сушити без батареї.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; пари з вставками зручні, коли малюк починає вставати й ходити.&lt;/p&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Terry]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="29088ff0633f40253afc0c3deefed9e5,gsyiryzw">синьо-сірий,сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de51155d,59474de51348e">бавовна,еластан,махра,поліамід</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
