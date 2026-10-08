@@ -52,7 +52,13 @@ SYSTEM "shops.dtd">
    <category id="1155" parentId="1161">Для мами</category>
    <category id="1162">Подарунки</category>
    <category id="1151" parentId="1162">Подарункові сертифікати</category>
-  </categories>
+  
+<category id="990001">Інвертори</category>
+<category id="990002">Бігові доріжки</category>
+<category id="990003">Електроковдри та електропростирадла</category>
+<category id="990004">Зарядні станції</category>
+<category id="990005">Джерела безперебійного живлення (ДБЖ)</category>
+</categories>
   <offers>
    <offer id="513" group_id="2451" available="true" in_stock="true">
     <url>https://letimo.com.ua/veliurovyi-cholovichok-tim-molochnyi-56-0-1-mis/</url>
@@ -116594,6 +116600,988 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <quantity_in_stock>1</quantity_in_stock>
 </offer>
-  </offers>
+  
+<offer id="EN-001" available="true" in_stock="true">
+<price>1099</price>
+<oldprice>1199</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>990001</categoryId>
+<picture>https://images.prom.ua/7733779503_preobrazovatel-acdc-kc-500d.jpg</picture>
+<picture>https://images.prom.ua/7733786383_preobrazovatel-acdc-kc-500d.jpg</picture>
+<picture>https://images.prom.ua/7733786419_preobrazovatel-acdc-kc-500d.jpg</picture>
+<vendor>UKC</vendor>
+<vendorCode>001</vendorCode>
+<quantity_in_stock>5</quantity_in_stock>
+<name>Преобразователь AC/DC KC-500D 500W+lcd, Инвертор в машину</name>
+<name_ua>Перетворювач AC/DC UKC KC-500D 500W 12V-220V з LCD дисплеєм, автомобільний інвертор</name_ua>
+<description><![CDATA[<p><strong>Преобразователь AC/DC KC-500D 500W+lcd, Инвертор в машину</strong></p>
+<p>UKC 12V-220V 500W можно использовать для зарядки и работы: ноутбуков, видеокамер, телефонов, всей аудио и видеотехники и других электроприборов. Корпус изготовлен из алюминия, с тыльной стороны есть вентилятор для охлаждения. В передней части преобразователя UKC 500W найдите: кнопку вкл/выкл, выход USB с напряжением 5В, розетку. Сверху есть ЖК-дисплей, на котором отображаются вольтаж и другие параметры.</p>]]></description>
+<description_ua><![CDATA[<p><strong>Перетворювач AC/DC KC-500D 500W+lcd, Інвертор у машину</strong></p>
+<p>UKC 12V-220V 500W можна використовувати для зарядки та роботи: ноутбуків, відеокамер, телефонів, усієї аудіо- та відеотехніки та інших електроприладів. Корпус виготовлений з алюмінію, з тильної сторони є вентилятор для охолодження. У передній частині перетворювача UKC 500W знайдіть: кнопку вкл/викл, вихід USB з напругою 5В, розетку. Зверху є РК-дисплей, на якому відображаються вольтаж та інші параметри.</p>]]></description_ua>
+<keywords>преобразователь 12В 220В, инвертор 12В 220В, преобразователь напряжения 12 220, инвертор напряжения 12В 220В, автомобильный инвертор, автомобильный преобразователь напряжения, инвертор в машину, преобразователь в машину, автомобильный инвертор 500Вт, преобразователь 12В 220В 500Вт, инвертор 12В 220В 500Вт, автомобильный преобразователь 500Вт, инвертор 500Вт, преобразователь напряжения 500Вт, инвертор для авто, преобразователь для авто, инвертор 12В 220В с дисплеем, преобразователь 12В 220В LCD, инвертор 500Вт LCD, инвер чистой синусдаи 500Вт, инвертор с чистой синусоидой, преобразователь чистая синусоида, инвертор для автомобильного аккумулятора, преобразователь от аккумулятора 12В, инвертор от аккумулятора 12В 220В, UKC KC-500D, UKC 500D, KC-500D, KC 500D, UKC 500W, UKC инor 500Вт, UKC преобразователь 12 220</keywords>
+<keywords_ua>перетворювач 12В 220В, інвертор 12В 220В, перетворювач напруги 12 220, інвертор напруги 12В 220В, автомобільний інвертор, автомобільний перетворювач напруги, інвертор в машину, перетворювач в машину, автомобільний інвертор 500Вт, перетворювач 12В 220В 500Вт, інвертор 12В 220В 500Вт, автомобільний перетворювач 500Вт, інвертор 500 Вт, перетворювач напруги 500 Вт, інвертор для авто, перетворювач для авто, інвертор 12В 220В з дисплеєм, перетворювач 12В 220В LCD, інвертор 500Вт LCD, інвертор чиста синусоїда 500Вт, інвертор з чистою синусоїдою, перетворювач чиста синусоїда, інвертор для автомобільного акумулятора, перетворювач від акумулятора 12В, інвертор від акумулятора 12В 220В, UKC KC-500D, UKC KC 500D, KC-500D, KC 500D, UKC 500W, UKC інвертор 500Вт, UKC перетворювач 12 220</keywords_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Ширина" unit="мм">110</param>
+<param name="Довжина" unit="мм">170</param>
+<param name="Вага" unit="кг">0.56</param>
+<param name="Стан">Новий</param>
+<param name="Висота" unit="мм">60</param>
+<param name="Особливості">Дисплей, Активное охлаждение (вентилятор)</param>
+<param name="Колір корпусу">Чорний</param>
+<param name="Захист від перегріву">Так</param>
+<param name="Захист від короткого замикання">Так</param>
+<param name="Форма вихідної напруги">Чиста синусоїда</param>
+<param name="Тип інвертора">Перетворювач напруги (без АКБ)</param>
+<param name="Тип робочої величини">Потужність</param>
+<param name="Номінальна потужність" unit="Вт">500</param>
+<param name="Номінальна вхідна напруга">12 В</param>
+<param name="Номінальна вихідна напруга">220 В</param>
+<param name="Захист від перевантажень">Так</param>
+</offer>
+<offer id="EN-JAM1876" available="true" in_stock="true">
+<price>7614</price>
+<oldprice>8460</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>990002</categoryId>
+<picture>https://images.prom.ua/7733948804_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
+<picture>https://images.prom.ua/7733948803_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
+<picture>https://images.prom.ua/7733949837_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
+<picture>https://images.prom.ua/7733949849_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
+<vendor>JAM</vendor>
+<vendorCode>JAM1876</vendorCode>
+<quantity_in_stock>3</quantity_in_stock>
+<name>Бесшумная складная электрическая беговая дорожка для ходьбы и бега JAM1876</name>
+<name_ua>Безшумна складна електрична бігова доріжка для ходьби та бігу JAM1876</name_ua>
+<description><![CDATA[<p><strong>Бесшумная складная электрическая беговая дорожка JAM1876 для домашних тренировок, ходьбы и бега.</strong></p>
+<p>Компактная беговая дорожка для комфортных тренировок в домашних условиях. Благодаря сложной конструкции ее удобно хранить даже в помещениях с ограниченным пространством.</p>
+<h3 data-section-id="2umv8v">Основные преимущества:</h3>
+<ul>
+<li data-section-id="vkb5un">тиха робота;</li>
+<li data-section-id="1hefu86">сложная конструкция;</li>
+<li data-section-id="lh1bj1">компактное хранение;</li>
+<li data-section-id="1va596x">регулировка скорости;</li>
+<li data-section-id="1m5mbfd">удобный дисплей;</li>
+<li data-section-id="184jium">транспортные колеса;</li>
+<li data-section-id="1551r9h">комфортное использование дома;</li>
+<li data-section-id="5zgmnh">подходит для ходьбы и бега.</li>
+</ul>
+<h3 data-section-id="1qn2fn5">Для кого подходит:</h3>
+<ul>
+<li data-section-id="1r4v7dy">для ежедневной ходьбы;</li>
+<li data-section-id="1lldi2n">для домашних кардиотренировок;</li>
+<li data-section-id="ic0l9s">для любителей бега;</li>
+<li data-section-id="186d6d6">для поддержания физической формы;</li>
+<li data-section-id="16ljo10">для тех, кто хочет больше двигаться в течение дня;</li>
+<li data-section-id="lkj0ol">для людей, предпочитающих тренировки дома;</li>
+<li data-section-id="1cytyt4">для квартир и других помещений, где важна экономия пространства.</li>
+</ul>
+<p><strong>Сложная конструкция</strong>&nbsp;позволяет компактно хранить дорожку после тренировки, а транспортные колеса упрощают ее перемещение.</p>
+<p>Занимайтесь в комфортное для вас время &mdash; без зависимости от погоды и графика работы спортзала.</p>]]></description>
+<description_ua><![CDATA[<p><strong>Безшумна складна електрична бігова доріжка JAM1876 для домашніх тренувань, ходьби та бігу.</strong></p>
+<p>Компактна бігова доріжка для комфортних тренувань у домашніх умовах. Завдяки складній конструкції її зручно зберігати навіть у приміщеннях з обмеженим простором.</p>
+<h3 data-section-id="2umv8v">Основні переваги:</h3>
+<ul>
+<li data-section-id="vkb5un">тиха робота;</li>
+<li data-section-id="1hefu86">складна конструкція;</li>
+<li data-section-id="lh1bj1">компактне зберігання;</li>
+<li data-section-id="1va596x">регулювання швидкості;</li>
+<li data-section-id="1m5mbfd">зручний дисплей;</li>
+<li data-section-id="184jium">транспортні колеса;</li>
+<li data-section-id="1551r9h">комфортне використання вдома;</li>
+<li data-section-id="5zgmnh">підходить для ходьби та бігу.</li>
+</ul>
+<h3 data-section-id="1qn2fn5">Для кого підходить:</h3>
+<ul>
+<li data-section-id="1r4v7dy">для щоденної ходьби;</li>
+<li data-section-id="1lldi2n">для домашніх кардіотренувань;</li>
+<li data-section-id="ic0l9s">для любителів бігу;</li>
+<li data-section-id="186d6d6">для підтримки фізичної форми;</li>
+<li data-section-id="16ljo10">для тих, хто хоче більше рухатися протягом дня;</li>
+<li data-section-id="lkj0ol">для людей, які віддають перевагу тренуванням удома;</li>
+<li data-section-id="1cytyt4">для квартир та інших приміщень, де важлива економія простору.</li>
+</ul>
+<p><strong>Складна конструкція</strong>&nbsp;дозволяє компактно зберігати доріжку після тренування, а транспортні колеса спрощують її переміщення.</p>
+<p>Займайтеся у комфортний для вас час &mdash; без залежності від погоди та графіка роботи спортзалу.</p>]]></description_ua>
+<keywords>беговая дорожка, электрическая беговая дорожка, беговая дорожка для дома, беговая дорожка дома, беговая дорожка домашняя, беговая дорожка складная, сложная беговая дорожка, беговая дорожка для ходьбы, беговая дорожка для беговая дорожка для беговая дорожка для бега, электрическая дорожка для бега, дорожка для ходьбы, тренажер для дома, кардиотренажер для дома, беговая дорожка компактная, компактная беговая дорожка, беговая дорожка для квартиры, беговая дорожка бесшумная, бесшумная беговая дорожка, беговая дорожка со сборкой, беговая дорожка с дисплеем, JAM1876</keywords>
+<keywords_ua>бігова доріжка, електрична бігова доріжка, бігова доріжка для дому, бігова доріжка домашня, бігова доріжка складна, складна бігова доріжка, бігова доріжка для ходьби, бігова доріжка для бігу, електрична доріжка для бігу, доріжка для ходьби, тренажер для дому, кардіотренажер для дому, бігова доріжка компактна, компактна бігова доріжка, бігова доріжка для квартири, бігова доріжка безшумна, безшумна бігова доріжка, бігова доріжка зі складанням, бігова доріжка з дисплеєм, JAM1876</keywords_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Ширина" unit="см">53</param>
+<param name="Довжина" unit="см">126</param>
+<param name="Вага" unit="кг">22</param>
+<param name="Тип">Електрична</param>
+<param name="Стан">Новий</param>
+<param name="Висота" unit="см">105</param>
+<param name="Особливості">Транспортувальні ролики, Підставка для аксесуарів</param>
+<param name="Призначення">Домашнє</param>
+<param name="Колір">Чорний</param>
+<param name="Ширина полотна" unit="см">40</param>
+<param name="Потужність двигуна, л. с">до 1,5</param>
+<param name="Максимальний кут нахилу" unit="°">0</param>
+<param name="Максимальна швидкість полотна">12 і менше</param>
+<param name="Максимальна вага користувача" unit="кг">130</param>
+<param name="Конструкція">Складана</param>
+<param name="Довжина полотна" unit="см">114</param>
+<param name="Встановлення кута нахилу">Немає</param>
+</offer>
+<offer id="EN-2018547-4" available="true" in_stock="true">
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>990003</categoryId>
+<picture>https://images.prom.ua/7735980282_elektroodeyalo-s-pultom.jpg</picture>
+<picture>https://images.prom.ua/7735982664_elektroodeyalo-s-pultom.jpg</picture>
+<picture>https://images.prom.ua/7735982551_elektroodeyalo-s-pultom.jpg</picture>
+<vendor>1-А ФАБРИКА КОРИСНИХ ТОВАРІВ</vendor>
+<vendorCode>2018547/4</vendorCode>
+<quantity_in_stock>7</quantity_in_stock>
+<name>Электроодеяло с пультом управления Сердце / Электропростынь 150×120см 130 Вт</name>
+<name_ua>Електроковдра з пультом управління Серце / Електропростирадло 150×120см 130 Вт</name_ua>
+<description><![CDATA[<p><strong>Электроодеяло с пультом управления 150&times;120 см, 130 Вт &ndash; комфортное решение для холодного времени года.</strong></p>
+<p>Электроодеяло равномерно прогревается и помогает создать комфортное тепло во время отдыха дома, на даче или в офисе.</p>
+<p>Модель имеет удобный пульт-переключатель с&nbsp;<strong>2 температурними режимами</strong>. Время нагрева составляет примерно&nbsp;<strong>7 минут</strong>.&nbsp;</p>
+<h3 data-section-id="hotu7e">Преимущества:</h3>
+<ul>
+<li data-section-id="bvt69p">размер&nbsp;<strong>150 х 120 см</strong>;</li>
+<li data-section-id="m6ldwj">мощность&nbsp;<strong>130 Вт</strong>;</li>
+<li data-section-id="1u8oxhh">2 температурных режима;</li>
+<li data-section-id="17ijq8y">удобное управление пультом;</li>
+<li data-section-id="1rlam0f">быстрый нагрев;</li>
+<li data-section-id="1ij7sn9">мягкое нетканое полотно;</li>
+<li data-section-id="19demkw">подходит для кровати, дивана или кресла;</li>
+<li data-section-id="bmotbz">питание от электросети;</li>
+<li data-section-id="od06cj">компактно складывается для хранения.</li>
+</ul>
+<p>Электроодеяло станет практичным дополнением для комфортного отдыха в прохладную погоду.</p>
+<p><strong>Комплектация:</strong>&nbsp;электроодеяло, пульт-переключатель.&nbsp;</p>]]></description>
+<description_ua><![CDATA[<p><strong>Електроковдра з пультом управління 150&times;120 см, 130 Вт &mdash; комфортне рішення для холодної пори року.</strong></p>
+<p>Електроковдра рівномірно прогрівається та допомагає створити комфортне тепло під час відпочинку вдома, на дачі або в офісі.</p>
+<p>Модель має зручний пульт-перемикач із&nbsp;<strong>2 температурними режимами</strong>. Час нагрівання становить приблизно&nbsp;<strong>7 хвилин</strong>.&nbsp;</p>
+<h3 data-section-id="hotu7e">Переваги:</h3>
+<ul>
+<li data-section-id="bvt69p">розмір&nbsp;<strong>150&times;120 см</strong>;</li>
+<li data-section-id="m6ldwj">потужність&nbsp;<strong>130 Вт</strong>;</li>
+<li data-section-id="1u8oxhh">2 температурні режими;</li>
+<li data-section-id="17ijq8y">зручне керування пультом;</li>
+<li data-section-id="1rlam0f">швидке нагрівання;</li>
+<li data-section-id="1ij7sn9">м&#39;яке неткане полотно;</li>
+<li data-section-id="19demkw">підходить для ліжка, дивана або крісла;</li>
+<li data-section-id="bmotbz">живлення від електромережі;</li>
+<li data-section-id="od06cj">компактно складається для зберігання.</li>
+</ul>
+<p>Електроковдра стане практичним доповненням для комфортного відпочинку в прохолодну погоду.</p>
+<p><strong>Комплектація:</strong>&nbsp;електроковдра, пульт-перемикач.&nbsp;</p>]]></description_ua>
+<keywords>электроодеяло, электрическое одеяло, электроодеяло с подогревом, одеяло с подогревом, электропростынь, электрическая простынь, электропростынь с подогревом, электроодеяло с пультом, электроодеяло 130 Вт, электроодеяло 150х120, электрическое одеяло 150х120, одеяло электрическое для дома, электроодеяло для кровати, электроодеяло для дивана, одеяло с электрическим подогревом, электрическое одеяло белое, электроодеяло белое, одеяло с регулировкой температуры, электроодеяло 2 режима, электроодеяло 2018547</keywords>
+<keywords_ua>електроковдра, електрична ковдра, електроковдра з підігрівом, ковдра з підігрівом, електропростирадло, електричне простирадло, електропростирадло з підігрівом, електроковдра з пультом, електроковдра 130 Вт, електроковдра 150х120, електрична ковдра 150х120, ковдра електрична для дому, електроковдра для ліжка, електроковдра для дивана, ковдра з електричним підігрівом, електрична ковдра біла, електроковдра біла, ковдра з регулюванням температури, електроковдра 2 режими, електроковдра 2018547</keywords_ua>
+<param name="Ширина" unit="см">120</param>
+<param name="Довжина" unit="см">150</param>
+<param name="Вага" unit="г">1.5</param>
+<param name="Тип">Електричні ковдри</param>
+<param name="Колір">Рожевий</param>
+<param name="Захист від перегріву">Так</param>
+<param name="Тип тканини">Неткане полотно</param>
+<param name="Машинне прання">Ні</param>
+<param name="Кількість температурних режимів">2</param>
+<param name="Живлення">Мережа 220В</param>
+<param name="Розмір">Полуторний</param>
+</offer>
+<offer id="EN-2018547-3" available="true" in_stock="true">
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>990003</categoryId>
+<picture>https://images.prom.ua/7735865224_elektroodeyalo-s-pultom.jpg</picture>
+<picture>https://images.prom.ua/7735867674_elektroodeyalo-s-pultom.jpg</picture>
+<picture>https://images.prom.ua/7735868041_elektroodeyalo-s-pultom.jpg</picture>
+<vendor>1-А ФАБРИКА КОРИСНИХ ТОВАРІВ</vendor>
+<vendorCode>2018547/3</vendorCode>
+<quantity_in_stock>7</quantity_in_stock>
+<name>Электроодеяло с пультом управления Белый / Электропростынь 150×120см 130 Вт</name>
+<name_ua>Електроковдра з пультом управління Білий / Електропростирадло 150×120см 130 Вт</name_ua>
+<description><![CDATA[<p><strong>Электроодеяло с пультом управления 150&times;120 см, 130 Вт &ndash; комфортное решение для холодного времени года.</strong></p>
+<p>Электроодеяло равномерно прогревается и помогает создать комфортное тепло во время отдыха дома, на даче или в офисе.</p>
+<p>Модель имеет удобный пульт-переключатель с&nbsp;<strong>2 температурними режимами</strong>. Время нагрева составляет примерно&nbsp;<strong>7 минут</strong>.&nbsp;</p>
+<h3 data-section-id="hotu7e">Преимущества:</h3>
+<ul>
+<li data-section-id="bvt69p">размер&nbsp;<strong>150 х 120 см</strong>;</li>
+<li data-section-id="m6ldwj">мощность&nbsp;<strong>130 Вт</strong>;</li>
+<li data-section-id="1u8oxhh">2 температурных режима;</li>
+<li data-section-id="17ijq8y">удобное управление пультом;</li>
+<li data-section-id="1rlam0f">быстрый нагрев;</li>
+<li data-section-id="1ij7sn9">мягкое нетканое полотно;</li>
+<li data-section-id="19demkw">подходит для кровати, дивана или кресла;</li>
+<li data-section-id="bmotbz">питание от электросети;</li>
+<li data-section-id="od06cj">компактно складывается для хранения.</li>
+</ul>
+<p>Электроодеяло станет практичным дополнением для комфортного отдыха в прохладную погоду.</p>
+<p><strong>Комплектация:</strong>&nbsp;электроодеяло, пульт-переключатель.&nbsp;</p>]]></description>
+<description_ua><![CDATA[<p><strong>Електроковдра з пультом управління 150&times;120 см, 130 Вт &mdash; комфортне рішення для холодної пори року.</strong></p>
+<p>Електроковдра рівномірно прогрівається та допомагає створити комфортне тепло під час відпочинку вдома, на дачі або в офісі.</p>
+<p>Модель має зручний пульт-перемикач із&nbsp;<strong>2 температурними режимами</strong>. Час нагрівання становить приблизно&nbsp;<strong>7 хвилин</strong>.&nbsp;</p>
+<h3 data-section-id="hotu7e">Переваги:</h3>
+<ul>
+<li data-section-id="bvt69p">розмір&nbsp;<strong>150&times;120 см</strong>;</li>
+<li data-section-id="m6ldwj">потужність&nbsp;<strong>130 Вт</strong>;</li>
+<li data-section-id="1u8oxhh">2 температурні режими;</li>
+<li data-section-id="17ijq8y">зручне керування пультом;</li>
+<li data-section-id="1rlam0f">швидке нагрівання;</li>
+<li data-section-id="1ij7sn9">м&#39;яке неткане полотно;</li>
+<li data-section-id="19demkw">підходить для ліжка, дивана або крісла;</li>
+<li data-section-id="bmotbz">живлення від електромережі;</li>
+<li data-section-id="od06cj">компактно складається для зберігання.</li>
+</ul>
+<p>Електроковдра стане практичним доповненням для комфортного відпочинку в прохолодну погоду.</p>
+<p><strong>Комплектація:</strong>&nbsp;електроковдра, пульт-перемикач.&nbsp;</p>]]></description_ua>
+<keywords>электроодеяло, электрическое одеяло, электроодеяло с подогревом, одеяло с подогревом, электропростынь, электрическая простынь, электропростынь с подогревом, электроодеяло с пультом, электроодеяло 130 Вт, электроодеяло 150х120, электрическое одеяло 150х120, одеяло электрическое для дома, электроодеяло для кровати, электроодеяло для дивана, одеяло с электрическим подогревом, электрическое одеяло белое, электроодеяло белое, одеяло с регулировкой температуры, электроодеяло 2 режима, электроодеяло 2018547</keywords>
+<keywords_ua>електроковдра, електрична ковдра, електроковдра з підігрівом, ковдра з підігрівом, електропростирадло, електричне простирадло, електропростирадло з підігрівом, електроковдра з пультом, електроковдра 130 Вт, електроковдра 150х120, електрична ковдра 150х120, ковдра електрична для дому, електроковдра для ліжка, електроковдра для дивана, ковдра з електричним підігрівом, електрична ковдра біла, електроковдра біла, ковдра з регулюванням температури, електроковдра 2 режими, електроковдра 2018547</keywords_ua>
+<param name="Ширина" unit="см">120</param>
+<param name="Довжина" unit="см">150</param>
+<param name="Вага" unit="г">1.5</param>
+<param name="Тип">Електричні ковдри</param>
+<param name="Колір">Білий</param>
+<param name="Захист від перегріву">Так</param>
+<param name="Тип тканини">Неткане полотно</param>
+<param name="Машинне прання">Ні</param>
+<param name="Кількість температурних режимів">2</param>
+<param name="Живлення">Мережа 220В</param>
+<param name="Розмір">Полуторний</param>
+</offer>
+<offer id="EN-2018547-2" available="true" in_stock="true">
+<price>799</price>
+<currencyId>UAH</currencyId>
+<categoryId>990003</categoryId>
+<picture>https://images.prom.ua/7736012369_elektroodeyalo-s-pultom.jpg</picture>
+<picture>https://images.prom.ua/7736013887_elektroodeyalo-s-pultom.jpg</picture>
+<picture>https://images.prom.ua/7736013790_elektroodeyalo-s-pultom.jpg</picture>
+<picture>https://images.prom.ua/7736013808_elektroodeyalo-s-pultom.jpg</picture>
+<vendor>1-А ФАБРИКА КОРИСНИХ ТОВАРІВ</vendor>
+<vendorCode>2018547/2</vendorCode>
+<quantity_in_stock>7</quantity_in_stock>
+<name>Электроодеяло с пультом управления Полоска/ Электропростынь 150×120см 130 Вт</name>
+<name_ua>Електроковдра з пультом управління Смужка/ Електропростирадло 150×120см 130 Вт</name_ua>
+<description><![CDATA[<p><strong>Электроодеяло с пультом управления 150&times;120 см, 130 Вт &ndash; комфортное решение для холодного времени года.</strong></p>
+<p>Электроодеяло равномерно прогревается и помогает создать комфортное тепло во время отдыха дома, на даче или в офисе.</p>
+<p>Модель имеет удобный пульт-переключатель с&nbsp;<strong>2 температурними режимами</strong>. Время нагрева составляет примерно&nbsp;<strong>7 минут</strong>.&nbsp;</p>
+<h3 data-section-id="hotu7e">Преимущества:</h3>
+<ul>
+<li data-section-id="bvt69p">размер&nbsp;<strong>150 х 120 см</strong>;</li>
+<li data-section-id="m6ldwj">мощность&nbsp;<strong>130 Вт</strong>;</li>
+<li data-section-id="1u8oxhh">2 температурных режима;</li>
+<li data-section-id="17ijq8y">удобное управление пультом;</li>
+<li data-section-id="1rlam0f">быстрый нагрев;</li>
+<li data-section-id="1ij7sn9">мягкое нетканое полотно;</li>
+<li data-section-id="19demkw">подходит для кровати, дивана или кресла;</li>
+<li data-section-id="bmotbz">питание от электросети;</li>
+<li data-section-id="od06cj">компактно складывается для хранения.</li>
+</ul>
+<p>Электроодеяло станет практичным дополнением для комфортного отдыха в прохладную погоду.</p>
+<p><strong>Комплектация:</strong>&nbsp;электроодеяло, пульт-переключатель.&nbsp;</p>]]></description>
+<description_ua><![CDATA[<p><strong>Електроковдра з пультом управління 150&times;120 см, 130 Вт &mdash; комфортне рішення для холодної пори року.</strong></p>
+<p>Електроковдра рівномірно прогрівається та допомагає створити комфортне тепло під час відпочинку вдома, на дачі або в офісі.</p>
+<p>Модель має зручний пульт-перемикач із&nbsp;<strong>2 температурними режимами</strong>. Час нагрівання становить приблизно&nbsp;<strong>7 хвилин</strong>.&nbsp;</p>
+<h3 data-section-id="hotu7e">Переваги:</h3>
+<ul>
+<li data-section-id="bvt69p">розмір&nbsp;<strong>150&times;120 см</strong>;</li>
+<li data-section-id="m6ldwj">потужність&nbsp;<strong>130 Вт</strong>;</li>
+<li data-section-id="1u8oxhh">2 температурні режими;</li>
+<li data-section-id="17ijq8y">зручне керування пультом;</li>
+<li data-section-id="1rlam0f">швидке нагрівання;</li>
+<li data-section-id="1ij7sn9">м&#39;яке неткане полотно;</li>
+<li data-section-id="19demkw">підходить для ліжка, дивана або крісла;</li>
+<li data-section-id="bmotbz">живлення від електромережі;</li>
+<li data-section-id="od06cj">компактно складається для зберігання.</li>
+</ul>
+<p>Електроковдра стане практичним доповненням для комфортного відпочинку в прохолодну погоду.</p>
+<p><strong>Комплектація:</strong>&nbsp;електроковдра, пульт-перемикач.&nbsp;</p>]]></description_ua>
+<keywords>электроодеяло, электрическое одеяло, электроодеяло с подогревом, одеяло с подогревом, электропростынь, электрическая простынь, электропростынь с подогревом, электроодеяло с пультом, электроодеяло 130 Вт, электроодеяло 150х120, электрическое одеяло 150х120, одеяло электрическое для дома, электроодеяло для кровати, электроодеяло для дивана, одеяло с электрическим подогревом, электрическое одеяло белое, электроодеяло белое, одеяло с регулировкой температуры, электроодеяло 2 режима, электроодеяло 2018547</keywords>
+<keywords_ua>електроковдра, електрична ковдра, електроковдра з підігрівом, ковдра з підігрівом, електропростирадло, електричне простирадло, електропростирадло з підігрівом, електроковдра з пультом, електроковдра 130 Вт, електроковдра 150х120, електрична ковдра 150х120, ковдра електрична для дому, електроковдра для ліжка, електроковдра для дивана, ковдра з електричним підігрівом, електрична ковдра біла, електроковдра біла, ковдра з регулюванням температури, електроковдра 2 режими, електроковдра 2018547</keywords_ua>
+<param name="Ширина" unit="см">120</param>
+<param name="Довжина" unit="см">150</param>
+<param name="Вага" unit="г">1.5</param>
+<param name="Тип">Електричні ковдри</param>
+<param name="Колір">Рожевий</param>
+<param name="Захист від перегріву">Так</param>
+<param name="Тип тканини">Неткане полотно</param>
+<param name="Машинне прання">Ні</param>
+<param name="Кількість температурних режимів">2</param>
+<param name="Живлення">Мережа 220В</param>
+<param name="Розмір">Полуторний</param>
+</offer>
+<offer id="EN-P1000E-PLUS" available="true" in_stock="true">
+<price>26990</price>
+<currencyId>UAH</currencyId>
+<categoryId>990004</categoryId>
+<picture>https://images.prom.ua/7736424876_portativnaya-zaryadnaya-stantsiya.jpg</picture>
+<picture>https://images.prom.ua/7736425327_portativnaya-zaryadnaya-stantsiya.jpg</picture>
+<picture>https://images.prom.ua/7736428737_portativnaya-zaryadnaya-stantsiya.jpg</picture>
+<picture>https://images.prom.ua/7736428968_portativnaya-zaryadnaya-stantsiya.jpg</picture>
+<picture>https://images.prom.ua/7736428966_portativnaya-zaryadnaya-stantsiya.jpg</picture>
+<picture>https://images.prom.ua/7736428972_portativnaya-zaryadnaya-stantsiya.jpg</picture>
+<vendor>Oukitel</vendor>
+<vendorCode>P1000E PLUS</vendorCode>
+<quantity_in_stock>3</quantity_in_stock>
+<name>Портативная зарядная станция OUKITEL P1000E Plus 1800 Вт 1024 Вт*ч LiFePO 1024 Вт*ч + 1800 Вт + LiFePO4 + чистая синусоида + 364</name>
+<name_ua>Портативна зарядна станція OUKITEL P1000E Plus 1800 Вт 1024 Вт·год LiFePO  1024 Вт·год + 1800 Вт + LiFePO4 + чиста синусоїда + 364</name_ua>
+<description><![CDATA[<p>1024 Вт*ч + 1800 Вт + LiFePO4 + чистая синусоида + 3600 Вт пик + ИБП.</p>
+<p></p>
+<p><strong>Портативная зарядная станция OUKITEL P1000E Plus 1800 Вт / 1024 Вт*ч</strong>&nbsp;&mdash; мощный и универсальный источник резервного питания для дома, работы, путешествий и отдыха.</p>
+<p>Станция оснащена аккумулятором&nbsp;<strong>LiFePO4 емкостью 1024 Вт*ч</strong>&nbsp;и обеспечивает номинальную мощность&nbsp;<strong>1800 Вт</strong>, а пиковая мощность достигает&nbsp;<strong>3600 Вт</strong>. Благодаря чистой синусоиде станция подходит для питания широкого спектра бытовой и электронной техники.&nbsp;</p>
+<h3 data-section-id="x3rmqc">⚡ Основные преимущества</h3>
+<ul>
+<li data-section-id="he2l24"><strong>1024 Вт*ч</strong>&nbsp;&mdash; большой запас энергии</li>
+<li data-section-id="v6tbpy"><strong>1800 Вт</strong>&nbsp;номинальной мощности</li>
+<li data-section-id="15i8hpd"><strong>до 3600 Вт</strong>&nbsp;пиковой мощности</li>
+<li data-section-id="1qoeqhf">современный аккумулятор&nbsp;<strong>LiFePO4</strong></li>
+<li data-section-id="nauast">ресурс &mdash;&nbsp;<strong>до 4000 циклов</strong>&nbsp;до 80% начальной емкости</li>
+<li data-section-id="bl9szz"><strong>чистая синусоида</strong></li>
+<li data-section-id="1rknmr2">функция&nbsp;<strong>EPS / ДБЖ</strong>&nbsp;с переключением до 10 мс</li>
+<li data-section-id="1elvc85">быстрая зарядка от сети &mdash; до&nbsp;<strong>1200 Вт</strong></li>
+<li data-section-id="l4xfik">зарядка от солнечных панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
+<li data-section-id="iz4j9e">зарядка от автомобиля</li>
+<li data-section-id="aop1sg">одновременная зарядка различными способами</li>
+<li data-section-id="6yhxo1">управление и контроль через&nbsp;<strong>смартфон</strong></li>
+<li data-section-id="xwwh0l">компактный корпус и вес близко&nbsp;<strong>12 кг</strong>.&nbsp;</li>
+</ul>
+<h3 data-section-id="19yj937">🔌 Подключение техники</h3>
+<p>OKITEL P1000E Plus имеет&nbsp;<strong>4 розетки AC 220&ndash;240 В</strong>&nbsp;с общей мощностью до 1800 Вт, USB-A, USB-C, DC выходы и автомобильный выход 12 В.</p>
+<p>К станции можно подключать:</p>
+<ul>
+<li data-section-id="1pgoj3d">холодильник;</li>
+<li data-section-id="1ubmkw7">телевизор;</li>
+<li data-section-id="5lwmqt">Wi-Fi роутер;</li>
+<li data-section-id="16b0fzm">ноутбук и компьютер;</li>
+<li data-section-id="arpg7f">освещение;</li>
+<li data-section-id="yuwtc9">зарядные устройства;</li>
+<li data-section-id="15qfch9">бытовую технику;</li>
+<li data-section-id="16uaouu">электроинструменты и другие совместимые устройства.</li>
+</ul>
+<h3 data-section-id="1nccze7">🏠 Для дому</h3>
+<p>Функция&nbsp;<strong>EPS</strong>&nbsp;позволяет использовать станцию как резервный источник питания. При исчезновении электроэнергии переключения происходит менее чем при&nbsp;<strong>10 мс</strong>, что помогает поддерживать работу подключенной техники.&nbsp;</p>
+<h3 data-section-id="mbikv7">🚗 Для подорожей</h3>
+<p>Благодаря весу близко&nbsp;<strong>12 кг</strong>&nbsp;и удобной конструкции станцию можно брать на дачу, в кемпинг, путешествие, автомобильную поездку или использовать как автономный источник питания на природе.</p>
+<h3 data-section-id="1e8lezr">☀️ Несколько способов зарядки</h3>
+<p>Заряжать OUKITEL P1000E Plus можно:</p>
+<p><strong>от розетки 220 В &mdash; до 1200 Вт</strong><br/>
+<strong>от солнечных панелей &mdash; до 500 Вт</strong><br/>
+<strong>от автомобиля</strong><br/>
+<strong>комбинировано &mdash; AC + Solar до 1700 Вт</strong>.&nbsp;</p>
+<h3 data-section-id="3venle">📱 Управление со смартфона</h3>
+<p>Станцией можно управлять и контролировать ее работу через фирменное приложение &mdash; следить за состоянием батареи, режимами и настройками питания.&nbsp;</p>
+<p><strong>OKITEL P1000E Plus &ndash; это универсальное решение для резервного питания дома и автономной работы техники там, где нет стабильного доступа к электросети.</strong></p>
+<p><strong>Характеристики:</strong><br/>
+Емкость:&nbsp;<strong>1024 Вт*ч</strong><br/>
+Мощность:&nbsp;<strong>1800 Вт</strong><br/>
+Пиковая мощность:&nbsp;<strong>3600 Вт</strong><br/>
+Аккумулятор:&nbsp;<strong>LiFePO4</strong><br/>
+Циклы:&nbsp;<strong>4000+</strong><br/>
+Вес:&nbsp;<strong>12 кг</strong><br/>
+Размер:&nbsp;<strong>346 &times; 228 &times; 238 мм</strong><br/>
+Инвертор:&nbsp;<strong>чистая синусоида</strong>.&nbsp;</p>]]></description>
+<description_ua><![CDATA[<p>1024 Вт&middot;год + 1800 Вт + LiFePO4 + чиста синусоїда + 3600 Вт пік + ДБЖ.</p>
+<p></p>
+<p><strong>Портативна зарядна станція OUKITEL P1000E Plus 1800 Вт / 1024 Вт&middot;год</strong>&nbsp;&mdash; потужне та універсальне джерело резервного живлення для дому, роботи, подорожей та відпочинку.</p>
+<p>Станція оснащена акумулятором&nbsp;<strong>LiFePO4 ємністю 1024 Вт&middot;год</strong>&nbsp;та забезпечує номінальну потужність&nbsp;<strong>1800 Вт</strong>, а пікова потужність досягає&nbsp;<strong>3600 Вт</strong>. Завдяки чистій синусоїді станція підходить для живлення широкого спектра побутової та електронної техніки.&nbsp;</p>
+<h3 data-section-id="x3rmqc">⚡ Основні переваги</h3>
+<ul>
+<li data-section-id="he2l24"><strong>1024 Вт&middot;год</strong>&nbsp;&mdash; великий запас енергії</li>
+<li data-section-id="v6tbpy"><strong>1800 Вт</strong>&nbsp;номінальної потужності</li>
+<li data-section-id="15i8hpd"><strong>до 3600 Вт</strong>&nbsp;пікової потужності</li>
+<li data-section-id="1qoeqhf">сучасний акумулятор&nbsp;<strong>LiFePO4</strong></li>
+<li data-section-id="nauast">ресурс &mdash;&nbsp;<strong>до 4000 циклів</strong>&nbsp;до 80% початкової ємності</li>
+<li data-section-id="bl9szz"><strong>чиста синусоїда</strong></li>
+<li data-section-id="1rknmr2">функція&nbsp;<strong>EPS / ДБЖ</strong>&nbsp;з перемиканням до 10 мс</li>
+<li data-section-id="1elvc85">швидке заряджання від мережі &mdash; до&nbsp;<strong>1200 Вт</strong></li>
+<li data-section-id="l4xfik">заряджання від сонячних панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
+<li data-section-id="iz4j9e">заряджання від автомобіля</li>
+<li data-section-id="aop1sg">одночасне заряджання різними способами</li>
+<li data-section-id="6yhxo1">керування та контроль через&nbsp;<strong>смартфон</strong></li>
+<li data-section-id="xwwh0l">компактний корпус та вага близько&nbsp;<strong>12 кг</strong>.&nbsp;</li>
+</ul>
+<h3 data-section-id="19yj937">🔌 Підключення техніки</h3>
+<p>OUKITEL P1000E Plus має&nbsp;<strong>4 розетки AC 220&ndash;240 В</strong>&nbsp;із загальною потужністю до 1800 Вт, USB-A, USB-C, DC-виходи та автомобільний вихід 12 В.</p>
+<p>До станції можна підключати:</p>
+<ul>
+<li data-section-id="1pgoj3d">холодильник;</li>
+<li data-section-id="1ubmkw7">телевізор;</li>
+<li data-section-id="5lwmqt">Wi-Fi роутер;</li>
+<li data-section-id="16b0fzm">ноутбук та комп&#39;ютер;</li>
+<li data-section-id="arpg7f">освітлення;</li>
+<li data-section-id="yuwtc9">зарядні пристрої;</li>
+<li data-section-id="15qfch9">побутову техніку;</li>
+<li data-section-id="16uaouu">електроінструменти та інші сумісні пристрої.</li>
+</ul>
+<h3 data-section-id="1nccze7">🏠 Для дому</h3>
+<p>Функція&nbsp;<strong>EPS</strong>&nbsp;дозволяє використовувати станцію як резервне джерело живлення. При зникненні електроенергії перемикання відбувається менш ніж за&nbsp;<strong>10 мс</strong>, що допомагає підтримувати роботу підключеної техніки.&nbsp;</p>
+<h3 data-section-id="mbikv7">🚗 Для подорожей</h3>
+<p>Завдяки вазі близько&nbsp;<strong>12 кг</strong>&nbsp;та зручній конструкції станцію можна брати на дачу, у кемпінг, подорож, автомобільну поїздку або використовувати як автономне джерело живлення на природі.</p>
+<h3 data-section-id="1e8lezr">☀️ Кілька способів заряджання</h3>
+<p>Заряджати OUKITEL P1000E Plus можна:</p>
+<p><strong>від розетки 220 В &mdash; до 1200 Вт</strong><br/>
+<strong>від сонячних панелей &mdash; до 500 Вт</strong><br/>
+<strong>від автомобіля</strong><br/>
+<strong>комбіновано &mdash; AC + Solar до 1700 Вт</strong>.&nbsp;</p>
+<h3 data-section-id="3venle">📱 Керування зі смартфона</h3>
+<p>Станцією можна керувати та контролювати її роботу через фірмовий застосунок &mdash; стежити за станом батареї, режимами та параметрами живлення.&nbsp;</p>
+<p><strong>OUKITEL P1000E Plus &mdash; це універсальне рішення для резервного живлення вдома та автономної роботи техніки там, де немає стабільного доступу до електромережі.</strong></p>
+<p><strong>Характеристики:</strong><br/>
+Ємність:&nbsp;<strong>1024 Вт&middot;год</strong><br/>
+Потужність:&nbsp;<strong>1800 Вт</strong><br/>
+Пікова потужність:&nbsp;<strong>3600 Вт</strong><br/>
+Акумулятор:&nbsp;<strong>LiFePO4</strong><br/>
+Цикли:&nbsp;<strong>4000+</strong><br/>
+Вага:&nbsp;<strong>12 кг</strong><br/>
+Розмір:&nbsp;<strong>346 &times; 228 &times; 238 мм</strong><br/>
+Інвертор:&nbsp;<strong>чиста синусоїда</strong>.&nbsp;</p>]]></description_ua>
+<keywords>зарядная станция, портативная зарядная станция, зарядная станция для дома, зарядная станция 1800 Вт, зарядная станция 1024 Вт ч, зарядная станция 1024Wh, OUKITEL P1000E Plus, OUKITEL P1000E, OUKITEL P1000 Plus, повербанк 1024 Вт, мощный повербанк, портативный аккумулятор, аккумуляторная станция, автономное питание, резервное питание, резервное питание для дома, зарядная станция для квартиры, зарядная станция для холодильника, зарядная станция для котла, зарядная станция для роутера, зарядная станция для ноутбука, зарядная станция для телевизора, зарядная станция LiFePO4, LiFePO4 зарядная станция, зарядная станция 220В, электростанция портативная, портативная электростанция, генератор электроэнергии, инверторный генератор, ИБП, UPS, зарядная станция с ИБП, зарядная станция чистая синусоида, зарядная станция для блэкаута, зарядная станция для отключения света, станция резервного питания, power station, portable power station</keywords>
+<keywords_ua>зарядна станція, портативна зарядна станція, зарядна станція для дому, зарядна станція 1800 Вт, зарядна станція 1024 Вт год, зарядна станція 1024Wh, OUKITEL P1000E Plus, OUKITEL P1000E, OUKITEL P1000 Plus, повербанк 1024 Вт год, потужний повербанк, портативний акумулятор, акумуляторна станція, автономне живлення, резервне живлення, резервне живлення для дому, зарядна станція для квартири, зарядна станція для холодильника, зарядна станція для котла, зарядна станція для роутера, зарядна станція для ноутбука, зарядна станція для телевізора, зарядна станція LiFePO4, LiFePO4 зарядна станція, зарядна станція 220В, електростанція портативна, портативна електростанція, генератор електроенергії, інверторний генератор, ДБЖ, UPS, зарядна станція з ДБЖ, зарядна станція чиста синусоїда, зарядна станція для блекауту, зарядна станція для відключення світла, станція резервного живлення, power station, portable power station</keywords_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Ширина" unit="мм">228</param>
+<param name="Довжина" unit="мм">346</param>
+<param name="Вага" unit="кг">12</param>
+<param name="Тип">Зарядна станція</param>
+<param name="Стан">Новий</param>
+<param name="Висота" unit="мм">238</param>
+<param name="Особливості">З ліхтариком, Функція ДБЖ (UPS), Швидке заряджання батареї, З ручкою, З управлінням через смартфон</param>
+<param name="Колір корпусу">Сірий</param>
+<param name="Час зарядки" unit="годин">1</param>
+<param name="Тип акумулятора">LiFePO4</param>
+<param name="Призначення">Універсальна</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Гарантійний термін" unit="міс">24</param>
+<param name="Вихідна напруга" unit="В">240</param>
+<param name="Ємність акумулятору" unit="мА/год">1024</param>
+<param name="Цикли зарядки">4000</param>
+<param name="Функція ДБЖ">Так</param>
+<param name="Тип (версія) розеток">Європейський</param>
+<param name="Роз'єми">AC, Type-C, DC, USB Type-A, XT60</param>
+<param name="Місткість зарядної станції, Вт*год">1024</param>
+<param name="Максимальна потужність заряджання (220В), Вт">1200</param>
+<param name="Максимальна потужність W">3600</param>
+<param name="Кількість розеток">4</param>
+<param name="Кількість пристроїв, що заряджаються">11</param>
+<param name="Країна реєстрації бренда">Китай</param>
+<param name="Зарядка батареї">Від мережі</param>
+<param name="Вхідна напруга" unit="В">240</param>
+<param name="Вихідні інтерфейси">USB Type A</param>
+<param name="Вихідний струм" unit="мА">10000</param>
+<param name="Вихідна потужність (загальна), Вт">1800</param>
+</offer>
+<offer id="EN-P2001E-Plus" available="true" in_stock="true">
+<price>47490</price>
+<oldprice>48990</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>990004</categoryId>
+<picture>https://images.prom.ua/7736518736_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736526384_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736527549_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736528034_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736528223_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736530130_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736530131_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736530132_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736511576_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<vendor>Oukitel</vendor>
+<vendorCode>P2001E Plus</vendorCode>
+<quantity_in_stock>3</quantity_in_stock>
+<name>Зарядная станция Oukitel P2001E Plus 2400W 2048Wh LiFePO4, портативная электростанция</name>
+<name_ua>Зарядна станція Oukitel P2001E Plus 2400W 2048Wh LiFePO4, портативна електростанція</name_ua>
+<description><![CDATA[<p><strong>Портативная зарядная станция Oukitel P2001E Plus 2400 Вт 2048 Вт*ч</strong>&nbsp;&mdash; мощное решение для резервного питания дома, квартиры, офиса, техники и электроприборов при отключении электроэнергии.</p>
+<p>Станция оснащена аккумулятором&nbsp;<strong>LiFePO4 емкостью 2048 Вт*ч</strong>&nbsp;и инвертором с номинальной мощностью&nbsp;<strong>2400 Вт</strong>. Максимальная пиковая мощность &mdash;&nbsp;<strong>4800 Вт</strong>, что позволяет подключать приборы с высокой стартовой нагрузкой.</p>
+<h3 data-section-id="ts3zjk">Основные характеристики:</h3>
+<ul>
+<li data-section-id="1ihf0kw">Емкость -&nbsp;<strong>2048 Вт*ч</strong></li>
+<li data-section-id="1mq0xd2">Номинальная мощность &mdash;&nbsp;<strong>2400 Вт</strong></li>
+<li data-section-id="cabsrh">Пиковая мощность &mdash;&nbsp;<strong>4800 Вт</strong></li>
+<li data-section-id="eg25an">Аккумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
+<li data-section-id="1hl12nj">Чистая синусоида</li>
+<li data-section-id="xemtjk">Функция&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;с переключением до 10 мс</li>
+<li data-section-id="oa5nj6">4 розетки AC</li>
+<li data-section-id="11pyieg">USB-A &mdash; 2&times;18 Вт</li>
+<li data-section-id="xi43kh">USB-C &mdash; 100 Вт + 45 Вт + 2&times;20 Вт</li>
+<li data-section-id="1ua6hke">Автомобильный выход - 12В / 10А</li>
+<li data-section-id="6m3et2">Зарядка от сети &mdash; до&nbsp;<strong>1800 Вт</strong></li>
+<li data-section-id="7062b0">Зарядка от солнечных панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
+<li data-section-id="145xdpd">Управление и мониторинг со смартфона</li>
+<li data-section-id="17v4ih7">LCD-дисплей</li>
+<li data-section-id="1rw731r">Возможность одновременного питания до&nbsp;<strong>13 устройств</strong></li>
+<li data-section-id="sle21g">Вес -&nbsp;<strong>22 кг</strong></li>
+</ul>
+<h3 data-section-id="9gta18">Для чего подходит:</h3>
+<p>Oukitel P2001E Plus можно использовать для резервного питания&nbsp;<strong>холодильника, роутера, телевизора, ноутбука, освещения, котла, насоса, электроинструмента и другой техники</strong>.</p>
+<p>Станция станет практичным решением для дома, работы, путешествий, кемпинга и использования при отключениях электроэнергии.</p>
+<h3 data-section-id="p3yoyq">Комплектация:</h3>
+<ul>
+<li data-section-id="5t6q2i">зарядная станция Oukitel P2001E Plus;</li>
+<li data-section-id="1qjbv5x">кабели для зарядки;</li>
+<li data-section-id="1o0tvfs">инструкция.</li>
+</ul>
+<p><strong>Состояние: новый.</strong></p>]]></description>
+<description_ua><![CDATA[<p><strong>Портативна зарядна станція Oukitel P2001E Plus 2400 Вт 2048 Вт&middot;год</strong>&nbsp;&mdash; потужне рішення для резервного живлення будинку, квартири, офісу, техніки та електроприладів під час відключення електроенергії.</p>
+<p>Станція оснащена акумулятором&nbsp;<strong>LiFePO4 ємністю 2048 Вт&middot;год</strong>&nbsp;та інвертором із номінальною потужністю&nbsp;<strong>2400 Вт</strong>. Максимальна пікова потужність &mdash;&nbsp;<strong>4800 Вт</strong>, що дозволяє підключати прилади з високим стартовим навантаженням.</p>
+<h3 data-section-id="ts3zjk">Основні характеристики:</h3>
+<ul>
+<li data-section-id="1ihf0kw">Ємність &mdash;&nbsp;<strong>2048 Вт&middot;год</strong></li>
+<li data-section-id="1mq0xd2">Номінальна потужність &mdash;&nbsp;<strong>2400 Вт</strong></li>
+<li data-section-id="cabsrh">Пікова потужність &mdash;&nbsp;<strong>4800 Вт</strong></li>
+<li data-section-id="eg25an">Акумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
+<li data-section-id="1hl12nj">Чиста синусоїда</li>
+<li data-section-id="xemtjk">Функція&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;з перемиканням до 10 мс</li>
+<li data-section-id="oa5nj6">4 розетки AC</li>
+<li data-section-id="11pyieg">USB-A &mdash; 2&times;18 Вт</li>
+<li data-section-id="xi43kh">USB-C &mdash; 100 Вт + 45 Вт + 2&times;20 Вт</li>
+<li data-section-id="1ua6hke">Автомобільний вихід &mdash; 12 В / 10 А</li>
+<li data-section-id="6m3et2">Заряджання від мережі &mdash; до&nbsp;<strong>1800 Вт</strong></li>
+<li data-section-id="7062b0">Заряджання від сонячних панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
+<li data-section-id="145xdpd">Керування та моніторинг зі смартфона</li>
+<li data-section-id="17v4ih7">LCD-дисплей</li>
+<li data-section-id="1rw731r">Можливість одночасного живлення до&nbsp;<strong>13 пристроїв</strong></li>
+<li data-section-id="sle21g">Вага &mdash;&nbsp;<strong>22 кг</strong></li>
+</ul>
+<h3 data-section-id="9gta18">Для чого підходить:</h3>
+<p>Oukitel P2001E Plus можна використовувати для резервного живлення&nbsp;<strong>холодильника, роутера, телевізора, ноутбука, освітлення, котла, насоса, електроінструменту та іншої техніки</strong>.</p>
+<p>Станція стане практичним рішенням для дому, роботи, подорожей, кемпінгу та використання під час відключень електроенергії.</p>
+<h3 data-section-id="p3yoyq">Комплектація:</h3>
+<ul>
+<li data-section-id="5t6q2i">зарядна станція Oukitel P2001E Plus;</li>
+<li data-section-id="1qjbv5x">кабелі для заряджання;</li>
+<li data-section-id="1o0tvfs">інструкція.</li>
+</ul>
+<p><strong>Стан: новий.</strong></p>]]></description_ua>
+<keywords>зарядная станция, портативная зарядная станция, Oukitel P2001E Plus, Oukitel P2001 Plus, Oukitel P2001E, зарядная станция 2400 Вт, зарядная станция 2048 Вт ч, зарядная станция 2048Wh, зарядная станция LiFePO4, LiFePO4 зарядная станция, зарядная станция для дома, зарядная станция для квартиры, зарядная станция для блэкаута, зарядная станция при отключении света, резервное питание, резервное питание для дома, аккумуляторная станция, портативная электростанция, электростанция портативная, мощная зарядная станция, зарядная станция 220В, зарядная станция с ИБП, ИБП, UPS, зарядная станция чистая синусоида, зарядная станция для холодильника, зарядная станция для котла, зарядная станция для роутера, зарядная станция для телевизора, зарядная станция для ноутбука, зарядная станция для насоса, зарядная станция для электроинструмента, зарядная станция для техники, зарядная станция для кемпинга, зарядная станция для путешествий, автономное питание, автономное электропитание, резервная электростанция, power station, portab</keywords>
+<keywords_ua>зарядна станція, портативна зарядна станція, Oukitel P2001E Plus, Oukitel P2001 Plus, Oukitel P2001E, зарядна станція 2400 Вт, зарядна станція 2048 Вт год, зарядна станція 2048Wh, зарядна станція LiFePO4, LiFePO4 зарядна станція, зарядна станція для дому, зарядна станція для квартири, зарядна станція для блекауту, зарядна станція при відключенні світла, резервне живлення, резервне живлення для дому, акумуляторна станція, портативна електростанція, електростанція портативна, потужна зарядна станція, зарядна станція 220В, зарядна станція з ДБЖ, ДБЖ, UPS, зарядна станція чиста синусоїда, зарядна станція для холодильника, зарядна станція для котла, зарядна станція для роутера, зарядна станція для телевізора, зарядна станція для ноутбука, зарядна станція для насоса, зарядна станція для електроінструменту, зарядна станція для техніки, зарядна станція для кемпінгу, зарядна станція для подорожей, автономне живлення, автономне електроживлення, резервна електростанція, power station, portable power station</keywords_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Ширина" unit="мм">286</param>
+<param name="Довжина" unit="мм">399</param>
+<param name="Вага" unit="кг">22</param>
+<param name="Тип">Зарядна станція</param>
+<param name="Стан">Новий</param>
+<param name="Висота" unit="мм">320</param>
+<param name="Особливості">Швидке заряджання батареї, З ручкою, З управлінням через смартфон</param>
+<param name="Колір корпусу">Чорний</param>
+<param name="Час зарядки" unit="годин">1</param>
+<param name="Тип акумулятора">LiFePO4</param>
+<param name="Призначення">Для всього будинку</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Гарантійний термін" unit="міс">12</param>
+<param name="Вихідна напруга" unit="В">240</param>
+<param name="Ємність акумулятору" unit="мА/год">40000</param>
+<param name="Цикли зарядки">3500</param>
+<param name="Функція ДБЖ">Так</param>
+<param name="Тип (версія) розеток">Європейський</param>
+<param name="Роз'єми">Type-C, USB Type-A, XT60, AC</param>
+<param name="Місткість зарядної станції, Вт*год">2048</param>
+<param name="Максимальна потужність заряджання (220В), Вт">1800</param>
+<param name="Максимальна потужність W">4800</param>
+<param name="Кількість розеток">4</param>
+<param name="Кількість пристроїв, що заряджаються">13</param>
+<param name="Країна реєстрації бренда">Китай</param>
+<param name="Зарядка батареї">Від мережі, Від сонячної енергія, Від автомобільної зарядки</param>
+<param name="Вхідна напруга" unit="В">230</param>
+<param name="Вихідні інтерфейси">USB Type A</param>
+<param name="Вихідний струм" unit="мА">10000</param>
+<param name="Вихідна потужність (загальна), Вт">2400</param>
+</offer>
+<offer id="EN-P5000E-PRO" available="true" in_stock="true">
+<price>106990</price>
+<currencyId>UAH</currencyId>
+<categoryId>990004</categoryId>
+<picture>https://images.prom.ua/7736605007_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736608800_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736605097_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736605098_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736605145_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<vendor>Oukitel</vendor>
+<vendorCode>P5000E PRO</vendorCode>
+<quantity_in_stock>3</quantity_in_stock>
+<name>Зарядная станция OUKITEL P5000E PRO 4000W 5120Wh LiFePO4, портативная электростанция</name>
+<name_ua>Зарядна станція OUKITEL P5000E PRO 4000W 5120Wh LiFePO4, портативна електростанція</name_ua>
+<description><![CDATA[<p><strong>OKITEL P5000E PRO - мощная портативная зарядная станция емкостью 5120 Вт*ч и номинальной мощностью 4000 Вт.</strong></p>
+<p>Станция оснащена долговечным аккумулятором&nbsp;<strong>LiFePO4</strong>, чистой синусоидой и системой резервного питания. Пиковая мощность составляет&nbsp;<strong>8000 Вт</strong>, поэтому станция подходит не только для бытовой электроники, но и для мощных электроприборов и электроинструмента.</p>
+<p><strong>Основные преимущества:</strong></p>
+<ul>
+<li data-section-id="1rpq0s5">5120 Вт*ч емкости;</li>
+<li data-section-id="1dif2cg">4000 Вт номинальной мощности;</li>
+<li data-section-id="1utf2l9">8000 Вт пиковой мощности;</li>
+<li data-section-id="kmlmlc">LiFePO4 акумулятор;</li>
+<li data-section-id="uj7b40">более 5000 циклов зарядки;</li>
+<li data-section-id="19dl4us">чистая синусоида;</li>
+<li data-section-id="6ulbne">UPS / резервное питание;</li>
+<li data-section-id="1phojkg">переключение на резервное питание &lt;10 мс;</li>
+<li data-section-id="11k3kr5">зарядка от сети до 3200 Вт;</li>
+<li data-section-id="17q500v">солнечная зарядка до 1000 Вт;</li>
+<li data-section-id="jbgkmj">Wi-Fi и Bluetooth;</li>
+<li data-section-id="iig2op">5 розеток AC 220&ndash;240 В;</li>
+<li data-section-id="pgcmba">USB-A и USB-C PD 100 Вт;</li>
+<li data-section-id="19t15k4">DC выходы;</li>
+<li data-section-id="1ycrg4u">автомобильный выход;</li>
+<li data-section-id="8sijy8">большие колеса и телескопическая ручка для транспортировки;</li>
+<li data-section-id="veb47c">вага 53 кг.</li>
+</ul>
+<p><strong>Для чего подходит:</strong></p>
+<p>P5000E PRO можно использовать как резервный источник питания для&nbsp;<strong>дома, квартиры, офиса, холодильника, котла, роутера, телевизора, компьютера, освещения, насоса и электроинструмента</strong>.</p>
+<p>Также станция подходит для автономной работы, загородного дома, кемпинга, мастерской и работы с мощным электрооборудованием.&nbsp;</p>
+<p data-is-last-node="" data-is-only-node=""><strong>Комплектация:</strong>&nbsp;зарядная станция, кабель зарядки от сети, кабель для автомобильной зарядки, кабель для солнечной панели, инструкция.&nbsp;</p>]]></description>
+<description_ua><![CDATA[<p><strong>OUKITEL P5000E PRO &mdash; потужна портативна зарядна станція ємністю 5120 Вт&middot;год та номінальною потужністю 4000 Вт.</strong></p>
+<p>Станція оснащена довговічним акумулятором&nbsp;<strong>LiFePO4</strong>, чистою синусоїдою та системою резервного живлення. Пікова потужність становить&nbsp;<strong>8000 Вт</strong>, тому станція підходить не тільки для побутової електроніки, а й для потужних електроприладів та електроінструменту.</p>
+<p><strong>Основні переваги:</strong></p>
+<ul>
+<li data-section-id="1rpq0s5">5120 Вт&middot;год ємності;</li>
+<li data-section-id="1dif2cg">4000 Вт номінальної потужності;</li>
+<li data-section-id="1utf2l9">8000 Вт пікової потужності;</li>
+<li data-section-id="kmlmlc">LiFePO4 акумулятор;</li>
+<li data-section-id="uj7b40">понад 5000 циклів заряджання;</li>
+<li data-section-id="19dl4us">чиста синусоїда;</li>
+<li data-section-id="6ulbne">UPS / резервне живлення;</li>
+<li data-section-id="1phojkg">перемикання на резервне живлення &lt;10 мс;</li>
+<li data-section-id="11k3kr5">заряджання від мережі до 3200 Вт;</li>
+<li data-section-id="17q500v">сонячне заряджання до 1000 Вт;</li>
+<li data-section-id="jbgkmj">Wi-Fi та Bluetooth;</li>
+<li data-section-id="iig2op">5 розеток AC 220&ndash;240 В;</li>
+<li data-section-id="pgcmba">USB-A та USB-C PD 100 Вт;</li>
+<li data-section-id="19t15k4">DC-виходи;</li>
+<li data-section-id="1ycrg4u">автомобільний вихід;</li>
+<li data-section-id="8sijy8">великі колеса та телескопічна ручка для транспортування;</li>
+<li data-section-id="veb47c">вага 53 кг.</li>
+</ul>
+<p><strong>Для чого підходить:</strong></p>
+<p>P5000E PRO можна використовувати як резервне джерело живлення для&nbsp;<strong>будинку, квартири, офісу, холодильника, котла, роутера, телевізора, комп&#39;ютера, освітлення, насоса та електроінструменту</strong>.</p>
+<p>Також станція підходить для автономної роботи, заміського будинку, кемпінгу, майстерні та роботи з потужним електрообладнанням.&nbsp;</p>
+<p data-is-last-node="" data-is-only-node=""><strong>Комплектація:</strong>&nbsp;зарядна станція, кабель заряджання від мережі, кабель для автомобільного заряджання, кабель для сонячної панелі, інструкція.&nbsp;</p>]]></description_ua>
+<keywords>зарядная станция, портативная зарядная станция, OUKITEL P5000E PRO, OUKITEL P5000E Pro, Oukitel P5000 Pro, зарядная станция 4000 Вт, зарядная станция 5120 Вт ч, зарядная станция 5120Wh, зарядная станция 5 кВт, зарядная станция 5 кВт ч, зарядная станция LiFePO4, LiFePO4 зарядная станция, мощная зарядная станция, зарядная станция для дома, зарядная станция для квартиры, зарядная станция для блэкаута, зарядная станция при отключении света, резервное питание, резервное питание дома, резервное питание квартиры, аккумуляторная станция, портативная электростанция, автономное питание, зарядная станция 220В, зарядная станция с ИБП, UPS, ИБП для дома, зарядная станция чистая синусоида, зарядная станция для холодильника, зарядная станция для котла, зарядная станция для роутера, зарядная станция для телевизора, зарядная станция для ноутбука, зарядная станция для ПК, зарядная станция для электроинструмента, зарядная станция для насоса, зарядная станция для кемпинга, зарядная станция для солнечных панелей, power station, p</keywords>
+<keywords_ua>зарядна станція, портативна зарядна станція, OUKITEL P5000E PRO, OUKITEL P5000E Pro, Oukitel P5000 Pro, зарядна станція 4000 Вт, зарядна станція 5120 Вт год, зарядна станція 5120Wh, зарядна станція 5 кВт, зарядна станція 5 кВт год, зарядна станція LiFePO4, LiFePO4 зарядна станція, потужна зарядна станція, зарядна станція для дому, зарядна станція для квартири, зарядна станція для будинку, зарядна станція для блекауту, зарядна станція при відключенні світла, резервне живлення, резервне живлення будинку, резервне живлення квартири, акумуляторна станція, портативна електростанція, автономне живлення, зарядна станція 220В, зарядна станція з ДБЖ, UPS, ДБЖ для дому, зарядна станція чиста синусоїда, зарядна станція для холодильника, зарядна станція для котла, зарядна станція для роутера, зарядна станція для телевізора, зарядна станція для ноутбука, зарядна станція для ПК, зарядна станція для електроінструменту, зарядна станція для насоса, зарядна станція для кемпінгу, зарядна станція для сонячних панелей, power stat</keywords_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Ширина" unit="мм">299</param>
+<param name="Довжина" unit="мм">550</param>
+<param name="Вага" unit="кг">53</param>
+<param name="Тип">Зарядна станція</param>
+<param name="Стан">Новий</param>
+<param name="Висота" unit="мм">487</param>
+<param name="Особливості">Функція ДБЖ (UPS), Швидке заряджання батареї, З ручкою, З колесами, З управлінням через смартфон</param>
+<param name="Колір корпусу">Сірий</param>
+<param name="Час зарядки" unit="годин">1.5</param>
+<param name="Тип акумулятора">LiFePO4</param>
+<param name="Призначення">Для всього будинку</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Гарантійний термін" unit="міс">12</param>
+<param name="Вихідна напруга" unit="В">240</param>
+<param name="Ємність акумулятору" unit="мА/год">100000</param>
+<param name="Цикли зарядки">5000</param>
+<param name="Функція ДБЖ">Так</param>
+<param name="Тип (версія) розеток">Європейський</param>
+<param name="Роз'єми">USB, Type-C, DC, USB Type-A, XT60, AC</param>
+<param name="Місткість зарядної станції, Вт*год">5120</param>
+<param name="Максимальна потужність заряджання (220В), Вт">3200</param>
+<param name="Максимальна потужність W">7300</param>
+<param name="Кількість розеток">5</param>
+<param name="Кількість пристроїв, що заряджаються">14</param>
+<param name="Країна реєстрації бренда">Китай</param>
+<param name="Зарядка батареї">Від мережі, Від сонячної енергія, Від автомобільної зарядки</param>
+<param name="Вхідна напруга" unit="В">240</param>
+<param name="Вихідні інтерфейси">USB Type A</param>
+<param name="Вихідний струм" unit="мА">15000</param>
+<param name="Вихідна потужність (загальна), Вт">4000</param>
+</offer>
+<offer id="EN-BP2000E-PRO" available="true" in_stock="true">
+<price>54000</price>
+<oldprice>55000</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>990004</categoryId>
+<picture>https://images.prom.ua/7736686602_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736686603_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736686604_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736686605_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736686832_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736686835_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736686836_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<picture>https://images.prom.ua/7736686834_zaryadnaya-stantsiya-oukitel.jpg</picture>
+<vendor>Oukitel</vendor>
+<vendorCode>BP2000E PRO</vendorCode>
+<quantity_in_stock>3</quantity_in_stock>
+<name>Зарядная станция OUKITEL BP2000E PRO 3600W 2048Wh LiFePO4, портативная электростанция</name>
+<name_ua>Зарядна станція OUKITEL BP2000E PRO 3600W 2048Wh LiFePO4, портативна електростанція</name_ua>
+<description><![CDATA[<p><strong>OKITEL BP2000E PRO - мощная портативная зарядная станция с емкостью 2048 Вт*ч и номинальной мощностью 3600 Вт.</strong></p>
+<p>Станция оснащена современным аккумулятором&nbsp;<strong>LiFePO4</strong>чистой синусоидой и функцией&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;с автоматическим переключением до 10 мс. Пиковая мощность достигает&nbsp;<strong>7200 Вт</strong>, поэтому станция подходит для питания как бытовой электроники, так и мощной техники.</p>
+<h3 data-section-id="ts3zjk">Основные характеристики:</h3>
+<ul>
+<li data-section-id="1ihf0kw">Емкость -&nbsp;<strong>2048 Вт*ч</strong></li>
+<li data-section-id="5w4e05">Номинальная мощность &mdash;&nbsp;<strong>3600 Вт</strong></li>
+<li data-section-id="23hv84">Пиковая мощность &mdash;&nbsp;<strong>7200 Вт</strong></li>
+<li data-section-id="eg25an">Аккумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
+<li data-section-id="12qqq2l">Ресурс &mdash; до&nbsp;<strong>3500 циклов</strong></li>
+<li data-section-id="1hl12nj">Чистая синусоида</li>
+<li data-section-id="b7jt77">Функция&nbsp;<strong>ДБЖ (UPS)</strong></li>
+<li data-section-id="10pm4g9">Переключение на резервное питание &mdash; до&nbsp;<strong>10 мс</strong></li>
+<li data-section-id="fzs285">5 розеток AC</li>
+<li data-section-id="ket8d4">USB-A и USB-C</li>
+<li data-section-id="9zx94v">DC выходы</li>
+<li data-section-id="14tqivp">Автомобильный выход</li>
+<li data-section-id="6m3et2">Зарядка от сети &mdash; до&nbsp;<strong>1800 Вт</strong></li>
+<li data-section-id="1xthh94">Зарядка от солнечных панелей &mdash; до&nbsp;<strong>1000 Вт</strong></li>
+<li data-section-id="14tjefk">Управление со смартфона</li>
+<li data-section-id="1oz53p">Информационный дисплей</li>
+<li data-section-id="pyv0wg">Вес -&nbsp;<strong>26 кг</strong></li>
+<li data-section-id="1exjtsl">Размеры -&nbsp;<strong>480 &times; 296 &times; 322 мм</strong></li>
+</ul>
+<h3 data-section-id="1ojzypi">Для чего подходит</h3>
+<p><strong>OUKITEL BP2000E PRO</strong>&nbsp;можно использовать как резервный источник питания для дома, квартиры, офиса и загородного дома.</p>
+<p>Станция подходит для питания:</p>
+<ul>
+<li data-section-id="13fcont">холодильника;</li>
+<li data-section-id="quux6d">газового котла;</li>
+<li data-section-id="hdkall">роутера;</li>
+<li data-section-id="1lqasc7">телевизора;</li>
+<li data-section-id="1t9o4ou">ноутбука и ПК;</li>
+<li data-section-id="arpg7f">освещение;</li>
+<li data-section-id="6yicsw">насоса;</li>
+<li data-section-id="10d6cs0">электроинструмента;</li>
+<li data-section-id="a8zx5v">другой бытовой техники.</li>
+</ul>
+<p>Благодаря большой емкости&nbsp;<strong>2048 Вт*ч</strong>&nbsp;станция обеспечивает длительное автономное питание во время отключений электроэнергии.</p>
+<h3 data-section-id="jt77v7">Зарядка</h3>
+<p>Станцию можно заряжать&nbsp;<strong>от электросети, автомобиля или солнечных панелей</strong>. Мощность зарядки от сети &mdash; до&nbsp;<strong>1800 Вт</strong>, от солнечных панелей &mdash; до&nbsp;<strong>1000 Вт</strong>.</p>
+<p data-is-last-node="" data-is-only-node=""><strong>Стан:</strong>&nbsp;новый.<br/>
+<strong>Гарантия:</strong>&nbsp;24 месяца.</p>]]></description>
+<description_ua><![CDATA[<p><strong>OUKITEL BP2000E PRO &mdash; потужна портативна зарядна станція з ємністю 2048 Вт&middot;год та номінальною потужністю 3600 Вт.</strong></p>
+<p>Станція оснащена сучасним акумулятором&nbsp;<strong>LiFePO4</strong>, чистою синусоїдою та функцією&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;з автоматичним перемиканням до 10 мс. Пікова потужність досягає&nbsp;<strong>7200 Вт</strong>, тому станція підходить для живлення як побутової електроніки, так і потужної техніки.</p>
+<h3 data-section-id="ts3zjk">Основні характеристики:</h3>
+<ul>
+<li data-section-id="1ihf0kw">Ємність &mdash;&nbsp;<strong>2048 Вт&middot;год</strong></li>
+<li data-section-id="5w4e05">Номінальна потужність &mdash;&nbsp;<strong>3600 Вт</strong></li>
+<li data-section-id="23hv84">Пікова потужність &mdash;&nbsp;<strong>7200 Вт</strong></li>
+<li data-section-id="eg25an">Акумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
+<li data-section-id="12qqq2l">Ресурс &mdash; до&nbsp;<strong>3500 циклів</strong></li>
+<li data-section-id="1hl12nj">Чиста синусоїда</li>
+<li data-section-id="b7jt77">Функція&nbsp;<strong>ДБЖ (UPS)</strong></li>
+<li data-section-id="10pm4g9">Перемикання на резервне живлення &mdash; до&nbsp;<strong>10 мс</strong></li>
+<li data-section-id="fzs285">5 розеток AC</li>
+<li data-section-id="ket8d4">USB-A та USB-C</li>
+<li data-section-id="9zx94v">DC-виходи</li>
+<li data-section-id="14tqivp">Автомобільний вихід</li>
+<li data-section-id="6m3et2">Заряджання від мережі &mdash; до&nbsp;<strong>1800 Вт</strong></li>
+<li data-section-id="1xthh94">Заряджання від сонячних панелей &mdash; до&nbsp;<strong>1000 Вт</strong></li>
+<li data-section-id="14tjefk">Керування зі смартфона</li>
+<li data-section-id="1oz53p">Інформаційний дисплей</li>
+<li data-section-id="pyv0wg">Вага &mdash;&nbsp;<strong>26 кг</strong></li>
+<li data-section-id="1exjtsl">Розміри &mdash;&nbsp;<strong>480 &times; 296 &times; 322 мм</strong></li>
+</ul>
+<h3 data-section-id="1ojzypi">Для чого підходить</h3>
+<p><strong>OUKITEL BP2000E PRO</strong>&nbsp;можна використовувати як резервне джерело живлення для будинку, квартири, офісу та заміського будинку.</p>
+<p>Станція підходить для живлення:</p>
+<ul>
+<li data-section-id="13fcont">холодильника;</li>
+<li data-section-id="quux6d">газового котла;</li>
+<li data-section-id="hdkall">роутера;</li>
+<li data-section-id="1lqasc7">телевізора;</li>
+<li data-section-id="1t9o4ou">ноутбука та ПК;</li>
+<li data-section-id="arpg7f">освітлення;</li>
+<li data-section-id="6yicsw">насоса;</li>
+<li data-section-id="10d6cs0">електроінструменту;</li>
+<li data-section-id="a8zx5v">іншої побутової техніки.</li>
+</ul>
+<p>Завдяки великій ємності&nbsp;<strong>2048 Вт&middot;год</strong>&nbsp;станція забезпечує тривале автономне живлення під час відключень електроенергії.</p>
+<h3 data-section-id="jt77v7">Заряджання</h3>
+<p>Станцію можна заряджати&nbsp;<strong>від електромережі, автомобіля або сонячних панелей</strong>. Потужність заряджання від мережі &mdash; до&nbsp;<strong>1800 Вт</strong>, від сонячних панелей &mdash; до&nbsp;<strong>1000 Вт</strong>.</p>
+<p data-is-last-node="" data-is-only-node=""><strong>Стан:</strong>&nbsp;новий.<br/>
+<strong>Гарантія:</strong>&nbsp;24 місяці.</p>]]></description_ua>
+<keywords>зарядная станция, портативная зарядная станция, OUKITEL BP2000E PRO, OUKITEL BP2000E, Oukitel BP2000 Pro, зарядная станция 3600 Вт, зарядная станция 2048 Втч, зарядная станция 2048Wh, зарядная станция 7200 Вт, зарядная станция LiFePO4, LiFeO4 зарядная станция мощная зарядная станция, зарядная станция для дома, зарядная станция для квартиры, зарядная станция для блэкаута, зарядная станция при отключении света, резервное питание, резервное питание для дома, резервное питание квартиры, аккумуляторная станция, портативная электростанция, автономное питание, зарядная станция 220В, зарядная станция с ИБП, ИБП, UPS, зарядная станция чистая синусоида, зарядная станция для холодильника, зарядная станция для котла, зарядная станция для роутера, зарядная станция для телевизора, зарядная станция для ноутбука, зарядная станция для ПК, зарядная станция для насоса, зарядная станция для электроинструмента, зарядная станция для освещения, зарядная станция для солнечных панелей, зарядная станция 5 кВт, power station, portable</keywords>
+<keywords_ua>зарядна станція, портативна зарядна станція, OUKITEL BP2000E PRO, OUKITEL BP2000E, Oukitel BP2000 Pro, зарядна станція 3600 Вт, зарядна станція 2048 Вт год, зарядна станція 2048Wh, зарядна станція 7200 Вт, зарядна станція LiFePO4, LiFePO4 зарядна станція, потужна зарядна станція, зарядна станція для дому, зарядна станція для квартири, зарядна станція для будинку, зарядна станція для блекауту, зарядна станція при відключенні світла, резервне живлення, резервне живлення для дому, резервне живлення квартири, акумуляторна станція, портативна електростанція, автономне живлення, зарядна станція 220В, зарядна станція з ДБЖ, ДБЖ, UPS, зарядна станція чиста синусоїда, зарядна станція для холодильника, зарядна станція для котла, зарядна станція для роутера, зарядна станція для телевізора, зарядна станція для ноутбука, зарядна станція для ПК, зарядна станція для насоса, зарядна станція для електроінструменту, зарядна станція для освітлення, зарядна станція для сонячних панелей, зарядна станція 5 кВт, power station, port</keywords_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Ширина" unit="мм">296</param>
+<param name="Довжина" unit="мм">480</param>
+<param name="Вага" unit="кг">26</param>
+<param name="Тип">Зарядна станція</param>
+<param name="Стан">Новий</param>
+<param name="Висота" unit="мм">322</param>
+<param name="Особливості">Функція ДБЖ (UPS), Швидке заряджання батареї, З управлінням через смартфон</param>
+<param name="Колір корпусу">Сірий</param>
+<param name="Час зарядки" unit="годин">1.5</param>
+<param name="Тип акумулятора">LiFePO4</param>
+<param name="Призначення">Для всього будинку</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Гарантійний термін" unit="міс">24</param>
+<param name="Вихідна напруга" unit="В">240</param>
+<param name="Ємність акумулятору" unit="мА/год">40000</param>
+<param name="Цикли зарядки">3500</param>
+<param name="Функція ДБЖ">Так</param>
+<param name="Тип (версія) розеток">Європейський</param>
+<param name="Роз'єми">USB, Type-C, DC, USB Type-A, Розетка AC 220В</param>
+<param name="Місткість зарядної станції, Вт*год">2048</param>
+<param name="Максимальна потужність заряджання (220В), Вт">1800</param>
+<param name="Максимальна потужність W">7200</param>
+<param name="Кількість розеток">5</param>
+<param name="Кількість пристроїв, що заряджаються">15</param>
+<param name="Країна реєстрації бренда">Китай</param>
+<param name="Зарядка батареї">Від мережі, Від сонячної енергія, Від автомобільної зарядки</param>
+<param name="Вхідна напруга" unit="В">240</param>
+<param name="Вихідні інтерфейси">USB Type C</param>
+<param name="Вихідний струм" unit="мА">15000</param>
+<param name="Вихідна потужність (загальна), Вт">3600</param>
+</offer>
+<offer id="EN-UPS-DC1018P" available="true" in_stock="true">
+<price>1614</price>
+<oldprice>1899</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>990005</categoryId>
+<picture>https://images.prom.ua/7736780023_ibp-ups-dc1018p.jpg</picture>
+<picture>https://images.prom.ua/7736780293_ibp-ups-dc1018p.jpg</picture>
+<picture>https://images.prom.ua/7736780301_ibp-ups-dc1018p.jpg</picture>
+<picture>https://images.prom.ua/7736780303_ibp-ups-dc1018p.jpg</picture>
+<picture>https://images.prom.ua/7736780299_ibp-ups-dc1018p.jpg</picture>
+<vendor>DC</vendor>
+<vendorCode>ДБЖ UPS DC1018P</vendorCode>
+<quantity_in_stock>5</quantity_in_stock>
+<name>ИБП UPS DC1018P 10400mAh для роутера и ONU, Mini UPS 5V/9V/12V/15V/24V, USB POE LAN</name>
+<name_ua>ДБЖ UPS DC1018P 10400mAh для роутера та ONU, Mini UPS 5V/9V/12V/15V/24V, USB POE LAN</name_ua>
+<description><![CDATA[<p><strong>Mini UPS DC1018P 10400mAh &mdash; источник бесперебойного питания для роутера, ONU/GPON, модема и другого сетевого оборудования.</strong></p>
+<p>DC1018P помогает поддерживать работу совместимого оборудования при отключении электроэнергии. При исчезновении сетевого питания устройство автоматически переходит на встроенный аккумулятор, а после восстановления электроэнергии возвращается к питанию от сети. Переключение происходит без задержки заявленной для данной модели в виде 0 мс.&nbsp;</p>
+<h3 data-section-id="14zdxpx">Основные преимущества</h3>
+<ul>
+<li data-section-id="1nhyfaf">аккумулятор&nbsp;<strong>10400 мАч</strong>;</li>
+<li data-section-id="127pldt">максимальная выходная мощность&nbsp;<strong>18 Вт</strong>;</li>
+<li data-section-id="x8gpkn">выходы&nbsp;<strong>5V / 9V / 12V</strong>;</li>
+<li data-section-id="1e1h9ag">USB&nbsp;<strong>5V/2A</strong>;</li>
+<li data-section-id="1tf3ds4">POE&nbsp;<strong>15V/24V</strong>;</li>
+<li data-section-id="628a94">поддержка подключения роутера и ONU/GPON;</li>
+<li data-section-id="1bhm2rq">LAN/RJ45;</li>
+<li data-section-id="m74u6x">автоматическое переключение на аккумулятор;</li>
+<li data-section-id="1typmok">холодный старт;</li>
+<li data-section-id="r1rk1h">автоматическое восстановление работы после появления электроэнергии;</li>
+<li data-section-id="xbny3s">LED индикация уровня заряда;</li>
+<li data-section-id="1nsslcf">защита от короткого замыкания, перегрузки, перезарядки и переразряда;</li>
+<li data-section-id="u2jgbw">компактный корпус.</li>
+</ul>
+<p>DC1018P может использоваться для&nbsp;<strong>Wi-Fi роутеров, оптических терминалов ONU/GPON, модемов, камер видеонаблюдения и другого совместимого оборудования постоянного тока</strong>.&nbsp;</p>
+<h3 data-section-id="1oe9l8b">Выходы</h3>
+<p><strong>DC 5V:</strong>&nbsp;до 2A<br/>
+<strong>DC 9V:</strong>&nbsp;до 1A<br/>
+<strong>DC 12V:</strong>&nbsp;до 1A<br/>
+<strong>USB:</strong>&nbsp;5V/2A<br/>
+<strong>POE:</strong>&nbsp;15V или 24V, до 0.6A</p>
+<p>Перед подключением обязательно проверьте&nbsp;<strong>напряжение, полярность, тип разъема и необходимый ток</strong>&nbsp;вашего оборудования. Для POE необходимо установить соответствующее значение 15V или 24V.&nbsp;</p>
+<h3 data-section-id="fu5i7j">Характеристики</h3>
+<ul>
+<li data-section-id="1r08dvd">Модель:&nbsp;<strong>DC1018P</strong></li>
+<li data-section-id="jsl4aw">Тип:&nbsp;<strong>Mini UPS / ДБЖ / Power Bank</strong></li>
+<li data-section-id="1n2138k">Емкость:&nbsp;<strong>10400 мАч</strong></li>
+<li data-section-id="h7qq3d">Тип аккумулятора:&nbsp;<strong>Li-Ion</strong></li>
+<li data-section-id="dy8554">Количество аккумуляторов:&nbsp;<strong>4 &times; 2600 мАч</strong></li>
+<li data-section-id="ec7hb4">Максимальная мощность:&nbsp;<strong>18 Вт</strong></li>
+<li data-section-id="1g0vq83">Входное напряжение:&nbsp;<strong>85&ndash;265V AC</strong></li>
+<li data-section-id="oaazcf">Частота:&nbsp;<strong>50&ndash;60 Гц</strong></li>
+<li data-section-id="1q0boat">DC 5V:&nbsp;<strong>2A</strong></li>
+<li data-section-id="1kfdz56">DC 9V:&nbsp;<strong>1A</strong></li>
+<li data-section-id="1v0u3m8">DC 12V:&nbsp;<strong>1A</strong></li>
+<li data-section-id="1g4ggq1">USB:&nbsp;<strong>5V/2A</strong></li>
+<li data-section-id="1qtj2iq">POE:&nbsp;<strong>15V/24V, 0,6A</strong></li>
+<li data-section-id="1dzg2k7">Время переключения:&nbsp;<strong>0 мс</strong></li>
+<li data-section-id="p5tpag">Время полной зарядки:&nbsp;<strong>до 2 годин</strong></li>
+<li data-section-id="c8zpde">Размер:&nbsp;<strong>160 &times; 105 &times; 33 мм</strong></li>
+<li data-section-id="1nw38vz">Вес:&nbsp;<strong>около 0.4 кг</strong></li>
+<li data-section-id="8vdhni">Цвет:&nbsp;<strong>черный</strong></li>
+<li data-section-id="uy2dsg">Страна производства:&nbsp;<strong>Китай</strong></li>
+</ul>
+<h3 data-section-id="biu120">Комплектация</h3>
+<ul>
+<li data-section-id="1oluznd">Mini UPS DC1018P;</li>
+<li data-section-id="1qm1tsn">кабель питания;</li>
+<li data-section-id="1y903b4">DC-кабель;</li>
+<li data-section-id="1kjvkba">DC разветвитель для подключения двух устройств;</li>
+<li data-section-id="1o0tvfs">инструкция.</li>
+</ul>]]></description>
+<description_ua><![CDATA[<p><strong>Mini UPS DC1018P 10400mAh &mdash; джерело безперебійного живлення для роутера, ONU/GPON, модема та іншого мережевого обладнання.</strong></p>
+<p>DC1018P допомагає підтримувати роботу сумісного обладнання під час відключення електроенергії. При зникненні мережевого живлення пристрій автоматично переходить на вбудований акумулятор, а після відновлення електроенергії повертається до живлення від мережі. Перемикання відбувається без затримки, заявленої для цієї моделі як 0 мс.&nbsp;</p>
+<h3 data-section-id="14zdxpx">Основні переваги</h3>
+<ul>
+<li data-section-id="1nhyfaf">акумулятор&nbsp;<strong>10400 мАг</strong>;</li>
+<li data-section-id="127pldt">максимальна вихідна потужність&nbsp;<strong>18 Вт</strong>;</li>
+<li data-section-id="x8gpkn">виходи&nbsp;<strong>5V / 9V / 12V</strong>;</li>
+<li data-section-id="1e1h9ag">USB&nbsp;<strong>5V/2A</strong>;</li>
+<li data-section-id="1tf3ds4">POE&nbsp;<strong>15V/24V</strong>;</li>
+<li data-section-id="628a94">підтримка підключення роутера та ONU/GPON;</li>
+<li data-section-id="1bhm2rq">LAN/RJ45;</li>
+<li data-section-id="m74u6x">автоматичне перемикання на акумулятор;</li>
+<li data-section-id="1typmok">холодний старт;</li>
+<li data-section-id="r1rk1h">автоматичне відновлення роботи після появи електроенергії;</li>
+<li data-section-id="xbny3s">LED-індикація рівня заряду;</li>
+<li data-section-id="1nsslcf">захист від короткого замикання, перевантаження, перезаряджання та перерозряджання;</li>
+<li data-section-id="u2jgbw">компактний корпус.</li>
+</ul>
+<p>DC1018P може використовуватися для&nbsp;<strong>Wi-Fi роутерів, оптичних терміналів ONU/GPON, модемів, камер відеоспостереження та іншого сумісного обладнання постійного струму</strong>.&nbsp;</p>
+<h3 data-section-id="1oe9l8b">Виходи</h3>
+<p><strong>DC 5V:</strong>&nbsp;до 2A<br/>
+<strong>DC 9V:</strong>&nbsp;до 1A<br/>
+<strong>DC 12V:</strong>&nbsp;до 1A<br/>
+<strong>USB:</strong>&nbsp;5V/2A<br/>
+<strong>POE:</strong>&nbsp;15V або 24V, до 0,6A</p>
+<p>Перед підключенням обов&#39;язково перевірте&nbsp;<strong>напругу, полярність, тип роз&#39;єму та необхідний струм</strong>&nbsp;вашого обладнання. Для POE необхідно встановити відповідне значення 15V або 24V.&nbsp;</p>
+<h3 data-section-id="fu5i7j">Характеристики</h3>
+<ul>
+<li data-section-id="1r08dvd">Модель:&nbsp;<strong>DC1018P</strong></li>
+<li data-section-id="jsl4aw">Тип:&nbsp;<strong>Mini UPS / ДБЖ / Power Bank</strong></li>
+<li data-section-id="1n2138k">Ємність:&nbsp;<strong>10400 мАг</strong></li>
+<li data-section-id="h7qq3d">Тип акумулятора:&nbsp;<strong>Li-Ion</strong></li>
+<li data-section-id="dy8554">Кількість акумуляторів:&nbsp;<strong>4 &times; 2600 мАг</strong></li>
+<li data-section-id="ec7hb4">Максимальна потужність:&nbsp;<strong>18 Вт</strong></li>
+<li data-section-id="1g0vq83">Вхідна напруга:&nbsp;<strong>85&ndash;265V AC</strong></li>
+<li data-section-id="oaazcf">Частота:&nbsp;<strong>50&ndash;60 Гц</strong></li>
+<li data-section-id="1q0boat">DC 5V:&nbsp;<strong>2A</strong></li>
+<li data-section-id="1kfdz56">DC 9V:&nbsp;<strong>1A</strong></li>
+<li data-section-id="1v0u3m8">DC 12V:&nbsp;<strong>1A</strong></li>
+<li data-section-id="1g4ggq1">USB:&nbsp;<strong>5V/2A</strong></li>
+<li data-section-id="1qtj2iq">POE:&nbsp;<strong>15V/24V, 0,6A</strong></li>
+<li data-section-id="1dzg2k7">Час перемикання:&nbsp;<strong>0 мс</strong></li>
+<li data-section-id="p5tpag">Час повного заряджання:&nbsp;<strong>до 2 годин</strong></li>
+<li data-section-id="c8zpde">Розмір:&nbsp;<strong>160 &times; 105 &times; 33 мм</strong></li>
+<li data-section-id="1nw38vz">Вага:&nbsp;<strong>близько 0,4 кг</strong></li>
+<li data-section-id="8vdhni">Колір:&nbsp;<strong>чорний</strong></li>
+<li data-section-id="uy2dsg">Країна виробництва:&nbsp;<strong>Китай</strong></li>
+</ul>
+<h3 data-section-id="biu120">Комплектація</h3>
+<ul>
+<li data-section-id="1oluznd">Mini UPS DC1018P;</li>
+<li data-section-id="1qm1tsn">кабель живлення;</li>
+<li data-section-id="1y903b4">DC-кабель;</li>
+<li data-section-id="1kjvkba">DC-розгалужувач для підключення двох пристроїв;</li>
+<li data-section-id="1o0tvfs">інструкція.</li>
+</ul>]]></description_ua>
+<keywords>ДБЖ для роутера, UPS для роутера, безперебійник для роутера, ДБЖ для WiFi роутера, UPS для WiFi роутера, Mini UPS, Mini UPS для роутера, DC1018P, DC1018P 10400mAh, повербанк для роутера, Power Bank UPS, ДБЖ 10400 мАг, UPS 10400mAh, ДБЖ 18W, UPS 18W, ДБЖ 5V 9V 12V, UPS 5V 9V 12V, ИБП 15V 24V, UPS POE 15V 24V, ИБП для ONU, UPS для ONU, ИБП для GPON, UPS для GPON, ИБП для модема, бесперебойное питание роутера, бесперебойное питание ONU, резервное питание роутера, резервное питание интернета, ИБП с PO, UPS с POE, ИБП USB, UPS USB, ИБП LAN, UPS LAN, ИБП для оптики, ИБП для интернета, павербанк для модема, аккумулятор для роутера</keywords>
+<keywords_ua>ДБЖ для роутера, UPS для роутера, безперебійник для роутера, ДБЖ для WiFi роутера, UPS для WiFi роутера, Mini UPS, Mini UPS для роутера, DC1018P, DC1018P 10400mAh, повербанк для роутера, Power Bank UPS, ДБЖ 10400 мАг, UPS 10400mAh, ДБЖ 18W, UPS 18W, ДБЖ 5V 9V 12V, UPS 5V 9V 12V, ДБЖ 15V 24V, UPS POE 15V 24V, ДБЖ для ONU, UPS для ONU, ДБЖ для GPON, UPS для GPON, ДБЖ для модема, безперебійне живлення роутера, безперебійне живлення ONU, резервне живлення роутера, резервне живлення інтернету, ДБЖ з POE, UPS з POE, ДБЖ USB, UPS USB, ДБЖ LAN, UPS LAN, ДБЖ для оптики, ДБЖ для інтернету, павербанк для модема, акумулятор для роутера</keywords_ua>
+<country_of_origin>Китай</country_of_origin>
+<param name="Ширина" unit="мм">105</param>
+<param name="Довжина" unit="мм">160</param>
+<param name="Вага" unit="кг">0.4</param>
+<param name="Стан">Новий</param>
+<param name="Висота" unit="мм">33</param>
+<param name="Колір корпусу">Чорний</param>
+<param name="Час зарядки" unit="годин">2</param>
+<param name="Тип акумулятора">Li-Ion</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Колір">Синій</param>
+<param name="Захист від перегріву">Так</param>
+<param name="Гарантійний термін" unit="міс">3</param>
+<param name="Вихідна напруга" unit="В">12</param>
+<param name="Ємність акумулятору" unit="мАг">10400</param>
+<param name="Захист від короткого замикання">Так</param>
+<param name="Частота струму" unit="Гц">50</param>
+<param name="Час перемикання" unit="мс">0</param>
+<param name="Тип монтажу">Поверхневий</param>
+<param name="Тип запобіжника">Автоматичний</param>
+<param name="Тип ДБЖ">Лінійно-інтерактивний (Line-Interactive)</param>
+<param name="Сумісність з типом АКБ">Li-Ion</param>
+<param name="Призначення / Застосування">Для роутера / модему / камер</param>
+<param name="Наявність холодного старту">Так</param>
+<param name="Наявність PoE виходу">Є PoE вихід</param>
+<param name="Наявність MPPT контролера">Без MPPT</param>
+<param name="Напруга акумулятору" unit="В">3.7</param>
+<param name="Мінімальна вхідна напруга" unit="В">100</param>
+<param name="Максимальна потужність" unit="Вт">18</param>
+<param name="Максимальна вхідна напруга" unit="В">240</param>
+<param name="Кількість вхідних розеток" unit="шт.">1</param>
+<param name="Захист від переполюсовки">Так</param>
+<param name="Захист від перевантаження">Так</param>
+<param name="Додатковий акумулятор">Ні</param>
+<param name="Вихідна потужність" unit="Вт">18</param>
+<param name="Автоматичне регулювання напруги">Так</param>
+<param name="Інтерфейс для підключення зовнішніх пристроїв">LAN (Ethernet), DC, RJ-45</param>
+<param name="Індикація">Світлова</param>
+</offer>
+</offers>
  </shop>
 </yml_catalog>
