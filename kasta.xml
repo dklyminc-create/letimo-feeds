@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-10 21:08">
+<yml_catalog date="2026-10-10 22:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -102661,7 +102661,95 @@ SYSTEM "shops.dtd">
 <param name="Склад">Тринитка з начосом: 70% бавовна, 30% поліестер</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="96054354" available="false">
+   <offer id="91685306" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT80575467</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3776</price>
+<price_old>3776</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-75231542445257_%2B49ff69b913.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-53742445376024_%2Bd9f8d7edda.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-93234766222022_%2B3cd546dc3b.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-72456750629649_%2B64b957fc55.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-34533130810642_%2B1b69213472.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-82404662259779_%2B10341b8b8e.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-52201302661607_%2B6d88862a73.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-86433094319770_%2B49a22553c9.jpg</picture>
+<param name="Розмір">74/80</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91711253" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT80575467</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3776</price>
+<price_old>3776</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/22/apollo_leopard_fur_80-93503349948689_%2Bd1c847a21f.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-53742445376024_%2Bd9f8d7edda.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-93234766222022_%2B3cd546dc3b.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-72456750629649_%2B64b957fc55.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-34533130810642_%2B1b69213472.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-82404662259779_%2B10341b8b8e.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-52201302661607_%2B6d88862a73.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-86433094319770_%2B49a22553c9.jpg</picture>
+<param name="Розмір">80/86</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91717019" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT80575467</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3776</price>
+<price_old>3776</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/23/apollo_leopard_fur_86-22846815555750_%2B690e1f638e.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-53742445376024_%2Bd9f8d7edda.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-93234766222022_%2B3cd546dc3b.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-72456750629649_%2B64b957fc55.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-34533130810642_%2B1b69213472.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-82404662259779_%2B10341b8b8e.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-52201302661607_%2B6d88862a73.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-86433094319770_%2B49a22553c9.jpg</picture>
+<param name="Розмір">86/92</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91742966" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT80575467</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3776</price>
+<price_old>3776</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/24/apollo_leopard_fur_92-45860300375195_%2B40f4bc4238.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-53742445376024_%2Bd9f8d7edda.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-93234766222022_%2B3cd546dc3b.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-72456750629649_%2B64b957fc55.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-34533130810642_%2B1b69213472.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-82404662259779_%2B10341b8b8e.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-52201302661607_%2B6d88862a73.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-86433094319770_%2B49a22553c9.jpg</picture>
+<param name="Розмір">92/98</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="96054354" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -102685,7 +102773,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91685306" available="false">
+<offer id="91685307" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -102707,7 +102795,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91711253" available="true">
+<offer id="91711254" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -102729,7 +102817,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91717019" available="true">
+<offer id="91717020" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -102751,7 +102839,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91742966" available="false">
+<offer id="91742967" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103141,6 +103229,270 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+<offer id="91144312" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT81064784</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-97944984674773_%2B7626e7d7e5.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-73664260262476_%2B62f5d1cca9.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-19029890890507_%2Bb33b0fdfa8.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-20515906476650_%2B9ecb52c87f.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-87588584712675_%2B6c63f88474.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-92238067811938_%2Be1395088b7.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-45792103804610_%2B5164455bea.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-89620102843652_%2B29c0cf44f2.jpg</picture>
+<param name="Розмір">74/80</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91144339" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT81064784</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/18/apollo_leopard_80-77970279208217_%2B26967dfa55.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-73664260262476_%2B62f5d1cca9.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-19029890890507_%2Bb33b0fdfa8.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-20515906476650_%2B9ecb52c87f.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-87588584712675_%2B6c63f88474.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-92238067811938_%2Be1395088b7.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-45792103804610_%2B5164455bea.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-89620102843652_%2B29c0cf44f2.jpg</picture>
+<param name="Розмір">80/86</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91144345" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT81064784</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/19/apollo_leopard_86-49961826810863_%2Bec45f70e40.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-73664260262476_%2B62f5d1cca9.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-19029890890507_%2Bb33b0fdfa8.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-20515906476650_%2B9ecb52c87f.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-87588584712675_%2B6c63f88474.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-92238067811938_%2Be1395088b7.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-45792103804610_%2B5164455bea.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-89620102843652_%2B29c0cf44f2.jpg</picture>
+<param name="Розмір">86/92</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91144372" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT81064784</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Леопард]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/20/apollo_leopard_92-45561348071559_%2Bbc2aa89409.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-73664260262476_%2B62f5d1cca9.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-19029890890507_%2Bb33b0fdfa8.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-20515906476650_%2B9ecb52c87f.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-87588584712675_%2B6c63f88474.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-92238067811938_%2Be1395088b7.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-45792103804610_%2B5164455bea.jpg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_leopard_74-89620102843652_%2B29c0cf44f2.jpg</picture>
+<param name="Розмір">92/98</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="94504459" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT88899585</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Перший сніг]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-47551914176955_%2Bada16e283b.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-65325461251397_%2Bb6e7482c9a.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-55831927563215_%2B6a0199d8a8.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-39460472550181_%2B535c1d08f1.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-84883487814901_%2B869b092e89.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-98420257536205_%2B13841111ea.jpg</picture>
+<param name="Розмір">74/80</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="94504486" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT88899585</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Перший сніг]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/50/apollo_first_snow_80-95168168145940_%2B10412b232b.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-65325461251397_%2Bb6e7482c9a.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-55831927563215_%2B6a0199d8a8.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-39460472550181_%2B535c1d08f1.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-84883487814901_%2B869b092e89.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-98420257536205_%2B13841111ea.jpg</picture>
+<param name="Розмір">80/86</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="94504492" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT88899585</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Перший сніг]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/1/apollo_first_snow_86-83239482665910_%2B673b229f29.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-65325461251397_%2Bb6e7482c9a.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-55831927563215_%2B6a0199d8a8.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-39460472550181_%2B535c1d08f1.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-84883487814901_%2B869b092e89.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-98420257536205_%2B13841111ea.jpg</picture>
+<param name="Розмір">86/92</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="94504519" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT88899585</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Перший сніг]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/2/apollo_first_snow_92-25850798208141_%2B303c6f945c.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-65325461251397_%2Bb6e7482c9a.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-55831927563215_%2B6a0199d8a8.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-39460472550181_%2B535c1d08f1.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-84883487814901_%2B869b092e89.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-98420257536205_%2B13841111ea.jpg</picture>
+<param name="Розмір">92/98</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95159861" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-75433084972190_%2B18bab6e070.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">74/80</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95159888" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/8/apollo_winter_meadow_80-51575763933764_%2B898f7bd7ff.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">80/86</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95159894" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/9/apollo_winter_meadow_86-20174783545700_%2B46acaa2f6e.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">86/92</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95159921" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3355</price>
+<price_old>3355</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/10/apollo_winter_meadow_92-67891111479217_%2B7d4cff447b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">92/98</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
 <offer id="95616080" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
@@ -103166,7 +103518,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91144312" available="true">
+<offer id="91144313" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103188,7 +103540,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91144339" available="true">
+<offer id="91144340" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103210,7 +103562,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91144345" available="true">
+<offer id="91144346" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103232,7 +103584,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91144372" available="true">
+<offer id="91144373" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103342,7 +103694,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504459" available="true">
+<offer id="94504460" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103364,7 +103716,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504486" available="true">
+<offer id="94504487" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103386,7 +103738,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504492" available="true">
+<offer id="94504493" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103408,7 +103760,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504519" available="true">
+<offer id="94504520" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103430,7 +103782,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95159861" available="true">
+<offer id="95159862" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103452,7 +103804,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95159888" available="true">
+<offer id="95159889" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103474,7 +103826,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95159894" available="true">
+<offer id="95159895" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103496,7 +103848,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95159921" available="true">
+<offer id="95159922" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103809,8 +104161,8 @@ SYSTEM "shops.dtd">
 <price_old>3233</price_old>
 <stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/45/apollo_navy_blue_74_fur-57047644027710_%2Bdf9badcfb4.jpg</picture>
-<picture>https://dorechi.ua/content/images/17/apollo_navy_blue_80_o-12216470497765_%2Bbfea3848ed.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/15788141783447_%2B064f225bf8.jpeg</picture>
+<picture>https://dorechi.ua/content/images/17/apollo_navy_blue_80_o-12216470497765_%2Bbfea3848ed.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_navy_blue_80_o-84987907960350_%2Bb01aa71f9b.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/34243045073150_%2B9c1e4b8e73.jpeg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_navy_blue_80_o-46302197005879_%2B1ab9803e36.jpg</picture>
@@ -104237,6 +104589,30 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+<offer id="98235383" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1131</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82500465</article>
+<name_ua><![CDATA[Конверт Тренд Рожевий]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>3111</price>
+<price_old>3111</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/26/trend_pink-21163791552032_%2Bd2e1e5e5f4.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-32435486154598_%2B498633de17.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-46899017597165_%2Ba993e49260.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-56621970677410_%2B44f34765d6.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-30605288433699_%2B3400d8ae47.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-95874916954588_%2Bc4a5fb1b8f.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-42006594586615_%2B7a70bb9076.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-12143051860841_%2B2e831826c4.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/trend_pink-61041428432998_%2B26568a9925.jpg</picture>
+<param name="Колір">рожевий</param>
+<param name="Розмір">56см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
 <offer id="98746359" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
@@ -104404,7 +104780,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235383" available="true">
+<offer id="98235384" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -105311,6 +105687,7 @@ SYSTEM "shops.dtd">
 <price_old>2434</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/47/baby-xs-dorechi-white-fleece-91672246347234_%2Bafa7b2909b.jpg</picture>
+<picture>https://dorechi.ua/content/images/47/baby-xs-dorechi-white-fleece-90826360591892_%2B9946dd452a.jpg</picture>
 <param name="Колір">білий</param>
 <param name="Розмір">56см</param>
 <param name="Країна виробник">Україна</param>
@@ -105747,15 +106124,15 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/30/47503126451076_%2B2e848690e1.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/38145366666709_%2Ba9d9d95220.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/15177275817053_%2B378fe9df50.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-26491996887612_%2B25ba4fe7e5.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/15221019233059_%2Bb9112782a5.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/74964067325944_%2Bd0b259a6c9.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-26491996887612_%2B25ba4fe7e5.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/32118430794701_%2B710daeddd0.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/69547989207691_%2Bcd535da415.jpeg</picture>
+<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/37979516328004_%2Be9ab7de596.jpeg</picture>
-<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-59363805317524_%2Bab3e97a660.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/82341236044127_%2Bc0931b2a02.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-59363805317524_%2Bab3e97a660.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/zefir_white_56-62-26659584471628_%2B4c024296d4.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/zefir_white_56-62-93111924154082_%2Be2d9ea5221.jpg</picture>
 <param name="Колір">білий</param>
@@ -106496,6 +106873,84 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+<offer id="98235351" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT87387667</article>
+<name_ua><![CDATA[Муфта на флісі М'ятна]]></name_ua>
+<description_ua><![CDATA[<p>Муфта на коляску від українського виробника ДоРечі з флісовою підкладкою — легка, тепла й практична.</p><ul><li>Тепла флісова підкладка.</li><li>Можна прати в пральній машині.</li><li>Багато кольорів і принтів — легко підібрати в тон до конверта чи коляски.</li></ul>]]></description_ua>
+<price>1214</price>
+<price_old>1214</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/44/handmuffs_mint-86840143968888_%2Ba04847b4dc.jpg</picture>
+<picture>https://dorechi.ua/content/images/44/handmuff_mint-55460026589396_%2B3b106f7d0c.jpg</picture>
+<picture>https://dorechi.ua/content/images/44/handmuff_mint-83086474790676_%2B0abc2ac0b5.jpg</picture>
+<picture>https://dorechi.ua/content/images/44/handmuff_mint-20478347049035_%2Be75f78d71c.jpg</picture>
+<picture>https://dorechi.ua/content/images/44/handmuff_mint-30964505384933_%2B8e9a1e7a58.jpg</picture>
+<param name="Колір">м'ятний</param>
+<param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98235352" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT88073149</article>
+<name_ua><![CDATA[Муфта на флісі Рожева]]></name_ua>
+<description_ua><![CDATA[<p>Муфта на коляску від українського виробника ДоРечі з флісовою підкладкою — легка, тепла й практична.</p><ul><li>Тепла флісова підкладка.</li><li>Можна прати в пральній машині.</li><li>Багато кольорів і принтів — легко підібрати в тон до конверта чи коляски.</li></ul>]]></description_ua>
+<price>1214</price>
+<price_old>1214</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/45/handmuff_pink-52995358814256_%2Bf8433ce8a0.jpg</picture>
+<picture>https://dorechi.ua/content/images/45/handmuff_pink-85329455688650_%2B5fbbf2baf9.jpg</picture>
+<picture>https://dorechi.ua/content/images/45/handmuff_pink-71027015948154_%2B1e6006a820.jpg</picture>
+<picture>https://dorechi.ua/content/images/45/handmuff_pink-76152428150828_%2B4d4bcea3a6.jpg</picture>
+<picture>https://dorechi.ua/content/images/45/handmuff_pink-94573489361838_%2B552deeb10c.jpg</picture>
+<param name="Колір">рожевий</param>
+<param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98235375" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83248397</article>
+<name_ua><![CDATA[Муфта на флісі Зелена]]></name_ua>
+<description_ua><![CDATA[<p>Муфта на коляску від українського виробника ДоРечі з флісовою підкладкою — легка, тепла й практична.</p><ul><li>Тепла флісова підкладка.</li><li>Можна прати в пральній машині.</li><li>Багато кольорів і принтів — легко підібрати в тон до конверта чи коляски.</li></ul>]]></description_ua>
+<price>1214</price>
+<price_old>1214</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/47/handmuff_green-62318508358553_%2B6eb1e492f0.jpg</picture>
+<picture>https://dorechi.ua/content/images/47/handmuff_green-11734250586000_%2B77e98f36ea.jpg</picture>
+<picture>https://dorechi.ua/content/images/47/handmuff_green-31621984160584_%2B6cc71b32f3.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98235376" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT88160275</article>
+<name_ua><![CDATA[Муфта на флісі Молочна]]></name_ua>
+<description_ua><![CDATA[<p>Муфта на коляску від українського виробника ДоРечі з флісовою підкладкою — легка, тепла й практична.</p><ul><li>Тепла флісова підкладка.</li><li>Можна прати в пральній машині.</li><li>Багато кольорів і принтів — легко підібрати в тон до конверта чи коляски.</li></ul>]]></description_ua>
+<price>1214</price>
+<price_old>1214</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/48/handmuff_milk-25315856277722_%2B807b340dd6.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/handmuff_milk-12008034559895_%2Be0cc91e63a.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/handmuff_milk-90258742564900_%2Bf8ad83260c.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/handmuff_milk-30200349105637_%2Ba9da53e856.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/handmuff_milk-44661795765486_%2Bfd91dc626c.jpg</picture>
+<param name="Колір">молочний</param>
+<param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
 <offer id="98213060" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
@@ -106683,7 +107138,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235351" available="true">
+<offer id="98235353" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -106703,7 +107158,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235352" available="true">
+<offer id="98235354" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -106723,7 +107178,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235375" available="true">
+<offer id="98235382" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -106743,7 +107198,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235376" available="true">
+<offer id="98235385" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -106761,7 +107216,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235382" available="true">
+<offer id="98235386" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -106979,6 +107434,8 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/5/liner-africa-green-77780664769655_%2B4034314437.jpg</picture>
 <picture>https://dorechi.ua/content/images/5/12338520929018_%2B16eb439fd9.jpg</picture>
 <picture>https://dorechi.ua/content/images/5/liner-africa-green-18874144980976_%2B46f4b43a58.jpg</picture>
+<picture>https://dorechi.ua/content/images/5/liner-africa-green-45872246450713_%2Bf69fe333a0.jpg</picture>
+<picture>https://dorechi.ua/content/images/5/liner-africa-green-93520351178762_%2B73d7166e62.jpg</picture>
 <param name="Колір">зелений</param>
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
@@ -107625,17 +108082,17 @@ SYSTEM "shops.dtd">
 <price_old>793</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/21/merino-beanie-grey-38-32659195185701_%2B8fb7c12a99.jpg</picture>
-<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
+<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
-<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-beanie-grey-40-92410925243183_%2Ba5f9857286.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/77117939501054_%2B33425dcfbd.jpeg</picture>
@@ -107661,9 +108118,9 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
-<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
+<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
@@ -107685,17 +108142,17 @@ SYSTEM "shops.dtd">
 <price_old>793</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/22/78855702463049_%2Bb4170b273a.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-beanie-grey-40-92410925243183_%2Ba5f9857286.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/77117939501054_%2B33425dcfbd.jpeg</picture>
@@ -107745,17 +108202,17 @@ SYSTEM "shops.dtd">
 <price_old>793</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/22/26059471494845_%2B8401a946e9.jpeg</picture>
-<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
+<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
-<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
-<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-beanie-grey-40-92410925243183_%2Ba5f9857286.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/77117939501054_%2B33425dcfbd.jpeg</picture>
@@ -108273,15 +108730,15 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/47557266512200_%2Baa6c8c120f.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/30047524480825_%2Baf08fd9ab6.jpg</picture>
-<picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
-<picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
+<picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-75110277890210_%2Be5a33bc9d9.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31436908535905_%2B5856e52f82.jpg</picture>
-<picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
+<picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
+<picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-49403405019880_%2B44c9e9869d.jpg</picture>
 <param name="Колір">блакитний</param>
 <param name="Розмір">38-40см</param>
@@ -108510,17 +108967,17 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/26/beanie_black_s_44-29498717137425_%2Bc1138a46c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-52193249132773_%2Bc617630c26.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/99445863522602_%2B1a41d8a4bc.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/47371171487969_%2B9de78283fb.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/86060594751488_%2B14892d7c13.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/29131762612200_%2B5a25dff1e0.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
-<picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
+<picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/67215941160519_%2B53d924042e.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/71331503435185_%2B58364bc49f.jpg</picture>
 <param name="Колір">чорний</param>
@@ -108540,15 +108997,15 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/27/53564474513081_%2B819f657c23.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-52193249132773_%2Bc617630c26.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/99445863522602_%2B1a41d8a4bc.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/47371171487969_%2B9de78283fb.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/86060594751488_%2B14892d7c13.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/29131762612200_%2B5a25dff1e0.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/67215941160519_%2B53d924042e.jpg</picture>
@@ -108593,9 +109050,9 @@ SYSTEM "shops.dtd">
 <price_old>397</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/21/16252082186102_%2B7070e86ecf.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/80208806942662_%2B558400a670.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/44054384007210_%2B8d251e1306.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-37980343073689_%2Bd108bedfa0.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/16766077587003_%2B9a8f39008a.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-57114170193192_%2B210e8ce1aa.jpg</picture>
@@ -108617,9 +109074,9 @@ SYSTEM "shops.dtd">
 <price_old>397</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/39/beanie_pink_42-25999460584578_%2B4f3ae28648.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/80208806942662_%2B558400a670.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/44054384007210_%2B8d251e1306.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-37980343073689_%2Bd108bedfa0.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/16766077587003_%2B9a8f39008a.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-57114170193192_%2B210e8ce1aa.jpg</picture>
@@ -108775,14 +109232,14 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-19805707712832_%2Ba13cf56b71.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/53169088647306_%2Bd78f36e5ca.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/beanie_white_42-75950283827443_%2B149496370f.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/37607164481608_%2B4097892b9e.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/27157205262459_%2B747203de53.jpg</picture>
@@ -108833,9 +109290,9 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/35/beanie_white_42-27036985724118_%2B7fd40452f9.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
-<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
+<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
@@ -108862,14 +109319,14 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/20/84990000127678_%2B6202fc2315.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
-<picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/53169088647306_%2Bd78f36e5ca.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/beanie_white_42-75950283827443_%2B149496370f.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/37607164481608_%2B4097892b9e.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/27157205262459_%2B747203de53.jpg</picture>
