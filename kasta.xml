@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-10 08:08">
+<yml_catalog date="2026-10-10 09:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -103518,6 +103518,106 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+<offer id="98677944" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82686920</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений з опушкою]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>3233</price>
+<price_old>3233</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-31369855496357_%2Bb9b13e71e0.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-48027314591486_%2B224cf6b352.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-92433169064501_%2B9c184e0f53.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-65116632976814_%2B4a171303aa.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-84047150826776_%2Be396add2a1.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-61648238513078_%2B880654deb8.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-26877870677821_%2B65815dce15.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-14807154753602_%2B0c601a2f9f.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">74/80</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98703891" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82686920</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений з опушкою]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>3233</price>
+<price_old>3233</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/14/apollo_green_fur_80-24699821434437_%2B16ad654da5.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-48027314591486_%2B224cf6b352.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-92433169064501_%2B9c184e0f53.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-65116632976814_%2B4a171303aa.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-84047150826776_%2Be396add2a1.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-61648238513078_%2B880654deb8.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-26877870677821_%2B65815dce15.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-14807154753602_%2B0c601a2f9f.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">80/86</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98709657" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82686920</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений з опушкою]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>3233</price>
+<price_old>3233</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/15/apollo_green_fur_86-21479016608490_%2B41a37dab09.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-48027314591486_%2B224cf6b352.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-92433169064501_%2B9c184e0f53.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-65116632976814_%2B4a171303aa.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-84047150826776_%2Be396add2a1.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-61648238513078_%2B880654deb8.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-26877870677821_%2B65815dce15.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-14807154753602_%2B0c601a2f9f.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">86/92</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98735604" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82686920</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений з опушкою]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>3233</price>
+<price_old>3233</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/16/apollo_green_fur_92-22644889649315_%2B3b32d5d04b.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-48027314591486_%2B224cf6b352.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-92433169064501_%2B9c184e0f53.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-65116632976814_%2B4a171303aa.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-84047150826776_%2Be396add2a1.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-61648238513078_%2B880654deb8.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-26877870677821_%2B65815dce15.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-14807154753602_%2B0c601a2f9f.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">92/98</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
 <offer id="97684097" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
@@ -103826,7 +103926,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98677944" available="true">
+<offer id="98677945" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103851,7 +103951,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98703891" available="false">
+<offer id="98703892" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103876,7 +103976,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98709657" available="false">
+<offer id="98709658" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103901,7 +104001,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98735604" available="true">
+<offer id="98735605" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
