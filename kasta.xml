@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-10 15:38">
+<yml_catalog date="2026-10-10 17:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -104134,7 +104134,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91257046" available="true">
+<offer id="91257046" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -104144,7 +104144,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Крій капюшону забезпечує його щільне прилягання до голови дитини та створює надійний захист від вітру та дощу. До речі, за бажання, Ви можете придбати модель з додатковою опушкою з м&rsquo;якого штучного хутра на капюшоні. </p> <p>Еластичні манжети на рукавах та штанинах, резинка на талії та вільний продуманий крій дозволяють дитині вільно рухатись.</p> <p>Довга застібка, захищена внутрішньою вітрозахисною планкою, сприяє швидкому одяганню.</p> <p>Силіконові штрипки не дозволяють штанинам підстрибувати, коли малюк активно рухається.</p> <p>Зручна кишенька стане у пригоді для зберегання дитячих скарбів.</p> <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>3233</price>
 <price_old>3233</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-60684340424926_%2Bbac2cd9cbe.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-37004005468264_%2B6b05834f59.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-43488206229919_%2B5181875d3c.jpg</picture>
