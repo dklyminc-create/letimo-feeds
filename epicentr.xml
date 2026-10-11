@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-11 08:08">
+<yml_catalog date="2026-10-11 10:11">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -56913,46 +56913,6 @@
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
 <param name="Зріст" paramcode="11972" valuecode="4909">68</param>
-</offer>
-<offer id="2952922441" available="true">
-<price>2128</price>
-<category code="2430">Вітровки дитячі</category>
-<attribute_set code="2430">Вітровки дитячі</attribute_set>
-<name lang="ua">Куртка-вітровка "Nail", Коричнева 80 (9-12 міс.)</name>
-<name lang="ru">Куртка-ветровка "Nail", Коричневая. 80 (9-12 мес.)</name>
-<picture>https://letimo.com.ua/content/images/23/51460616282693_+e2113b6b43.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-25193776059805_+77d38ca96d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-89738853387827_+dcff564b68.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-73889077994023_+d78da0961b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-74730125309793_+747227b564.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-60286216434672_+bb5ec6d6a2.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-82752079829299_+f5d40a59eb.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-78442580909126_+15db2d8419.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-99299255247968_+defe29c8c2.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-17736647578418_+7fed97ba21.jpg</picture>
-<description lang="ua">&lt;p&gt;Вітрівка  Nail    демісезонна куртка для активних прогулянок у мінливу погоду.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Основа   тринитка на флісі з натуральної бавовни, тепла й м'яка.&lt;/li&gt;&lt;li&gt;Підкладка   стрейч-кулір.&lt;/li&gt;&lt;li&gt;Рукави й каптур із плащової тканини: легко чистяться і не вбирають вологу.&lt;/li&gt;&lt;li&gt;Підходить для сирої погоди та ігор на майданчику.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Плащові деталі достатньо протерти вологою губкою. Прати при 30  C у делікатному режимі.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; рукави брудняться першими, тому плащівка на них заощаджує прання.&lt;/p&gt;</description>
-<description lang="ru"><![CDATA[<p>Ветровка Nail демисезонная куртка для активных прогулок в непостоянную погоду.</p><h3> Что важно</h3><ul><li> Основа тринитка на флисе из натурального хлопка, теплая и мягкая.</li><li> Подкладка стрейч-кулир.</li><li> Рукава и капюшон из плащевки: легко чистятся и не впитывают влагу.</li><li> Подходит для сырой погоды и игры на площадке.</li></ul><h3> Уход</h3><p> Плащовые детали достаточно протереть влажной губкой. Стирать при 30 C в щекотливом режиме.</p><p> <strong>Совет:</strong> рукава пачкаются первыми, поэтому плащевка на них экономит стирку.</p>]]></description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Nail]]></param>
-<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">Триниточний трикотаж з начосом: 70% бавовна, 30% поліестер та плащова тканина: 100% поліестер; підкладка: Стрейтч-кулірний трикотаж: 95% бавовна, 5% еластан</param>
-<param name="Розмір (міжнародний)" paramcode="8076" valuecode="22f1b94aa9adfba52c9a34336d48902d">80</param>
-<param name="Зріст" paramcode="11972" valuecode="4913">80</param>
-<param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
-<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
-<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">весна,осінь</param>
-<param name="Сезон" paramcode="2465" valuecode="591f86e853062,591f86e852c5c,591f86e85354d,59474de517dca">весна,літо,осінь,зима</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
-<param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
-<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
 </offer>
 <offer id="2952922442" available="true">
 <price>2128</price>
