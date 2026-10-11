@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-11 14:09">
+<yml_catalog date="2026-10-11 16:39">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -7394,6 +7394,8 @@
 <param lang="ua" paramcode="5123" name="Склад тканини">Муслін</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="c66f6045e0a38e52f7672d3e8e959bba">літо</param>
+<param name="Вид" paramcode="51" valuecode="lugtdiiboxsw7ebb">крижма</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 </offer>
 <offer id="1816854052" available="true">
@@ -7421,6 +7423,7 @@
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Сезон" paramcode="2295" valuecode="c66f6045e0a38e52f7672d3e8e959bba">літо</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
 <param name="Форма продажу" paramcode="12907" valuecode="194b667ae2d9b1675ce6c0c8a2dc5ac4">набір</param>
 <param name="Зріст" paramcode="11972" valuecode="4913">80</param>
@@ -7454,6 +7457,7 @@
 <param name="Стать дитини" paramcode="2292" valuecode="9e13d69b34048713a16f064ba3babf08">для дівчинки</param>
 <param name="Сезон" paramcode="2295" valuecode="c66f6045e0a38e52f7672d3e8e959bba">літо</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Стать виробника" paramcode="7020" valuecode="ef1c566cf5fc4014dcffd8fbbfc69985">для дівчаток</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
 <param name="Форма продажу" paramcode="12907" valuecode="194b667ae2d9b1675ce6c0c8a2dc5ac4">набір</param>
 <param name="Зріст" paramcode="11972" valuecode="4913">80</param>
@@ -7482,7 +7486,9 @@
 <param lang="ua" paramcode="5123" name="Склад тканини">Трансферлі - 100% бавовна</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Вид" paramcode="51" valuecode="wgdzpmfwehoh5uuh">шапочка</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Вид одягу" paramcode="11399" valuecode="08476d79c0a6561db441c2afe1d91c0c">шапочка</param>
 <param name="Форма продажу" paramcode="12907" valuecode="194b667ae2d9b1675ce6c0c8a2dc5ac4">набір</param>
@@ -7512,7 +7518,9 @@
 <param lang="ua" paramcode="5123" name="Склад тканини">Трансферлі - 100% бавовна</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Вид" paramcode="51" valuecode="wgdzpmfwehoh5uuh">шапочка</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b49d80b6a23e7f40412c632c5bc1110a">від 6 місяців</param>
 <param name="Вид одягу" paramcode="11399" valuecode="08476d79c0a6561db441c2afe1d91c0c">шапочка</param>
 <param name="Форма продажу" paramcode="12907" valuecode="194b667ae2d9b1675ce6c0c8a2dc5ac4">набір</param>
@@ -10170,6 +10178,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -10207,6 +10216,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -10244,6 +10254,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -10281,6 +10292,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -13018,6 +13030,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="0bbd36bba6cab66275ea51776c9835f7">горошок</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -13052,6 +13065,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="0bbd36bba6cab66275ea51776c9835f7">горошок</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -13087,6 +13101,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -13122,6 +13137,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -13157,6 +13173,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -13192,6 +13209,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -20423,6 +20441,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -20453,6 +20472,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -20483,6 +20503,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -20513,6 +20534,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -20543,6 +20565,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -20573,6 +20596,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -20603,6 +20627,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -20633,6 +20658,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -27539,6 +27565,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,gaslt0maz3oaouua,59474de5121ec">бавовна,футер,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -27577,6 +27604,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,gaslt0maz3oaouua,59474de5121ec">бавовна,футер,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -27615,6 +27643,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,gaslt0maz3oaouua,59474de5121ec">бавовна,футер,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -27653,6 +27682,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,gaslt0maz3oaouua,59474de5121ec">бавовна,футер,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -27691,6 +27721,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,gaslt0maz3oaouua,59474de5121ec">бавовна,футер,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -27729,6 +27760,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,gaslt0maz3oaouua,59474de5121ec">бавовна,футер,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -27767,6 +27799,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,gaslt0maz3oaouua,59474de5121ec">бавовна,футер,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -28700,6 +28733,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28730,6 +28764,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28760,6 +28795,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28791,6 +28827,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28822,6 +28859,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28853,6 +28891,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0,roiaf3xb">темно-синій,синій</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28884,6 +28923,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28915,6 +28955,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28946,6 +28987,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -28976,6 +29018,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -29006,6 +29049,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -29036,6 +29080,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -29078,6 +29123,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -29117,6 +29163,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -29156,6 +29203,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -29195,6 +29243,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -29234,6 +29283,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -29272,6 +29322,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -29310,6 +29361,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -29348,6 +29400,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -29386,6 +29439,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -29424,6 +29478,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua,59474de5121ec">бавовна,поліестер,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de51527e">квіти</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -40570,6 +40625,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -40599,6 +40655,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -40628,6 +40685,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -40657,6 +40715,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -41116,6 +41175,7 @@
 <param name="Стать дитини" paramcode="2292" valuecode="9e13d69b34048713a16f064ba3babf08">для дівчинки</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Стать виробника" paramcode="7020" valuecode="ef1c566cf5fc4014dcffd8fbbfc69985">для дівчаток</param>
 <param name="Вік дитини" paramcode="2289" valuecode="8a9aef279d281e99b62148df0b8c89c5">від 3 місяців</param>
 <param name="Форма продажу" paramcode="12907" valuecode="194b667ae2d9b1675ce6c0c8a2dc5ac4">набір</param>
 <param name="Зріст" paramcode="11972" valuecode="4909">68</param>
@@ -41147,6 +41207,7 @@
 <param name="Стать дитини" paramcode="2292" valuecode="9e13d69b34048713a16f064ba3babf08">для дівчинки</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Стать виробника" paramcode="7020" valuecode="ef1c566cf5fc4014dcffd8fbbfc69985">для дівчаток</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b49d80b6a23e7f40412c632c5bc1110a">від 6 місяців</param>
 <param name="Форма продажу" paramcode="12907" valuecode="194b667ae2d9b1675ce6c0c8a2dc5ac4">набір</param>
 <param name="Зріст" paramcode="11972" valuecode="4911">74</param>
@@ -41717,6 +41778,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -41747,6 +41809,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -41777,6 +41840,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -41807,6 +41871,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -42594,7 +42659,9 @@
 <param lang="ua" paramcode="5123" name="Склад тканини">Трикотаж трансферлі: 100% бавовна</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Вид" paramcode="51" valuecode="lugtdiiboxsw7ebb">крижма</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 </offer>
 <offer id="2624142460" available="false">
@@ -42616,6 +42683,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -42643,6 +42711,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -42670,6 +42739,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -42698,6 +42768,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
@@ -45178,6 +45249,7 @@
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 </offer>
 <offer id="2668207036" available="true">
@@ -47437,6 +47509,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -47464,6 +47537,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -47491,6 +47565,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
@@ -47518,6 +47593,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="3815f06179df932ec6d9ba0b20fc5665,ophru6z8">біло-рожевий,білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="qcbab0wxlwwcvico">18-24</param>
@@ -47545,6 +47621,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -47572,6 +47649,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -47599,6 +47677,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="qkjxlxc1p7pdvbup">12-18</param>
@@ -47626,6 +47705,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="803bf110287e43510dc151d10e588d67">для хлопчиків</param>
 <param name="Колір виробника" paramcode="78" valuecode="29088ff0633f40253afc0c3deefed9e5,gsyiryzw">синьо-сірий,сірий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -54987,6 +55067,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
@@ -55018,6 +55099,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
@@ -55049,6 +55131,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
@@ -55080,6 +55163,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f612">шкарпетки</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
@@ -55108,6 +55192,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -55135,6 +55220,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -55163,6 +55249,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -55191,6 +55278,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -55219,6 +55307,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -55247,6 +55336,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -55275,6 +55365,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -55303,6 +55394,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -55330,6 +55422,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -55357,6 +55450,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -55384,6 +55478,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="sstflml6svw0rcsb">0-6</param>
@@ -55411,6 +55506,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">90% бавовна 8% поліамід 2% еластан</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="b1hle9hyytkbdzh6">6-12</param>
@@ -59631,6 +59727,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59522856459d7">клітинка</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -59669,6 +59766,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59522856459d7">клітинка</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -59707,6 +59805,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59522856459d7">клітинка</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -59745,6 +59844,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59522856459d7">клітинка</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -59783,6 +59883,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="hbrprb2v">різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="59522856459d7">клітинка</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -59819,6 +59920,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -59855,6 +59957,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -60667,6 +60770,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -60700,6 +60804,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -60733,6 +60838,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -60766,6 +60872,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -60799,6 +60906,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -60831,6 +60939,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -60863,6 +60972,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -60895,6 +61005,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -60927,6 +61038,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -60959,6 +61071,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -60992,6 +61105,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -61025,6 +61139,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -61058,6 +61173,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -61091,6 +61207,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -61124,6 +61241,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5121ec">бавовна,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -61158,6 +61276,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -61192,6 +61311,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -61226,6 +61346,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -61260,6 +61381,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -61294,6 +61416,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -61328,6 +61451,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -61363,6 +61487,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="2165ad1e57bd7d7307d8e852dbbd67c8">80</param>
 <param name="Вік дитини" paramcode="2289" valuecode="067b517b0e52d45c41aeb8fab0b04839">від 9 місяців</param>
@@ -61398,6 +61523,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
 <param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
@@ -61433,6 +61559,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
 <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
@@ -61468,6 +61595,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="0aa1161dfa30c0555b072eacf8e3486f">110</param>
 <param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
@@ -61503,6 +61631,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,5ypcq64asfcdqof0,59474de5121ec">бавовна,кулір,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Стать виробника" paramcode="7020" valuecode="4250b6329dc3d4e7ae9be81ed85d7ef3">унісекс</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Розмір виробника" paramcode="2200" valuecode="f3c72f5f13a5d2958514827895eb475a">116</param>
 <param name="Вік дитини" paramcode="2289" valuecode="d0c506276a985773b0c79933548c06d2">від 5 років</param>
@@ -74424,7 +74553,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
 </offer>
-<offer id="DR-2114" available="true">
+<offer id="DR-2114" available="false">
 <price>1144</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
