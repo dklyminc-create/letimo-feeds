@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-12 17:08">
+<yml_catalog date="2026-10-12 20:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -104512,7 +104512,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91282993" available="false">
+<offer id="91282993" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -104522,7 +104522,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Крій капюшону забезпечує його щільне прилягання до голови дитини та створює надійний захист від вітру та дощу. До речі, за бажання, Ви можете придбати модель з додатковою опушкою з м&rsquo;якого штучного хутра на капюшоні. </p> <p>Еластичні манжети на рукавах та штанинах, резинка на талії та вільний продуманий крій дозволяють дитині вільно рухатись.</p> <p>Довга застібка, захищена внутрішньою вітрозахисною планкою, сприяє швидкому одяганню.</p> <p>Силіконові штрипки не дозволяють штанинам підстрибувати, коли малюк активно рухається.</p> <p>Зручна кишенька стане у пригоді для зберегання дитячих скарбів.</p> <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>3233</price>
 <price_old>3233</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/20/apollo_chocolate_fur_80-25267761105505_%2Bca4ec70a72.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-37004005468264_%2B6b05834f59.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-43488206229919_%2B5181875d3c.jpg</picture>
@@ -107236,7 +107236,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236122" available="false">
+<offer id="98236122" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -107245,7 +107245,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі практичного шоколадного кольору - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1214</price>
 <price_old>1214</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/13/handmuff_chocolate-26512225055808_%2B6655f6b02b.jpg</picture>
 <param name="Колір">коричневий</param>
 <param name="Розмір">-</param>
@@ -108404,7 +108404,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213155" available="false">
+<offer id="98213155" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -108414,7 +108414,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Додаткові козирки від сонця з захистом UPF50 рекомендовані найкращими педіатрами світу.</p> <p>Чому козирки чорні?  <p>Twin Shade - обов&rsquo;язкове придбання люблячих батьків у сонячну пору року!</p>]]></description_ua>
 <price>732</price>
 <price_old>732</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-35428671279199_%2B0be010052c.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-72690203728571_%2B78690e358a.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-11578058650945_%2B5db6e3cbfb.jpg</picture>
