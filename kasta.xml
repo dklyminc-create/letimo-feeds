@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-12 09:08">
+<yml_catalog date="2026-10-12 13:09">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -108404,7 +108404,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213155" available="true">
+<offer id="98213155" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -108414,7 +108414,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Додаткові козирки від сонця з захистом UPF50 рекомендовані найкращими педіатрами світу.</p> <p>Чому козирки чорні?  <p>Twin Shade - обов&rsquo;язкове придбання люблячих батьків у сонячну пору року!</p>]]></description_ua>
 <price>732</price>
 <price_old>732</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-35428671279199_%2B0be010052c.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-72690203728571_%2B78690e358a.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-11578058650945_%2B5db6e3cbfb.jpg</picture>
@@ -109397,7 +109397,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98545134" available="true">
+<offer id="98545134" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -109421,7 +109421,7 @@ SYSTEM "shops.dtd">
 <p>З цими пінетками ніжки маляти завжди будуть у теплі та комфорті, бо вони виготовлені з любов&rsquo;ю та турботою.</p>]]></description_ua>
 <price>366</price>
 <price_old>366</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/pinetky_demi_black_13-22629803320805_%2B35f103ac37.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/pinetky_demi_black_13-30528841331726_%2B97175f9076.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/pinetky_demi_black_13-22717995024982_%2Bf1b0c2e713.jpg</picture>
