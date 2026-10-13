@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-13 09:12">
+<yml_catalog date="2026-10-13 10:39">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -50237,6 +50237,7 @@
 <param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Aldo]]></param>
 <vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
 <country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
 <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
 <param name="Висота" paramcode="height">20</param>
 <param name="Глибина" paramcode="length">200</param>
