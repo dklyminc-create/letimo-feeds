@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-14 21:42">
+<yml_catalog date="2026-10-14 22:41">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -55584,6 +55584,46 @@
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
 <param name="Зріст" paramcode="11972" valuecode="4909">68</param>
 </offer>
+<offer id="2952922441" available="true">
+<price>2128</price>
+<category code="2430">Вітровки дитячі</category>
+<attribute_set code="2430">Вітровки дитячі</attribute_set>
+<name lang="ua">Куртка-вітровка "Nail", Коричнева 80 (9-12 міс.)</name>
+<name lang="ru">Куртка-ветровка "Nail", Коричневая. 80 (9-12 мес.)</name>
+<picture>https://letimo.com.ua/content/images/23/51460616282693_+e2113b6b43.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-25193776059805_+77d38ca96d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-89738853387827_+dcff564b68.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-73889077994023_+d78da0961b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-74730125309793_+747227b564.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-60286216434672_+bb5ec6d6a2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-82752079829299_+f5d40a59eb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-78442580909126_+15db2d8419.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-99299255247968_+defe29c8c2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/kurtka-vitrovka-nail-korychneva-80-9-12-mis.-17736647578418_+7fed97ba21.jpg</picture>
+<description lang="ua">&lt;p&gt;Вітрівка  Nail    демісезонна куртка для активних прогулянок у мінливу погоду.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Основа   тринитка на флісі з натуральної бавовни, тепла й м'яка.&lt;/li&gt;&lt;li&gt;Підкладка   стрейч-кулір.&lt;/li&gt;&lt;li&gt;Рукави й каптур із плащової тканини: легко чистяться і не вбирають вологу.&lt;/li&gt;&lt;li&gt;Підходить для сирої погоди та ігор на майданчику.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Плащові деталі достатньо протерти вологою губкою. Прати при 30  C у делікатному режимі.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; рукави брудняться першими, тому плащівка на них заощаджує прання.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Ветровка Nail демисезонная куртка для активных прогулок в непостоянную погоду.</p><h3> Что важно</h3><ul><li> Основа тринитка на флисе из натурального хлопка, теплая и мягкая.</li><li> Подкладка стрейч-кулир.</li><li> Рукава и капюшон из плащевки: легко чистятся и не впитывают влагу.</li><li> Подходит для сырой погоды и игры на площадке.</li></ul><h3> Уход</h3><p> Плащовые детали достаточно протереть влажной губкой. Стирать при 30 C в щекотливом режиме.</p><p> <strong>Совет:</strong> рукава пачкаются первыми, поэтому плащевка на них экономит стирку.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Nail]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Триниточний трикотаж з начосом: 70% бавовна, 30% поліестер та плащова тканина: 100% поліестер; підкладка: Стрейтч-кулірний трикотаж: 95% бавовна, 5% еластан</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="22f1b94aa9adfba52c9a34336d48902d">80</param>
+<param name="Зріст" paramcode="11972" valuecode="4913">80</param>
+<param name="Матеріал" paramcode="52" valuecode="gaslt0maz3oaouua">поліестер</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">весна,осінь</param>
+<param name="Сезон" paramcode="2465" valuecode="591f86e853062,591f86e852c5c,591f86e85354d,59474de517dca">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+</offer>
 <offer id="2952922442" available="true">
 <price>2128</price>
 <category code="2430">Вітровки дитячі</category>
@@ -75179,442 +75219,6 @@
 <param name="Тип" paramcode="530" valuecode="b58985024bcb2123dd88f74077bd84ad">електроковдра</param>
 <param name="Розмір" paramcode="3977" valuecode="776b2ddf5e3c9afecfd0d65acf96bace">150x120</param>
 <param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-</offer>
-<offer id="P1000E PLUS" available="true">
-<price>26990</price>
-<category code="8484">Зарядні станції</category>
-<attribute_set code="8484">Зарядні станції</attribute_set>
-<name lang="ua">Портативна зарядна станція OUKITEL P1000E Plus 1800 Вт 1024 Вт·год LiFePO  1024 Вт·год + 1800 Вт + LiFePO4 + чиста синусоїда + 364</name>
-<name lang="ru">Портативная зарядная станция OUKITEL P1000E Plus 1800 Вт 1024 Вт*ч LiFePO 1024 Вт*ч + 1800 Вт + LiFePO4 + чистая синусоида + 364</name>
-<picture>https://images.prom.ua/7736424876_portativnaya-zaryadnaya-stantsiya.jpg</picture>
-<picture>https://images.prom.ua/7736425327_portativnaya-zaryadnaya-stantsiya.jpg</picture>
-<picture>https://images.prom.ua/7736428737_portativnaya-zaryadnaya-stantsiya.jpg</picture>
-<picture>https://images.prom.ua/7736428968_portativnaya-zaryadnaya-stantsiya.jpg</picture>
-<picture>https://images.prom.ua/7736428966_portativnaya-zaryadnaya-stantsiya.jpg</picture>
-<picture>https://images.prom.ua/7736428972_portativnaya-zaryadnaya-stantsiya.jpg</picture>
-<description lang="ua"><![CDATA[<p>1024 Вт&middot;год + 1800 Вт + LiFePO4 + чиста синусоїда + 3600 Вт пік + ДБЖ.</p>
-<p></p>
-<p><strong>Портативна зарядна станція OUKITEL P1000E Plus 1800 Вт / 1024 Вт&middot;год</strong>&nbsp;&mdash; потужне та універсальне джерело резервного живлення для дому, роботи, подорожей та відпочинку.</p>
-<p>Станція оснащена акумулятором&nbsp;<strong>LiFePO4 ємністю 1024 Вт&middot;год</strong>&nbsp;та забезпечує номінальну потужність&nbsp;<strong>1800 Вт</strong>, а пікова потужність досягає&nbsp;<strong>3600 Вт</strong>. Завдяки чистій синусоїді станція підходить для живлення широкого спектра побутової та електронної техніки.&nbsp;</p>
-<h3 data-section-id="x3rmqc">⚡ Основні переваги</h3>
-<ul>
-<li data-section-id="he2l24"><strong>1024 Вт&middot;год</strong>&nbsp;&mdash; великий запас енергії</li>
-<li data-section-id="v6tbpy"><strong>1800 Вт</strong>&nbsp;номінальної потужності</li>
-<li data-section-id="15i8hpd"><strong>до 3600 Вт</strong>&nbsp;пікової потужності</li>
-<li data-section-id="1qoeqhf">сучасний акумулятор&nbsp;<strong>LiFePO4</strong></li>
-<li data-section-id="nauast">ресурс &mdash;&nbsp;<strong>до 4000 циклів</strong>&nbsp;до 80% початкової ємності</li>
-<li data-section-id="bl9szz"><strong>чиста синусоїда</strong></li>
-<li data-section-id="1rknmr2">функція&nbsp;<strong>EPS / ДБЖ</strong>&nbsp;з перемиканням до 10 мс</li>
-<li data-section-id="1elvc85">швидке заряджання від мережі &mdash; до&nbsp;<strong>1200 Вт</strong></li>
-<li data-section-id="l4xfik">заряджання від сонячних панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
-<li data-section-id="iz4j9e">заряджання від автомобіля</li>
-<li data-section-id="aop1sg">одночасне заряджання різними способами</li>
-<li data-section-id="6yhxo1">керування та контроль через&nbsp;<strong>смартфон</strong></li>
-<li data-section-id="xwwh0l">компактний корпус та вага близько&nbsp;<strong>12 кг</strong>.&nbsp;</li>
-</ul>
-<h3 data-section-id="19yj937">🔌 Підключення техніки</h3>
-<p>OUKITEL P1000E Plus має&nbsp;<strong>4 розетки AC 220&ndash;240 В</strong>&nbsp;із загальною потужністю до 1800 Вт, USB-A, USB-C, DC-виходи та автомобільний вихід 12 В.</p>
-<p>До станції можна підключати:</p>
-<ul>
-<li data-section-id="1pgoj3d">холодильник;</li>
-<li data-section-id="1ubmkw7">телевізор;</li>
-<li data-section-id="5lwmqt">Wi-Fi роутер;</li>
-<li data-section-id="16b0fzm">ноутбук та комп&#39;ютер;</li>
-<li data-section-id="arpg7f">освітлення;</li>
-<li data-section-id="yuwtc9">зарядні пристрої;</li>
-<li data-section-id="15qfch9">побутову техніку;</li>
-<li data-section-id="16uaouu">електроінструменти та інші сумісні пристрої.</li>
-</ul>
-<h3 data-section-id="1nccze7">🏠 Для дому</h3>
-<p>Функція&nbsp;<strong>EPS</strong>&nbsp;дозволяє використовувати станцію як резервне джерело живлення. При зникненні електроенергії перемикання відбувається менш ніж за&nbsp;<strong>10 мс</strong>, що допомагає підтримувати роботу підключеної техніки.&nbsp;</p>
-<h3 data-section-id="mbikv7">🚗 Для подорожей</h3>
-<p>Завдяки вазі близько&nbsp;<strong>12 кг</strong>&nbsp;та зручній конструкції станцію можна брати на дачу, у кемпінг, подорож, автомобільну поїздку або використовувати як автономне джерело живлення на природі.</p>
-<h3 data-section-id="1e8lezr">☀️ Кілька способів заряджання</h3>
-<p>Заряджати OUKITEL P1000E Plus можна:</p>
-<p><strong>від розетки 220 В &mdash; до 1200 Вт</strong><br/>
-<strong>від сонячних панелей &mdash; до 500 Вт</strong><br/>
-<strong>від автомобіля</strong><br/>
-<strong>комбіновано &mdash; AC + Solar до 1700 Вт</strong>.&nbsp;</p>
-<h3 data-section-id="3venle">📱 Керування зі смартфона</h3>
-<p>Станцією можна керувати та контролювати її роботу через фірмовий застосунок &mdash; стежити за станом батареї, режимами та параметрами живлення.&nbsp;</p>
-<p><strong>OUKITEL P1000E Plus &mdash; це універсальне рішення для резервного живлення вдома та автономної роботи техніки там, де немає стабільного доступу до електромережі.</strong></p>
-<p><strong>Характеристики:</strong><br/>
-Ємність:&nbsp;<strong>1024 Вт&middot;год</strong><br/>
-Потужність:&nbsp;<strong>1800 Вт</strong><br/>
-Пікова потужність:&nbsp;<strong>3600 Вт</strong><br/>
-Акумулятор:&nbsp;<strong>LiFePO4</strong><br/>
-Цикли:&nbsp;<strong>4000+</strong><br/>
-Вага:&nbsp;<strong>12 кг</strong><br/>
-Розмір:&nbsp;<strong>346 &times; 228 &times; 238 мм</strong><br/>
-Інвертор:&nbsp;<strong>чиста синусоїда</strong>.&nbsp;</p>]]></description>
-<description lang="ru"><![CDATA[<p>1024 Вт*ч + 1800 Вт + LiFePO4 + чистая синусоида + 3600 Вт пик + ИБП.</p>
-<p></p>
-<p><strong>Портативная зарядная станция OUKITEL P1000E Plus 1800 Вт / 1024 Вт*ч</strong>&nbsp;&mdash; мощный и универсальный источник резервного питания для дома, работы, путешествий и отдыха.</p>
-<p>Станция оснащена аккумулятором&nbsp;<strong>LiFePO4 емкостью 1024 Вт*ч</strong>&nbsp;и обеспечивает номинальную мощность&nbsp;<strong>1800 Вт</strong>, а пиковая мощность достигает&nbsp;<strong>3600 Вт</strong>. Благодаря чистой синусоиде станция подходит для питания широкого спектра бытовой и электронной техники.&nbsp;</p>
-<h3 data-section-id="x3rmqc">⚡ Основные преимущества</h3>
-<ul>
-<li data-section-id="he2l24"><strong>1024 Вт*ч</strong>&nbsp;&mdash; большой запас энергии</li>
-<li data-section-id="v6tbpy"><strong>1800 Вт</strong>&nbsp;номинальной мощности</li>
-<li data-section-id="15i8hpd"><strong>до 3600 Вт</strong>&nbsp;пиковой мощности</li>
-<li data-section-id="1qoeqhf">современный аккумулятор&nbsp;<strong>LiFePO4</strong></li>
-<li data-section-id="nauast">ресурс &mdash;&nbsp;<strong>до 4000 циклов</strong>&nbsp;до 80% начальной емкости</li>
-<li data-section-id="bl9szz"><strong>чистая синусоида</strong></li>
-<li data-section-id="1rknmr2">функция&nbsp;<strong>EPS / ДБЖ</strong>&nbsp;с переключением до 10 мс</li>
-<li data-section-id="1elvc85">быстрая зарядка от сети &mdash; до&nbsp;<strong>1200 Вт</strong></li>
-<li data-section-id="l4xfik">зарядка от солнечных панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
-<li data-section-id="iz4j9e">зарядка от автомобиля</li>
-<li data-section-id="aop1sg">одновременная зарядка различными способами</li>
-<li data-section-id="6yhxo1">управление и контроль через&nbsp;<strong>смартфон</strong></li>
-<li data-section-id="xwwh0l">компактный корпус и вес близко&nbsp;<strong>12 кг</strong>.&nbsp;</li>
-</ul>
-<h3 data-section-id="19yj937">🔌 Подключение техники</h3>
-<p>OKITEL P1000E Plus имеет&nbsp;<strong>4 розетки AC 220&ndash;240 В</strong>&nbsp;с общей мощностью до 1800 Вт, USB-A, USB-C, DC выходы и автомобильный выход 12 В.</p>
-<p>К станции можно подключать:</p>
-<ul>
-<li data-section-id="1pgoj3d">холодильник;</li>
-<li data-section-id="1ubmkw7">телевизор;</li>
-<li data-section-id="5lwmqt">Wi-Fi роутер;</li>
-<li data-section-id="16b0fzm">ноутбук и компьютер;</li>
-<li data-section-id="arpg7f">освещение;</li>
-<li data-section-id="yuwtc9">зарядные устройства;</li>
-<li data-section-id="15qfch9">бытовую технику;</li>
-<li data-section-id="16uaouu">электроинструменты и другие совместимые устройства.</li>
-</ul>
-<h3 data-section-id="1nccze7">🏠 Для дому</h3>
-<p>Функция&nbsp;<strong>EPS</strong>&nbsp;позволяет использовать станцию как резервный источник питания. При исчезновении электроэнергии переключения происходит менее чем при&nbsp;<strong>10 мс</strong>, что помогает поддерживать работу подключенной техники.&nbsp;</p>
-<h3 data-section-id="mbikv7">🚗 Для подорожей</h3>
-<p>Благодаря весу близко&nbsp;<strong>12 кг</strong>&nbsp;и удобной конструкции станцию можно брать на дачу, в кемпинг, путешествие, автомобильную поездку или использовать как автономный источник питания на природе.</p>
-<h3 data-section-id="1e8lezr">☀️ Несколько способов зарядки</h3>
-<p>Заряжать OUKITEL P1000E Plus можно:</p>
-<p><strong>от розетки 220 В &mdash; до 1200 Вт</strong><br/>
-<strong>от солнечных панелей &mdash; до 500 Вт</strong><br/>
-<strong>от автомобиля</strong><br/>
-<strong>комбинировано &mdash; AC + Solar до 1700 Вт</strong>.&nbsp;</p>
-<h3 data-section-id="3venle">📱 Управление со смартфона</h3>
-<p>Станцией можно управлять и контролировать ее работу через фирменное приложение &mdash; следить за состоянием батареи, режимами и настройками питания.&nbsp;</p>
-<p><strong>OKITEL P1000E Plus &ndash; это универсальное решение для резервного питания дома и автономной работы техники там, где нет стабильного доступа к электросети.</strong></p>
-<p><strong>Характеристики:</strong><br/>
-Емкость:&nbsp;<strong>1024 Вт*ч</strong><br/>
-Мощность:&nbsp;<strong>1800 Вт</strong><br/>
-Пиковая мощность:&nbsp;<strong>3600 Вт</strong><br/>
-Аккумулятор:&nbsp;<strong>LiFePO4</strong><br/>
-Циклы:&nbsp;<strong>4000+</strong><br/>
-Вес:&nbsp;<strong>12 кг</strong><br/>
-Размер:&nbsp;<strong>346 &times; 228 &times; 238 мм</strong><br/>
-Инвертор:&nbsp;<strong>чистая синусоида</strong>.&nbsp;</p>]]></description>
-<vendor code="e0c739eb44b04c838916adaace8920f0">Oukitel</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">238</param>
-<param name="Глибина" paramcode="length">346</param>
-<param name="Ширина" paramcode="width">228</param>
-<param name="Вага" paramcode="weight">12000</param>
-<param name="Ємність" paramcode="6999" valuecode="27a02e477937ab2e11f8712876dcf079">1000 - 1499</param>
-<param name="Ємність" paramcode="321">1024</param>
-<param name="Призначення" paramcode="802" valuecode="zo11vvlyfa487kaj,g2qqixtidypko6kr">універсальна,для будинку</param>
-<param name="Зарядка" paramcode="1110" valuecode="f100734d339a8c6a98681885faed9ae1,32ffb3e3a3eb199cd84a675ad36a5dd3,fe37f4484d2ef0b2ed971521274c6e7d">розетка,сонячна панель,автомобільний адаптер</param>
-<param name="Тип" paramcode="50" valuecode="9xoswlqmwssqk7k6">зарядна станція</param>
-<param name="Тип акумулятора" paramcode="7358" valuecode="c3a006b354a738f20de2e8a38bb56089">LiFePO4</param>
-<param name="Розмір" paramcode="5413" valuecode="0b15758878635043c8510038ef5f3c69">середній</param>
-<param name="Кількість вихідних портів" paramcode="8822">11</param>
-<param name="Вихідна потужність" paramcode="5462">1800</param>
-<param name="Пікова вихідна потужність" paramcode="2257">3600</param>
-</offer>
-<offer id="P2001E Plus" available="true">
-<price>47490</price>
-<category code="8484">Зарядні станції</category>
-<attribute_set code="8484">Зарядні станції</attribute_set>
-<name lang="ua">Зарядна станція Oukitel P2001E Plus 2400W 2048Wh LiFePO4, портативна електростанція</name>
-<name lang="ru">Зарядная станция Oukitel P2001E Plus 2400W 2048Wh LiFePO4, портативная электростанция</name>
-<picture>https://images.prom.ua/7736518736_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736526384_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736527549_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736528034_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736528223_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736530130_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736530131_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736530132_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736511576_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<description lang="ua"><![CDATA[<p><strong>Портативна зарядна станція Oukitel P2001E Plus 2400 Вт 2048 Вт&middot;год</strong>&nbsp;&mdash; потужне рішення для резервного живлення будинку, квартири, офісу, техніки та електроприладів під час відключення електроенергії.</p>
-<p>Станція оснащена акумулятором&nbsp;<strong>LiFePO4 ємністю 2048 Вт&middot;год</strong>&nbsp;та інвертором із номінальною потужністю&nbsp;<strong>2400 Вт</strong>. Максимальна пікова потужність &mdash;&nbsp;<strong>4800 Вт</strong>, що дозволяє підключати прилади з високим стартовим навантаженням.</p>
-<h3 data-section-id="ts3zjk">Основні характеристики:</h3>
-<ul>
-<li data-section-id="1ihf0kw">Ємність &mdash;&nbsp;<strong>2048 Вт&middot;год</strong></li>
-<li data-section-id="1mq0xd2">Номінальна потужність &mdash;&nbsp;<strong>2400 Вт</strong></li>
-<li data-section-id="cabsrh">Пікова потужність &mdash;&nbsp;<strong>4800 Вт</strong></li>
-<li data-section-id="eg25an">Акумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
-<li data-section-id="1hl12nj">Чиста синусоїда</li>
-<li data-section-id="xemtjk">Функція&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;з перемиканням до 10 мс</li>
-<li data-section-id="oa5nj6">4 розетки AC</li>
-<li data-section-id="11pyieg">USB-A &mdash; 2&times;18 Вт</li>
-<li data-section-id="xi43kh">USB-C &mdash; 100 Вт + 45 Вт + 2&times;20 Вт</li>
-<li data-section-id="1ua6hke">Автомобільний вихід &mdash; 12 В / 10 А</li>
-<li data-section-id="6m3et2">Заряджання від мережі &mdash; до&nbsp;<strong>1800 Вт</strong></li>
-<li data-section-id="7062b0">Заряджання від сонячних панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
-<li data-section-id="145xdpd">Керування та моніторинг зі смартфона</li>
-<li data-section-id="17v4ih7">LCD-дисплей</li>
-<li data-section-id="1rw731r">Можливість одночасного живлення до&nbsp;<strong>13 пристроїв</strong></li>
-<li data-section-id="sle21g">Вага &mdash;&nbsp;<strong>22 кг</strong></li>
-</ul>
-<h3 data-section-id="9gta18">Для чого підходить:</h3>
-<p>Oukitel P2001E Plus можна використовувати для резервного живлення&nbsp;<strong>холодильника, роутера, телевізора, ноутбука, освітлення, котла, насоса, електроінструменту та іншої техніки</strong>.</p>
-<p>Станція стане практичним рішенням для дому, роботи, подорожей, кемпінгу та використання під час відключень електроенергії.</p>
-<h3 data-section-id="p3yoyq">Комплектація:</h3>
-<ul>
-<li data-section-id="5t6q2i">зарядна станція Oukitel P2001E Plus;</li>
-<li data-section-id="1qjbv5x">кабелі для заряджання;</li>
-<li data-section-id="1o0tvfs">інструкція.</li>
-</ul>
-<p><strong>Стан: новий.</strong></p>]]></description>
-<description lang="ru"><![CDATA[<p><strong>Портативная зарядная станция Oukitel P2001E Plus 2400 Вт 2048 Вт*ч</strong>&nbsp;&mdash; мощное решение для резервного питания дома, квартиры, офиса, техники и электроприборов при отключении электроэнергии.</p>
-<p>Станция оснащена аккумулятором&nbsp;<strong>LiFePO4 емкостью 2048 Вт*ч</strong>&nbsp;и инвертором с номинальной мощностью&nbsp;<strong>2400 Вт</strong>. Максимальная пиковая мощность &mdash;&nbsp;<strong>4800 Вт</strong>, что позволяет подключать приборы с высокой стартовой нагрузкой.</p>
-<h3 data-section-id="ts3zjk">Основные характеристики:</h3>
-<ul>
-<li data-section-id="1ihf0kw">Емкость -&nbsp;<strong>2048 Вт*ч</strong></li>
-<li data-section-id="1mq0xd2">Номинальная мощность &mdash;&nbsp;<strong>2400 Вт</strong></li>
-<li data-section-id="cabsrh">Пиковая мощность &mdash;&nbsp;<strong>4800 Вт</strong></li>
-<li data-section-id="eg25an">Аккумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
-<li data-section-id="1hl12nj">Чистая синусоида</li>
-<li data-section-id="xemtjk">Функция&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;с переключением до 10 мс</li>
-<li data-section-id="oa5nj6">4 розетки AC</li>
-<li data-section-id="11pyieg">USB-A &mdash; 2&times;18 Вт</li>
-<li data-section-id="xi43kh">USB-C &mdash; 100 Вт + 45 Вт + 2&times;20 Вт</li>
-<li data-section-id="1ua6hke">Автомобильный выход - 12В / 10А</li>
-<li data-section-id="6m3et2">Зарядка от сети &mdash; до&nbsp;<strong>1800 Вт</strong></li>
-<li data-section-id="7062b0">Зарядка от солнечных панелей &mdash; до&nbsp;<strong>500 Вт</strong></li>
-<li data-section-id="145xdpd">Управление и мониторинг со смартфона</li>
-<li data-section-id="17v4ih7">LCD-дисплей</li>
-<li data-section-id="1rw731r">Возможность одновременного питания до&nbsp;<strong>13 устройств</strong></li>
-<li data-section-id="sle21g">Вес -&nbsp;<strong>22 кг</strong></li>
-</ul>
-<h3 data-section-id="9gta18">Для чего подходит:</h3>
-<p>Oukitel P2001E Plus можно использовать для резервного питания&nbsp;<strong>холодильника, роутера, телевизора, ноутбука, освещения, котла, насоса, электроинструмента и другой техники</strong>.</p>
-<p>Станция станет практичным решением для дома, работы, путешествий, кемпинга и использования при отключениях электроэнергии.</p>
-<h3 data-section-id="p3yoyq">Комплектация:</h3>
-<ul>
-<li data-section-id="5t6q2i">зарядная станция Oukitel P2001E Plus;</li>
-<li data-section-id="1qjbv5x">кабели для зарядки;</li>
-<li data-section-id="1o0tvfs">инструкция.</li>
-</ul>
-<p><strong>Состояние: новый.</strong></p>]]></description>
-<vendor code="e0c739eb44b04c838916adaace8920f0">Oukitel</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">320</param>
-<param name="Глибина" paramcode="length">399</param>
-<param name="Ширина" paramcode="width">286</param>
-<param name="Вага" paramcode="weight">22000</param>
-<param name="Ємність" paramcode="6999" valuecode="44e25ddbe373d962851b6b0762080725">2000 - 2499</param>
-<param name="Ємність" paramcode="321">2048</param>
-<param name="Призначення" paramcode="802" valuecode="zo11vvlyfa487kaj,g2qqixtidypko6kr">універсальна,для будинку</param>
-<param name="Зарядка" paramcode="1110" valuecode="f100734d339a8c6a98681885faed9ae1,32ffb3e3a3eb199cd84a675ad36a5dd3,fe37f4484d2ef0b2ed971521274c6e7d">розетка,сонячна панель,автомобільний адаптер</param>
-<param name="Тип" paramcode="50" valuecode="9xoswlqmwssqk7k6">зарядна станція</param>
-<param name="Тип акумулятора" paramcode="7358" valuecode="c3a006b354a738f20de2e8a38bb56089">LiFePO4</param>
-<param name="Розмір" paramcode="5413" valuecode="0adbdcd689fa7d85d3960f2b421bbfee">великий</param>
-<param name="Кількість вихідних портів" paramcode="8822">13</param>
-<param name="Вихідна потужність" paramcode="5462">2400</param>
-<param name="Пікова вихідна потужність" paramcode="2257">4800</param>
-</offer>
-<offer id="P5000E PRO" available="true">
-<price>106990</price>
-<category code="8484">Зарядні станції</category>
-<attribute_set code="8484">Зарядні станції</attribute_set>
-<name lang="ua">Зарядна станція OUKITEL P5000E PRO 4000W 5120Wh LiFePO4, портативна електростанція</name>
-<name lang="ru">Зарядная станция OUKITEL P5000E PRO 4000W 5120Wh LiFePO4, портативная электростанция</name>
-<picture>https://images.prom.ua/7736605007_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736608800_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736605097_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736605098_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736605145_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<description lang="ua"><![CDATA[<p><strong>OUKITEL P5000E PRO &mdash; потужна портативна зарядна станція ємністю 5120 Вт&middot;год та номінальною потужністю 4000 Вт.</strong></p>
-<p>Станція оснащена довговічним акумулятором&nbsp;<strong>LiFePO4</strong>, чистою синусоїдою та системою резервного живлення. Пікова потужність становить&nbsp;<strong>8000 Вт</strong>, тому станція підходить не тільки для побутової електроніки, а й для потужних електроприладів та електроінструменту.</p>
-<p><strong>Основні переваги:</strong></p>
-<ul>
-<li data-section-id="1rpq0s5">5120 Вт&middot;год ємності;</li>
-<li data-section-id="1dif2cg">4000 Вт номінальної потужності;</li>
-<li data-section-id="1utf2l9">8000 Вт пікової потужності;</li>
-<li data-section-id="kmlmlc">LiFePO4 акумулятор;</li>
-<li data-section-id="uj7b40">понад 5000 циклів заряджання;</li>
-<li data-section-id="19dl4us">чиста синусоїда;</li>
-<li data-section-id="6ulbne">UPS / резервне живлення;</li>
-<li data-section-id="1phojkg">перемикання на резервне живлення &lt;10 мс;</li>
-<li data-section-id="11k3kr5">заряджання від мережі до 3200 Вт;</li>
-<li data-section-id="17q500v">сонячне заряджання до 1000 Вт;</li>
-<li data-section-id="jbgkmj">Wi-Fi та Bluetooth;</li>
-<li data-section-id="iig2op">5 розеток AC 220&ndash;240 В;</li>
-<li data-section-id="pgcmba">USB-A та USB-C PD 100 Вт;</li>
-<li data-section-id="19t15k4">DC-виходи;</li>
-<li data-section-id="1ycrg4u">автомобільний вихід;</li>
-<li data-section-id="8sijy8">великі колеса та телескопічна ручка для транспортування;</li>
-<li data-section-id="veb47c">вага 53 кг.</li>
-</ul>
-<p><strong>Для чого підходить:</strong></p>
-<p>P5000E PRO можна використовувати як резервне джерело живлення для&nbsp;<strong>будинку, квартири, офісу, холодильника, котла, роутера, телевізора, комп&#39;ютера, освітлення, насоса та електроінструменту</strong>.</p>
-<p>Також станція підходить для автономної роботи, заміського будинку, кемпінгу, майстерні та роботи з потужним електрообладнанням.&nbsp;</p>
-<p data-is-last-node="" data-is-only-node=""><strong>Комплектація:</strong>&nbsp;зарядна станція, кабель заряджання від мережі, кабель для автомобільного заряджання, кабель для сонячної панелі, інструкція.&nbsp;</p>]]></description>
-<description lang="ru"><![CDATA[<p><strong>OKITEL P5000E PRO - мощная портативная зарядная станция емкостью 5120 Вт*ч и номинальной мощностью 4000 Вт.</strong></p>
-<p>Станция оснащена долговечным аккумулятором&nbsp;<strong>LiFePO4</strong>, чистой синусоидой и системой резервного питания. Пиковая мощность составляет&nbsp;<strong>8000 Вт</strong>, поэтому станция подходит не только для бытовой электроники, но и для мощных электроприборов и электроинструмента.</p>
-<p><strong>Основные преимущества:</strong></p>
-<ul>
-<li data-section-id="1rpq0s5">5120 Вт*ч емкости;</li>
-<li data-section-id="1dif2cg">4000 Вт номинальной мощности;</li>
-<li data-section-id="1utf2l9">8000 Вт пиковой мощности;</li>
-<li data-section-id="kmlmlc">LiFePO4 акумулятор;</li>
-<li data-section-id="uj7b40">более 5000 циклов зарядки;</li>
-<li data-section-id="19dl4us">чистая синусоида;</li>
-<li data-section-id="6ulbne">UPS / резервное питание;</li>
-<li data-section-id="1phojkg">переключение на резервное питание &lt;10 мс;</li>
-<li data-section-id="11k3kr5">зарядка от сети до 3200 Вт;</li>
-<li data-section-id="17q500v">солнечная зарядка до 1000 Вт;</li>
-<li data-section-id="jbgkmj">Wi-Fi и Bluetooth;</li>
-<li data-section-id="iig2op">5 розеток AC 220&ndash;240 В;</li>
-<li data-section-id="pgcmba">USB-A и USB-C PD 100 Вт;</li>
-<li data-section-id="19t15k4">DC выходы;</li>
-<li data-section-id="1ycrg4u">автомобильный выход;</li>
-<li data-section-id="8sijy8">большие колеса и телескопическая ручка для транспортировки;</li>
-<li data-section-id="veb47c">вага 53 кг.</li>
-</ul>
-<p><strong>Для чего подходит:</strong></p>
-<p>P5000E PRO можно использовать как резервный источник питания для&nbsp;<strong>дома, квартиры, офиса, холодильника, котла, роутера, телевизора, компьютера, освещения, насоса и электроинструмента</strong>.</p>
-<p>Также станция подходит для автономной работы, загородного дома, кемпинга, мастерской и работы с мощным электрооборудованием.&nbsp;</p>
-<p data-is-last-node="" data-is-only-node=""><strong>Комплектация:</strong>&nbsp;зарядная станция, кабель зарядки от сети, кабель для автомобильной зарядки, кабель для солнечной панели, инструкция.&nbsp;</p>]]></description>
-<vendor code="e0c739eb44b04c838916adaace8920f0">Oukitel</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">487</param>
-<param name="Глибина" paramcode="length">550</param>
-<param name="Ширина" paramcode="width">299</param>
-<param name="Вага" paramcode="weight">53000</param>
-<param name="Ємність" paramcode="6999" valuecode="764bae7238212ab10f81ee650f487b16">більш ніж 2500</param>
-<param name="Ємність" paramcode="321">5120</param>
-<param name="Призначення" paramcode="802" valuecode="zo11vvlyfa487kaj,g2qqixtidypko6kr">універсальна,для будинку</param>
-<param name="Зарядка" paramcode="1110" valuecode="f100734d339a8c6a98681885faed9ae1,32ffb3e3a3eb199cd84a675ad36a5dd3,fe37f4484d2ef0b2ed971521274c6e7d">розетка,сонячна панель,автомобільний адаптер</param>
-<param name="Тип" paramcode="50" valuecode="9xoswlqmwssqk7k6">зарядна станція</param>
-<param name="Тип акумулятора" paramcode="7358" valuecode="c3a006b354a738f20de2e8a38bb56089">LiFePO4</param>
-<param name="Розмір" paramcode="5413" valuecode="0adbdcd689fa7d85d3960f2b421bbfee">великий</param>
-<param name="Кількість вихідних портів" paramcode="8822">14</param>
-<param name="Вихідна потужність" paramcode="5462">4000</param>
-<param name="Пікова вихідна потужність" paramcode="2257">8000</param>
-</offer>
-<offer id="BP2000E PRO" available="true">
-<price>54000</price>
-<category code="8484">Зарядні станції</category>
-<attribute_set code="8484">Зарядні станції</attribute_set>
-<name lang="ua">Зарядна станція OUKITEL BP2000E PRO 3600W 2048Wh LiFePO4, портативна електростанція</name>
-<name lang="ru">Зарядная станция OUKITEL BP2000E PRO 3600W 2048Wh LiFePO4, портативная электростанция</name>
-<picture>https://images.prom.ua/7736686602_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736686603_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736686604_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736686605_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736686832_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736686835_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736686836_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<picture>https://images.prom.ua/7736686834_zaryadnaya-stantsiya-oukitel.jpg</picture>
-<description lang="ua"><![CDATA[<p><strong>OUKITEL BP2000E PRO &mdash; потужна портативна зарядна станція з ємністю 2048 Вт&middot;год та номінальною потужністю 3600 Вт.</strong></p>
-<p>Станція оснащена сучасним акумулятором&nbsp;<strong>LiFePO4</strong>, чистою синусоїдою та функцією&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;з автоматичним перемиканням до 10 мс. Пікова потужність досягає&nbsp;<strong>7200 Вт</strong>, тому станція підходить для живлення як побутової електроніки, так і потужної техніки.</p>
-<h3 data-section-id="ts3zjk">Основні характеристики:</h3>
-<ul>
-<li data-section-id="1ihf0kw">Ємність &mdash;&nbsp;<strong>2048 Вт&middot;год</strong></li>
-<li data-section-id="5w4e05">Номінальна потужність &mdash;&nbsp;<strong>3600 Вт</strong></li>
-<li data-section-id="23hv84">Пікова потужність &mdash;&nbsp;<strong>7200 Вт</strong></li>
-<li data-section-id="eg25an">Акумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
-<li data-section-id="12qqq2l">Ресурс &mdash; до&nbsp;<strong>3500 циклів</strong></li>
-<li data-section-id="1hl12nj">Чиста синусоїда</li>
-<li data-section-id="b7jt77">Функція&nbsp;<strong>ДБЖ (UPS)</strong></li>
-<li data-section-id="10pm4g9">Перемикання на резервне живлення &mdash; до&nbsp;<strong>10 мс</strong></li>
-<li data-section-id="fzs285">5 розеток AC</li>
-<li data-section-id="ket8d4">USB-A та USB-C</li>
-<li data-section-id="9zx94v">DC-виходи</li>
-<li data-section-id="14tqivp">Автомобільний вихід</li>
-<li data-section-id="6m3et2">Заряджання від мережі &mdash; до&nbsp;<strong>1800 Вт</strong></li>
-<li data-section-id="1xthh94">Заряджання від сонячних панелей &mdash; до&nbsp;<strong>1000 Вт</strong></li>
-<li data-section-id="14tjefk">Керування зі смартфона</li>
-<li data-section-id="1oz53p">Інформаційний дисплей</li>
-<li data-section-id="pyv0wg">Вага &mdash;&nbsp;<strong>26 кг</strong></li>
-<li data-section-id="1exjtsl">Розміри &mdash;&nbsp;<strong>480 &times; 296 &times; 322 мм</strong></li>
-</ul>
-<h3 data-section-id="1ojzypi">Для чого підходить</h3>
-<p><strong>OUKITEL BP2000E PRO</strong>&nbsp;можна використовувати як резервне джерело живлення для будинку, квартири, офісу та заміського будинку.</p>
-<p>Станція підходить для живлення:</p>
-<ul>
-<li data-section-id="13fcont">холодильника;</li>
-<li data-section-id="quux6d">газового котла;</li>
-<li data-section-id="hdkall">роутера;</li>
-<li data-section-id="1lqasc7">телевізора;</li>
-<li data-section-id="1t9o4ou">ноутбука та ПК;</li>
-<li data-section-id="arpg7f">освітлення;</li>
-<li data-section-id="6yicsw">насоса;</li>
-<li data-section-id="10d6cs0">електроінструменту;</li>
-<li data-section-id="a8zx5v">іншої побутової техніки.</li>
-</ul>
-<p>Завдяки великій ємності&nbsp;<strong>2048 Вт&middot;год</strong>&nbsp;станція забезпечує тривале автономне живлення під час відключень електроенергії.</p>
-<h3 data-section-id="jt77v7">Заряджання</h3>
-<p>Станцію можна заряджати&nbsp;<strong>від електромережі, автомобіля або сонячних панелей</strong>. Потужність заряджання від мережі &mdash; до&nbsp;<strong>1800 Вт</strong>, від сонячних панелей &mdash; до&nbsp;<strong>1000 Вт</strong>.</p>
-<p data-is-last-node="" data-is-only-node=""><strong>Стан:</strong>&nbsp;новий.<br/>
-<strong>Гарантія:</strong>&nbsp;24 місяці.</p>]]></description>
-<description lang="ru"><![CDATA[<p><strong>OKITEL BP2000E PRO - мощная портативная зарядная станция с емкостью 2048 Вт*ч и номинальной мощностью 3600 Вт.</strong></p>
-<p>Станция оснащена современным аккумулятором&nbsp;<strong>LiFePO4</strong>чистой синусоидой и функцией&nbsp;<strong>ДБЖ (UPS)</strong>&nbsp;с автоматическим переключением до 10 мс. Пиковая мощность достигает&nbsp;<strong>7200 Вт</strong>, поэтому станция подходит для питания как бытовой электроники, так и мощной техники.</p>
-<h3 data-section-id="ts3zjk">Основные характеристики:</h3>
-<ul>
-<li data-section-id="1ihf0kw">Емкость -&nbsp;<strong>2048 Вт*ч</strong></li>
-<li data-section-id="5w4e05">Номинальная мощность &mdash;&nbsp;<strong>3600 Вт</strong></li>
-<li data-section-id="23hv84">Пиковая мощность &mdash;&nbsp;<strong>7200 Вт</strong></li>
-<li data-section-id="eg25an">Аккумулятор &mdash;&nbsp;<strong>LiFePO4</strong></li>
-<li data-section-id="12qqq2l">Ресурс &mdash; до&nbsp;<strong>3500 циклов</strong></li>
-<li data-section-id="1hl12nj">Чистая синусоида</li>
-<li data-section-id="b7jt77">Функция&nbsp;<strong>ДБЖ (UPS)</strong></li>
-<li data-section-id="10pm4g9">Переключение на резервное питание &mdash; до&nbsp;<strong>10 мс</strong></li>
-<li data-section-id="fzs285">5 розеток AC</li>
-<li data-section-id="ket8d4">USB-A и USB-C</li>
-<li data-section-id="9zx94v">DC выходы</li>
-<li data-section-id="14tqivp">Автомобильный выход</li>
-<li data-section-id="6m3et2">Зарядка от сети &mdash; до&nbsp;<strong>1800 Вт</strong></li>
-<li data-section-id="1xthh94">Зарядка от солнечных панелей &mdash; до&nbsp;<strong>1000 Вт</strong></li>
-<li data-section-id="14tjefk">Управление со смартфона</li>
-<li data-section-id="1oz53p">Информационный дисплей</li>
-<li data-section-id="pyv0wg">Вес -&nbsp;<strong>26 кг</strong></li>
-<li data-section-id="1exjtsl">Размеры -&nbsp;<strong>480 &times; 296 &times; 322 мм</strong></li>
-</ul>
-<h3 data-section-id="1ojzypi">Для чего подходит</h3>
-<p><strong>OUKITEL BP2000E PRO</strong>&nbsp;можно использовать как резервный источник питания для дома, квартиры, офиса и загородного дома.</p>
-<p>Станция подходит для питания:</p>
-<ul>
-<li data-section-id="13fcont">холодильника;</li>
-<li data-section-id="quux6d">газового котла;</li>
-<li data-section-id="hdkall">роутера;</li>
-<li data-section-id="1lqasc7">телевизора;</li>
-<li data-section-id="1t9o4ou">ноутбука и ПК;</li>
-<li data-section-id="arpg7f">освещение;</li>
-<li data-section-id="6yicsw">насоса;</li>
-<li data-section-id="10d6cs0">электроинструмента;</li>
-<li data-section-id="a8zx5v">другой бытовой техники.</li>
-</ul>
-<p>Благодаря большой емкости&nbsp;<strong>2048 Вт*ч</strong>&nbsp;станция обеспечивает длительное автономное питание во время отключений электроэнергии.</p>
-<h3 data-section-id="jt77v7">Зарядка</h3>
-<p>Станцию можно заряжать&nbsp;<strong>от электросети, автомобиля или солнечных панелей</strong>. Мощность зарядки от сети &mdash; до&nbsp;<strong>1800 Вт</strong>, от солнечных панелей &mdash; до&nbsp;<strong>1000 Вт</strong>.</p>
-<p data-is-last-node="" data-is-only-node=""><strong>Стан:</strong>&nbsp;новый.<br/>
-<strong>Гарантия:</strong>&nbsp;24 месяца.</p>]]></description>
-<vendor code="e0c739eb44b04c838916adaace8920f0">Oukitel</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">322</param>
-<param name="Глибина" paramcode="length">480</param>
-<param name="Ширина" paramcode="width">296</param>
-<param name="Вага" paramcode="weight">26000</param>
-<param name="Ємність" paramcode="6999" valuecode="44e25ddbe373d962851b6b0762080725">2000 - 2499</param>
-<param name="Ємність" paramcode="321">2048</param>
-<param name="Призначення" paramcode="802" valuecode="zo11vvlyfa487kaj,g2qqixtidypko6kr">універсальна,для будинку</param>
-<param name="Зарядка" paramcode="1110" valuecode="f100734d339a8c6a98681885faed9ae1,32ffb3e3a3eb199cd84a675ad36a5dd3,fe37f4484d2ef0b2ed971521274c6e7d">розетка,сонячна панель,автомобільний адаптер</param>
-<param name="Тип" paramcode="50" valuecode="9xoswlqmwssqk7k6">зарядна станція</param>
-<param name="Тип акумулятора" paramcode="7358" valuecode="c3a006b354a738f20de2e8a38bb56089">LiFePO4</param>
-<param name="Розмір" paramcode="5413" valuecode="0adbdcd689fa7d85d3960f2b421bbfee">великий</param>
-<param name="Кількість вихідних портів" paramcode="8822">15</param>
-<param name="Вихідна потужність" paramcode="5462">3600</param>
-<param name="Пікова вихідна потужність" paramcode="2257">7200</param>
 </offer>
 <offer id="ДБЖ UPS DC1018P" available="true">
 <price>1614</price>
