@@ -154346,7 +154346,7 @@ SYSTEM "shops.dtd">
 <param name="Стан">Новий</param>
 <param name="Сезон">Зима</param>
 </offer>
-<offer id="98963314" group_id="80967440" available="true" in_stock="true">
+<offer id="98963314" group_id="80967440" available="false">
 <price>2708</price>
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
@@ -154390,7 +154390,7 @@ SYSTEM "shops.dtd">
 <p>Зручна кишенька стане у пригоді для зберегання дитячих скарбів.</p>
 
 <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <param name="Колір">Синій</param>
 <param name="Відтінок">синій</param>
 <param name="Розмір">86/92</param>
@@ -158058,7 +158058,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Пинетки ДоРечи разработаны для детей от рождения до 18 месяцев.</p><p> С помощью эластичной тесьмы они легко одеваются и удерживаются на ножке.</p><p> Верхний материал – мембранная ткань.</p><p> Утеплитель – Thermoloft 200, который прекрасно сохраняет тепло.</p><p> Внутри – мягкий флис Polar.</p><p> Светоотражающие элементы помогают малышу заметно в темное время суток во время перехода дороги.</p>]]></description>
 <name_ua><![CDATA[Пінетки зимові Беж 14 (0-18м)]]></name_ua>
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Колір">Бежевий</param>
 <param name="Відтінок">бежевий</param>
 <param name="Розмір">14 (0-18м)</param>
