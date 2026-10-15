@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-15 23:08">
+<yml_catalog date="2026-10-16 01:09">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -66603,7 +66603,7 @@
 <param name="Тип застібки" paramcode="2407" valuecode="29815ad3473bae73f9db0040d168a811">блискавка</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 </offer>
-<offer id="DR-2111" available="true">
+<offer id="DR-2111" available="false">
 <price>3329</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
