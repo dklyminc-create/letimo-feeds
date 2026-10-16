@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-16 10:38">
+<yml_catalog date="2026-10-16 11:38">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -66491,7 +66491,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2120-86-O" available="true">
+<offer id="DR-2120-86-O" available="false">
 <price>3559</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -74975,81 +74975,6 @@
 <param name="Вид" paramcode="12732" valuecode="827418e877dad06299e88a4a4b3aa5c1">інвертор</param>
 <param name="Вхідна напруга" paramcode="5920">12</param>
 <param name="Вихідна напруга" paramcode="5929">220</param>
-</offer>
-<offer id="JAM1876" available="true">
-<price>7614</price>
-<category code="1525">Бігові доріжки</category>
-<attribute_set code="1525">Бігові доріжки</attribute_set>
-<name lang="ua">Безшумна складна електрична бігова доріжка для ходьби та бігу JAM1876</name>
-<name lang="ru">Бесшумная складная электрическая беговая дорожка для ходьбы и бега JAM1876</name>
-<picture>https://images.prom.ua/7733948804_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
-<picture>https://images.prom.ua/7733948803_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
-<picture>https://images.prom.ua/7733949837_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
-<picture>https://images.prom.ua/7733949849_besshumnaya-skladnaya-elektricheskaya.jpg</picture>
-<description lang="ua"><![CDATA[<p><strong>Безшумна складна електрична бігова доріжка JAM1876 для домашніх тренувань, ходьби та бігу.</strong></p>
-<p>Компактна бігова доріжка для комфортних тренувань у домашніх умовах. Завдяки складній конструкції її зручно зберігати навіть у приміщеннях з обмеженим простором.</p>
-<h3 data-section-id="2umv8v">Основні переваги:</h3>
-<ul>
-<li data-section-id="vkb5un">тиха робота;</li>
-<li data-section-id="1hefu86">складна конструкція;</li>
-<li data-section-id="lh1bj1">компактне зберігання;</li>
-<li data-section-id="1va596x">регулювання швидкості;</li>
-<li data-section-id="1m5mbfd">зручний дисплей;</li>
-<li data-section-id="184jium">транспортні колеса;</li>
-<li data-section-id="1551r9h">комфортне використання вдома;</li>
-<li data-section-id="5zgmnh">підходить для ходьби та бігу.</li>
-</ul>
-<h3 data-section-id="1qn2fn5">Для кого підходить:</h3>
-<ul>
-<li data-section-id="1r4v7dy">для щоденної ходьби;</li>
-<li data-section-id="1lldi2n">для домашніх кардіотренувань;</li>
-<li data-section-id="ic0l9s">для любителів бігу;</li>
-<li data-section-id="186d6d6">для підтримки фізичної форми;</li>
-<li data-section-id="16ljo10">для тих, хто хоче більше рухатися протягом дня;</li>
-<li data-section-id="lkj0ol">для людей, які віддають перевагу тренуванням удома;</li>
-<li data-section-id="1cytyt4">для квартир та інших приміщень, де важлива економія простору.</li>
-</ul>
-<p><strong>Складна конструкція</strong>&nbsp;дозволяє компактно зберігати доріжку після тренування, а транспортні колеса спрощують її переміщення.</p>
-<p>Займайтеся у комфортний для вас час &mdash; без залежності від погоди та графіка роботи спортзалу.</p>]]></description>
-<description lang="ru"><![CDATA[<p><strong>Бесшумная складная электрическая беговая дорожка JAM1876 для домашних тренировок, ходьбы и бега.</strong></p>
-<p>Компактная беговая дорожка для комфортных тренировок в домашних условиях. Благодаря сложной конструкции ее удобно хранить даже в помещениях с ограниченным пространством.</p>
-<h3 data-section-id="2umv8v">Основные преимущества:</h3>
-<ul>
-<li data-section-id="vkb5un">тиха робота;</li>
-<li data-section-id="1hefu86">сложная конструкция;</li>
-<li data-section-id="lh1bj1">компактное хранение;</li>
-<li data-section-id="1va596x">регулировка скорости;</li>
-<li data-section-id="1m5mbfd">удобный дисплей;</li>
-<li data-section-id="184jium">транспортные колеса;</li>
-<li data-section-id="1551r9h">комфортное использование дома;</li>
-<li data-section-id="5zgmnh">подходит для ходьбы и бега.</li>
-</ul>
-<h3 data-section-id="1qn2fn5">Для кого подходит:</h3>
-<ul>
-<li data-section-id="1r4v7dy">для ежедневной ходьбы;</li>
-<li data-section-id="1lldi2n">для домашних кардиотренировок;</li>
-<li data-section-id="ic0l9s">для любителей бега;</li>
-<li data-section-id="186d6d6">для поддержания физической формы;</li>
-<li data-section-id="16ljo10">для тех, кто хочет больше двигаться в течение дня;</li>
-<li data-section-id="lkj0ol">для людей, предпочитающих тренировки дома;</li>
-<li data-section-id="1cytyt4">для квартир и других помещений, где важна экономия пространства.</li>
-</ul>
-<p><strong>Сложная конструкция</strong>&nbsp;позволяет компактно хранить дорожку после тренировки, а транспортные колеса упрощают ее перемещение.</p>
-<p>Занимайтесь в комфортное для вас время &mdash; без зависимости от погоды и графика работы спортзала.</p>]]></description>
-<vendor code="4drfig87ybcknhcz">JAM</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">1050</param>
-<param name="Глибина" paramcode="length">1260</param>
-<param name="Ширина" paramcode="width">530</param>
-<param name="Вага" paramcode="weight">22000</param>
-<param name="Довжина полотна" paramcode="13722">114</param>
-<param name="Ширина полотна" paramcode="9068">40</param>
-<param name="Максимальна вага користувача" paramcode="4196">130</param>
-<param name="Система навантаження" paramcode="4486" valuecode="6b0a9ede60eb5e16dcb3889cb541692b">електрична</param>
-<param name="Максимальна швидкість бігового полотна" paramcode="4490">12</param>
-<param name="Наявність регулювання кута нахилу" paramcode="10149" valuecode="no">ні</param>
 </offer>
 <offer id="2018547/4" available="true">
 <price>799</price>
