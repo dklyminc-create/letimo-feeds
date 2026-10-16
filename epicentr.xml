@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-16 23:12">
+<yml_catalog date="2026-10-17 00:38">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -53562,6 +53562,39 @@
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="2899648238" available="true">
+<price>1029</price>
+<category code="6852">Сарафани дитячі</category>
+<attribute_set code="6852">Сарафани дитячі</attribute_set>
+<name lang="ua">Джинсовий сарафан "Isla", Темний таш 92 (18-24 міс.)</name>
+<name lang="ru">Джинсовый сарафан "Isla", Темный таш 92 (18-24 мес.)</name>
+<picture>https://letimo.com.ua/content/images/7/90329034844321_+90a8119e5d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/dzhynsovyi-sarafan-isla-temnyi-tash-92-18-24-mis.-33107722117060_+b4b75dd6a1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/dzhynsovyi-sarafan-isla-temnyi-tash-92-18-24-mis.-76660598452260_+33c06609cd.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/dzhynsovyi-sarafan-isla-temnyi-tash-92-18-24-mis.-26839338307528_+08ca89e226.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/dzhynsovyi-sarafan-isla-temnyi-tash-92-18-24-mis.-24202817834229_+71fd3c7fc3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/dzhynsovyi-sarafan-isla-temnyi-tash-92-18-24-mis.-32316186755953_+ce818b9200.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/dzhynsovyi-sarafan-isla-temnyi-tash-92-18-24-mis.-97526629446870_+c656b34a07.jpg</picture>
+<description lang="ua">&lt;p&gt;Джинсовий сарафан  Isla    на щодень і для гарних фото.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Щільний, але м'який денім на бавовняній підкладці.&lt;/li&gt;&lt;li&gt;Кнопки на лямках і з боків   легко вдягати.&lt;/li&gt;&lt;li&gt;Фурнітура без нікелю.&lt;/li&gt;&lt;li&gt;Не заважає сідати й гратися.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Догляд&lt;/h3&gt;&lt;p&gt;Прати навиворіт при 30  C окремо від світлих речей.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; під сарафан вдягайте футболку, лонгслів чи гольф за погодою.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Джинсовый сарафан Isla на каждый день и для красивых фото.</p><h3> Что важно</h3><ul><li> Плотный, но мягкий деним на хлопковой подкладке.</li><li> Кнопки на лямках и по бокам легко одевать.</li><li> Фурнитура без никеля.</li><li> Не мешает садиться и играть.</li></ul><h3> Уход</h3><p> Стирать наизнанку при 30 C отдельно от светлых вещей.</p><p> <strong>Совет:</strong> под сарафан надевайте футболку, лонгслив или гольф по погоде.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Isla]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Джинсовий котон: 100% бавовна</param>
+<param name="Зріст" paramcode="11972" valuecode="4919">92</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Стиль" paramcode="1625" valuecode="1e7ccf6c243d975c31e1128ae62daa88">denim</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Сезон" paramcode="2295" valuecode="c66f6045e0a38e52f7672d3e8e959bba">літо</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
 </offer>
 <offer id="2899648239" available="true">
 <price>1029</price>
