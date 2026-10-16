@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-16 03:08">
+<yml_catalog date="2026-10-16 04:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -4958,22 +4958,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">95% бавовна 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="913" available="false">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT111451-h6kir</article>
-<name_ua><![CDATA[Шапка ''Emoji'']]></name_ua>
-<description_ua><![CDATA[<p>Шапка  Emoji    демісезонна шапочка з вишивкою-емоцією для прохолодної осені й весни.</p><h3>Що важливо</h3><ul><li>Склад: 95% бавовна, 5% лайкра.</li><li>Бавовняна рібана у 2 шари.</li><li>Регульований підворот: шапку можна підігнати по голові й закрити вушка.</li><li>Яскрава вишивка, яка подобається дітям.</li></ul><h3>Догляд</h3><p>Прати при 30  C, сушити розкладеною, щоб шапка не розтягнулася.</p><p><strong>Порада LETIMO:</strong> розмір шапки обирайте за обхватом голови   так точніше, ніж за віком.</p>]]></description_ua>
-<price>312</price>
-<price_old>445</price_old>
-<stock_quantity>0</stock_quantity>
-<picture>https://letimo.com.ua/content/images/14/66284480738349_%2Bd5c87846fd.jpg</picture>
-<param name="Колір">сіро-голубий</param>
-<param name="Розмір">46-50</param>
-<param name="Склад">95% бавовна 5% еластан</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="934" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1105</categoryId>
@@ -7599,6 +7583,22 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/39/19021735430782_%2Ba0be5011de.jpg</picture>
 <param name="Колір">темно-бежевий</param>
 <param name="Розмір">38-42 (3-6 міс.)</param>
+<param name="Склад">95% бавовна 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="2289" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>MagBaby</vendor>
+<article>LT111451-rv8nj</article>
+<name_ua><![CDATA[Шапка ''Emoji'']]></name_ua>
+<description_ua><![CDATA[<p>Шапка  Emoji    демісезонна шапочка з вишивкою-емоцією для прохолодної осені й весни.</p><h3>Що важливо</h3><ul><li>Склад: 95% бавовна, 5% лайкра.</li><li>Бавовняна рібана у 2 шари.</li><li>Регульований підворот: шапку можна підігнати по голові й закрити вушка.</li><li>Яскрава вишивка, яка подобається дітям.</li></ul><h3>Догляд</h3><p>Прати при 30  C, сушити розкладеною, щоб шапка не розтягнулася.</p><p><strong>Порада LETIMO:</strong> розмір шапки обирайте за обхватом голови   так точніше, ніж за віком.</p>]]></description_ua>
+<price>543</price>
+<price_old>543</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/40/89921359259995_%2B3147020eb4.jpg</picture>
+<param name="Колір">темно-бежевий</param>
+<param name="Розмір">42-46 (6-12 міс.)</param>
 <param name="Склад">95% бавовна 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
@@ -10343,6 +10343,22 @@ SYSTEM "shops.dtd">
 <param name="Колір">айворі</param>
 <param name="Розмір">80см</param>
 <param name="Склад">Плащова тканина; підкладка: Підкладочна тканина; утеплювач: Силіконізований синтепон</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="913" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>MagBaby</vendor>
+<article>LT111451-h6kir</article>
+<name_ua><![CDATA[Шапка ''Emoji'']]></name_ua>
+<description_ua><![CDATA[<p>Шапка  Emoji    демісезонна шапочка з вишивкою-емоцією для прохолодної осені й весни.</p><h3>Що важливо</h3><ul><li>Склад: 95% бавовна, 5% лайкра.</li><li>Бавовняна рібана у 2 шари.</li><li>Регульований підворот: шапку можна підігнати по голові й закрити вушка.</li><li>Яскрава вишивка, яка подобається дітям.</li></ul><h3>Догляд</h3><p>Прати при 30  C, сушити розкладеною, щоб шапка не розтягнулася.</p><p><strong>Порада LETIMO:</strong> розмір шапки обирайте за обхватом голови   так точніше, ніж за віком.</p>]]></description_ua>
+<price>312</price>
+<price_old>445</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://letimo.com.ua/content/images/14/66284480738349_%2Bd5c87846fd.jpg</picture>
+<param name="Колір">сіро-голубий</param>
+<param name="Розмір">46-50</param>
+<param name="Склад">95% бавовна 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
    <offer id="914" available="false">
@@ -16346,22 +16362,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">айворі</param>
 <param name="Розмір">-</param>
 <param name="Склад">Стейтч-кулірний трикотаж</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="2289" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>MagBaby</vendor>
-<article>LT111451-rv8nj</article>
-<name_ua><![CDATA[Шапка ''Emoji'']]></name_ua>
-<description_ua><![CDATA[<p>Шапка  Emoji    демісезонна шапочка з вишивкою-емоцією для прохолодної осені й весни.</p><h3>Що важливо</h3><ul><li>Склад: 95% бавовна, 5% лайкра.</li><li>Бавовняна рібана у 2 шари.</li><li>Регульований підворот: шапку можна підігнати по голові й закрити вушка.</li><li>Яскрава вишивка, яка подобається дітям.</li></ul><h3>Догляд</h3><p>Прати при 30  C, сушити розкладеною, щоб шапка не розтягнулася.</p><p><strong>Порада LETIMO:</strong> розмір шапки обирайте за обхватом голови   так точніше, ніж за віком.</p>]]></description_ua>
-<price>543</price>
-<price_old>543</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/40/89921359259995_%2B3147020eb4.jpg</picture>
-<param name="Колір">темно-бежевий</param>
-<param name="Розмір">42-46 (6-12 міс.)</param>
-<param name="Склад">95% бавовна 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
    <offer id="2290" available="true">
