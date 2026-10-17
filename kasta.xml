@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-17 20:38">
+<yml_catalog date="2026-10-17 23:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -103908,7 +103908,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98812520" available="true">
+<offer id="98812520" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -103917,7 +103917,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон Аполло ДоРечі - це 100% впевненості у теплі та комфорті вашої дитини.</p> <p>Він дуже практичний та зручний. Оздоблений великою кількістю світловідбивних елементів для безпеки на дорозі у темний час доби.</p> <p>Верх - мембранна тканина, яка забезпечить вітронепродуваємість та водовідштовхування в будь яку несприятливу погоду. Водонепроникність 10000 мм. Повітропроникність 5000 гр/м&sup2;.</p> <p>Надсучасний утеплювач Holllowsoft&trade; 300 гр/м&sup2; гарантує відмінну теплоізоляцію та не втягує вологу ззовні. М&rsquo;яка структура волокна не стримує природний рух і підвищує відчуття комфорту в одязі.</p> <p>Підкладка:</p> <p>Груди та спинка - антипілінговий фліс Polar.</p> <p>Рукави та штанини - високоякісний підкладковий атлас, який є запорукою легкого та зручного одягання.</p> <p>Крій капюшону забезпечує його щільне прилягання до голови дитини та створює надійний захист від вітру та дощу.</p> <p>Декор капюшону - штучне антиалергенне хутро, що кріпиться на застібку-молнію.</p> <p>Еластичні манжети на рукавах та штанинах, резинка на талії та вільний продуманий крій дозволяють дитині вільно рухатись.</p> <p>Довга застібка, захищена внутрішньою вітрозахисною планкою, сприяє швидкому одяганню.</p> <p>Силіконові штрипки не дозволяють штанинам підстрибувати, коли малюк активно рухається.</p> <p>Зручна кишенька стане у пригоді для зберігання дитячих скарбів.</p> <p>Зверніть увагу, що комбінезон має близько 6 см для зростання.</p> <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>3776</price>
 <price_old>3776</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/46/apollo_first_snow_fur_80-70675750366305_%2B325d83eacc.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -104359,7 +104359,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95159888" available="true">
+<offer id="95159888" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -104368,7 +104368,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3355</price>
 <price_old>3355</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/8/apollo_winter_meadow_80-51575763933764_%2B898f7bd7ff.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
@@ -104727,8 +104727,8 @@ SYSTEM "shops.dtd">
 <price_old>3233</price_old>
 <stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/45/apollo_navy_blue_74_fur-57047644027710_%2Bdf9badcfb4.jpg</picture>
-<picture>https://dorechi.ua/content/images/45/15788141783447_%2B064f225bf8.jpeg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_navy_blue_80_o-12216470497765_%2Bbfea3848ed.jpg</picture>
+<picture>https://dorechi.ua/content/images/45/15788141783447_%2B064f225bf8.jpeg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_navy_blue_80_o-84987907960350_%2Bb01aa71f9b.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/34243045073150_%2B9c1e4b8e73.jpeg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_navy_blue_80_o-46302197005879_%2B1ab9803e36.jpg</picture>
@@ -105413,10 +105413,10 @@ SYSTEM "shops.dtd">
 <price_old>2800</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-76783596012920_%2Ba7e7bf98ba.jpg</picture>
-<picture>https://dorechi.ua/content/images/42/26725529292780_%2B574ac7d8b1.jpeg</picture>
 <picture>https://dorechi.ua/content/images/14/apollo_navy_blue_80-98252445991469_%2Be5f30e24f9.jpg</picture>
-<picture>https://dorechi.ua/content/images/42/66475701063330_%2B0fa20d4f53.jpeg</picture>
+<picture>https://dorechi.ua/content/images/42/26725529292780_%2B574ac7d8b1.jpeg</picture>
 <picture>https://dorechi.ua/content/images/14/apollo_navy_blue_80-93291804712118_%2Bd14faa1b55.jpg</picture>
+<picture>https://dorechi.ua/content/images/42/66475701063330_%2B0fa20d4f53.jpeg</picture>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-49485393287368_%2Bea07801538.jpg</picture>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-74639627416010_%2B01e3bf2862.jpg</picture>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-29144067758108_%2B1ce3ccb1bf.jpeg</picture>
@@ -105462,10 +105462,10 @@ SYSTEM "shops.dtd">
 <price_old>2800</price_old>
 <stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/16/apollo_navy_blue_92-86721140322691_%2B415d88db5d.jpg</picture>
-<picture>https://dorechi.ua/content/images/42/26725529292780_%2B574ac7d8b1.jpeg</picture>
 <picture>https://dorechi.ua/content/images/14/apollo_navy_blue_80-98252445991469_%2Be5f30e24f9.jpg</picture>
-<picture>https://dorechi.ua/content/images/42/66475701063330_%2B0fa20d4f53.jpeg</picture>
+<picture>https://dorechi.ua/content/images/42/26725529292780_%2B574ac7d8b1.jpeg</picture>
 <picture>https://dorechi.ua/content/images/14/apollo_navy_blue_80-93291804712118_%2Bd14faa1b55.jpg</picture>
+<picture>https://dorechi.ua/content/images/42/66475701063330_%2B0fa20d4f53.jpeg</picture>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-49485393287368_%2Bea07801538.jpg</picture>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-74639627416010_%2B01e3bf2862.jpg</picture>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-29144067758108_%2B1ce3ccb1bf.jpeg</picture>
@@ -105723,7 +105723,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95189652" available="true">
+<offer id="95189652" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -105733,7 +105733,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Крій капюшону забезпечує його щільне прилягання до голови дитини та створює надійний захист від вітру та дощу. До речі, за бажання, Ви можете придбати модель з додатковою опушкою з м&rsquo;якого штучного хутра на капюшоні. </p> <p>Еластичні манжети на рукавах та штанинах, резинка на талії та вільний продуманий крій дозволяють дитині вільно рухатись.</p> <p>Довга застібка, захищена внутрішньою вітрозахисною планкою, сприяє швидкому одяганню.</p> <p>Силіконові штрипки не дозволяють штанинам підстрибувати, коли малюк активно рухається.</p> <p>Зручна кишенька стане у пригоді для зберегання дитячих скарбів.</p> <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>2800</price>
 <price_old>2800</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-37021393704337_%2B52af498e00.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-71985698356762_%2B0656c8f73a.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-25698378133766_%2Bb156ebad7c.jpg</picture>
@@ -106272,15 +106272,15 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/30/47503126451076_%2B2e848690e1.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/38145366666709_%2Ba9d9d95220.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/15177275817053_%2B378fe9df50.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-26491996887612_%2B25ba4fe7e5.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/15221019233059_%2Bb9112782a5.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/74964067325944_%2Bd0b259a6c9.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-26491996887612_%2B25ba4fe7e5.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/32118430794701_%2B710daeddd0.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/69547989207691_%2Bcd535da415.jpeg</picture>
+<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/37979516328004_%2Be9ab7de596.jpeg</picture>
-<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-59363805317524_%2Bab3e97a660.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/82341236044127_%2Bc0931b2a02.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-59363805317524_%2Bab3e97a660.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/zefir_white_56-62-26659584471628_%2B4c024296d4.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/zefir_white_56-62-93111924154082_%2Be2d9ea5221.jpg</picture>
 <param name="Колір">білий</param>
@@ -107861,17 +107861,17 @@ SYSTEM "shops.dtd">
 <price_old>793</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/21/merino-beanie-grey-38-32659195185701_%2B8fb7c12a99.jpg</picture>
-<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
+<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
-<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
-<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-beanie-grey-40-92410925243183_%2Ba5f9857286.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/77117939501054_%2B33425dcfbd.jpeg</picture>
@@ -107921,17 +107921,17 @@ SYSTEM "shops.dtd">
 <price_old>793</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/22/78855702463049_%2Bb4170b273a.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-beanie-grey-40-92410925243183_%2Ba5f9857286.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/77117939501054_%2B33425dcfbd.jpeg</picture>
@@ -107957,9 +107957,9 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
+<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
-<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
@@ -107987,9 +107987,9 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
-<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
+<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
@@ -108444,15 +108444,15 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/47557266512200_%2Baa6c8c120f.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/30047524480825_%2Baf08fd9ab6.jpg</picture>
-<picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
-<picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
+<picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-75110277890210_%2Be5a33bc9d9.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31436908535905_%2B5856e52f82.jpg</picture>
-<picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
+<picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
+<picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-49403405019880_%2B44c9e9869d.jpg</picture>
 <param name="Колір">блакитний</param>
 <param name="Розмір">38-40см</param>
@@ -108501,18 +108501,18 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/41/beanie_light_blue_42-77036123446082_%2B6ded351cc8.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-86241906799997_%2Bf57d1e792f.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/47557266512200_%2Baa6c8c120f.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/30047524480825_%2Baf08fd9ab6.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-75110277890210_%2Be5a33bc9d9.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31436908535905_%2B5856e52f82.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-49403405019880_%2B44c9e9869d.jpg</picture>
 <param name="Колір">блакитний</param>
 <param name="Розмір">42-44см</param>
@@ -108531,18 +108531,18 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/24/33945956068011_%2B5b6c928b05.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-86241906799997_%2Bf57d1e792f.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/47557266512200_%2Baa6c8c120f.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/30047524480825_%2Baf08fd9ab6.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-75110277890210_%2Be5a33bc9d9.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31436908535905_%2B5856e52f82.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-49403405019880_%2B44c9e9869d.jpg</picture>
 <param name="Колір">блакитний</param>
 <param name="Розмір">44-46см</param>
@@ -108561,18 +108561,18 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/28/65225207867227_%2Bb7476f2425.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-86241906799997_%2Bf57d1e792f.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/47557266512200_%2Baa6c8c120f.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/30047524480825_%2Baf08fd9ab6.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-75110277890210_%2Be5a33bc9d9.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31436908535905_%2B5856e52f82.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-49403405019880_%2B44c9e9869d.jpg</picture>
 <param name="Колір">блакитний</param>
 <param name="Розмір">46-48см</param>
@@ -108657,11 +108657,11 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/86060594751488_%2B14892d7c13.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/29131762612200_%2B5a25dff1e0.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
-<picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/67215941160519_%2B53d924042e.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/71331503435185_%2B58364bc49f.jpg</picture>
 <param name="Колір">чорний</param>
@@ -108687,11 +108687,11 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/86060594751488_%2B14892d7c13.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/29131762612200_%2B5a25dff1e0.jpg</picture>
-<picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
-<picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/67215941160519_%2B53d924042e.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/71331503435185_%2B58364bc49f.jpg</picture>
 <param name="Колір">чорний</param>
@@ -108711,17 +108711,17 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/27/53564474513081_%2B819f657c23.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-52193249132773_%2Bc617630c26.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/99445863522602_%2B1a41d8a4bc.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/47371171487969_%2B9de78283fb.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/86060594751488_%2B14892d7c13.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/29131762612200_%2B5a25dff1e0.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
+<picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
-<picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
-<picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/67215941160519_%2B53d924042e.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/71331503435185_%2B58364bc49f.jpg</picture>
 <param name="Колір">чорний</param>
@@ -108740,9 +108740,9 @@ SYSTEM "shops.dtd">
 <price_old>397</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-73412842389830_%2Bd0af3d67e8.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/80208806942662_%2B558400a670.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/44054384007210_%2B8d251e1306.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-37980343073689_%2Bd108bedfa0.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/16766077587003_%2B9a8f39008a.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-57114170193192_%2B210e8ce1aa.jpg</picture>
@@ -108788,9 +108788,9 @@ SYSTEM "shops.dtd">
 <price_old>397</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/39/beanie_pink_42-25999460584578_%2B4f3ae28648.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/80208806942662_%2B558400a670.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/44054384007210_%2B8d251e1306.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-37980343073689_%2Bd108bedfa0.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/16766077587003_%2B9a8f39008a.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-57114170193192_%2B210e8ce1aa.jpg</picture>
@@ -108812,9 +108812,9 @@ SYSTEM "shops.dtd">
 <price_old>397</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/22/64607618348193_%2B3db176b0db.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/80208806942662_%2B558400a670.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/44054384007210_%2B8d251e1306.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-37980343073689_%2Bd108bedfa0.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/16766077587003_%2B9a8f39008a.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-57114170193192_%2B210e8ce1aa.jpg</picture>
@@ -108946,9 +108946,9 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-19805707712832_%2Ba13cf56b71.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
-<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
+<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
@@ -109033,9 +109033,9 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/20/84990000127678_%2B6202fc2315.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
+<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
-<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
