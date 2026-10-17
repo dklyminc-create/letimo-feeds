@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-17 15:08">
+<yml_catalog date="2026-10-17 16:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -104563,7 +104563,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98709657" available="true">
+<offer id="98709657" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -104572,7 +104572,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3233</price>
 <price_old>3233</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/15/apollo_green_fur_86-21479016608490_%2B41a37dab09.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
@@ -104613,7 +104613,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94070096" available="true">
+<offer id="94070096" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -104623,7 +104623,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Крій капюшону забезпечує його щільне прилягання до голови дитини та створює надійний захист від вітру та дощу. До речі, за бажання, Ви можете придбати модель з додатковою опушкою з м&rsquo;якого штучного хутра на капюшоні. </p> <p>Еластичні манжети на рукавах та штанинах, резинка на талії та вільний продуманий крій дозволяють дитині вільно рухатись.</p> <p>Довга застібка, захищена внутрішньою вітрозахисною планкою, сприяє швидкому одяганню.</p> <p>Силіконові штрипки не дозволяють штанинам підстрибувати, коли малюк активно рухається.</p> <p>Зручна кишенька стане у пригоді для зберегання дитячих скарбів.</p> <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>3233</price>
 <price_old>3233</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/12/apollo_beige_fur_80-63319257715651_%2B70c0dcd5a7.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/apollo_beige_fur_74-69620626825762_%2Ba192d5c721.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/apollo_beige_fur_74-44478145902891_%2B25045900a9.jpg</picture>
@@ -105269,7 +105269,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98554702" available="true">
+<offer id="98554702" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -105291,7 +105291,7 @@ SYSTEM "shops.dtd">
 <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>2800</price>
 <price_old>2800</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/16/apollo_beige_80-96887647572149_%2Bd2e5521721.jpg</picture>
 <picture>https://dorechi.ua/content/images/15/apollo_beige_74-66145451105035_%2Bacaa4815ae.jpg</picture>
 <picture>https://dorechi.ua/content/images/15/apollo_beige_74-74703694042189_%2B4dc9183822.jpg</picture>
@@ -108324,7 +108324,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213987" available="true">
+<offer id="98213987" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -108333,7 +108333,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>561</price>
 <price_old>561</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/booties_beige-69417790893107_%2Bc91167211c.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_beige-64213708793524_%2Bbadf1cc06b.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_beige-21444701128549_%2Bd561723fb7.jpg</picture>
