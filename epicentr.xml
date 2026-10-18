@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-18 07:36">
+<yml_catalog date="2026-10-18 07:40">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -66263,6 +66263,66 @@
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
+<offer id="TV-03645-CHORN-4648" available="true">
+<price>500</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Фінн" з хутряними помпонами, чорний, 46-48 см</name>
+<name lang="ru">Зимний шлем Talvi "Финн" с меховыми помпонами, черный, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-35075296836274_+d7090e3852.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-67152584813881_+9e6c678325.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-59197821895664_+d19fd5331f.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний зимовий шолом Talvi &amp;laquo;Фінн&amp;raquo; закриває голову, вушка й шию &amp;mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розміри (обхват голови): 46-48 см, 48-50 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Акрил, ПБТ, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="599854dd4efc6">black</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-03645-CHORN-4850" available="true">
+<price>500</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Фінн" з хутряними помпонами, чорний, 48-50 см</name>
+<name lang="ru">Зимний шлем Talvi "Финн" с меховыми помпонами, черный, 48-50 см</name>
+<picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-16615263462298_+f20d83bfbf.jpg</picture>
+<picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-84756154690564_+d8ec3ff3b9.jpg</picture>
+<picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-60930566602906_+824cd34fc0.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний зимовий шолом Talvi &amp;laquo;Фінн&amp;raquo; закриває голову, вушка й шию &amp;mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розміри (обхват голови): 46-48 см, 48-50 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Акрил, ПБТ, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="599854dd4efc6">black</param>
+<param name="Розмір" paramcode="2293" valuecode="ncm9tmulkpcmi4ua">49</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
 <offer id="TV-03645-BIL-4850" available="true">
 <price>500</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -66292,6 +66352,35 @@
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Розмір" paramcode="2293" valuecode="ncm9tmulkpcmi4ua">49</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-03634-CHORN-4648" available="true">
+<price>580</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Твіо" на флісі, чорний, 46-48 см</name>
+<name lang="ru">Зимний шлем Talvi "Твио" на флисе, черный, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/36/zymovyi-sholom-talvi-tvio-na-flisi-chornyi-46-48-sm-76019492332093_+b6b2e7a2a6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/36/zymovyi-sholom-talvi-tvio-na-flisi-chornyi-46-48-sm-98428539618118_+5eec8e5365.jpg</picture>
+<description lang="ua">&lt;p&gt;Однотонний базовий шолом Talvi &amp;laquo;Твіо&amp;raquo; з теплої, приємної на дотик пряжі. Флісова підкладка по всій площині, лаконічний шеврон talvi &amp;mdash; нічого зайвого. Закриває голову, вушка й шию, тож замінює шапку й шарф. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 46-48 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Однотонный базовый шлем Talvi «Твио» из теплой, приятной на ощупь пряжи. Флисовая подкладка по всей плоскости, лаконичный шеврон talvi – ничего лишнего. Закрывает голову, ушки и шею, поэтому заменяет шапку и шарф. Унисекс.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размер (обхват головы): 46-48 см – ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Твіо]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Акрил, ПБТ, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="599854dd4efc6">black</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
 <offer id="TV-03634-PUDRA-4648" available="true">
