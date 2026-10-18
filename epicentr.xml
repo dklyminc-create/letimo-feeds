@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-18 07:29">
+<yml_catalog date="2026-10-18 07:34">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -66231,6 +66231,682 @@
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+</offer>
+<offer id="TV-03645-BEZH-4648" available="true">
+<price>500</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Фінн" з хутряними помпонами, бежевий, 46-48 см</name>
+<name lang="ru">Зимний шлем Talvi "Финн" с меховыми помпонами, бежевый, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-96723094974993_+4713b3ba09.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-59003236027057_+4612a07b14.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-42081762501666_+5c47609c9b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-85396814097446_+881571af64.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний зимовий шолом Talvi &amp;laquo;Фінн&amp;raquo; закриває голову, вушка й шию &amp;mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розміри (обхват голови): 46-48 см, 48-50 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Акрил, ПБТ, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-03645-BIL-4850" available="true">
+<price>500</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Фінн" з хутряними помпонами, білий, 48-50 см</name>
+<name lang="ru">Зимний шлем Talvi "Финн" с меховыми помпонами, белый., 48-50 см</name>
+<picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-85797880087480_+751384bf6e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-47890354949918_+a4bbfcf1b7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-71687378257910_+b4d5ef2e46.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-71742013237030_+4f7caabe62.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний зимовий шолом Talvi &amp;laquo;Фінн&amp;raquo; закриває голову, вушка й шию &amp;mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розміри (обхват голови): 46-48 см, 48-50 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Акрил, ПБТ, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Розмір" paramcode="2293" valuecode="ncm9tmulkpcmi4ua">49</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-03634-PUDRA-4648" available="true">
+<price>580</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Твіо" на флісі, пудра, 46-48 см</name>
+<name lang="ru">Зимний шлем Talvi "Твио" на флисе, пудра, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/37/zymovyi-sholom-talvi-tvio-na-flisi-pudra-46-48-sm-24263228455671_+9218adc11f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/37/zymovyi-sholom-talvi-tvio-na-flisi-pudra-46-48-sm-66420649612625_+214c7e9256.jpg</picture>
+<picture>https://letimo.com.ua/content/images/37/zymovyi-sholom-talvi-tvio-na-flisi-pudra-46-48-sm-67193791305881_+e94d75ac11.jpg</picture>
+<description lang="ua">&lt;p&gt;Однотонний базовий шолом Talvi &amp;laquo;Твіо&amp;raquo; з теплої, приємної на дотик пряжі. Флісова підкладка по всій площині, лаконічний шеврон talvi &amp;mdash; нічого зайвого. Закриває голову, вушка й шию, тож замінює шапку й шарф. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 46-48 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Однотонный базовый шлем Talvi «Твио» из теплой, приятной на ощупь пряжи. Флисовая подкладка по всей плоскости, лаконичный шеврон talvi – ничего лишнего. Закрывает голову, ушки и шею, поэтому заменяет шапку и шарф. Унисекс.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размер (обхват головы): 46-48 см – ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Твіо]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Акрил, ПБТ, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e">пудровий</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-03634-TSYN-4648" available="true">
+<price>580</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Твіо" на флісі, темно-синій, 46-48 см</name>
+<name lang="ru">Зимний шлем Talvi "Твио" на флисе, темно-синий, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/38/zymovyi-sholom-talvi-tvio-na-flisi-temno-synii-46-48-sm-67526769962849_+ffe31f7c92.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/zymovyi-sholom-talvi-tvio-na-flisi-temno-synii-46-48-sm-80384332222039_+4b64f4c77e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/zymovyi-sholom-talvi-tvio-na-flisi-temno-synii-46-48-sm-92065782238573_+c63e3573af.jpg</picture>
+<description lang="ua">&lt;p&gt;Однотонний базовий шолом Talvi &amp;laquo;Твіо&amp;raquo; з теплої, приємної на дотик пряжі. Флісова підкладка по всій площині, лаконічний шеврон talvi &amp;mdash; нічого зайвого. Закриває голову, вушка й шию, тож замінює шапку й шарф. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 46-48 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Однотонный базовый шлем Talvi «Твио» из теплой, приятной на ощупь пряжи. Флисовая подкладка по всей плоскости, лаконичный шеврон talvi – ничего лишнего. Закрывает голову, ушки и шею, поэтому заменяет шапку и шарф. Унисекс.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размер (обхват головы): 46-48 см – ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Твіо]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Акрил, ПБТ, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0">темно-синій</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-02425-SKHAKI-4446" available="true">
+<price>599</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Мімі" з вушками, світлий хакі, 44-46 см</name>
+<name lang="ru">Зимний шлем Talvi "Мими" с ушками, светлый хаки, 44-46 см</name>
+<picture>https://letimo.com.ua/content/images/39/zymovyi-sholom-talvi-mimi-z-vushkamy-svitlyi-khaki-44-46-sm-79553030355025_+fecf1fa414.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/zymovyi-sholom-talvi-mimi-z-vushkamy-svitlyi-khaki-44-46-sm-41042404471437_+3670d996cc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/zymovyi-sholom-talvi-mimi-z-vushkamy-svitlyi-khaki-44-46-sm-11951585336017_+ef033ec8c5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/zymovyi-sholom-talvi-mimi-z-vushkamy-svitlyi-khaki-44-46-sm-88286845382212_+f78cc0d363.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий шолом Talvi &amp;laquo;Мімі&amp;raquo; з милими в&#39;язаними вушками. Напівшерстяний верх і флісова підкладка тримають тепло, а шолом закриває шию й не сповзає під час прогулянки.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: верх &amp;mdash; 50% вовна, 50% акрил; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 44-46 см &amp;mdash; орієнтовно на 9-12 місяців&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Зимний шлем Talvi «Мими» с милыми вязаными ушками. Полушерстяной верх и флисовая подкладка держат тепло, а шлем закрывает шею и не сползает во время прогулки.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка - 100% полиэстер (флис)</li><li> Сезон: зима</li><li> Размер (обхват головы): 44-46 см – ориентировочно на 9-12 месяцев</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Мімі]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Вовна 50%, акрил 50%; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+<param name="Розмір" paramcode="2293" valuecode="xojpb3zh1v5fjyxj">45</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Декор" paramcode="13477" valuecode="9f9aa1ebeefa405e00b85b5fc2ced551">з вушками</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-02425-BEZH-4446" available="true">
+<price>599</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Зимовий шолом Talvi "Мімі" з вушками, бежевий, 44-46 см</name>
+<name lang="ru">Зимний шлем Talvi "Мими" с ушками, бежевый, 44-46 см</name>
+<picture>https://letimo.com.ua/content/images/40/zymovyi-sholom-talvi-mimi-z-vushkamy-bezhevyi-44-46-sm-24908609323990_+39fb76f650.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/zymovyi-sholom-talvi-mimi-z-vushkamy-bezhevyi-44-46-sm-32606583707102_+174e8985f2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/zymovyi-sholom-talvi-mimi-z-vushkamy-bezhevyi-44-46-sm-54227103420629_+25c55aceb4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/zymovyi-sholom-talvi-mimi-z-vushkamy-bezhevyi-44-46-sm-40575273050672_+f100c03c5e.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий шолом Talvi &amp;laquo;Мімі&amp;raquo; з милими в&#39;язаними вушками. Напівшерстяний верх і флісова підкладка тримають тепло, а шолом закриває шию й не сповзає під час прогулянки.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: верх &amp;mdash; 50% вовна, 50% акрил; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 44-46 см &amp;mdash; орієнтовно на 9-12 місяців&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Зимний шлем Talvi «Мими» с милыми вязаными ушками. Полушерстяной верх и флисовая подкладка держат тепло, а шлем закрывает шею и не сползает во время прогулки.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка - 100% полиэстер (флис)</li><li> Сезон: зима</li><li> Размер (обхват головы): 44-46 см – ориентировочно на 9-12 месяцев</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Мімі]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Вовна 50%, акрил 50%; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Розмір" paramcode="2293" valuecode="xojpb3zh1v5fjyxj">45</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Декор" paramcode="13477" valuecode="9f9aa1ebeefa405e00b85b5fc2ced551">з вушками</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+</offer>
+<offer id="TV-03483-SBEZH-3840" available="true">
+<price>330</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Тепла шапка для новонароджених Talvi "Буся" на зав'язках, світлий беж, 38-40 см</name>
+<name lang="ru">Теплая шапка для новорожденных Talvi "Буся" на завязках, светлый беж, 38-40 см</name>
+<picture>https://letimo.com.ua/content/images/43/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitlyi-bezh-38-40-sm-99226048174667_+5711270777.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitlyi-bezh-38-40-sm-47286377370577_+2c2d5918ae.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitlyi-bezh-38-40-sm-22149344756126_+7bc8aee7ad.jpg</picture>
+<description lang="ua">&lt;p&gt;Тепла в&#39;язана шапочка Talvi &amp;laquo;Буся&amp;raquo; для найменших. Повністю утеплена флісом зсередини, тримається на зав&#39;язках і не з&#39;їжджає в колясці. Декор &amp;mdash; нашивний шеврон.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 52% віскоза, 26% еластан, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 38-40 см&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Теплая вязаная шапочка Talvi «Буся» для самых маленьких. Полностью утепленная флисом изнутри, держится на завязках и не съезжает в коляске. Декор – нашивной шеврон.</p><ul><li> Состав: основа - 52% вискоза, 26% эластан, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размер (обхват головы): 38-40 см</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Буся]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза, еластан, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Розмір" paramcode="2293" valuecode="szcu4qcj6qgf7yjr">38-40</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-03483-SPUDRA-3840" available="true">
+<price>330</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Тепла шапка для новонароджених Talvi "Буся" на зав'язках, світла пудра, 38-40 см</name>
+<name lang="ru">Теплая шапка для новорожденных Talvi "Буся" на завязках, светлая пудра, 38-40 см</name>
+<picture>https://letimo.com.ua/content/images/44/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitla-pudra-38-40-sm-87298861832914_+1a7eceed57.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitla-pudra-38-40-sm-69750548372581_+1645be71f3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitla-pudra-38-40-sm-70498486496232_+21da0cd81a.jpg</picture>
+<description lang="ua">&lt;p&gt;Тепла в&#39;язана шапочка Talvi &amp;laquo;Буся&amp;raquo; для найменших. Повністю утеплена флісом зсередини, тримається на зав&#39;язках і не з&#39;їжджає в колясці. Декор &amp;mdash; нашивний шеврон.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 52% віскоза, 26% еластан, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 38-40 см&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Теплая вязаная шапочка Talvi «Буся» для самых маленьких. Полностью утепленная флисом изнутри, держится на завязках и не съезжает в коляске. Декор – нашивной шеврон.</p><ul><li> Состав: основа - 52% вискоза, 26% эластан, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размер (обхват головы): 38-40 см</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Буся]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза, еластан, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e">пудровий</param>
+<param name="Розмір" paramcode="2293" valuecode="szcu4qcj6qgf7yjr">38-40</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-03483-SSIR-3840" available="true">
+<price>330</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Тепла шапка для новонароджених Talvi "Буся" на зав'язках, світло-сірий, 38-40 см</name>
+<name lang="ru">Теплая шапка для новорожденных Talvi "Буся" на завязках, светло-серый, 38-40 см</name>
+<picture>https://letimo.com.ua/content/images/45/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitlo-siryi-38-40-sm-34635793998250_+f2ca3961cc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitlo-siryi-38-40-sm-56039379919433_+fdabbcb717.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/tepla-shapka-dlia-novonarodzhenykh-talvi-busia-na-zavyazkakh-svitlo-siryi-38-40-sm-53395655716971_+f3c3efc984.jpg</picture>
+<description lang="ua">&lt;p&gt;Тепла в&#39;язана шапочка Talvi &amp;laquo;Буся&amp;raquo; для найменших. Повністю утеплена флісом зсередини, тримається на зав&#39;язках і не з&#39;їжджає в колясці. Декор &amp;mdash; нашивний шеврон.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 52% віскоза, 26% еластан, 22% нейлон; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: холодна осінь, зима&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 38-40 см&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Теплая вязаная шапочка Talvi «Буся» для самых маленьких. Полностью утепленная флисом изнутри, держится на завязках и не съезжает в коляске. Декор – нашивной шеврон.</p><ul><li> Состав: основа - 52% вискоза, 26% эластан, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размер (обхват головы): 38-40 см</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Буся]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза, еластан, нейлон; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="695">світло-сірий</param>
+<param name="Розмір" paramcode="2293" valuecode="szcu4qcj6qgf7yjr">38-40</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-05293-BIL-5052" available="true">
+<price>630</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Комплект Talvi "Освін": шапка з помпоном на флісі і хомут, білий, 50-52 см</name>
+<name lang="ru">Комплект Talvi "Освин": шапка с помпоном на флисе и хомут, белый., 50-52 см</name>
+<picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-51023344210588_+a2dbee8a66.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-62859620900390_+9d30b71a2c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-93672912159343_+989484b7d8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-72256534590069_+7df68ff9d1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-83329499442030_+b225f1e947.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект Talvi &amp;laquo;Освін&amp;raquo;: шапка з трикотажним помпоном і хомут. Шапка гладкої в&#39;язки з відворотом у рубчик, усередині &amp;mdash; фліс по всій площині. Хомут щільної в&#39;язки в рубчик, без флісу. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: верх &amp;mdash; 50% вовна, 50% акрил; підкладка шапки &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: від холодної осені до теплої зими&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 50-52 см &amp;mdash; орієнтовно на 3-4 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Комплект Talvi «Освин»: шапка с трикотажным помпоном и хомутом. Шапка гладкой вязки с отворотом в рубчик, внутри – флис по всей плоскости. Хомут плотной вязки в рубчике, без флиса. Унисекс.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка шапки - 100% полиэстер (флис)</li><li> Сезон: от холодной осени до теплой зимы</li><li> Размер (обхват головы): 50-52 см – ориентировочно на 3-4 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Освін]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Вовна 50%, акрил 50%; підкладка шапки — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5121ec">акрил,трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Розмір" paramcode="2293" valuecode="btiruf5axquwglmh">51</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-05293-PUDRA-5052" available="true">
+<price>630</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Комплект Talvi "Освін": шапка з помпоном на флісі і хомут, пудра, 50-52 см</name>
+<name lang="ru">Комплект Talvi "Освин": шапка с помпоном на флисе и хомут, пудра, 50-52 см</name>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-56370492028522_+f18738d8d2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-50594324187218_+3dce356899.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-43524623166122_+c693ee1f48.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-88704755403641_+ed05a94969.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-34162847675334_+4c214faa8b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-61971917955719_+a6e2d45400.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-34163460183830_+f56cdf6671.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-pudra-50-52-sm-82992505457091_+eb39791642.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект Talvi &amp;laquo;Освін&amp;raquo;: шапка з трикотажним помпоном і хомут. Шапка гладкої в&#39;язки з відворотом у рубчик, усередині &amp;mdash; фліс по всій площині. Хомут щільної в&#39;язки в рубчик, без флісу. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: верх &amp;mdash; 50% вовна, 50% акрил; підкладка шапки &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: від холодної осені до теплої зими&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 50-52 см &amp;mdash; орієнтовно на 3-4 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Комплект Talvi «Освин»: шапка с трикотажным помпоном и хомутом. Шапка гладкой вязки с отворотом в рубчик, внутри – флис по всей плоскости. Хомут плотной вязки в рубчике, без флиса. Унисекс.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка шапки - 100% полиэстер (флис)</li><li> Сезон: от холодной осени до теплой зимы</li><li> Размер (обхват головы): 50-52 см – ориентировочно на 3-4 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Освін]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Вовна 50%, акрил 50%; підкладка шапки — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5121ec">акрил,трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e">пудровий</param>
+<param name="Розмір" paramcode="2293" valuecode="btiruf5axquwglmh">51</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-05293-TPUDRA-5052" available="true">
+<price>630</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Комплект Talvi "Освін": шапка з помпоном на флісі і хомут, темна пудра, 50-52 см</name>
+<name lang="ru">Комплект Talvi "Освин": шапка с помпоном на флисе и хомут, темная пудра, 50-52 см</name>
+<picture>https://letimo.com.ua/content/images/48/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-temna-pudra-50-52-sm-64927575329370_+3225ab3c3b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-temna-pudra-50-52-sm-75013287796709_+1f0408d15e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-temna-pudra-50-52-sm-20251264492772_+19287ae687.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-temna-pudra-50-52-sm-36039241686337_+3a353186fe.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-temna-pudra-50-52-sm-69573894357892_+8a32fb3a46.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект Talvi &amp;laquo;Освін&amp;raquo;: шапка з трикотажним помпоном і хомут. Шапка гладкої в&#39;язки з відворотом у рубчик, усередині &amp;mdash; фліс по всій площині. Хомут щільної в&#39;язки в рубчик, без флісу. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: верх &amp;mdash; 50% вовна, 50% акрил; підкладка шапки &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: від холодної осені до теплої зими&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 50-52 см &amp;mdash; орієнтовно на 3-4 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Комплект Talvi «Освин»: шапка с трикотажным помпоном и хомутом. Шапка гладкой вязки с отворотом в рубчик, внутри – флис по всей плоскости. Хомут плотной вязки в рубчике, без флиса. Унисекс.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка шапки - 100% полиэстер (флис)</li><li> Сезон: от холодной осени до теплой зимы</li><li> Размер (обхват головы): 50-52 см – ориентировочно на 3-4 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Освін]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Вовна 50%, акрил 50%; підкладка шапки — фліс</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5121ec">акрил,трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e">пудровий</param>
+<param name="Розмір" paramcode="2293" valuecode="btiruf5axquwglmh">51</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-05293-KOR-5052" available="true">
+<price>630</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Комплект Talvi "Освін": шапка з помпоном на флісі і хомут, коричневий, 50-52 см</name>
+<name lang="ru">Комплект Talvi "Освин": шапка с помпоном на флисе и хомут, коричневый, 50-52 см</name>
+<picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-60074390633950_+4ad4a39dc4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-74731073745200_+a1fe7108df.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-46376352403396_+14945ce731.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-19076207741979_+02e287d5ae.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-74597743555120_+9a155dc8cf.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект Talvi &amp;laquo;Освін&amp;raquo;: шапка з трикотажним помпоном і хомут. Шапка гладкої в&#39;язки з відворотом у рубчик, усередині &amp;mdash; фліс по всій площині. Хомут щільної в&#39;язки в рубчик, без флісу. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: верх &amp;mdash; 50% вовна, 50% акрил; підкладка шапки &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: від холодної осені до теплої зими&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 50-52 см &amp;mdash; орієнтовно на 3-4 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Комплект Talvi «Освин»: шапка с трикотажным помпоном и хомутом. Шапка гладкой вязки с отворотом в рубчик, внутри – флис по всей плоскости. Хомут плотной вязки в рубчике, без флиса. Унисекс.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка шапки - 100% полиэстер (флис)</li><li> Сезон: от холодной осени до теплой зимы</li><li> Размер (обхват головы): 50-52 см – ориентировочно на 3-4 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Освін]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Вовна 50%, акрил 50%; підкладка шапки — фліс</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5121ec">акрил,трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Розмір" paramcode="2293" valuecode="btiruf5axquwglmh">51</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-03717-BIL-4852" available="true">
+<price>520</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Демісезонний комплект Talvi "Нео": шапка на зав'язках і хомут, білий, 48-52 см</name>
+<name lang="ru">Демисезонный комплект Talvi "Нео": шапка на завязках и хомут, белый, 48-52 см</name>
+<picture>https://letimo.com.ua/content/images/50/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-bilyi-48-52-sm-16826125199580_+81ecd7c9bb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-bilyi-48-52-sm-79939676264711_+b1da43923f.jpg</picture>
+<description lang="ua">&lt;p&gt;Демісезонний комплект Talvi &amp;laquo;Нео&amp;raquo;: шапка на зав&#39;язках і хомут. Шапка одношарова, в міру щільна, із закріпленим відворотом і мінімалістичним декором. Хомут одношаровий. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 52% віскоза, 26% еластан, 22% нейлон&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 48-52 см &amp;mdash; орієнтовно на 2-5 років&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Демисезонный комплект Talvi &quot;Нео&quot;: шапка на завязках и хомут. Шапка однослойная, в меру плотная, с закрепленным отворотом и минималистическим декором. Хомут однослойный. Подходит и мальчикам и девочкам.</p><ul><li> Состав: 52% вискоза, 26% эластан, 22% нейлон.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 48-52 см – ориентировочно на 2-5 лет</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Нео]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 52%, еластан 26%, нейлон 22%</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+<param name="Розмір" paramcode="2293" valuecode="fvp6ojir2f9zlemt">50</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-03717-KAVA-4852" available="true">
+<price>520</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Демісезонний комплект Talvi "Нео": шапка на зав'язках і хомут, кава, 48-52 см</name>
+<name lang="ru">Демисезонный комплект Talvi "Нео": шапка на завязках и хомут, кофе, 48-52 см</name>
+<picture>https://letimo.com.ua/content/images/2/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-kava-48-52-sm-37907915608304_+c735ccaaa4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/2/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-kava-48-52-sm-51223453259796_+519444a7de.jpg</picture>
+<description lang="ua">&lt;p&gt;Демісезонний комплект Talvi &amp;laquo;Нео&amp;raquo;: шапка на зав&#39;язках і хомут. Шапка одношарова, в міру щільна, із закріпленим відворотом і мінімалістичним декором. Хомут одношаровий. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 52% віскоза, 26% еластан, 22% нейлон&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 48-52 см &amp;mdash; орієнтовно на 2-5 років&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Демисезонный комплект Talvi &quot;Нео&quot;: шапка на завязках и хомут. Шапка однослойная, в меру плотная, с закрепленным отворотом и минималистическим декором. Хомут однослойный. Подходит и мальчикам и девочкам.</p><ul><li> Состав: 52% вискоза, 26% эластан, 22% нейлон.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 48-52 см – ориентировочно на 2-5 лет</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Нео]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 52%, еластан 26%, нейлон 22%</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
+<param name="Розмір" paramcode="2293" valuecode="fvp6ojir2f9zlemt">50</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-03717-BLAK-4852" available="true">
+<price>520</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Демісезонний комплект Talvi "Нео": шапка на зав'язках і хомут, блакитний, 48-52 см</name>
+<name lang="ru">Демисезонный комплект Talvi "Нео": шапка на завязках и хомут, голубой, 48-52 см</name>
+<picture>https://letimo.com.ua/content/images/3/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-blakytnyi-48-52-sm-93970763526515_+b1cc72f3c3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/3/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-blakytnyi-48-52-sm-63414629269485_+bde16762ba.jpg</picture>
+<description lang="ua">&lt;p&gt;Демісезонний комплект Talvi &amp;laquo;Нео&amp;raquo;: шапка на зав&#39;язках і хомут. Шапка одношарова, в міру щільна, із закріпленим відворотом і мінімалістичним декором. Хомут одношаровий. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 52% віскоза, 26% еластан, 22% нейлон&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 48-52 см &amp;mdash; орієнтовно на 2-5 років&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Демисезонный комплект Talvi &quot;Нео&quot;: шапка на завязках и хомут. Шапка однослойная, в меру плотная, с закрепленным отворотом и минималистическим декором. Хомут однослойный. Подходит и мальчикам и девочкам.</p><ul><li> Состав: 52% вискоза, 26% эластан, 22% нейлон.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 48-52 см – ориентировочно на 2-5 лет</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Нео]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 52%, еластан 26%, нейлон 22%</param>
+<param name="Базовий колір" paramcode="12097" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
+<param name="Розмір" paramcode="2293" valuecode="fvp6ojir2f9zlemt">50</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-03717-SKHAKI-4852" available="true">
+<price>520</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Демісезонний комплект Talvi "Нео": шапка на зав'язках і хомут, світлий хакі, 48-52 см</name>
+<name lang="ru">Демисезонный комплект Talvi "Нео": шапка на завязках и хомут, светлый хаки, 48-52 см</name>
+<picture>https://letimo.com.ua/content/images/4/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-svitlyi-khaki-48-52-sm-81731959835181_+1c33dca9c3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/4/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-svitlyi-khaki-48-52-sm-77188011463815_+df1f92aa92.jpg</picture>
+<description lang="ua">&lt;p&gt;Демісезонний комплект Talvi &amp;laquo;Нео&amp;raquo;: шапка на зав&#39;язках і хомут. Шапка одношарова, в міру щільна, із закріпленим відворотом і мінімалістичним декором. Хомут одношаровий. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 52% віскоза, 26% еластан, 22% нейлон&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 48-52 см &amp;mdash; орієнтовно на 2-5 років&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Демисезонный комплект Talvi &quot;Нео&quot;: шапка на завязках и хомут. Шапка однослойная, в меру плотная, с закрепленным отворотом и минималистическим декором. Хомут однослойный. Подходит и мальчикам и девочкам.</p><ul><li> Состав: 52% вискоза, 26% эластан, 22% нейлон.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 48-52 см – ориентировочно на 2-5 лет</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Нео]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 52%, еластан 26%, нейлон 22%</param>
+<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+<param name="Розмір" paramcode="2293" valuecode="fvp6ojir2f9zlemt">50</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-03717-SROZH-4852" available="true">
+<price>520</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Демісезонний комплект Talvi "Нео": шапка на зав'язках і хомут, світло-рожевий, 48-52 см</name>
+<name lang="ru">Демисезонный комплект Talvi "Нео": шапка на завязках и хомут, светло-розовый., 48-52 см</name>
+<picture>https://letimo.com.ua/content/images/5/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-svitlo-rozhevyi-48-52-sm-30249880248045_+d5ed556ec3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/5/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-svitlo-rozhevyi-48-52-sm-64064104662323_+e2b928bb3c.jpg</picture>
+<description lang="ua">&lt;p&gt;Демісезонний комплект Talvi &amp;laquo;Нео&amp;raquo;: шапка на зав&#39;язках і хомут. Шапка одношарова, в міру щільна, із закріпленим відворотом і мінімалістичним декором. Хомут одношаровий. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 52% віскоза, 26% еластан, 22% нейлон&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 48-52 см &amp;mdash; орієнтовно на 2-5 років&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Демисезонный комплект Talvi &quot;Нео&quot;: шапка на завязках и хомут. Шапка однослойная, в меру плотная, с закрепленным отворотом и минималистическим декором. Хомут однослойный. Подходит и мальчикам и девочкам.</p><ul><li> Состав: 52% вискоза, 26% эластан, 22% нейлон.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 48-52 см – ориентировочно на 2-5 лет</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Нео]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 52%, еластан 26%, нейлон 22%</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="b599060b4e53a1c756485836a337b06d">світло-рожевий</param>
+<param name="Розмір" paramcode="2293" valuecode="fvp6ojir2f9zlemt">50</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-03717-TPUDRA-4852" available="true">
+<price>520</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Демісезонний комплект Talvi "Нео": шапка на зав'язках і хомут, темна пудра, 48-52 см</name>
+<name lang="ru">Демисезонный комплект Talvi "Нео": шапка на завязках и хомут, темная пудра, 48-52 см</name>
+<picture>https://letimo.com.ua/content/images/6/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-temna-pudra-48-52-sm-69160114994551_+61ca4f7677.jpg</picture>
+<picture>https://letimo.com.ua/content/images/6/demisezonnyi-komplekt-talvi-neo-shapka-na-zavyazkakh-i-khomut-temna-pudra-48-52-sm-31969480332179_+afb1f50315.jpg</picture>
+<description lang="ua">&lt;p&gt;Демісезонний комплект Talvi &amp;laquo;Нео&amp;raquo;: шапка на зав&#39;язках і хомут. Шапка одношарова, в міру щільна, із закріпленим відворотом і мінімалістичним декором. Хомут одношаровий. Підходить і хлопчикам, і дівчаткам.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 52% віскоза, 26% еластан, 22% нейлон&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 48-52 см &amp;mdash; орієнтовно на 2-5 років&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Демисезонный комплект Talvi &quot;Нео&quot;: шапка на завязках и хомут. Шапка однослойная, в меру плотная, с закрепленным отворотом и минималистическим декором. Хомут однослойный. Подходит и мальчикам и девочкам.</p><ul><li> Состав: 52% вискоза, 26% эластан, 22% нейлон.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 48-52 см – ориентировочно на 2-5 лет</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Нео]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 52%, еластан 26%, нейлон 22%</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e">пудровий</param>
+<param name="Розмір" paramcode="2293" valuecode="fvp6ojir2f9zlemt">50</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-03790-SOLYV-4648" available="true">
+<price>320</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Комплект у рубчик Talvi "Космо": шапка і хомут з бавовни, світла оливка, 46-48 см</name>
+<name lang="ru">Комплект в рубчик Talvi "Космо": шапка и хомут из хлопка, светлая оливка, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/7/komplekt-u-rubchyk-talvi-kosmo-shapka-i-khomut-z-bavovny-svitla-olyvka-46-48-sm-58881929548292_+3ff164e1a5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/komplekt-u-rubchyk-talvi-kosmo-shapka-i-khomut-z-bavovny-svitla-olyvka-46-48-sm-51830548856699_+4b43a2913a.jpg</picture>
+<description lang="ua">&lt;p&gt;Однотонний комплект Talvi &amp;laquo;Космо&amp;raquo; у широкий рубчик &amp;mdash; підійде до будь-якого образу. Шапка двошарова, відворот регулюється за зручністю. Хомут подовженої форми. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 95% бавовна, 5% еластан&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 46-48 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Однотонный комплект Talvi «Космо» в широкий рубчик – подойдет к любому образу. Шапка двухслойная, отворот регулируется по удобству. Хомут удлиненной формы. Унисекс.</p><ul><li> Состав: 95% хлопок, 5% эластан.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 46-48 см – ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Космо]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Бавовна 95%, еластан 5%</param>
+<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-03790-THIRCH-4648" available="true">
+<price>320</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Комплект у рубчик Talvi "Космо": шапка і хомут з бавовни, темна гірчиця, 46-48 см</name>
+<name lang="ru">Комплект в рубчик Talvi "Космо": шапка и хомут из хлопка, темная горчица, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/8/komplekt-u-rubchyk-talvi-kosmo-shapka-i-khomut-z-bavovny-temna-hirchytsia-46-48-sm-41446399127208_+41322bafe2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/komplekt-u-rubchyk-talvi-kosmo-shapka-i-khomut-z-bavovny-temna-hirchytsia-46-48-sm-73391777477389_+1d4f23b1b1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/komplekt-u-rubchyk-talvi-kosmo-shapka-i-khomut-z-bavovny-temna-hirchytsia-46-48-sm-71737228074886_+c2044bd8eb.jpg</picture>
+<description lang="ua">&lt;p&gt;Однотонний комплект Talvi &amp;laquo;Космо&amp;raquo; у широкий рубчик &amp;mdash; підійде до будь-якого образу. Шапка двошарова, відворот регулюється за зручністю. Хомут подовженої форми. Унісекс.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 95% бавовна, 5% еластан&lt;/li&gt;   &lt;li&gt;Сезон: весна, осінь&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 46-48 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Однотонный комплект Talvi «Космо» в широкий рубчик – подойдет к любому образу. Шапка двухслойная, отворот регулируется по удобству. Хомут удлиненной формы. Унисекс.</p><ul><li> Состав: 95% хлопок, 5% эластан.</li><li> Сезон: весна, осень</li><li> Размер (обхват головы): 46-48 см – ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Космо]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Бавовна 95%, еластан 5%</param>
+<param name="Базовий колір" paramcode="12097" valuecode="bb2cdbcc657af3ddad8c2eed3c72859c">жовтий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
+<param name="Колір виробника" paramcode="78" valuecode="wykjh53cht6nktfa">гірчичний</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
+<offer id="TV-04844-PERS-4648" available="true">
+<price>280</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Демісезонна шапка Talvi "Кроп" з тедді-вушками на флісі, персик, 46-48 см</name>
+<name lang="ru">Демисезонная шапка Talvi "Кроп" с тедди-ушками на флисе, персик, 46-48 см</name>
+<picture>https://letimo.com.ua/content/images/12/demisezonna-shapka-talvi-krop-z-teddi-vushkamy-na-flisi-persyk-46-48-sm-44707553908162_+7694b12312.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/demisezonna-shapka-talvi-krop-z-teddi-vushkamy-na-flisi-persyk-46-48-sm-38190553977105_+e1b7c91a05.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/demisezonna-shapka-talvi-krop-z-teddi-vushkamy-na-flisi-persyk-46-48-sm-94887549560211_+18a0fc1cdb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/demisezonna-shapka-talvi-krop-z-teddi-vushkamy-na-flisi-persyk-46-48-sm-83228630478148_+e495cae352.jpg</picture>
+<description lang="ua">&lt;p&gt;Трикотажна шапка Talvi &amp;laquo;Кроп&amp;raquo; з утепленням: усередині вона підшита флісом по всій площині, а зверху прикрашена м&#39;якими тедді-вушками. Відворот у рубчик, тримає форму й не тисне.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: основа &amp;mdash; 95% бавовна, 5% еластан; підкладка &amp;mdash; 100% поліестер (фліс)&lt;/li&gt;   &lt;li&gt;Сезон: від холодної осені до теплої зими&lt;/li&gt;   &lt;li&gt;Розмір (обхват голови): 46-48 см &amp;mdash; орієнтовно на 1-2 роки&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Трикотажная шапка Talvi «Укроп» с утеплением: внутри она подшита флисом по всей плоскости, а сверху украшена мягкими тедди-ушками. Отворот в рубчик, держит форму и не жмет.</p><ul><li> Состав: основа - 95% хлопок, 5% эластан; подкладка - 100% полиэстер (флис)</li><li> Сезон: от холодной осени до теплой зимы</li><li> Размер (обхват головы): 46-48 см – ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Кроп]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Бавовна 95%, еластан 5%; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5121ec">бавовна,еластан,трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
 <offer id="DR-2095-74-O" available="false">
 <price>3559</price>
