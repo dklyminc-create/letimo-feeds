@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-19 08:08">
+<yml_catalog date="2026-10-19 09:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -104645,7 +104645,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98685555" available="true">
+<offer id="98685555" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -104654,7 +104654,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон Аполло ДоРечі - це 100% впевненості у теплі та комфорті вашої дитини.</p> <p>Він дуже практичний та зручний. Оздоблений великою кількістю світловідбивних елементів для безпеки на дорозі у темний час доби.</p> <p>Верх - мембранна тканина, яка забезпечить вітронепродуваємість та водовідштовхування в будь яку несприятливу погоду. Водонепроникність 10000 мм. Повітропроникність 5000 гр/м&sup2;.</p> <p>Надсучасний утеплювач Hollowsoft&trade; 300 гр/м&sup2; гарантує відмінну теплоізоляцію та не втягує вологу ззовні. М&rsquo;яка структура волокна не стримує природний рух і підвищує відчуття комфорту в одязі.</p> <p>Підкладка:</p> <p>Груди та спинка - антипілінговий фліс Polar.</p> <p>Рукави та штанини - високоякісний підкладковий атлас, який є запорукою легкого та зручного одягання.</p> <p>Крій капюшону забезпечує його щільне прилягання до голови дитини та створює надійний захист від вітру та дощу.</p> <p>Декор капюшону - штучне антиалергенне хутро, що кріпиться на застібку-молнію.</p> <p>Еластичні манжети на рукавах та штанинах, резинка на талії та вільний продуманий крій дозволяють дитині вільно рухатись.</p> <p>Довга застібка, захищена внутрішньою вітрозахисною планкою, сприяє швидкому одяганню.</p> <p>Силіконові штрипки не дозволяють штанинам підстрибувати, коли малюк активно рухається.</p> <p>Зручна кишенька стане у пригоді для зберігання дитячих скарбів.</p> <p>Зверніть увагу, що комбінезон має близько 6 см для зростання.</p> <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>3776</price>
 <price_old>3776</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/6/apollo_winter_meadow_fur_92-97266983100588_%2Bf839c29106.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_%2Bfaf97c5b41.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_%2B88d00a309d.jpg</picture>
@@ -106372,7 +106372,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95189685" available="true">
+<offer id="95189685" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -106382,7 +106382,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Крій капюшону забезпечує його щільне прилягання до голови дитини та створює надійний захист від вітру та дощу. До речі, за бажання, Ви можете придбати модель з додатковою опушкою з м&rsquo;якого штучного хутра на капюшоні. </p> <p>Еластичні манжети на рукавах та штанинах, резинка на талії та вільний продуманий крій дозволяють дитині вільно рухатись.</p> <p>Довга застібка, захищена внутрішньою вітрозахисною планкою, сприяє швидкому одяганню.</p> <p>Силіконові штрипки не дозволяють штанинам підстрибувати, коли малюк активно рухається.</p> <p>Зручна кишенька стане у пригоді для зберегання дитячих скарбів.</p> <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>2800</price>
 <price_old>2800</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/25/apollo_chocolate_86-85141673918497_%2Be83e2efcba.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-71985698356762_%2B0656c8f73a.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-25698378133766_%2Bb156ebad7c.jpg</picture>
@@ -107312,7 +107312,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="96698339" available="true">
+<offer id="96698339" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -107351,7 +107351,7 @@ SYSTEM "shops.dtd">
 <p>Створюють чарівний комплект 2 в 1 з <u><span style="font-size:16px;"><span style="color:#f39c12;">куртками-парками</span></span><span style="color:#f39c12;"> ДоРечі.</span></u></p>]]></description_ua>
 <price>1525</price>
 <price_old>1525</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/10/napivkombinezon-zymovyi-chornyi-68248215121853_%2Bfd4af1201e.jpg</picture>
 <picture>https://dorechi.ua/content/images/10/napivkombinezon-zymovyi-chornyi-13896349322887_%2B67b21174f3.jpg</picture>
 <picture>https://dorechi.ua/content/images/10/napivkombinezon-zymovyi-chornyi-53691836670351_%2B730489901e.jpg</picture>
@@ -108843,7 +108843,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236088" available="true">
+<offer id="98236088" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -108852,7 +108852,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>702</price>
 <price_old>702</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-46250149027557_%2B20cbff5baf.jpg</picture>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-84873260895423_%2Bfc695c5b64.jpg</picture>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-71860120398171_%2Bf960f9aa28.jpg</picture>
