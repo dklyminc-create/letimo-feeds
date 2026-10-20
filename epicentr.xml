@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-20 11:12">
+<yml_catalog date="2026-10-20 13:08">
 <offers>
 <offer id="1076013176" available="false">
 <price>903</price>
@@ -66996,6 +66996,998 @@
 <param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-MALIUK-PUDRA-80100" available="true">
+<price>1190</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед утеплений Talvi «Малюк» 80×100 см, пудра</name>
+<name lang="ru">Плед утепленный Talvi «Малыш» 80×100 см, пудра</name>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-55982040701651_+f716b2e3ab.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-65890733213223_+2f2cad382b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-53343733018585_+19d1637114.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-58940729468961_+49e1c0d014.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-20149560546465_+af2e8e01bf.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-62458524340389_+67d558b8c8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-87823196818181_+9506388b11.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-24171331818387_+29e28312db.jpg</picture>
+<description lang="ua">&lt;p&gt;Утеплений плед Talvi &amp;laquo;Малюк&amp;raquo; &amp;mdash; м&#39;яка в&#39;язана ковдрочка для малюка з теплою пухнастою підкладкою. Зручно вкрити дитину в колясці, ліжечку чи взяти на прогулянку в прохолодну погоду.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;лицьова сторона &amp;mdash; в&#39;язане полотно;&lt;/li&gt;   &lt;li&gt;виворіт &amp;mdash; м&#39;яка тепла підкладка;&lt;/li&gt;   &lt;li&gt;розмір: 80&amp;times;100 см;&lt;/li&gt;   &lt;li&gt;кольори: пудра, світло-сірий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Утепленный плед Talvi «Малыш» — мягкое вязаное одеяло для малыша с теплой пушистой подкладкой. Удобно укрыть ребенка в коляске, кроватке или взять на прогулку в прохладную погоду.</p><ul><li> лицевая сторона – вязаное полотно;</li><li> изнанка – мягкая теплая подкладка;</li><li> размер: 80×100 см;</li><li> цвета: пудра, светло-серый, светло-бежевый;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Малюк]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="874325c53edb854bae70e2ae8730e410">80x100 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e">пудровий</param>
+<param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod">бавовна</param>
+</offer>
+<offer id="TV-MALIUK-SVSIRYI-80100" available="true">
+<price>1190</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед утеплений Talvi «Малюк» 80×100 см, світло-сірий</name>
+<name lang="ru">Плед утепленный Talvi «Малыш» 80×100 см, светло-серый.</name>
+<picture>https://letimo.com.ua/content/images/19/pled-uteplenyi-talvi-maliuk-80x100-svitlo-siryi-57178109903098_+f938373596.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/pled-uteplenyi-talvi-maliuk-80x100-svitlo-siryi-65568501098244_+909d0887b2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/pled-uteplenyi-talvi-maliuk-80x100-svitlo-siryi-84809919905057_+dbf5b01b2b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/pled-uteplenyi-talvi-maliuk-80x100-svitlo-siryi-16687829516115_+2e0eb2e828.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/pled-uteplenyi-talvi-maliuk-80x100-svitlo-siryi-72185398123791_+2f969c8c0b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/pled-uteplenyi-talvi-maliuk-80x100-svitlo-siryi-15186920753144_+4f9f4772d6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/pled-uteplenyi-talvi-maliuk-80x100-svitlo-siryi-77527186216930_+283df95a17.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-24171331818387_+29e28312db.jpg</picture>
+<description lang="ua">&lt;p&gt;Утеплений плед Talvi &amp;laquo;Малюк&amp;raquo; &amp;mdash; м&#39;яка в&#39;язана ковдрочка для малюка з теплою пухнастою підкладкою. Зручно вкрити дитину в колясці, ліжечку чи взяти на прогулянку в прохолодну погоду.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;лицьова сторона &amp;mdash; в&#39;язане полотно;&lt;/li&gt;   &lt;li&gt;виворіт &amp;mdash; м&#39;яка тепла підкладка;&lt;/li&gt;   &lt;li&gt;розмір: 80&amp;times;100 см;&lt;/li&gt;   &lt;li&gt;кольори: пудра, світло-сірий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Утепленный плед Talvi «Малыш» — мягкое вязаное одеяло для малыша с теплой пушистой подкладкой. Удобно укрыть ребенка в коляске, кроватке или взять на прогулку в прохладную погоду.</p><ul><li> лицевая сторона – вязаное полотно;</li><li> изнанка – мягкая теплая подкладка;</li><li> размер: 80×100 см;</li><li> цвета: пудра, светло-серый, светло-бежевый;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Малюк]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="874325c53edb854bae70e2ae8730e410">80x100 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="695">світло-сірий</param>
+<param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod">бавовна</param>
+</offer>
+<offer id="TV-MALIUK-SVBEZH-80100" available="true">
+<price>1190</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед утеплений Talvi «Малюк» 80×100 см, світло-бежевий</name>
+<name lang="ru">Плед утепленный Talvi «Малыш» 80×100 см, светло-бежевый.</name>
+<picture>https://letimo.com.ua/content/images/20/pled-uteplenyi-talvi-maliuk-80x100-svitlo-bezhevyi-36062161351813_+7e3ad1702e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/20/pled-uteplenyi-talvi-maliuk-80x100-svitlo-bezhevyi-89796526577839_+2dcb95e1b3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/20/pled-uteplenyi-talvi-maliuk-80x100-svitlo-bezhevyi-90960851574641_+19fcf8e3ac.jpg</picture>
+<picture>https://letimo.com.ua/content/images/20/pled-uteplenyi-talvi-maliuk-80x100-svitlo-bezhevyi-44493497603687_+a19b0a69ec.jpg</picture>
+<picture>https://letimo.com.ua/content/images/20/pled-uteplenyi-talvi-maliuk-80x100-svitlo-bezhevyi-16554490598469_+89d92bf526.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/pled-uteplenyi-talvi-maliuk-80x100-pudra-24171331818387_+29e28312db.jpg</picture>
+<description lang="ua">&lt;p&gt;Утеплений плед Talvi &amp;laquo;Малюк&amp;raquo; &amp;mdash; м&#39;яка в&#39;язана ковдрочка для малюка з теплою пухнастою підкладкою. Зручно вкрити дитину в колясці, ліжечку чи взяти на прогулянку в прохолодну погоду.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;лицьова сторона &amp;mdash; в&#39;язане полотно;&lt;/li&gt;   &lt;li&gt;виворіт &amp;mdash; м&#39;яка тепла підкладка;&lt;/li&gt;   &lt;li&gt;розмір: 80&amp;times;100 см;&lt;/li&gt;   &lt;li&gt;кольори: пудра, світло-сірий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Утепленный плед Talvi «Малыш» — мягкое вязаное одеяло для малыша с теплой пушистой подкладкой. Удобно укрыть ребенка в коляске, кроватке или взять на прогулку в прохладную погоду.</p><ul><li> лицевая сторона – вязаное полотно;</li><li> изнанка – мягкая теплая подкладка;</li><li> размер: 80×100 см;</li><li> цвета: пудра, светло-серый, светло-бежевый;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Малюк]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="874325c53edb854bae70e2ae8730e410">80x100 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod">бавовна</param>
+</offer>
+<offer id="TV-LUMIA-SVSIRYI-80100" available="true">
+<price>1400</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед в'язаний Talvi «Луміа» з помпонами 80×100 см, світло-сірий</name>
+<name lang="ru">Плед вязаный Talvi «Лумиа» с помпонами 80×100 см, светло-серый.</name>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-99435643489494_+32f3d5f521.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-35187740201489_+70bfe64ea1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-13899938367229_+af4c2a4948.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-95253863959633_+517d204f8a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-93860850648417_+e71ee71967.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-17217425797114_+88989fc991.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-33295008619292_+a5517eae9d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/pled-viazanyi-talvi-lumia-z-pomponamy-80x100-svitlo-siryi-49983236356952_+0fa887509a.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний плед Talvi &amp;laquo;Луміа&amp;raquo; &amp;mdash; ніжна ковдрочка з об&#39;ємним рельєфним візерунком і пухнастими помпонами по кутах. Підійде для коляски, ліжечка, прогулянок і красивих фото.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;в&#39;язане полотно з рельєфним візерунком;&lt;/li&gt;   &lt;li&gt;помпони по кутах;&lt;/li&gt;   &lt;li&gt;розмір: 80&amp;times;100 см;&lt;/li&gt;   &lt;li&gt;колір: світло-сірий;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный плед Talvi «Лумиа» — нежное одеяло с объемным рельефным узором и пушистыми помпонами по углам. Подойдет для коляски, кроватки, прогулок и красивых фото.</p><ul><li> вязаное полотно с рельефным узором;</li><li> помпоны по углам;</li><li> размер: 80×100 см;</li><li> цвет: светло-серый;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Луміа]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="874325c53edb854bae70e2ae8730e410">80x100 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="695">світло-сірий</param>
+<param name="Тип тканини" paramcode="5333" valuecode="xnygifci1slbpkkj,wkwoavmpmqpirktw">вовна,акрил</param>
+</offer>
+<offer id="TV-SIENA-BEZH-8090" available="true">
+<price>400</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед в'язаний Talvi «Сієна» з китицями 80×90 см, бежевий</name>
+<name lang="ru">Плед вязаный Talvi «Сиена» с кистями 80×90 см, бежевый.</name>
+<picture>https://letimo.com.ua/content/images/22/pled-viazanyi-talvi-siena-z-kytytsiamy-80x90-bezhevyi-99881691223749_+5c341752c1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/22/pled-viazanyi-talvi-siena-z-kytytsiamy-80x90-bezhevyi-53823953413232_+f12dc7f4b0.jpg</picture>
+<picture>https://letimo.com.ua/content/images/22/pled-viazanyi-talvi-siena-z-kytytsiamy-80x90-bezhevyi-38781751587550_+ed0d53e3fa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/22/pled-viazanyi-talvi-siena-z-kytytsiamy-80x90-bezhevyi-55379710670433_+929a8c09fa.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний плед Talvi &amp;laquo;Сієна&amp;raquo; &amp;mdash; легка ковдрочка з ажурним візерунком і декоративними китицями по кутах. Зручно вкрити малюка в колясці чи ліжечку.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;в&#39;язане полотно з ажурним візерунком;&lt;/li&gt;   &lt;li&gt;китиці по кутах;&lt;/li&gt;   &lt;li&gt;розмір: 80&amp;times;90 см;&lt;/li&gt;   &lt;li&gt;колір: бежевий;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный плед Talvi «Сиена» — легкое одеяло с ажурным узором и декоративными кистями по углам. Удобно укрыть малыша в коляске или кроватке.</p><ul><li> вязаное полотно с ажурным узором;</li><li> кисти по углам;</li><li> размер: 80×90 см;</li><li> цвет: бежевый;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Сієна]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="256a7137271cce06d67617db34fadcf6">80x90 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod">бавовна</param>
+</offer>
+<offer id="TV-BERRI-MOL-80100" available="true">
+<price>850</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед в'язаний Talvi «Беррі» 80×100 см, молочний</name>
+<name lang="ru">Плед вязаный Talvi «Берри» 80×100 см, молочный</name>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-39461560637864_+6d88ee2a54.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-32928182703908_+8419479384.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-36442499373009_+8bad14bbc3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-61971496348220_+8291d319f7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-65860138675937_+91b1779330.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-33987710399478_+07672180bc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-57274018339985_+d36d65c078.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-61686227000535_+b30be98061.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/pled-viazanyi-talvi-berri-80x100-molochnyi-16470934853985_+e570343bfe.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний плед Talvi &amp;laquo;Беррі&amp;raquo; &amp;mdash; молочна ковдрочка з рельєфним візерунком у вигляді ведмежих мордочок і помпонами по кутах. Чудово виглядає в ліжечку, колясці й на фото.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;в&#39;язане полотно з рельєфним візерунком;&lt;/li&gt;   &lt;li&gt;помпони по кутах;&lt;/li&gt;   &lt;li&gt;розмір: 80&amp;times;100 см;&lt;/li&gt;   &lt;li&gt;колір: молочний;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный плед Talvi «Берри» — молочное одеяло с рельефным узором в виде медвежьих мордашек и помпонами по углам. Прекрасно смотрится в кроватке, коляске и на фото.</p><ul><li> вязаное полотно с рельефным узором;</li><li> помпоны по углам;</li><li> размер: 80×100 см;</li><li> цвет: молочный;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Беррі]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="874325c53edb854bae70e2ae8730e410">80x100 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod">бавовна</param>
+</offer>
+<offer id="TV-VEDMEDYK-MOL-100100" available="true">
+<price>420</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед мереживний Talvi «Ведмедик» 100×100 см, молочний</name>
+<name lang="ru">Плед кружевной Talvi «Мишка» 100×100 см, молочный</name>
+<picture>https://letimo.com.ua/content/images/24/pled-merezhyvnyi-talvi-vedmedyk-100x100-molochnyi-73980411132259_+0088fe987e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/24/pled-merezhyvnyi-talvi-vedmedyk-100x100-molochnyi-79019391312318_+3684391788.jpg</picture>
+<picture>https://letimo.com.ua/content/images/24/pled-merezhyvnyi-talvi-vedmedyk-100x100-molochnyi-88036291314802_+b7bde59de0.jpg</picture>
+<description lang="ua">&lt;p&gt;Мереживний плед Talvi &amp;laquo;Ведмедик&amp;raquo; &amp;mdash; ажурна в&#39;язана ковдрочка з візерунком у вигляді ведмедика. Легкий і ніжний, гарно виглядає в ліжечку, колисці та на виписці.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;ажурне (мереживне) в&#39;язання з візерунком-ведмедиком;&lt;/li&gt;   &lt;li&gt;розмір: 100&amp;times;100 см;&lt;/li&gt;   &lt;li&gt;кольори: молочний, світла пудра;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Кружевной плед Talvi «Мишка» — ажурное вязаное одеяло с узором в виде мишки. Легкий и нежный, красиво смотрится в кроватке, люльке и на выписке.</p><ul><li> ажурное (кружевное) вязание с узором-медвежонком;</li><li> размер: 100×100 см;</li><li> цвета: молочная, светлая пудра;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Ведмедик]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="c10bfc45c57dca2d42bd655a2f2ea3e0">100x100 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod">бавовна</param>
+</offer>
+<offer id="TV-VEDMEDYK-SVPUDRA-100100" available="true">
+<price>420</price>
+<category code="4112">Пледи і покривала дитячі</category>
+<attribute_set code="4112">Пледи і покривала дитячі</attribute_set>
+<name lang="ua">Плед мереживний Talvi «Ведмедик» 100×100 см, світла пудра</name>
+<name lang="ru">Плед кружевной Talvi «Мишка» 100×100 см, светлая пудра</name>
+<picture>https://letimo.com.ua/content/images/25/pled-merezhyvnyi-talvi-vedmedyk-100x100-svitla-pudra-66992963442472_+9706384509.jpg</picture>
+<picture>https://letimo.com.ua/content/images/25/pled-merezhyvnyi-talvi-vedmedyk-100x100-svitla-pudra-90992523483937_+9117de3c0d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/25/pled-merezhyvnyi-talvi-vedmedyk-100x100-svitla-pudra-40001341002686_+18fad4c99d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/25/pled-merezhyvnyi-talvi-vedmedyk-100x100-svitla-pudra-66014720294252_+14109ac0c4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/25/pled-merezhyvnyi-talvi-vedmedyk-100x100-svitla-pudra-20642248627173_+65ff02e1bb.jpg</picture>
+<description lang="ua">&lt;p&gt;Мереживний плед Talvi &amp;laquo;Ведмедик&amp;raquo; &amp;mdash; ажурна в&#39;язана ковдрочка з візерунком у вигляді ведмедика. Легкий і ніжний, гарно виглядає в ліжечку, колисці та на виписці.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;ажурне (мереживне) в&#39;язання з візерунком-ведмедиком;&lt;/li&gt;   &lt;li&gt;розмір: 100&amp;times;100 см;&lt;/li&gt;   &lt;li&gt;кольори: молочний, світла пудра;&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Кружевной плед Talvi «Мишка» — ажурное вязаное одеяло с узором в виде мишки. Легкий и нежный, красиво смотрится в кроватке, люльке и на выписке.</p><ul><li> ажурное (кружевное) вязание с узором-медвежонком;</li><li> размер: 100×100 см;</li><li> цвета: молочная, светлая пудра;</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Ведмедик]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">100</param>
+<param name="Глибина" paramcode="length">400</param>
+<param name="Ширина" paramcode="width">300</param>
+<param name="Вага" paramcode="weight">700</param>
+<param name="Тип" paramcode="2418" valuecode="b79520bc8cfc36b93abd42bea672a0e1">плед</param>
+<param name="Розмір" paramcode="12036" valuecode="c10bfc45c57dca2d42bd655a2f2ea3e0">100x100 см</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e">пудровий</param>
+<param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod">бавовна</param>
+</offer>
+<offer id="TV-MONNO-MOL-7480" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», молочний, 74/80</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», молочный, 74/80</name>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-64144367289750_+f67bd28262.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-29103200932518_+491c8b9a5e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-13080443159286_+f20c497660.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-27144520876209_+9b945dbe76.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-17866590352131_+ecb36fa809.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-39282943198195_+fb8d65417d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-32295853243441_+e8c731635b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Зріст" paramcode="11972" valuecode="4911,4913">74,80</param>
+</offer>
+<offer id="TV-MONNO-MOL-8086" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», молочний, 80/86</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», молочный, 80/86</name>
+<picture>https://letimo.com.ua/content/images/27/svetryk-viazanyi-talvi-monno-molochnyi-80-86-93929501210253_+e7d83836e1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/svetryk-viazanyi-talvi-monno-molochnyi-80-86-24970371993652_+fb57775676.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/svetryk-viazanyi-talvi-monno-molochnyi-80-86-89273198719208_+f9acd9398f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/svetryk-viazanyi-talvi-monno-molochnyi-80-86-29566072886726_+9ae950b6cc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/svetryk-viazanyi-talvi-monno-molochnyi-80-86-74181676524886_+04db9c694d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/svetryk-viazanyi-talvi-monno-molochnyi-80-86-22164463295475_+0a2c94c6fe.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/svetryk-viazanyi-talvi-monno-molochnyi-80-86-73800088206456_+eb2ce95b64.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Зріст" paramcode="11972" valuecode="4913,4917">80,86</param>
+</offer>
+<offer id="TV-MONNO-MOL-8692" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», молочний, 86/92</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», молочный, 86/92</name>
+<picture>https://letimo.com.ua/content/images/28/svetryk-viazanyi-talvi-monno-molochnyi-86-92-40972663101220_+c01466807e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/svetryk-viazanyi-talvi-monno-molochnyi-86-92-61325088559313_+e79ce8bb36.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/svetryk-viazanyi-talvi-monno-molochnyi-86-92-68398129452915_+b8ad4d1538.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/svetryk-viazanyi-talvi-monno-molochnyi-86-92-53372254252827_+fffe6a80e3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/svetryk-viazanyi-talvi-monno-molochnyi-86-92-51439822071162_+e631a48488.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/svetryk-viazanyi-talvi-monno-molochnyi-86-92-95013280637916_+8cd4ee552e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/svetryk-viazanyi-talvi-monno-molochnyi-86-92-78013822875441_+ae041a9293.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+</offer>
+<offer id="TV-MONNO-MOL-9298" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», молочний, 92/98</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», молочный, 92/98</name>
+<picture>https://letimo.com.ua/content/images/29/svetryk-viazanyi-talvi-monno-molochnyi-92-98-52803083413958_+c94ee4055e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/svetryk-viazanyi-talvi-monno-molochnyi-92-98-19979313951981_+f87d5bcc5e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/svetryk-viazanyi-talvi-monno-molochnyi-92-98-23177379410794_+e33b21c6c8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/svetryk-viazanyi-talvi-monno-molochnyi-92-98-67497334771783_+2db2f5b22f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/svetryk-viazanyi-talvi-monno-molochnyi-92-98-36902076141535_+ec995e8d96.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/svetryk-viazanyi-talvi-monno-molochnyi-92-98-87750011688379_+f673e2a7e0.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/svetryk-viazanyi-talvi-monno-molochnyi-92-98-11898534187423_+beaf3875fa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+</offer>
+<offer id="TV-MONNO-MOL-98104" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», молочний, 98/104</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», молочный, 98/104</name>
+<picture>https://letimo.com.ua/content/images/30/svetryk-viazanyi-talvi-monno-molochnyi-98-104-39761945811220_+0255a80a5b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/svetryk-viazanyi-talvi-monno-molochnyi-98-104-23628794260515_+f4ad11690c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/svetryk-viazanyi-talvi-monno-molochnyi-98-104-90953190508268_+dfdbda70f4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/svetryk-viazanyi-talvi-monno-molochnyi-98-104-25369411707448_+d025827e64.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/svetryk-viazanyi-talvi-monno-molochnyi-98-104-36580959798509_+c3f542025b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/svetryk-viazanyi-talvi-monno-molochnyi-98-104-54212315359797_+855457ddb7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/svetryk-viazanyi-talvi-monno-molochnyi-98-104-25800458954760_+39f4f5aa33.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+</offer>
+<offer id="TV-MONNO-MOL-104110" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», молочний, 104/110</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», молочный, 104/110</name>
+<picture>https://letimo.com.ua/content/images/31/svetryk-viazanyi-talvi-monno-molochnyi-104-110-53634177168403_+b8cd283d29.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/svetryk-viazanyi-talvi-monno-molochnyi-104-110-53224136128284_+03b64e7049.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/svetryk-viazanyi-talvi-monno-molochnyi-104-110-44466297001576_+cf4407a19d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/svetryk-viazanyi-talvi-monno-molochnyi-104-110-72557306463628_+f543f6fb13.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/svetryk-viazanyi-talvi-monno-molochnyi-104-110-72898328226040_+20c2a03587.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/svetryk-viazanyi-talvi-monno-molochnyi-104-110-30963175067490_+f2d251fc6c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/svetryk-viazanyi-talvi-monno-molochnyi-104-110-50820913404475_+f6b35bce7a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Зріст" paramcode="11972" valuecode="4924,4926">104,110</param>
+</offer>
+<offer id="TV-MONNO-KAV-7480" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», кавовий, 74/80</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», кофейный, 74/80</name>
+<picture>https://letimo.com.ua/content/images/32/svetryk-viazanyi-talvi-monno-kavovyi-74-80-51347782567512_+b4fb846f0e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/svetryk-viazanyi-talvi-monno-kavovyi-74-80-87096325561718_+ce7fd44af3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/32/svetryk-viazanyi-talvi-monno-kavovyi-74-80-37357540061957_+c792fdfd08.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4911,4913">74,80</param>
+</offer>
+<offer id="TV-MONNO-KAV-8086" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», кавовий, 80/86</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», кофейный, 80/86</name>
+<picture>https://letimo.com.ua/content/images/33/svetryk-viazanyi-talvi-monno-kavovyi-80-86-63202174194617_+61145aea40.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/svetryk-viazanyi-talvi-monno-kavovyi-80-86-76871557471991_+c604fd1081.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/svetryk-viazanyi-talvi-monno-kavovyi-80-86-22921253372015_+3187eb9692.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4913,4917">80,86</param>
+</offer>
+<offer id="TV-MONNO-KAV-8692" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», кавовий, 86/92</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», кофейный, 86/92</name>
+<picture>https://letimo.com.ua/content/images/34/svetryk-viazanyi-talvi-monno-kavovyi-86-92-45319215719219_+20b2c714ac.jpg</picture>
+<picture>https://letimo.com.ua/content/images/34/svetryk-viazanyi-talvi-monno-kavovyi-86-92-55134761327886_+c5688c771b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/34/svetryk-viazanyi-talvi-monno-kavovyi-86-92-31251650270648_+948d849819.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+</offer>
+<offer id="TV-MONNO-KAV-9298" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», кавовий, 92/98</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», кофейный, 92/98</name>
+<picture>https://letimo.com.ua/content/images/35/svetryk-viazanyi-talvi-monno-kavovyi-92-98-15187092049787_+543037da26.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/svetryk-viazanyi-talvi-monno-kavovyi-92-98-82361935955845_+8c759b1ef6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/svetryk-viazanyi-talvi-monno-kavovyi-92-98-25060280299836_+6a4b42af4c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+</offer>
+<offer id="TV-MONNO-KAV-98104" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», кавовий, 98/104</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», кофейный, 98/104</name>
+<picture>https://letimo.com.ua/content/images/36/svetryk-viazanyi-talvi-monno-kavovyi-98-104-64919587915069_+d211161335.jpg</picture>
+<picture>https://letimo.com.ua/content/images/36/svetryk-viazanyi-talvi-monno-kavovyi-98-104-72253422732198_+423fbc2623.jpg</picture>
+<picture>https://letimo.com.ua/content/images/36/svetryk-viazanyi-talvi-monno-kavovyi-98-104-31852284345484_+ed3d21a5e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+</offer>
+<offer id="TV-MONNO-KAV-104110" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», кавовий, 104/110</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», кофейный, 104/110</name>
+<picture>https://letimo.com.ua/content/images/37/svetryk-viazanyi-talvi-monno-kavovyi-104-110-16597858373283_+f9c2a7ca13.jpg</picture>
+<picture>https://letimo.com.ua/content/images/37/svetryk-viazanyi-talvi-monno-kavovyi-104-110-99031561418898_+a17f209bbc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/37/svetryk-viazanyi-talvi-monno-kavovyi-104-110-20946840573437_+ef721cceba.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4924,4926">104,110</param>
+</offer>
+<offer id="TV-MONNO-KOR-8086" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», коричневий, 80/86</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», коричневый, 80/86</name>
+<picture>https://letimo.com.ua/content/images/38/svetryk-viazanyi-talvi-monno-korychnevyi-80-86-18257617186706_+85965ef6e1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/svetryk-viazanyi-talvi-monno-korychnevyi-80-86-21201060049729_+e50b276c9b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/svetryk-viazanyi-talvi-monno-korychnevyi-80-86-76830036166301_+a1c8fc7ef0.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/svetryk-viazanyi-talvi-monno-korychnevyi-80-86-64088163930786_+9de929809b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/svetryk-viazanyi-talvi-monno-korychnevyi-80-86-64251916894779_+0440adc98f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/svetryk-viazanyi-talvi-monno-korychnevyi-80-86-42132818706629_+a5077d4e30.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4913,4917">80,86</param>
+</offer>
+<offer id="TV-MONNO-KOR-8692" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», коричневий, 86/92</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», коричневый, 86/92</name>
+<picture>https://letimo.com.ua/content/images/39/svetryk-viazanyi-talvi-monno-korychnevyi-86-92-78000846732052_+b3d5e46863.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/svetryk-viazanyi-talvi-monno-korychnevyi-86-92-69529901699362_+d36835c442.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/svetryk-viazanyi-talvi-monno-korychnevyi-86-92-78473361193083_+33a82e9800.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/svetryk-viazanyi-talvi-monno-korychnevyi-86-92-52975115606375_+116eb73741.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/svetryk-viazanyi-talvi-monno-korychnevyi-86-92-68936589659126_+d1602af156.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/svetryk-viazanyi-talvi-monno-korychnevyi-86-92-31480953540191_+58910c943d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+</offer>
+<offer id="TV-MONNO-KOR-9298" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», коричневий, 92/98</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», коричневый, 92/98</name>
+<picture>https://letimo.com.ua/content/images/40/svetryk-viazanyi-talvi-monno-korychnevyi-92-98-51977767756728_+b7276aa1de.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/svetryk-viazanyi-talvi-monno-korychnevyi-92-98-46585085908502_+7066a088d7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/svetryk-viazanyi-talvi-monno-korychnevyi-92-98-68531560538673_+504a4f2a7c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/svetryk-viazanyi-talvi-monno-korychnevyi-92-98-56607272452863_+81babc2367.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/svetryk-viazanyi-talvi-monno-korychnevyi-92-98-75026006838128_+082ae0436c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/svetryk-viazanyi-talvi-monno-korychnevyi-92-98-30299171683663_+14751c3385.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+</offer>
+<offer id="TV-MONNO-KOR-98104" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», коричневий, 98/104</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», коричневый, 98/104</name>
+<picture>https://letimo.com.ua/content/images/41/svetryk-viazanyi-talvi-monno-korychnevyi-98-104-53268784921699_+50b820c886.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/svetryk-viazanyi-talvi-monno-korychnevyi-98-104-36375708523720_+1ec8358967.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/svetryk-viazanyi-talvi-monno-korychnevyi-98-104-43148349982432_+43dc773ebd.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/svetryk-viazanyi-talvi-monno-korychnevyi-98-104-74903255633434_+fa0a9c0d07.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/svetryk-viazanyi-talvi-monno-korychnevyi-98-104-49359918421882_+24f7da43ee.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/svetryk-viazanyi-talvi-monno-korychnevyi-98-104-96676258974112_+3cd760f024.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+</offer>
+<offer id="TV-MONNO-KOR-104110" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», коричневий, 104/110</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», коричневый, 104/110</name>
+<picture>https://letimo.com.ua/content/images/42/svetryk-viazanyi-talvi-monno-korychnevyi-104-110-38622747598505_+f9f923c38a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/svetryk-viazanyi-talvi-monno-korychnevyi-104-110-68199068762530_+cdb8c0f4c8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/svetryk-viazanyi-talvi-monno-korychnevyi-104-110-46630109770128_+0d78952247.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/svetryk-viazanyi-talvi-monno-korychnevyi-104-110-22277520027662_+5f88c5ddda.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/svetryk-viazanyi-talvi-monno-korychnevyi-104-110-12235006091648_+c0c8242744.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/svetryk-viazanyi-talvi-monno-korychnevyi-104-110-35568958596078_+fd91225173.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4924,4926">104,110</param>
+</offer>
+<offer id="TV-MONNO-TBEZH-7480" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», темно-бежевий, 74/80</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», темно-бежевый, 74/80</name>
+<picture>https://letimo.com.ua/content/images/43/svetryk-viazanyi-talvi-monno-temno-bezhevyi-74-80-25639897760568_+c6d42350a5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/svetryk-viazanyi-talvi-monno-temno-bezhevyi-74-80-62605591431300_+64059d4917.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/svetryk-viazanyi-talvi-monno-temno-bezhevyi-74-80-77331089176131_+b453327fff.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/svetryk-viazanyi-talvi-monno-temno-bezhevyi-74-80-54821036958851_+f2e8a661a6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/svetryk-viazanyi-talvi-monno-temno-bezhevyi-74-80-45273318281066_+8e639a6271.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4911,4913">74,80</param>
+</offer>
+<offer id="TV-MONNO-TBEZH-8086" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», темно-бежевий, 80/86</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», темно-бежевый, 80/86</name>
+<picture>https://letimo.com.ua/content/images/44/svetryk-viazanyi-talvi-monno-temno-bezhevyi-80-86-40741204590814_+2452821ddd.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/svetryk-viazanyi-talvi-monno-temno-bezhevyi-80-86-61654732985015_+d2aa35f154.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/svetryk-viazanyi-talvi-monno-temno-bezhevyi-80-86-74262450487667_+d5fbb09ade.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/svetryk-viazanyi-talvi-monno-temno-bezhevyi-80-86-14852334776180_+d4d6a3f76a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/svetryk-viazanyi-talvi-monno-temno-bezhevyi-80-86-60083928406291_+d17919ef74.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4913,4917">80,86</param>
+</offer>
+<offer id="TV-MONNO-TBEZH-8692" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», темно-бежевий, 86/92</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», темно-бежевый, 86/92</name>
+<picture>https://letimo.com.ua/content/images/45/svetryk-viazanyi-talvi-monno-temno-bezhevyi-86-92-65797286298711_+33c4464d50.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/svetryk-viazanyi-talvi-monno-temno-bezhevyi-86-92-95954621454964_+742a0329f6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/svetryk-viazanyi-talvi-monno-temno-bezhevyi-86-92-38832231439219_+09fcb8732a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/svetryk-viazanyi-talvi-monno-temno-bezhevyi-86-92-46272223413309_+0e83e36206.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/svetryk-viazanyi-talvi-monno-temno-bezhevyi-86-92-17208055748076_+7245099931.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+</offer>
+<offer id="TV-MONNO-TBEZH-9298" available="true">
+<price>800</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», темно-бежевий, 92/98</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», темно-бежевый, 92/98</name>
+<picture>https://letimo.com.ua/content/images/46/svetryk-viazanyi-talvi-monno-temno-bezhevyi-92-98-33954976347384_+14e619dccb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/svetryk-viazanyi-talvi-monno-temno-bezhevyi-92-98-37905304718819_+81bae206cf.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/svetryk-viazanyi-talvi-monno-temno-bezhevyi-92-98-32165450908259_+c9529d7cff.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/svetryk-viazanyi-talvi-monno-temno-bezhevyi-92-98-73478174902666_+af335918e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/svetryk-viazanyi-talvi-monno-temno-bezhevyi-92-98-57098300608784_+00e98a28f6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+</offer>
+<offer id="TV-MONNO-TBEZH-98104" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», темно-бежевий, 98/104</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», темно-бежевый, 98/104</name>
+<picture>https://letimo.com.ua/content/images/47/svetryk-viazanyi-talvi-monno-temno-bezhevyi-98-104-15035836956970_+24af32c6d5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/svetryk-viazanyi-talvi-monno-temno-bezhevyi-98-104-35552583392881_+e6c0123150.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/svetryk-viazanyi-talvi-monno-temno-bezhevyi-98-104-67636491790888_+aef1096d48.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/svetryk-viazanyi-talvi-monno-temno-bezhevyi-98-104-88314511024807_+436e499086.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/svetryk-viazanyi-talvi-monno-temno-bezhevyi-98-104-54326431670346_+48e9b42330.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+</offer>
+<offer id="TV-MONNO-SBEZH-110116" available="true">
+<price>850</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Светрик в'язаний Talvi «Монно», світло-бежевий, 110/116</name>
+<name lang="ru">Светрик вязаный Talvi «Монно», светло-бежевый, 110/116</name>
+<picture>https://letimo.com.ua/content/images/48/svetryk-viazanyi-talvi-monno-svitlo-bezhevyi-110-116-12960026456792_+8aee0d577e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/svetryk-viazanyi-talvi-monno-svitlo-bezhevyi-110-116-92316525495305_+ceed48a344.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/svetryk-viazanyi-talvi-monno-svitlo-bezhevyi-110-116-32241135158753_+0e0cd78495.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/svetryk-viazanyi-talvi-monno-svitlo-bezhevyi-110-116-98979698930076_+9eedbc3ef7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/svetryk-viazanyi-talvi-monno-svitlo-bezhevyi-110-116-56741202077294_+69bf44b4a3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/svetryk-viazanyi-talvi-monno-svitlo-bezhevyi-110-116-53508369418222_+e4282e6ed9.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-11738921472716_+471a8d07e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/svetryk-viazanyi-talvi-monno-molochnyi-74-80-24947257320313_+ed221aebdd.jpg</picture>
+<description lang="ua">&lt;p&gt;В&#39;язаний светрик Talvi &amp;laquo;Монно&amp;raquo; &amp;mdash; затишна база для прохолодної пори. Об&#39;ємна в&#39;язка в рубчик, невисокий комір-стійка і вільний крій з приспущеною лінією плеча &amp;mdash; малюку зручно рухатися й гратися.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;об&#39;ємна в&#39;язка в рубчик;&lt;/li&gt;   &lt;li&gt;комір-стійка, манжети та низ на резинці;&lt;/li&gt;   &lt;li&gt;вільний крій;&lt;/li&gt;   &lt;li&gt;кольори: молочний, кавовий, коричневий, темно-бежевий, світло-бежевий;&lt;/li&gt;   &lt;li&gt;розміри: 74/80 &amp;ndash; 110/116 (наявність розмірів залежить від кольору);&lt;/li&gt;   &lt;li&gt;виробник: Talvi, Україна.&lt;/li&gt;  &lt;/ul&gt;  </description>
+<description lang="ru"><![CDATA[<p>Вязаный свитер Talvi «Монно» – уютная база для прохладной поры. Объемная вязка в рубчике, невысокий воротник-стойка и свободный крой с приспущенной линией плеча – малышу удобно двигаться и играть.</p><ul><li> объемная вязка в рубчике;</li><li> воротник-стойка, манжеты и низ на резинке;</li><li> свободный крой;</li><li> цвета: молочный, кофейный, коричневый, темно-бежевый, светло-бежевый;</li><li> размеры: 74/80 – 110/116 (наличие размеров зависит от цвета);</li><li> производитель: Talvi, Украина.</li></ul>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Монно]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5112c1">бавовна,акрил</param>
+<param name="Вид" paramcode="51" valuecode="6swvl6wiepkwz4cv">светр</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4926,4933">110,116</param>
 </offer>
 <offer id="DR-2095-74-O" available="false">
 <price>3559</price>
