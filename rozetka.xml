@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-22 11:38">
+<yml_catalog date="2026-10-22 18:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -166120,7 +166120,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213060" available="true">
+<offer id="98213060" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -166130,7 +166130,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Муфта на коляску від українського виробника ДоРечі з флісовою підкладкою — легка, тепла й практична.</p><ul><li>Тепла флісова підкладка.</li><li>Можна прати в пральній машині.</li><li>Багато кольорів і принтів — легко підібрати в тон до конверта чи коляски.</li></ul>]]></description_ua>
 <price>1239</price>
 <price_old>1239</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/mufta_fleece_beige-83353632948030_%2B941774f715.jpg</picture>
 <param name="Колір">бежевий</param>
 <param name="Розмір">-</param>
@@ -167272,7 +167272,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235405" available="true">
+<offer id="98235405" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167282,7 +167282,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>716</price>
 <price_old>716</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-55614713750681_%2Bace70131e9.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-96782233396701_%2Bd4cd58e7b2.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-41720276944017_%2Bc60d1fd747.jpg</picture>
@@ -167456,7 +167456,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98236091" available="true">
+<offer id="98236091" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167466,7 +167466,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>573</price>
 <price_old>573</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/3/booties_chocolate-76788988236775_%2Bdee235f1ae.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/booties_chocolate-74048490675989_%2Be9cfa6c424.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/booties_chocolate-56078772929874_%2B68de532f4d.jpg</picture>
