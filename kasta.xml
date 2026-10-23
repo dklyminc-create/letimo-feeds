@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-23 13:44">
+<yml_catalog date="2026-10-23 14:30">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -136940,7 +136940,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91717019" available="true">
+<offer id="91717019" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -136949,7 +136949,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3776</price>
 <price_old>3776</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/23/apollo_leopard_fur_86-22846815555750_%2B690e1f638e.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-53742445376024_%2Bd9f8d7edda.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-93234766222022_%2B3cd546dc3b.jpg</picture>
