@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-23 13:08">
+<yml_catalog date="2026-10-23 13:44">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -102694,6 +102694,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">22</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822191</barcode>
 </offer>
    <offer id="6024" available="true">
 <currencyId>UAH</currencyId>
@@ -102711,6 +102712,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822207</barcode>
 </offer>
    <offer id="6025" available="true">
 <currencyId>UAH</currencyId>
@@ -102728,6 +102730,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822214</barcode>
 </offer>
    <offer id="6026" available="true">
 <currencyId>UAH</currencyId>
@@ -102745,6 +102748,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822221</barcode>
 </offer>
    <offer id="6027" available="true">
 <currencyId>UAH</currencyId>
@@ -102762,6 +102766,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822238</barcode>
 </offer>
    <offer id="6028" available="true">
 <currencyId>UAH</currencyId>
@@ -102779,6 +102784,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822245</barcode>
 </offer>
    <offer id="6029" available="true">
 <currencyId>UAH</currencyId>
@@ -102794,6 +102800,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">22</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822122</barcode>
 </offer>
    <offer id="6030" available="true">
 <currencyId>UAH</currencyId>
@@ -102809,6 +102816,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822139</barcode>
 </offer>
    <offer id="6031" available="true">
 <currencyId>UAH</currencyId>
@@ -102824,6 +102832,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822146</barcode>
 </offer>
    <offer id="6032" available="true">
 <currencyId>UAH</currencyId>
@@ -102839,6 +102848,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822153</barcode>
 </offer>
    <offer id="6033" available="true">
 <currencyId>UAH</currencyId>
@@ -102854,6 +102864,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822160</barcode>
 </offer>
    <offer id="6034" available="true">
 <currencyId>UAH</currencyId>
@@ -102869,6 +102880,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778822177</barcode>
 </offer>
    <offer id="6035" available="true">
 <currencyId>UAH</currencyId>
@@ -102884,6 +102896,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802575</barcode>
 </offer>
    <offer id="6036" available="true">
 <currencyId>UAH</currencyId>
@@ -102899,6 +102912,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802582</barcode>
 </offer>
    <offer id="6037" available="true">
 <currencyId>UAH</currencyId>
@@ -102914,6 +102928,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802599</barcode>
 </offer>
    <offer id="6038" available="true">
 <currencyId>UAH</currencyId>
@@ -102929,6 +102944,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802605</barcode>
 </offer>
    <offer id="6039" available="true">
 <currencyId>UAH</currencyId>
@@ -102944,6 +102960,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802612</barcode>
 </offer>
    <offer id="6040" available="true">
 <currencyId>UAH</currencyId>
@@ -102959,6 +102976,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802629</barcode>
 </offer>
    <offer id="6041" available="true">
 <currencyId>UAH</currencyId>
@@ -102974,6 +102992,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215725043</barcode>
 </offer>
    <offer id="6042" available="true">
 <currencyId>UAH</currencyId>
@@ -102989,6 +103008,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215725050</barcode>
 </offer>
    <offer id="6043" available="true">
 <currencyId>UAH</currencyId>
@@ -103004,6 +103024,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215725067</barcode>
 </offer>
    <offer id="6044" available="true">
 <currencyId>UAH</currencyId>
@@ -103019,6 +103040,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215725074</barcode>
 </offer>
    <offer id="6045" available="true">
 <currencyId>UAH</currencyId>
@@ -103034,6 +103056,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215725081</barcode>
 </offer>
    <offer id="6046" available="true">
 <currencyId>UAH</currencyId>
@@ -103049,6 +103072,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">коричневий</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215725098</barcode>
 </offer>
    <offer id="6047" available="true">
 <currencyId>UAH</currencyId>
@@ -103064,6 +103088,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215727900</barcode>
 </offer>
    <offer id="6048" available="true">
 <currencyId>UAH</currencyId>
@@ -103079,6 +103104,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215727917</barcode>
 </offer>
    <offer id="6049" available="true">
 <currencyId>UAH</currencyId>
@@ -103094,6 +103120,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215727924</barcode>
 </offer>
    <offer id="6050" available="true">
 <currencyId>UAH</currencyId>
@@ -103109,6 +103136,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215727931</barcode>
 </offer>
    <offer id="6051" available="true">
 <currencyId>UAH</currencyId>
@@ -103124,6 +103152,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215727948</barcode>
 </offer>
    <offer id="6052" available="true">
 <currencyId>UAH</currencyId>
@@ -103139,6 +103168,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6979215727955</barcode>
 </offer>
    <offer id="6053" available="true">
 <currencyId>UAH</currencyId>
@@ -103156,6 +103186,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">бежевий</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802643</barcode>
 </offer>
 <offer id="96053" available="true">
 <currencyId>UAH</currencyId>
@@ -103190,6 +103221,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">бежевий</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802650</barcode>
 </offer>
 <offer id="96054" available="true">
 <currencyId>UAH</currencyId>
@@ -103224,6 +103256,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">бежевий</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802667</barcode>
 </offer>
 <offer id="96055" available="true">
 <currencyId>UAH</currencyId>
@@ -103258,6 +103291,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">бежевий</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802674</barcode>
 </offer>
 <offer id="96056" available="true">
 <currencyId>UAH</currencyId>
@@ -103292,6 +103326,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">бежевий</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802681</barcode>
 </offer>
 <offer id="96057" available="true">
 <currencyId>UAH</currencyId>
@@ -103326,6 +103361,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">бежевий</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802766</barcode>
 </offer>
 <offer id="96058" available="true">
 <currencyId>UAH</currencyId>
@@ -103360,6 +103396,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802780</barcode>
 </offer>
    <offer id="6060" available="true">
 <currencyId>UAH</currencyId>
@@ -103377,6 +103414,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802797</barcode>
 </offer>
    <offer id="6061" available="true">
 <currencyId>UAH</currencyId>
@@ -103394,6 +103432,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802803</barcode>
 </offer>
    <offer id="6062" available="true">
 <currencyId>UAH</currencyId>
@@ -103411,6 +103450,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802810</barcode>
 </offer>
    <offer id="6063" available="true">
 <currencyId>UAH</currencyId>
@@ -103428,6 +103468,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802827</barcode>
 </offer>
    <offer id="6064" available="true">
 <currencyId>UAH</currencyId>
@@ -103445,6 +103486,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6942778802834</barcode>
 </offer>
    <offer id="6065" available="true">
 <currencyId>UAH</currencyId>
@@ -103530,6 +103572,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026258682</barcode>
 </offer>
    <offer id="6070" available="true">
 <currencyId>UAH</currencyId>
@@ -103547,6 +103590,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026258699</barcode>
 </offer>
    <offer id="6071" available="true">
 <currencyId>UAH</currencyId>
@@ -103564,6 +103608,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026258705</barcode>
 </offer>
    <offer id="6072" available="true">
 <currencyId>UAH</currencyId>
@@ -103581,6 +103626,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026258712</barcode>
 </offer>
    <offer id="6073" available="true">
 <currencyId>UAH</currencyId>
@@ -103598,6 +103644,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026258729</barcode>
 </offer>
    <offer id="6074" available="true">
 <currencyId>UAH</currencyId>
@@ -103615,6 +103662,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026258736</barcode>
 </offer>
    <offer id="6075" available="true">
 <currencyId>UAH</currencyId>
@@ -103632,6 +103680,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">22</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026250662</barcode>
 </offer>
    <offer id="6076" available="true">
 <currencyId>UAH</currencyId>
@@ -103649,6 +103698,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026250679</barcode>
 </offer>
    <offer id="6077" available="true">
 <currencyId>UAH</currencyId>
@@ -103666,6 +103716,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026250686</barcode>
 </offer>
    <offer id="6078" available="true">
 <currencyId>UAH</currencyId>
@@ -103683,6 +103734,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026250693</barcode>
 </offer>
    <offer id="6079" available="true">
 <currencyId>UAH</currencyId>
@@ -103700,6 +103752,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026250709</barcode>
 </offer>
    <offer id="6080" available="true">
 <currencyId>UAH</currencyId>
@@ -103717,6 +103770,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">рожевий</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
+<barcode>6980026250716</barcode>
 </offer>
    <offer id="6081" available="true">
 <currencyId>UAH</currencyId>
@@ -138112,7 +138166,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98748281" available="true">
+<offer id="98748281" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -138125,7 +138179,7 @@ SYSTEM "shops.dtd">
 </div>]]></description_ua>
 <price>3111</price>
 <price_old>3111</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-89222637300535_%2B084ac5938c.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-86625784326900_%2B300638d4c9.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-23883036995017_%2B58ed4c1b54.jpg</picture>
@@ -141320,7 +141374,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213155" available="false">
+<offer id="98213155" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -141330,7 +141384,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Додаткові козирки від сонця з захистом UPF50 рекомендовані найкращими педіатрами світу.</p> <p>Чому козирки чорні?  <p>Twin Shade - обов&rsquo;язкове придбання люблячих батьків у сонячну пору року!</p>]]></description_ua>
 <price>732</price>
 <price_old>732</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-35428671279199_%2B0be010052c.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-72690203728571_%2B78690e358a.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-11578058650945_%2B5db6e3cbfb.jpg</picture>
