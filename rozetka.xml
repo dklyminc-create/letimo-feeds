@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-23 23:08">
+<yml_catalog date="2026-10-24 01:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -164206,7 +164206,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98236094" available="true">
+<offer id="98236094" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -164218,7 +164218,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: мембранна тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>3175</price>
 <price_old>3175</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-29906283710983_%2B8435485843.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-54736789615834_%2Bd09e648447.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-21958791286369_%2Bb4b8c82f98.jpg</picture>
