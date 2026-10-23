@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-23 16:08">
+<yml_catalog date="2026-10-23 18:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -166200,7 +166200,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213060" available="true">
+<offer id="98213060" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -166210,7 +166210,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Муфта на коляску від українського виробника ДоРечі з флісовою підкладкою — легка, тепла й практична.</p><ul><li>Тепла флісова підкладка.</li><li>Можна прати в пральній машині.</li><li>Багато кольорів і принтів — легко підібрати в тон до конверта чи коляски.</li></ul>]]></description_ua>
 <price>1239</price>
 <price_old>1239</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/mufta_fleece_beige-83353632948030_%2B941774f715.jpg</picture>
 <param name="Колір">бежевий</param>
 <param name="Розмір">-</param>
@@ -167424,7 +167424,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213119" available="true">
+<offer id="98213119" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167435,7 +167435,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Чому козирки чорні?   <p>Додаткові козирки від сонця з захистом UPF50 рекомендовані найкращими педіатрами світу.</p>]]></description_ua>
 <price>685</price>
 <price_old>685</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/48/kozirki-vid-soncyadouble-shade-dorechi-soncezahisniy-kozirok-17187632665088_%2Bbe23014e20.jpg</picture>
 <picture>https://dorechi.ua/content/images/48/kozirki-vid-soncyadouble-shade-dorechi-soncezahisniy-kozirok-61423501072309_%2Ba9b2a223c7.jpg</picture>
 <picture>https://dorechi.ua/content/images/48/kozirki-vid-soncyadouble-shade-dorechi-soncezahisniy-kozirok-36247398430228_%2Bdb98705bfa.jpg</picture>
@@ -167450,7 +167450,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213987" available="true">
+<offer id="98213987" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167460,7 +167460,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>573</price>
 <price_old>573</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/booties_beige-69417790893107_%2Bc91167211c.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_beige-64213708793524_%2Bbadf1cc06b.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_beige-21444701128549_%2Bd561723fb7.jpg</picture>
