@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-25 14:08">
+<yml_catalog date="2026-10-25 16:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -163434,7 +163434,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">74/80</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="91144339" available="true">
+<offer id="91144339" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -163444,7 +163444,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3424</price>
 <price_old>3424</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/18/apollo_leopard_80-77970279208217_%2B26967dfa55.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_leopard_74-73664260262476_%2B62f5d1cca9.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_leopard_74-19029890890507_%2Bb33b0fdfa8.jpg</picture>
@@ -163839,7 +163839,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">86/92</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98735604" available="true">
+<offer id="98735604" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -163849,7 +163849,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3299</price>
 <price_old>3299</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/16/apollo_green_fur_92-22644889649315_%2B3b32d5d04b.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
@@ -167434,7 +167434,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213155" available="true">
+<offer id="98213155" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167445,7 +167445,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Додаткові козирки від сонця з захистом UPF50 рекомендовані найкращими педіатрами світу.</p> <p>Чому козирки чорні?  <p>Twin Shade - обов&rsquo;язкове придбання люблячих батьків у сонячну пору року!</p>]]></description_ua>
 <price>747</price>
 <price_old>747</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-35428671279199_%2B0be010052c.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-72690203728571_%2B78690e358a.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-11578058650945_%2B5db6e3cbfb.jpg</picture>
@@ -167477,7 +167477,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235405" available="true">
+<offer id="98235405" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167487,7 +167487,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>716</price>
 <price_old>716</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-55614713750681_%2Bace70131e9.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-96782233396701_%2Bd4cd58e7b2.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-41720276944017_%2Bc60d1fd747.jpg</picture>
