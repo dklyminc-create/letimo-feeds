@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-26 08:08">
+<yml_catalog date="2026-10-26 10:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -136918,6 +136918,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">темно-синій</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Польща</param>
+<barcode>5903497240346</barcode>
 </offer>
    <offer id="7698" available="true">
 <currencyId>UAH</currencyId>
@@ -136941,6 +136942,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">темно-синій</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Польща</param>
+<barcode>5903497240353</barcode>
 </offer>
    <offer id="7699" available="true">
 <currencyId>UAH</currencyId>
@@ -136964,6 +136966,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">темно-синій</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Польща</param>
+<barcode>5903497240360</barcode>
 </offer>
    <offer id="7700" available="true">
 <currencyId>UAH</currencyId>
@@ -136987,6 +136990,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">темно-синій</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Польща</param>
+<barcode>5903497240377</barcode>
 </offer>
    <offer id="7701" available="true">
 <currencyId>UAH</currencyId>
@@ -137010,6 +137014,7 @@ SYSTEM "shops.dtd">
 <param name="Колір">темно-синій</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Польща</param>
+<barcode>5903497240384</barcode>
 </offer>
   <offer id="91685306" available="false">
 <currencyId>UAH</currencyId>
