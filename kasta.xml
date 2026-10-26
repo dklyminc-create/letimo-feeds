@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-26 12:08">
+<yml_catalog date="2026-10-26 14:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -137345,7 +137345,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98812520" available="true">
+<offer id="98812520" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -137368,7 +137368,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3776</price>
 <price_old>3776</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/46/apollo_first_snow_fur_80-70675750366305_%2B325d83eacc.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -137766,7 +137766,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91144345" available="true">
+<offer id="91144345" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -137788,7 +137788,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3355</price>
 <price_old>3355</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/apollo_leopard_86-49961826810863_%2Bec45f70e40.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_leopard_74-73664260262476_%2B62f5d1cca9.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_leopard_74-19029890890507_%2Bb33b0fdfa8.jpg</picture>
@@ -138046,7 +138046,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95159894" available="true">
+<offer id="95159894" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -138068,7 +138068,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3355</price>
 <price_old>3355</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/9/apollo_winter_meadow_86-20174783545700_%2B46acaa2f6e.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
@@ -138081,7 +138081,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="95159921" available="true">
+<offer id="95159921" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -138103,7 +138103,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3355</price>
 <price_old>3355</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/10/apollo_winter_meadow_92-67891111479217_%2B7d4cff447b.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
@@ -138116,7 +138116,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94474668" available="true">
+<offer id="94474668" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -138138,7 +138138,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3355</price>
 <price_old>3355</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-64655432955321_%2Bee01c4f6eb.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-13480027681395_%2Ba72697c34c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-76223184002861_%2B5970729794.jpg</picture>
@@ -139305,7 +139305,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98931601" available="true">
+<offer id="98931601" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -139327,7 +139327,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2800</price>
 <price_old>2800</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/42/new_apollo_navy_blue_74-76783596012920_%2Ba7e7bf98ba.jpg</picture>
 <picture>https://dorechi.ua/content/images/14/apollo_navy_blue_80-98252445991469_%2Be5f30e24f9.jpg</picture>
 <picture>https://dorechi.ua/content/images/42/26725529292780_%2B574ac7d8b1.jpeg</picture>
@@ -139866,7 +139866,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98957779" available="true">
+<offer id="98957779" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -139876,7 +139876,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Чудово поєднується з муфтами цього ж виробника.</p>]]></description_ua>
 <price>2434</price>
 <price_old>2434</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/49/baby-xs-dorechi-graphite-fleece-79385991789980_%2B4e63287471.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/baby-xs-dorechi-graphite-fleece-12665595560743_%2B82379a006b.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/baby-xs-dorechi-graphite-fleece-78307744536552_%2B96960404be.jpg</picture>
