@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-26 05:38">
+<yml_catalog date="2026-10-26 08:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -164843,7 +164843,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98748281" available="true">
+<offer id="98748281" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -164857,7 +164857,7 @@ SYSTEM "shops.dtd">
 </div>]]></description_ua>
 <price>3175</price>
 <price_old>3175</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-89222637300535_%2B084ac5938c.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-86625784326900_%2B300638d4c9.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-23883036995017_%2B58ed4c1b54.jpg</picture>
@@ -165356,7 +165356,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">74/80</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98297297" available="true">
+<offer id="98297297" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -165379,7 +165379,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2857</price>
 <price_old>2857</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/37/apollo_green_80-37893662635468_%2Bfb6dc83aff.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
@@ -165726,7 +165726,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">86/92</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="95189712" available="true">
+<offer id="95189712" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -165749,7 +165749,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2857</price>
 <price_old>2857</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/26/apollo_chocolate_92-16890551260041_%2B93a27695a7.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-71985698356762_%2B0656c8f73a.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-25698378133766_%2Bb156ebad7c.jpg</picture>
@@ -167159,7 +167159,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213178" available="true">
+<offer id="98213178" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167172,7 +167172,7 @@ SYSTEM "shops.dtd">
 <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">Після прання в машинці</span></span> <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">вовна зкатається та стане схожою на вовняний пледик (хоча це зовсім не страшно, бо своїх теплих властивостей вона все одно не втратить)</span></span></span></span></p>]]></description_ua>
 <price>747</price>
 <price_old>747</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/28/mufti-dorechidorechi-mufta-na-ovchyni-navy-blue-35160367146277_%2Bee0abd8d4b.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/mufti-dorechidorechi-mufta-na-ovchyni-navy-blue-18360538083238_%2B74258f2ab5.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/mufti-dorechidorechi-mufta-na-ovchyni-navy-blue-72253673582664_%2B2a2084e00e.jpg</picture>
@@ -168283,7 +168283,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="92020907" available="true">
+<offer id="92020907" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -168293,7 +168293,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>573</price>
 <price_old>573</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/37/pinetky_n_blue_15-26926582640391_%2Be0c98d3b75.jpg</picture>
 <picture>https://dorechi.ua/content/images/37/pinetky_n_blue_15-93075277019342_%2B28889711ff.jpg</picture>
 <picture>https://dorechi.ua/content/images/37/pinetky_n_blue_15-60355063268739_%2B5c801bdcf4.jpg</picture>
@@ -169019,7 +169019,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">46-48см</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235313" available="true">
+<offer id="98235313" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1088</categoryId>
 <vendor>ДоРечі</vendor>
@@ -169029,7 +169029,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Ці м&rsquo;якенькі, теплі та зручні рукавички створені для діток від народження до 2х років (довжина 14 см).</p> <p dir="ltr">Максимально натуральний склад використаної пряжі - 35% віскоза, 30% меринос, 25% бавовна + 10% нейлон для еластичності - дозволяє зберігати тепло, не створюючи парникового ефекту та не електризуючись. До того ж,  надійний захист від холоду забезпечують не 1, а цілих 2 шари вязаного полотна.</p> <p dir="ltr">Рукавички</p> <p dir="ltr">- легко одягаються та надійно тримаються</p> <p dir="ltr">- не губляться завдяки в&#39;язаному шнурочку з тієї ж пряжі</p> <p dir="ltr">- ідеально поєднуються з шапками та снудами з цієї ж пряжі, які можна придбати додатково.</p> <p dir="ltr">Поради по догляду</p> <p dir="ltr">Для чистки не користуйтеся пральною машиною і сушкою. Лише ручне прання у теплій воді з засобом для прання вовни. Не використовуйте пом&rsquo;якшувачі, відбілювачі, миючі засоби або інші продукти, що містять відбілюючі інгредієнти.</p> <p dir="ltr">Не прасувати.</p>]]></description_ua>
 <price>405</price>
 <price_old>405</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/38/gloves_black-80919762579837_%2Ba7d3e7bd1d.jpg</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">-</param>
