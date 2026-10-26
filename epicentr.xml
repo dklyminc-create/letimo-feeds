@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-26 10:38">
+<yml_catalog date="2026-10-26 13:08">
 <offers>
 <offer id="1076013176" available="false">
 <price>903</price>
@@ -69832,7 +69832,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2119-80-O" available="true">
+<offer id="DR-2119-80-O" available="false">
 <price>3559</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -70840,7 +70840,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2120-86" available="true">
+<offer id="DR-2120-86" available="false">
 <price>3162</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -70890,7 +70890,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2120-92" available="true">
+<offer id="DR-2120-92" available="false">
 <price>3162</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -70940,7 +70940,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2118-74" available="true">
+<offer id="DR-2118-74" available="false">
 <price>3162</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -72598,7 +72598,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-1894-74-N" available="true">
+<offer id="DR-1894-74-N" available="false">
 <price>2639</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -73379,7 +73379,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="9806bdd9f5bb4ef64fa606d9705f68c4">на овчині</param>
 </offer>
-<offer id="DR-1883-F" available="true">
+<offer id="DR-1883-F" available="false">
 <price>2294</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
