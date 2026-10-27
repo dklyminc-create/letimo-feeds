@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-27 21:08">
+<yml_catalog date="2026-10-27 23:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -165032,7 +165032,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">74/80</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98327088" available="true">
+<offer id="98327088" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -165055,7 +165055,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2857</price>
 <price_old>2857</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/41/apollo_black_80-60389730752653_%2B84cf8578b6.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-99191424896831_%2B8659c4a0bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-43646674735926_%2B4a9d2a921f.jpg</picture>
@@ -167535,7 +167535,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98236089" available="true">
+<offer id="98236089" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167545,7 +167545,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>716</price>
 <price_old>716</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/1/booties_first_snow-45475021136061_%2B742901d9e1.jpg</picture>
 <picture>https://dorechi.ua/content/images/1/booties_first_snow-65884462044361_%2B2c84a20d95.jpg</picture>
 <picture>https://dorechi.ua/content/images/1/booties_first_snow-66319405169119_%2B758cfda790.jpg</picture>
