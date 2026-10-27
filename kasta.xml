@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-27 14:08">
+<yml_catalog date="2026-10-27 17:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -137898,7 +137898,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94474701" available="true">
+<offer id="94474701" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -137920,7 +137920,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3355</price>
 <price_old>3355</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/43/apollo_mammoth_86-81578545185259_%2Bb2f3e1990b.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-13480027681395_%2Ba72697c34c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-76223184002861_%2B5970729794.jpg</picture>
