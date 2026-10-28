@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-28 16:38">
+<yml_catalog date="2026-10-28 19:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -137124,7 +137124,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91742966" available="false">
+<offer id="91742966" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -137147,7 +137147,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3776</price>
 <price_old>3776</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/24/apollo_leopard_fur_92-45860300375195_%2B40f4bc4238.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-53742445376024_%2Bd9f8d7edda.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/apollo_leopard_fur_74-93234766222022_%2B3cd546dc3b.jpg</picture>
@@ -137345,7 +137345,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98812520" available="false">
+<offer id="98812520" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -137368,7 +137368,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3776</price>
 <price_old>3776</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/46/apollo_first_snow_fur_80-70675750366305_%2B325d83eacc.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -137382,7 +137382,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98818286" available="false">
+<offer id="98818286" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -137405,7 +137405,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3776</price>
 <price_old>3776</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/47/apollo_first_snow_fur_86-41921070499970_%2Bb8552095ce.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -138200,7 +138200,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94101809" available="false">
+<offer id="94101809" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -138223,7 +138223,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3233</price>
 <price_old>3233</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/14/apollo_beige_fur_92-36316010191299_%2Bb0269fa21d.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/apollo_beige_fur_74-69620626825762_%2Ba192d5c721.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/apollo_beige_fur_74-44478145902891_%2B25045900a9.jpg</picture>
@@ -138238,7 +138238,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91307095" available="false">
+<offer id="91307095" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -138261,7 +138261,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3233</price>
 <price_old>3233</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-79445913584792_%2Ba10b6c3e4c.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-21969421436442_%2B54e7c1efee.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-86207640783562_%2B8eb8dd3332.jpg</picture>
@@ -138939,7 +138939,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98297297" available="false">
+<offer id="98297297" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -138961,7 +138961,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2800</price>
 <price_old>2800</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/37/apollo_green_80-37893662635468_%2Bfb6dc83aff.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
@@ -139124,7 +139124,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98327094" available="false">
+<offer id="98327094" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -139146,7 +139146,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2800</price>
 <price_old>2800</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/42/apollo_black_86-59330121561681_%2B6210a2a9f2.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-99191424896831_%2B8659c4a0bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-43646674735926_%2B4a9d2a921f.jpg</picture>
