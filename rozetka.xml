@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-29 12:08">
+<yml_catalog date="2026-10-29 14:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -163142,7 +163142,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">74/80</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="97183369" available="true">
+<offer id="97183369" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -163166,7 +163166,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3853</price>
 <price_old>3853</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/18/apollo_mammoth_fur_80-27409510169754_%2B8c0d54686e.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-85243727300311_%2B99e5060c11.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-71111385273300_%2Bf879ce7eb9.jpg</picture>
@@ -164847,7 +164847,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">92/98</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98297270" available="true">
+<offer id="98297270" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -164870,7 +164870,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2857</price>
 <price_old>2857</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-77503072943446_%2B7627aea6e7.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
