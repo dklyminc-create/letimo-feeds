@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-29 14:38">
+<yml_catalog date="2026-10-29 16:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -163290,7 +163290,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">74/80</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98812520" available="true">
+<offer id="98812520" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -163314,7 +163314,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3853</price>
 <price_old>3853</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/46/apollo_first_snow_fur_80-70675750366305_%2B325d83eacc.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -164145,7 +164145,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">86/92</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="94101809" available="true">
+<offer id="94101809" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -164169,7 +164169,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3299</price>
 <price_old>3299</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/14/apollo_beige_fur_92-36316010191299_%2Bb0269fa21d.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/apollo_beige_fur_74-69620626825762_%2Ba192d5c721.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/apollo_beige_fur_74-44478145902891_%2B25045900a9.jpg</picture>
