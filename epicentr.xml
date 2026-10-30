@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-30 11:42">
+<yml_catalog date="2026-10-30 12:32">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -66690,6 +66690,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">Вовна 50%, акрил 50%; підкладка шапки — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5121ec">акрил,трикотаж</param>
@@ -66898,6 +66899,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 52%, еластан 26%, нейлон 22%</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
 <param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
 <param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
@@ -66996,6 +66998,146 @@
 <param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
+<offer id="TV-MIRANDA-KREM-8692" available="true">
+<price>690</price>
+<category code="797">Плаття дитячі</category>
+<attribute_set code="797">Плаття дитячі</attribute_set>
+<name lang="ua">Комплект Talvi "Міранда": сукня в рубчик і пов'язка з бантом, крем, 86-92 см</name>
+<name lang="ru">Комплект Talvi "Миранда": платье в рубчик и повязка с бантом, крем, 86-92 см</name>
+<picture>https://letimo.com.ua/content/images/13/44385477862129_+ebe15924a7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/27876370810331_+33544756aa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/50146499082650_+1b476fcb4b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-27685097124913_+53c83478e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-26439976353911_+816590a9ad.jpg</picture>
+<description lang="ua">&lt;p&gt;Святковий і водночас зручний комплект Talvi &amp;laquo;Міранда&amp;raquo; для маленької модниці: сукня з м&#39;якого трикотажу в рубчик і пов&#39;язка на голову з об&#39;ємним бантом у тон.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Сукня з короткими рукавами та круглим вирізом&lt;/li&gt;   &lt;li&gt;Ліф прикрашений ніжними мереживними рюшами&lt;/li&gt;   &lt;li&gt;Пишна спідниця у складочку від завищеної талії&lt;/li&gt;   &lt;li&gt;Пов&#39;язка з бантом і мереживним оздобленням у комплекті&lt;/li&gt;   &lt;li&gt;Колір: крем (молочний)&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Підійде для фотосесії, свята, хрестин чи дня народження.&lt;/p&gt;  </description>
+<description lang="ru"><![CDATA[<p>Праздничный и в то же время удобный комплект Talvi «Миранда» для маленькой модницы: платье из мягкого трикотажа в рубчик и на голову повязка с объемным бантом в тон.</p><ul><li> Платье с короткими рукавами и круглым вырезом</li><li> Лиф украшен нежными кружевными рюшами.</li><li> Пышная юбка в складочку от завышенной талии</li><li> Повязка с бантом и кружевной отделкой в ​​комплекте</li><li> Цвет: крем (молочный)</li><li> Производитель: Talvi, Украина</li></ul><p> Подойдет для фотосессии, праздника, крестин или дня рождения.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Міранда]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+<param name="Вид" paramcode="51" valuecode="eburjamkgxekwlhk">з коротким рукавом</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Розмір виробника" paramcode="2200" valuecode="e84dd4e4783ec37e3159279b4c6d0368">86</param>
+<param name="Вік дитини" paramcode="2289" valuecode="c31ed3bd5a75f25000bd5daa2376d09e">від 1 року</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
+<param name="Дизайн" paramcode="4826" valuecode="1eb701c1a57885f564c92e51c957b24c">з бантом</param>
+</offer>
+<offer id="TV-MIRANDA-KREM-9298" available="true">
+<price>690</price>
+<category code="797">Плаття дитячі</category>
+<attribute_set code="797">Плаття дитячі</attribute_set>
+<name lang="ua">Комплект Talvi "Міранда": сукня в рубчик і пов'язка з бантом, крем, 92-98 см</name>
+<name lang="ru">Комплект Talvi "Миранда": платье в рубчик и повязка с бантом, крем, 92-98 см</name>
+<picture>https://letimo.com.ua/content/images/13/44385477862129_+ebe15924a7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/27876370810331_+33544756aa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/50146499082650_+1b476fcb4b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-27685097124913_+53c83478e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-26439976353911_+816590a9ad.jpg</picture>
+<description lang="ua">&lt;p&gt;Святковий і водночас зручний комплект Talvi &amp;laquo;Міранда&amp;raquo; для маленької модниці: сукня з м&#39;якого трикотажу в рубчик і пов&#39;язка на голову з об&#39;ємним бантом у тон.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Сукня з короткими рукавами та круглим вирізом&lt;/li&gt;   &lt;li&gt;Ліф прикрашений ніжними мереживними рюшами&lt;/li&gt;   &lt;li&gt;Пишна спідниця у складочку від завищеної талії&lt;/li&gt;   &lt;li&gt;Пов&#39;язка з бантом і мереживним оздобленням у комплекті&lt;/li&gt;   &lt;li&gt;Колір: крем (молочний)&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Підійде для фотосесії, свята, хрестин чи дня народження.&lt;/p&gt;  </description>
+<description lang="ru"><![CDATA[<p>Праздничный и в то же время удобный комплект Talvi «Миранда» для маленькой модницы: платье из мягкого трикотажа в рубчик и на голову повязка с объемным бантом в тон.</p><ul><li> Платье с короткими рукавами и круглым вырезом</li><li> Лиф украшен нежными кружевными рюшами.</li><li> Пышная юбка в складочку от завышенной талии</li><li> Повязка с бантом и кружевной отделкой в ​​комплекте</li><li> Цвет: крем (молочный)</li><li> Производитель: Talvi, Украина</li></ul><p> Подойдет для фотосессии, праздника, крестин или дня рождения.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Міранда]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+<param name="Вид" paramcode="51" valuecode="eburjamkgxekwlhk">з коротким рукавом</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Розмір виробника" paramcode="2200" valuecode="8360929200bf56bf2e52f83c49144a20">92</param>
+<param name="Вік дитини" paramcode="2289" valuecode="06cdf126bdf6a126702769d2dfb67807">від 1,5 року</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
+<param name="Дизайн" paramcode="4826" valuecode="1eb701c1a57885f564c92e51c957b24c">з бантом</param>
+</offer>
+<offer id="TV-MIRANDA-KREM-98104" available="true">
+<price>700</price>
+<category code="797">Плаття дитячі</category>
+<attribute_set code="797">Плаття дитячі</attribute_set>
+<name lang="ua">Комплект Talvi "Міранда": сукня в рубчик і пов'язка з бантом, крем, 98-104 см</name>
+<name lang="ru">Комплект Talvi "Миранда": платье в рубчик и повязка с бантом, крем, 98-104 см</name>
+<picture>https://letimo.com.ua/content/images/13/44385477862129_+ebe15924a7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/27876370810331_+33544756aa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/50146499082650_+1b476fcb4b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-27685097124913_+53c83478e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-26439976353911_+816590a9ad.jpg</picture>
+<description lang="ua">&lt;p&gt;Святковий і водночас зручний комплект Talvi &amp;laquo;Міранда&amp;raquo; для маленької модниці: сукня з м&#39;якого трикотажу в рубчик і пов&#39;язка на голову з об&#39;ємним бантом у тон.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Сукня з короткими рукавами та круглим вирізом&lt;/li&gt;   &lt;li&gt;Ліф прикрашений ніжними мереживними рюшами&lt;/li&gt;   &lt;li&gt;Пишна спідниця у складочку від завищеної талії&lt;/li&gt;   &lt;li&gt;Пов&#39;язка з бантом і мереживним оздобленням у комплекті&lt;/li&gt;   &lt;li&gt;Колір: крем (молочний)&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Підійде для фотосесії, свята, хрестин чи дня народження.&lt;/p&gt;  </description>
+<description lang="ru"><![CDATA[<p>Праздничный и в то же время удобный комплект Talvi «Миранда» для маленькой модницы: платье из мягкого трикотажа в рубчик и на голову повязка с объемным бантом в тон.</p><ul><li> Платье с короткими рукавами и круглым вырезом</li><li> Лиф украшен нежными кружевными рюшами.</li><li> Пышная юбка в складочку от завышенной талии</li><li> Повязка с бантом и кружевной отделкой в ​​комплекте</li><li> Цвет: крем (молочный)</li><li> Производитель: Talvi, Украина</li></ul><p> Подойдет для фотосессии, праздника, крестин или дня рождения.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Міранда]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+<param name="Вид" paramcode="51" valuecode="eburjamkgxekwlhk">з коротким рукавом</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Розмір виробника" paramcode="2200" valuecode="6d1647bb01031ff1c38290a66e5c00b5">98</param>
+<param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
+<param name="Дизайн" paramcode="4826" valuecode="1eb701c1a57885f564c92e51c957b24c">з бантом</param>
+</offer>
+<offer id="TV-MIRANDA-KREM-104110" available="true">
+<price>700</price>
+<category code="797">Плаття дитячі</category>
+<attribute_set code="797">Плаття дитячі</attribute_set>
+<name lang="ua">Комплект Talvi "Міранда": сукня в рубчик і пов'язка з бантом, крем, 104-110 см</name>
+<name lang="ru">Комплект Talvi "Миранда": платье в рубчик и повязка с бантом, крем, 104-110 см</name>
+<picture>https://letimo.com.ua/content/images/13/44385477862129_+ebe15924a7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/27876370810331_+33544756aa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/50146499082650_+1b476fcb4b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-27685097124913_+53c83478e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/komplekt-talvi-miranda-suknia-v-rubchyk-i-povyazka-z-bantom-krem-86-92-sm-26439976353911_+816590a9ad.jpg</picture>
+<description lang="ua">&lt;p&gt;Святковий і водночас зручний комплект Talvi &amp;laquo;Міранда&amp;raquo; для маленької модниці: сукня з м&#39;якого трикотажу в рубчик і пов&#39;язка на голову з об&#39;ємним бантом у тон.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Сукня з короткими рукавами та круглим вирізом&lt;/li&gt;   &lt;li&gt;Ліф прикрашений ніжними мереживними рюшами&lt;/li&gt;   &lt;li&gt;Пишна спідниця у складочку від завищеної талії&lt;/li&gt;   &lt;li&gt;Пов&#39;язка з бантом і мереживним оздобленням у комплекті&lt;/li&gt;   &lt;li&gt;Колір: крем (молочний)&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Підійде для фотосесії, свята, хрестин чи дня народження.&lt;/p&gt;  </description>
+<description lang="ru"><![CDATA[<p>Праздничный и в то же время удобный комплект Talvi «Миранда» для маленькой модницы: платье из мягкого трикотажа в рубчик и на голову повязка с объемным бантом в тон.</p><ul><li> Платье с короткими рукавами и круглым вырезом</li><li> Лиф украшен нежными кружевными рюшами.</li><li> Пышная юбка в складочку от завышенной талии</li><li> Повязка с бантом и кружевной отделкой в ​​комплекте</li><li> Цвет: крем (молочный)</li><li> Производитель: Talvi, Украина</li></ul><p> Подойдет для фотосессии, праздника, крестин или дня рождения.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Міранда]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4924,4926">104,110</param>
+<param name="Вид" paramcode="51" valuecode="eburjamkgxekwlhk">з коротким рукавом</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Розмір виробника" paramcode="2200" valuecode="71c382977ef3713a09b25a3edd0b55fc">104</param>
+<param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
+<param name="Дизайн" paramcode="4826" valuecode="1eb701c1a57885f564c92e51c957b24c">з бантом</param>
 </offer>
 <offer id="TV-MALIUK-PUDRA-80100" available="true">
 <price>1190</price>
@@ -67989,6 +68131,253 @@
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Зріст" paramcode="11972" valuecode="4926,4933">110,116</param>
 </offer>
+<offer id="4820000300384" available="true">
+<price>448</price>
+<category code="795">Конверти для новонароджених</category>
+<attribute_set code="795">Конверти для новонароджених</attribute_set>
+<name lang="ua">Кокон з шапочкою, бежевий 56-62 (0-3 міс)</name>
+<name lang="ru">Кокон с шапочкой, бежевый 56-62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/22/39363213885374_+7d29c4910e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/22/52289180078907_+614e4ee555.jpg</picture>
+<description lang="ua">&lt;p&gt;Кокон із шапочкою   сучасна заміна класичному сповиванню. Малюк лежить у м'якому  мішечку , як у маминих обіймах: ніжки й ручки в теплі, а рефлекс здригування менше будить посеред ночі.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Тканина:&lt;/strong&gt; бавовняний футер з начосом   зовні гладкий, всередині пухнастий і теплий.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка-блискавка&lt;/strong&gt; на всю довжину: зручно вкласти малюка і швидко перевірити підгузок.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Шапочка-вузлик у комплекті&lt;/strong&gt;   в тон кокону, м'яко сидить і не тисне.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Розмір 56 62&lt;/strong&gt;   від народження приблизно до 3 місяців.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Підходить для сну вдома, прогулянки в колясці в прохолодну погоду та як ніжний образ для виписки чи першої фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/eca86c89-299a-4278-ae25-6f12aa9cb9ae.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Кокон с шапочкой современная замена классическому пеленанию. Малыш лежит в мягком мешочке, как в маминых объятиях: ножки и ручки в тепле, а рефлекс вздрагивания меньше пробуждает посреди ночи.</p><ul><li> <strong>Ткань:</strong> хлопчатобумажный футер с начесом снаружи гладкий, внутри пушистый и теплый.</li><li> <strong>Застежка-молния</strong> на всю длину: удобно уложить малыша и быстро проверить подгузник.</li><li> <strong>Шапочка-узелок в комплекте</strong> в тон кокона, мягко сидит и не жмет.</li><li> <strong>Размер 56-62</strong> от рождения примерно до 3 месяцев.</li></ul><p> Подходит для сна дома, прогулки в коляске в прохладную погоду и нежный образ для выписки или первой фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/eca86c89-299a-4278-ae25-6f12aa9cb9ae.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Вид" paramcode="51" valuecode="7hrggfljnppjurwe">конверт-кокон</param>
+<param name="Зріст" paramcode="11972" valuecode="4905,4907">56,62</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="29815ad3473bae73f9db0040d168a811">блискавка</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+</offer>
+<offer id="4820000299572" available="true">
+<price>452</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок з начосом, бежевий з ведмедиками 62 (0-3 міс)</name>
+<name lang="ru">Мужчина с начесом, бежевый с мишками. 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/23/18661142862529_+6e1a096844.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/64458354200582_+33d695c9fc.jpg</picture>
+<description lang="ua">&lt;p&gt;Теплий чоловічок на кожен прохолодний день: м'який футер з начосом зберігає тепло, а бавовна дає шкірі дихати   малюк не перегрівається навіть уві сні.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Кнопки по всій довжині&lt;/strong&gt;   перевдягання за кілька секунд, без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Манжети на рукавах&lt;/strong&gt; тримають посадку: рукави не задираються, коли дитина активно рухається.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; замінюють шкарпетки, які постійно губляться.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий і бежевий з принтом-ведмедиками.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розмір 62   орієнтовно на 0 3 місяці. Гарно виглядає як самостійний домашній образ і підходить під комбінезон на прогулянку.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Теплый человечек на каждый прохладный день: мягкий футер с начесом сохраняет тепло, а хлопок дает коже дышать малыш не перегревающийся даже во сне.</p><ul><li> <strong>Кнопки по всей длине</strong> переодевания за несколько секунд без натягивания через голову.</li><li> <strong>Манжеты на рукавах</strong> держат посадку: рукава не задираются, когда ребенок активно двигается.</li><li> <strong>Закрытые ножки</strong> заменяют постоянно теряющиеся носки.</li><li> <strong>Цвета:</strong> молочный, бежевый и бежевый с принтом-мишками.</li></ul><p> Размер 62 ориентировочно на 0-3 месяца. Хорошо смотрится как самостоятельный домашний образ и подходит под прогулочный комбинезон.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb">бавовна,футер</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000272414" available="true">
+<price>452</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок з начосом, молочний 62 (0-3 міс)</name>
+<name lang="ru">Мужчина с начесом, молочный 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/24/70051680709063_+524fe556c5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/24/27584543568473_+2d72b493ac.jpg</picture>
+<description lang="ua">&lt;p&gt;Теплий чоловічок на кожен прохолодний день: м'який футер з начосом зберігає тепло, а бавовна дає шкірі дихати   малюк не перегрівається навіть уві сні.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Кнопки по всій довжині&lt;/strong&gt;   перевдягання за кілька секунд, без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Манжети на рукавах&lt;/strong&gt; тримають посадку: рукави не задираються, коли дитина активно рухається.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; замінюють шкарпетки, які постійно губляться.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий і бежевий з принтом-ведмедиками.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розмір 62   орієнтовно на 0 3 місяці. Гарно виглядає як самостійний домашній образ і підходить під комбінезон на прогулянку.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Теплый человечек на каждый прохладный день: мягкий футер с начесом сохраняет тепло, а хлопок дает коже дышать малыш не перегревающийся даже во сне.</p><ul><li> <strong>Кнопки по всей длине</strong> переодевания за несколько секунд без натягивания через голову.</li><li> <strong>Манжеты на рукавах</strong> держат посадку: рукава не задираются, когда ребенок активно двигается.</li><li> <strong>Закрытые ножки</strong> заменяют постоянно теряющиеся носки.</li><li> <strong>Цвета:</strong> молочный, бежевый и бежевый с принтом-мишками.</li></ul><p> Размер 62 ориентировочно на 0-3 месяца. Хорошо смотрится как самостоятельный домашний образ и подходит под прогулочный комбинезон.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb">бавовна,футер</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000273305" available="true">
+<price>452</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок з начосом, бежевий 62 (0-3 міс)</name>
+<name lang="ru">Человек с начесом, бежевый 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/25/31369510911376_+697b8c19a5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/25/18627290772814_+c00b684869.jpg</picture>
+<description lang="ua">&lt;p&gt;Теплий чоловічок на кожен прохолодний день: м'який футер з начосом зберігає тепло, а бавовна дає шкірі дихати   малюк не перегрівається навіть уві сні.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Кнопки по всій довжині&lt;/strong&gt;   перевдягання за кілька секунд, без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Манжети на рукавах&lt;/strong&gt; тримають посадку: рукави не задираються, коли дитина активно рухається.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; замінюють шкарпетки, які постійно губляться.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий і бежевий з принтом-ведмедиками.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розмір 62   орієнтовно на 0 3 місяці. Гарно виглядає як самостійний домашній образ і підходить під комбінезон на прогулянку.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Теплый человечек на каждый прохладный день: мягкий футер с начесом сохраняет тепло, а хлопок дает коже дышать малыш не перегревающийся даже во сне.</p><ul><li> <strong>Кнопки по всей длине</strong> переодевания за несколько секунд без натягивания через голову.</li><li> <strong>Манжеты на рукавах</strong> держат посадку: рукава не задираются, когда ребенок активно двигается.</li><li> <strong>Закрытые ножки</strong> заменяют постоянно теряющиеся носки.</li><li> <strong>Цвета:</strong> молочный, бежевый и бежевый с принтом-мишками.</li></ul><p> Размер 62 ориентировочно на 0-3 месяца. Хорошо смотрится как самостоятельный домашний образ и подходит под прогулочный комбинезон.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb">бавовна,футер</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000271332" available="true">
+<price>370</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок з інтерлоку, сірий 56 (0-1 міс)</name>
+<name lang="ru">Человек из интерлока, серый 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/26/40022801300436_+679c1446d8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/61561381180160_+e5ce4da013.jpg</picture>
+<description lang="ua">&lt;p&gt;Базовий чоловічок, який хочеться мати у кількох екземплярах. Інтерлок   щільний, але легкий бавовняний трикотаж: тримає тепло і не продувається, тому модель носиться цілий рік.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, приємна до ніжної шкіри і не електризується.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках&lt;/strong&gt; спереду   зручно одягати навіть сонного малюка.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   тепло без шкарпеток.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Нейтральний сірий&lt;/strong&gt; підходить і дівчинці, і хлопчику, легко поєднується з будь-якими речами.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 68 (3 6 міс). Для сну, дому, прогулянок і візиту до педіатра.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Базовый человечек, который хочется иметь в нескольких экземплярах. Интерлок плотный, но легкий хлопковый трикотаж: держит тепло и не продувается, поэтому модель носится круглый год.</p><ul><li> <strong>100% хлопок</strong> , приятный к нежной коже и не электризуется.</li><li> <strong>Застежка на кнопках</strong> спереди удобно одевать даже сонного малыша.</li><li> <strong>Закрытые ножки</strong> тепло без носков.</li><li> <strong>Нейтральный серый</strong> подходит и девочке, и мальчику, легко сочетающемуся с любыми вещами.</li></ul><p> Размеры: 56 (0 1 мес) и 68 (3 6 мес). Для сна, дома, прогулок и визита к педиатру.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000255318" available="true">
+<price>428</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок з інтерлоку, сірий 68 (3-6 міс)</name>
+<name lang="ru">Человек из интерлока, серый 68 (3-6 мес)</name>
+<picture>https://letimo.com.ua/content/images/27/64090549170692_+07ee724bc0.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/62393704334342_+58cc1a8ccc.jpg</picture>
+<description lang="ua">&lt;p&gt;Базовий чоловічок, який хочеться мати у кількох екземплярах. Інтерлок   щільний, але легкий бавовняний трикотаж: тримає тепло і не продувається, тому модель носиться цілий рік.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, приємна до ніжної шкіри і не електризується.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках&lt;/strong&gt; спереду   зручно одягати навіть сонного малюка.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   тепло без шкарпеток.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Нейтральний сірий&lt;/strong&gt; підходить і дівчинці, і хлопчику, легко поєднується з будь-якими речами.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 68 (3 6 міс). Для сну, дому, прогулянок і візиту до педіатра.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Базовый человечек, который хочется иметь в нескольких экземплярах. Интерлок плотный, но легкий хлопковый трикотаж: держит тепло и не продувается, поэтому модель носится круглый год.</p><ul><li> <strong>100% хлопок</strong> , приятный к нежной коже и не электризуется.</li><li> <strong>Застежка на кнопках</strong> спереди удобно одевать даже сонного малыша.</li><li> <strong>Закрытые ножки</strong> тепло без носков.</li><li> <strong>Нейтральный серый</strong> подходит и девочке, и мальчику, легко сочетающемуся с любыми вещами.</li></ul><p> Размеры: 56 (0 1 мес) и 68 (3 6 мес). Для сна, дома, прогулок и визита к педиатру.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+<param name="Зріст" paramcode="11972" valuecode="4909">68</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="8a9aef279d281e99b62148df0b8c89c5">від 3 місяців</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000301954" available="true">
+<price>658</price>
+<category code="6562">Піжами дитячі</category>
+<attribute_set code="6562">Піжами дитячі</attribute_set>
+<name lang="ua">Піжама з начосом «Їжачки», молочний з їжачками 98-104 (2-4 роки)</name>
+<name lang="ru">Пижама с начесом «Ежики», молочный с ежами 98-104 (2-4 года)</name>
+<picture>https://letimo.com.ua/content/images/28/96623505208284_+cbb8f36cfb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/49908224357075_+bc278ad669.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/46792628869853_+a649b50dcc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/24172296634013_+9aa55cf79c.jpg</picture>
+<description lang="ua">&lt;p&gt;Затишна піжама для холодних вечорів: м'який футер з начосом зсередини гріє, а бавовна дозволяє шкірі дихати, тож дитина спить спокійно і не пітніє.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Комплект із двох речей:&lt;/strong&gt; кофта з довгим рукавом і штани на зручній резинці.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Манжети на рукавах і штанинах&lt;/strong&gt;   піжама не задирається, навіть якщо дитина крутиться уві сні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Принт  Їжачки &lt;/strong&gt; на молочному тлі   милий і без кричущих кольорів.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;   натурально і безпечно для чутливої шкіри.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 98 104 (2 4 роки) і 110 116 (4 6 років). Підходить і як домашній костюм для ігор.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Уютная пижама для холодных вечеров: мягкий футер с начесом изнутри греет, а хлопок позволяет коже дышать, поэтому ребенок спит спокойно и не потеет.</p><ul><li> <strong>Комплект из двух вещей:</strong> кофта с длинным рукавом и брюки на удобной резинке.</li><li> <strong>Манжеты на рукавах и штанинах</strong> пижама не задираются, даже если ребенок крутится во сне.</li><li> <strong>Принт Ежи</strong> на молочном фоне милый и без вопиющих цветов.</li><li> <strong>100% хлопок</strong> натурально и безопасно для чувствительной кожи.</li></ul><p> Размеры: 98104 (2 4 года) и 110 116 (4 6 лет). Подходит и как домашний костюм для игр.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Їжачки]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+<param name="Вік дитини" paramcode="2289" valuecode="b5bd9ae0c599f7cae943bdd094531fe4">від 2 років</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,59474de5121ec">бавовна,футер,трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="2bf470aa16be183ebcdeb2720f5b8118">кофта і штани</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
+<offer id="4820000301961" available="true">
+<price>736</price>
+<category code="6562">Піжами дитячі</category>
+<attribute_set code="6562">Піжами дитячі</attribute_set>
+<name lang="ua">Піжама з начосом «Їжачки», молочний з їжачками 110-116 (4-6 років)</name>
+<name lang="ru">Пижама с начесом «Ежики», молочный с ежами 110-116 (4-6 лет)</name>
+<picture>https://letimo.com.ua/content/images/29/85975992534409_+4b283cfba4.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/49908224357075_+bc278ad669.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/46792628869853_+a649b50dcc.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/24172296634013_+9aa55cf79c.jpg</picture>
+<description lang="ua">&lt;p&gt;Затишна піжама для холодних вечорів: м'який футер з начосом зсередини гріє, а бавовна дозволяє шкірі дихати, тож дитина спить спокійно і не пітніє.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Комплект із двох речей:&lt;/strong&gt; кофта з довгим рукавом і штани на зручній резинці.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Манжети на рукавах і штанинах&lt;/strong&gt;   піжама не задирається, навіть якщо дитина крутиться уві сні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Принт  Їжачки &lt;/strong&gt; на молочному тлі   милий і без кричущих кольорів.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;   натурально і безпечно для чутливої шкіри.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 98 104 (2 4 роки) і 110 116 (4 6 років). Підходить і як домашній костюм для ігор.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Уютная пижама для холодных вечеров: мягкий футер с начесом изнутри греет, а хлопок позволяет коже дышать, поэтому ребенок спит спокойно и не потеет.</p><ul><li> <strong>Комплект из двух вещей:</strong> кофта с длинным рукавом и брюки на удобной резинке.</li><li> <strong>Манжеты на рукавах и штанинах</strong> пижама не задираются, даже если ребенок крутится во сне.</li><li> <strong>Принт Ежи</strong> на молочном фоне милый и без вопиющих цветов.</li><li> <strong>100% хлопок</strong> натурально и безопасно для чувствительной кожи.</li></ul><p> Размеры: 98104 (2 4 года) и 110 116 (4 6 лет). Подходит и как домашний костюм для игр.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Їжачки]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Зріст" paramcode="11972" valuecode="4926,4933">110,116</param>
+<param name="Вік дитини" paramcode="2289" valuecode="915834e0c05c35bc1c2c519aada74d49">від 4 років</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb,59474de5121ec">бавовна,футер,трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="2bf470aa16be183ebcdeb2720f5b8118">кофта і штани</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+</offer>
 <offer id="4820000260930" available="true">
 <price>250</price>
 <category code="805">Светри і кофти дитячі</category>
@@ -68073,6 +68462,90 @@
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
 <param name="Зріст" paramcode="11972" valuecode="4926,4933">110,116</param>
 </offer>
+<offer id="4820000260640" available="true">
+<price>250</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Гольф з рібани, сливовий 86-92 (1-2 роки)</name>
+<name lang="ru">Гольф с рыбаной, сливовый 86-92 (1-2 года)</name>
+<picture>https://letimo.com.ua/content/images/33/35098753485922_+666b83cb75.jpg</picture>
+<picture>https://letimo.com.ua/content/images/33/71391410289174_+99d879cd92.jpg</picture>
+<description lang="ua">&lt;p&gt;Гольф   річ, яка рятує осінь і зиму: високий комір закриває шию від вітру, а тонка еластична рібана не додає об'єму під светр чи куртку.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Рібана&lt;/strong&gt;   м'який трикотаж у дрібний рубчик на основі бавовни з еластаном: тягнеться, дихає і повертає форму після прання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Високий комір&lt;/strong&gt;, що не тисне на шию.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Три кольори:&lt;/strong&gt; молочний, глибокий сливовий і шоколадний   легко комбінувати з джинсами, спідницями, сарафанами.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Унісекс&lt;/strong&gt;   підходить дівчинці і хлопчику.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 86 92 (1 2 роки), 98 104 (2 4 роки), 110 116 (4 6 років). Для садочка, прогулянок і щоденного гардероба.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Гольф – вещь, которая спасает осень и зиму: высокий воротник закрывает шею от ветра, а тонкая эластичная рыбана не добавляет объема под свитер или куртку.</p><ul><li> <strong>Рибана</strong> мягкий трикотаж в мелкий рубчик на основе хлопка с эластаном: тянется, дышит и возвращает форму после стирки.</li><li> <strong>Высокий воротник</strong> , не давящий на шею.</li><li> <strong>Три цвета:</strong> молочный, глубокий сливовый и шоколадный, легко комбинировать с джинсами, юбками, сарафанами.</li><li> <strong>Унисекс</strong> подходит девочка и мальчик.</li></ul><p> Размеры: 86 92 (1 2 года), 98 104 (2 4 года), 110 116 (4 6 лет). Для садика, прогулок и ежедневного гардероба.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Бавовна, еластан</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,eabn1hoyk47qm5mi,59474de5130ad,59474de5121ec">бавовна,рібана,еластан,трикотаж</param>
+<param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
+<param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+</offer>
+<offer id="4820000260763" available="true">
+<price>322</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Гольф з рібани, сливовий 98-104 (2-4 роки)</name>
+<name lang="ru">Гольф с рыбаной, сливовый 98-104 (2-4 года)</name>
+<picture>https://letimo.com.ua/content/images/34/44483985597147_+fd60f72e08.jpg</picture>
+<picture>https://letimo.com.ua/content/images/34/80821999629955_+91ec435aa6.jpg</picture>
+<description lang="ua">&lt;p&gt;Гольф   річ, яка рятує осінь і зиму: високий комір закриває шию від вітру, а тонка еластична рібана не додає об'єму під светр чи куртку.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Рібана&lt;/strong&gt;   м'який трикотаж у дрібний рубчик на основі бавовни з еластаном: тягнеться, дихає і повертає форму після прання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Високий комір&lt;/strong&gt;, що не тисне на шию.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Три кольори:&lt;/strong&gt; молочний, глибокий сливовий і шоколадний   легко комбінувати з джинсами, спідницями, сарафанами.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Унісекс&lt;/strong&gt;   підходить дівчинці і хлопчику.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 86 92 (1 2 роки), 98 104 (2 4 роки), 110 116 (4 6 років). Для садочка, прогулянок і щоденного гардероба.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Гольф – вещь, которая спасает осень и зиму: высокий воротник закрывает шею от ветра, а тонкая эластичная рыбана не добавляет объема под свитер или куртку.</p><ul><li> <strong>Рибана</strong> мягкий трикотаж в мелкий рубчик на основе хлопка с эластаном: тянется, дышит и возвращает форму после стирки.</li><li> <strong>Высокий воротник</strong> , не давящий на шею.</li><li> <strong>Три цвета:</strong> молочный, глубокий сливовый и шоколадный, легко комбинировать с джинсами, юбками, сарафанами.</li><li> <strong>Унисекс</strong> подходит девочка и мальчик.</li></ul><p> Размеры: 86 92 (1 2 года), 98 104 (2 4 года), 110 116 (4 6 лет). Для садика, прогулок и ежедневного гардероба.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Бавовна, еластан</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,eabn1hoyk47qm5mi,59474de5130ad,59474de5121ec">бавовна,рібана,еластан,трикотаж</param>
+<param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
+<param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+</offer>
+<offer id="4820000260701" available="true">
+<price>392</price>
+<category code="805">Светри і кофти дитячі</category>
+<attribute_set code="805">Светри і кофти дитячі</attribute_set>
+<name lang="ua">Гольф з рібани, сливовий 110-116 (4-6 років)</name>
+<name lang="ru">Гольф с рыбаной, сливовый 110-116 (4-6 лет)</name>
+<picture>https://letimo.com.ua/content/images/35/24815548798074_+f087adb5a1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/35/97832093459398_+e9044c71f7.jpg</picture>
+<description lang="ua">&lt;p&gt;Гольф   річ, яка рятує осінь і зиму: високий комір закриває шию від вітру, а тонка еластична рібана не додає об'єму під светр чи куртку.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Рібана&lt;/strong&gt;   м'який трикотаж у дрібний рубчик на основі бавовни з еластаном: тягнеться, дихає і повертає форму після прання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Високий комір&lt;/strong&gt;, що не тисне на шию.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Три кольори:&lt;/strong&gt; молочний, глибокий сливовий і шоколадний   легко комбінувати з джинсами, спідницями, сарафанами.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Унісекс&lt;/strong&gt;   підходить дівчинці і хлопчику.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 86 92 (1 2 роки), 98 104 (2 4 роки), 110 116 (4 6 років). Для садочка, прогулянок і щоденного гардероба.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Гольф – вещь, которая спасает осень и зиму: высокий воротник закрывает шею от ветра, а тонкая эластичная рыбана не добавляет объема под свитер или куртку.</p><ul><li> <strong>Рибана</strong> мягкий трикотаж в мелкий рубчик на основе хлопка с эластаном: тянется, дышит и возвращает форму после стирки.</li><li> <strong>Высокий воротник</strong> , не давящий на шею.</li><li> <strong>Три цвета:</strong> молочный, глубокий сливовый и шоколадный, легко комбинировать с джинсами, юбками, сарафанами.</li><li> <strong>Унисекс</strong> подходит девочка и мальчик.</li></ul><p> Размеры: 86 92 (1 2 года), 98 104 (2 4 года), 110 116 (4 6 лет). Для садика, прогулок и ежедневного гардероба.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">200</param>
+<param name="Ширина" paramcode="width">150</param>
+<param name="Вага" paramcode="weight">120</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Бавовна, еластан</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
+<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,eabn1hoyk47qm5mi,59474de5130ad,59474de5121ec">бавовна,рібана,еластан,трикотаж</param>
+<param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
+<param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+<param name="Зріст" paramcode="11972" valuecode="4926,4933">110,116</param>
+</offer>
 <offer id="4820000291057" available="true">
 <price>250</price>
 <category code="805">Светри і кофти дитячі</category>
@@ -68128,6 +68601,518 @@
 <param name="Вид" paramcode="51" valuecode="59474de50be71">гольф</param>
 <param name="Колір виробника" paramcode="78" valuecode="651,zbjmtjbl">шоколадний,коричневий</param>
 <param name="Зріст" paramcode="11972" valuecode="4921,4924">98,104</param>
+</offer>
+<offer id="4820000273794" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, бежевий 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, бежевый. 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/38/47591390809209_+c4a55da557.jpg</picture>
+<picture>https://letimo.com.ua/content/images/38/92210744010780_+c980435fa2.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000275736" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, бежевий 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, бежевый. 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/39/82986252492227_+c720e141ad.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/71661766341737_+b0ab207c1f.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000295086" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, квіточки на пудрі 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, цветочки на пудре 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/40/19436473672975_+76c2af8c31.jpg</picture>
+<picture>https://letimo.com.ua/content/images/40/55960145334588_+818674e3db.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000263313" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, молочний 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, молочный 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/41/63874218154049_+be17ee47aa.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/92016920454170_+214d58e111.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000263320" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, молочний 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, молочный 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/42/55444281279329_+842aad4e4b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/42/75386423846042_+53612841d4.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000273787" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, пудровий 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, пудровый 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/43/71384228193790_+ec9e40c55f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/43/85764462429256_+864ab4c5e8.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e,nlmlmqnr">пудровий,рожевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000275699" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, пудровий 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, пудровый 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/44/12680839467841_+fc6ea1e00c.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/22870422973396_+e0fe8fcaa8.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e,nlmlmqnr">пудровий,рожевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000273701" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, сірий 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, серый 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/45/15611741922592_+94bbfdc2de.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/70596161004872_+d98bb89b02.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000275934" available="true">
+<price>442</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» з закритими ручками, сірий 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с закрытыми ручками, серый 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/46/26782164192926_+e00a9337e6.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/96023812460001_+ecfda8ed8f.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний чоловічок для перших тижнів життя. Фактурний інтерлок  вафелька  м'який, легкий і добре тримає тепло   найкраще для чутливої шкіри новонародженого.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Закриті ручки&lt;/strong&gt; працюють як антицарапки   малюк не подряпає личко.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt;   шкарпетки не потрібні.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на запах&lt;/strong&gt;   легко одягнути без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;100% бавовна&lt;/strong&gt;, всесезонна модель.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, бежевий, пудровий, сірий і квіточки на пудрі.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Чудовий вибір у пологовий, на виписку, для сну і фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный человечек для первых недель жизни. Фактурный интерлок вафельки мягкий, легкий и хорошо держит тепло лучше для чувствительной кожи новорожденного.</p><ul><li> <strong>Закрытые ручки</strong> работают как антицарапки малыш не поцарапает личико.</li><li> <strong>Закрытые ножки</strong> носки не нужны.</li><li> <strong>Застежка на кнопках на запах</strong> легко надеть без натяжения через голову.</li><li> <strong>100% хлопок</strong> , всесезонная модель.</li><li> <strong>Цвета:</strong> молочный, бежевый, пудровый, серый и цветочки на пудре.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Прекрасный выбор в родильной, на выписку, для сна и фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/234e4df9-8d75-4c2b-afb3-0f0cfd8b9ee3.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,89eb78ff8c86595261673d49474ef372,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,із закритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000286848" available="true">
+<price>456</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» із застібкою на ніжку, молочний 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с застежкой на ножку, молочный 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/47/52209239114195_+fc377b50e3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/47/56646806507265_+88d48beea8.jpg</picture>
+<description lang="ua">&lt;p&gt;Чоловічок, який мами обирають за зручність: застібка йде через груди і далі до низу однієї ніжки, тож змінити підгузок можна, не знімаючи весь одяг.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на одну ніжку&lt;/strong&gt;   максимально просте перевдягання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Відкриті ручки з манжетами&lt;/strong&gt;   свобода рухів, рукав не з'їжджає.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; тримають тепло.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   м'яко, легко, всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, пудровий, сірий, бежевий.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для щоденного носіння, сну та прогулянок.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Человечек, который мамы выбирают за удобство: застежка идет через грудь и дальше вниз одной ножки, так что сменить подгузник можно, не снимая всю одежду.</p><ul><li> <strong>Застежка на кнопках на одну ножку —</strong> максимально простое переодевание.</li><li> <strong>Открытые ручки с манжетами</strong> свобода движений, рукав не съезжает.</li><li> <strong>Закрытые ножки</strong> держат тепло.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> мягко, легко, всесезонно.</li><li> <strong>Цвета:</strong> молочный, пудровый, серый, бежевый.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для ежедневного ношения, сна и прогулок.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,058e6507b14a7142dc021c5f4cb98fa9,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з відкритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000291712" available="true">
+<price>456</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» із застібкою на ніжку, молочний 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с застежкой на ножку, молочный 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/48/17917986084504_+a7b9d9892b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/57346114449460_+db3989d595.jpg</picture>
+<description lang="ua">&lt;p&gt;Чоловічок, який мами обирають за зручність: застібка йде через груди і далі до низу однієї ніжки, тож змінити підгузок можна, не знімаючи весь одяг.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на одну ніжку&lt;/strong&gt;   максимально просте перевдягання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Відкриті ручки з манжетами&lt;/strong&gt;   свобода рухів, рукав не з'їжджає.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; тримають тепло.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   м'яко, легко, всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, пудровий, сірий, бежевий.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для щоденного носіння, сну та прогулянок.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Человечек, который мамы выбирают за удобство: застежка идет через грудь и дальше вниз одной ножки, так что сменить подгузник можно, не снимая всю одежду.</p><ul><li> <strong>Застежка на кнопках на одну ножку —</strong> максимально простое переодевание.</li><li> <strong>Открытые ручки с манжетами</strong> свобода движений, рукав не съезжает.</li><li> <strong>Закрытые ножки</strong> держат тепло.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> мягко, легко, всесезонно.</li><li> <strong>Цвета:</strong> молочный, пудровый, серый, бежевый.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для ежедневного ношения, сна и прогулок.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,058e6507b14a7142dc021c5f4cb98fa9,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з відкритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000287074" available="true">
+<price>456</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» із застібкою на ніжку, пудровий 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с застежкой на ножку, пудровый 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/49/73134020932683_+beb2dea3e3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/48715054311113_+2680c845cb.jpg</picture>
+<description lang="ua">&lt;p&gt;Чоловічок, який мами обирають за зручність: застібка йде через груди і далі до низу однієї ніжки, тож змінити підгузок можна, не знімаючи весь одяг.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на одну ніжку&lt;/strong&gt;   максимально просте перевдягання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Відкриті ручки з манжетами&lt;/strong&gt;   свобода рухів, рукав не з'їжджає.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; тримають тепло.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   м'яко, легко, всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, пудровий, сірий, бежевий.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для щоденного носіння, сну та прогулянок.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Человечек, который мамы выбирают за удобство: застежка идет через грудь и дальше вниз одной ножки, так что сменить подгузник можно, не снимая всю одежду.</p><ul><li> <strong>Застежка на кнопках на одну ножку —</strong> максимально простое переодевание.</li><li> <strong>Открытые ручки с манжетами</strong> свобода движений, рукав не съезжает.</li><li> <strong>Закрытые ножки</strong> держат тепло.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> мягко, легко, всесезонно.</li><li> <strong>Цвета:</strong> молочный, пудровый, серый, бежевый.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для ежедневного ношения, сна и прогулок.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e,nlmlmqnr">пудровий,рожевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,058e6507b14a7142dc021c5f4cb98fa9,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з відкритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000293778" available="true">
+<price>456</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» із застібкою на ніжку, пудровий 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с застежкой на ножку, пудровый 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/50/94337587358906_+a91f77d3b1.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/35161716698709_+a92dbf4031.jpg</picture>
+<description lang="ua">&lt;p&gt;Чоловічок, який мами обирають за зручність: застібка йде через груди і далі до низу однієї ніжки, тож змінити підгузок можна, не знімаючи весь одяг.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на одну ніжку&lt;/strong&gt;   максимально просте перевдягання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Відкриті ручки з манжетами&lt;/strong&gt;   свобода рухів, рукав не з'їжджає.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; тримають тепло.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   м'яко, легко, всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, пудровий, сірий, бежевий.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для щоденного носіння, сну та прогулянок.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Человечек, который мамы выбирают за удобство: застежка идет через грудь и дальше вниз одной ножки, так что сменить подгузник можно, не снимая всю одежду.</p><ul><li> <strong>Застежка на кнопках на одну ножку —</strong> максимально простое переодевание.</li><li> <strong>Открытые ручки с манжетами</strong> свобода движений, рукав не съезжает.</li><li> <strong>Закрытые ножки</strong> держат тепло.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> мягко, легко, всесезонно.</li><li> <strong>Цвета:</strong> молочный, пудровый, серый, бежевый.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для ежедневного ношения, сна и прогулок.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="594b7a1e1904e,nlmlmqnr">пудровий,рожевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,058e6507b14a7142dc021c5f4cb98fa9,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з відкритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000286831" available="true">
+<price>456</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» із застібкою на ніжку, сірий 56 (0-1 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с застежкой на ножку, серый 56 (0-1 мес)</name>
+<picture>https://letimo.com.ua/content/images/1/54876444826312_+edc10180ea.jpg</picture>
+<picture>https://letimo.com.ua/content/images/1/80882001271587_+023abcfe9b.jpg</picture>
+<description lang="ua">&lt;p&gt;Чоловічок, який мами обирають за зручність: застібка йде через груди і далі до низу однієї ніжки, тож змінити підгузок можна, не знімаючи весь одяг.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на одну ніжку&lt;/strong&gt;   максимально просте перевдягання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Відкриті ручки з манжетами&lt;/strong&gt;   свобода рухів, рукав не з'їжджає.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; тримають тепло.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   м'яко, легко, всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, пудровий, сірий, бежевий.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для щоденного носіння, сну та прогулянок.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Человечек, который мамы выбирают за удобство: застежка идет через грудь и дальше вниз одной ножки, так что сменить подгузник можно, не снимая всю одежду.</p><ul><li> <strong>Застежка на кнопках на одну ножку —</strong> максимально простое переодевание.</li><li> <strong>Открытые ручки с манжетами</strong> свобода движений, рукав не съезжает.</li><li> <strong>Закрытые ножки</strong> держат тепло.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> мягко, легко, всесезонно.</li><li> <strong>Цвета:</strong> молочный, пудровый, серый, бежевый.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для ежедневного ношения, сна и прогулок.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+<param name="Зріст" paramcode="11972" valuecode="4905">56</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,058e6507b14a7142dc021c5f4cb98fa9,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з відкритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000294270" available="true">
+<price>456</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» із застібкою на ніжку, сірий 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с застежкой на ножку, серый 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/2/93718138226526_+6b6b3f74d8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/2/90086377378257_+67d232954b.jpg</picture>
+<description lang="ua">&lt;p&gt;Чоловічок, який мами обирають за зручність: застібка йде через груди і далі до низу однієї ніжки, тож змінити підгузок можна, не знімаючи весь одяг.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на одну ніжку&lt;/strong&gt;   максимально просте перевдягання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Відкриті ручки з манжетами&lt;/strong&gt;   свобода рухів, рукав не з'їжджає.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; тримають тепло.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   м'яко, легко, всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, пудровий, сірий, бежевий.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для щоденного носіння, сну та прогулянок.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Человечек, который мамы выбирают за удобство: застежка идет через грудь и дальше вниз одной ножки, так что сменить подгузник можно, не снимая всю одежду.</p><ul><li> <strong>Застежка на кнопках на одну ножку —</strong> максимально простое переодевание.</li><li> <strong>Открытые ручки с манжетами</strong> свобода движений, рукав не съезжает.</li><li> <strong>Закрытые ножки</strong> держат тепло.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> мягко, легко, всесезонно.</li><li> <strong>Цвета:</strong> молочный, пудровый, серый, бежевый.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для ежедневного ношения, сна и прогулок.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,058e6507b14a7142dc021c5f4cb98fa9,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з відкритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
+<offer id="4820000291729" available="true">
+<price>456</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Чоловічок «Вафелька» із застібкою на ніжку, бежевий 62 (0-3 міс)</name>
+<name lang="ru">Мужчина «Вафелька» с застежкой на ножку, бежевый 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/3/15921431653658_+e532ae2ef9.jpg</picture>
+<picture>https://letimo.com.ua/content/images/3/69196668559577_+c1945d1521.jpg</picture>
+<description lang="ua">&lt;p&gt;Чоловічок, який мами обирають за зручність: застібка йде через груди і далі до низу однієї ніжки, тож змінити підгузок можна, не знімаючи весь одяг.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Застібка на кнопках на одну ніжку&lt;/strong&gt;   максимально просте перевдягання.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Відкриті ручки з манжетами&lt;/strong&gt;   свобода рухів, рукав не з'їжджає.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Закриті ніжки&lt;/strong&gt; тримають тепло.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   м'яко, легко, всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Кольори:&lt;/strong&gt; молочний, пудровий, сірий, бежевий.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для щоденного носіння, сну та прогулянок.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Человечек, который мамы выбирают за удобство: застежка идет через грудь и дальше вниз одной ножки, так что сменить подгузник можно, не снимая всю одежду.</p><ul><li> <strong>Застежка на кнопках на одну ножку —</strong> максимально простое переодевание.</li><li> <strong>Открытые ручки с манжетами</strong> свобода движений, рукав не съезжает.</li><li> <strong>Закрытые ножки</strong> держат тепло.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> мягко, легко, всесезонно.</li><li> <strong>Цвета:</strong> молочный, пудровый, серый, бежевый.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для ежедневного ношения, сна и прогулок.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Вид" paramcode="51" valuecode="17a507a2c143317a20ed2ca466f0de49,058e6507b14a7142dc021c5f4cb98fa9,491074a8e09c86b02134d1da4165fc48">із закритими ніжками,з відкритими ручками,з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
 </offer>
 <offer id="4820000273763" available="true">
 <price>594</price>
@@ -68373,6 +69358,36 @@
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="kxchv8dutzpwpiu8,nlmlmqnr">персиковий,рожевий</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2359" valuecode="e92d0917d2b4a9bd699b8fb5cf1198d7">кнопки</param>
+</offer>
+<offer id="4820000309172" available="true">
+<price>476</price>
+<category code="788">Набори для новонароджених</category>
+<attribute_set code="788">Набори для новонароджених</attribute_set>
+<name lang="ua">Комплект у рубчик з боді, сакура 62 (0-3 міс)</name>
+<name lang="ru">Комплект в рубчик с боди, сакура. 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/12/89060582786383_+18deb29bcf.jpg</picture>
+<picture>https://letimo.com.ua/content/images/12/36280363183797_+f45d941afc.jpg</picture>
+<description lang="ua">&lt;p&gt;Легкий комплект у рубчик, який тягнеться разом із малюком і не сковує рухів. Тканина дихає, тому комплект комфортний і вдома, і в пологовому.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Боді на запах&lt;/strong&gt; з довгим рукавом і кнопками   одягається без натягування через голову.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Повзунки на м'якій резинці&lt;/strong&gt; з закритими ніжками.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Шапочка з вузликом&lt;/strong&gt;   м'яко фіксується і регулюється.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок-рубчик, 100% бавовна&lt;/strong&gt;   еластичний і ніжний до шкіри.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Варіанти:&lt;/strong&gt; персиковий, сакура, вишеньки, сірі зірочки.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для виписки, сну і першої фотосесії.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Легкий комплект в рубчик, который тянется вместе с малышом и не сковывает движений. Ткань дышит, поэтому комплект удобен и дома, и в родильном.</p><ul><li> <strong>Боди на запах</strong> с длинным рукавом и кнопками одевается без натяжения через голову.</li><li> <strong>Ползунки на мягкой резинке</strong> с закрытыми ножками.</li><li> <strong>Шапочка с узелком</strong> мягко фиксируется и регулируется.</li><li> <strong>Интерлок-рубчик, 100% хлопок</strong> эластичный и нежный к коже.</li><li> <strong>Варианты:</strong> персиковый, сакура, вишенки, серые звездочки.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для выписки, сна и первой фотосессии.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="982a96c430b6160fdb47197728357f21">боді, повзунки та шапочка</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Тип застібки" paramcode="2359" valuecode="e92d0917d2b4a9bd699b8fb5cf1198d7">кнопки</param>
 </offer>
@@ -68794,6 +69809,37 @@
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2359" valuecode="e92d0917d2b4a9bd699b8fb5cf1198d7">кнопки</param>
+</offer>
+<offer id="4820000293754" available="true">
+<price>518</price>
+<category code="788">Набори для новонароджених</category>
+<attribute_set code="788">Набори для новонароджених</attribute_set>
+<name lang="ua">Комплект з льолею «Вафелька», бежеві сердечка 62 (0-3 міс)</name>
+<name lang="ru">Комплект с лелей «Вафелька», бежевые сердечки. 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/28/75326966563002_+38d506ad11.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/41649029299095_+f78704df39.jpg</picture>
+<description lang="ua">&lt;p&gt;Ніжний комплект із фактурної  вафельки    тканини, яку люблять за м'якість і легкість. Три речі, що разом створюють спокійний образ у пастельних тонах.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Льоля на запах&lt;/strong&gt; на кнопках   зручно одягати новонародженого.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Повзунки на м'якій резинці&lt;/strong&gt; з закритими ніжками.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Шапочка&lt;/strong&gt; в тон комплекту   м'яко облягає голівку і не тисне.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Інтерлок  вафелька , 100% бавовна&lt;/strong&gt;   всесезонно.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Варіанти:&lt;/strong&gt; бежевий, молочний, бежеві сердечка, сердечка на кремовому.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Відмінно у пологовий і як подарунок на народження.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Нежный комплект из фактурной вафельки ткани, которую любят за мягкость и лёгкость. Три вещи, вместе создающие спокойный образ в пастельных тонах.</p><ul><li> <strong>Леля на запах</strong> на кнопках удобно одевать новорожденного.</li><li> <strong>Ползунки на мягкой резинке</strong> с закрытыми ножками.</li><li> <strong>Шапочка</strong> в тон комплекта мягко облегает головку и не давит.</li><li> <strong>Интерлок вафелька, 100% хлопок</strong> всесезонный.</li><li> <strong>Варианты:</strong> бежевый, молочный, бежевые сердечки, сердечки на кремовом.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Отлично в родильный и в качестве подарка на рождение.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Вафелька]]></param>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5133c7">бавовна,інтерлок</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="ee969882b68fb9deed70767286232b23">льоля, повзунки та шапочка</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Тип застібки" paramcode="2359" valuecode="e92d0917d2b4a9bd699b8fb5cf1198d7">кнопки</param>
 </offer>
@@ -69884,7 +70930,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2119-86-O" available="true">
+<offer id="DR-2119-86-O" available="false">
 <price>3559</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -72084,7 +73130,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2075-80" available="true">
+<offer id="DR-2075-80" available="false">
 <price>2639</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -72339,7 +73385,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2076-86" available="true">
+<offer id="DR-2076-86" available="false">
 <price>2639</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
