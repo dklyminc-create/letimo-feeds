@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-30 12:39">
+<yml_catalog date="2026-10-30 17:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -164811,7 +164811,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">86/92</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98554735" available="true">
+<offer id="98554735" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -164834,7 +164834,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2857</price>
 <price_old>2857</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/18/apollo_beige_92-62070731519062_%2Ba738eaf3e6.jpg</picture>
 <picture>https://dorechi.ua/content/images/15/apollo_beige_74-66145451105035_%2Bacaa4815ae.jpg</picture>
 <picture>https://dorechi.ua/content/images/15/apollo_beige_74-74703694042189_%2B4dc9183822.jpg</picture>
