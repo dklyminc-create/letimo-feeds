@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-30 23:20">
+<yml_catalog date="2026-10-31 00:39">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -66507,6 +66507,38 @@
 <param name="Декор" paramcode="13477" valuecode="9f9aa1ebeefa405e00b85b5fc2ced551">з вушками</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
+<offer id="TV-02383-PERS-48" available="true">
+<price>450</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Плюшевий шолом-ведмедик Talvi "Тедді" на флісі, персик, 48 см</name>
+<name lang="ru">Плюшевый шлем-медвежонок Talvi "Тедди" на флисе, персик, 48 см</name>
+<picture>https://letimo.com.ua/content/images/41/pliushevyi-sholom-vedmedyk-talvi-teddi-na-flisi-persyk-48-sm-92002439580599_+65a351ecd2.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/pliushevyi-sholom-vedmedyk-talvi-teddi-na-flisi-persyk-48-sm-52459644679513_+1da490cc67.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/pliushevyi-sholom-vedmedyk-talvi-teddi-na-flisi-persyk-48-sm-51215298638364_+f5b2f8a4d0.jpg</picture>
+<description lang="ua">&lt;p&gt;М&#39;який шолом-ведмедик Talvi &amp;laquo;Тедді&amp;raquo; зі штучного хутра з кумедними вушками та фірмовою нашивкою Talvi. Подвійний, із флісовою підкладкою &amp;mdash; для морозних прогулянок. Закриває голову й шию.&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Склад: верх &amp;mdash; 20% віскоза, 80% поліестер; підкладка &amp;mdash; 100% поліестер&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Розміри (обхват голови): 48 см, 50 см &amp;mdash; орієнтовно на 3-5 років&lt;/li&gt;   &lt;li&gt;Виробник: Talvi, Україна&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/49851e91-a4b7-453f-9ebf-79e71f72a06d.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Мягкий шлем-медвежонок Talvi «Тедди» из искусственного меха с забавными ушками и фирменной нашивкой Talvi. Двойной, с флисовой подкладкой – для морозных прогулок. Закрывает голову и шею.</p><ul><li> Состав: верх - 20% вискоза, 80% полиэстер; подкладка - 100% полиэстер</li><li> Сезон: зима</li><li> Размеры (обхват головы): 48 см, 50 см – ориентировочно на 3-5 лет</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/49851e91-a4b7-453f-9ebf-79e71f72a06d.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Тедді]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">Віскоза 20%, поліестер 80%; підкладка — фліс</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511413">велюр</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Розмір" paramcode="2293" valuecode="y4fczlvetm3mlihr">48</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Обхват голови" paramcode="2127" valuecode="3dcb92fc64dfe7b179359eef3c963ead">48</param>
+<param name="Особливість" paramcode="10899" valuecode="be09d5136b79921e4d35c490d86d3360">з підкладкою</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+</offer>
 <offer id="TV-03483-SBEZH-3840" available="true">
 <price>330</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -69598,6 +69630,35 @@
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2359" valuecode="e92d0917d2b4a9bd699b8fb5cf1198d7">кнопки</param>
+</offer>
+<offer id="4820000311809" available="true">
+<price>568</price>
+<category code="788">Набори для новонароджених</category>
+<attribute_set code="788">Набори для новонароджених</attribute_set>
+<name lang="ua">Теплий комплект з боді, лапки 62 (0-3 міс)</name>
+<name lang="ru">Теплый комплект из боди, лапки. 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/20/53712573020959_+4cfee70a28.jpg</picture>
+<picture>https://letimo.com.ua/content/images/20/43228391971819_+3c3010bad3.jpg</picture>
+<description lang="ua">&lt;p&gt;Комплект для тих, хто народився в прохолодний сезон. Футер з начосом гріє, але залишається дихаючим   малюку тепло без перегріву.&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;strong&gt;Боді на запах&lt;/strong&gt; на кнопках   легко одягати новонародженого.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Повзунки на м'якій резинці&lt;/strong&gt; з закритими ніжками   не тиснуть на животик.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Шапочка-вузлик&lt;/strong&gt;   щільно, але м'яко облягає голівку.&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Футер з начосом, 100% бавовна.&lt;/strong&gt;&lt;/li&gt;  &lt;li&gt;&lt;strong&gt;Варіанти:&lt;/strong&gt; зірочки, темно-бежевий, лапки.&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;Розміри: 56 (0 1 міс) і 62 (0 3 міс). Для виписки восени чи взимку, прогулянок під конвертом і домашнього сну.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Догляд:&lt;/strong&gt; делікатне прання при 30 40  C, без відбілювачів, прасування з виворітного боку, сушіння в розправленому вигляді.&lt;/p&gt;  &lt;p&gt;Виробник   український бренд дитячого трикотажу Timi Tex. Відправляємо Новою Поштою по всій Україні, обмін і повернення   14 днів.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Комплект для родившихся в прохладный сезон. Футер с начесом греет, но остается дышащему малышу тепло без перегрева.</p><ul><li> <strong>Боди на запах</strong> на кнопках легко одевать новорожденного.</li><li> <strong>Ползунки на мягкой резинке</strong> с закрытыми ножками не давят на животик.</li><li> <strong>Шапочка-узелок</strong> плотно, но мягко облегает головку.</li><li> <strong>Футер с начесом, 100% хлопок.</strong></li><li> <strong>Варианты:</strong> звездочки, темно-бежевый, кавычки.</li></ul><p> Размеры: 56 (0 1 мес) и 62 (0 3 мес). Для выписки осенью или зимой, прогулок под конвертом и домашнего сна.</p><p> <strong>Уход:</strong> деликатная стирка при 30 40 C, без отбеливателей, утюжка с изнаночной стороны, сушка в расправленном виде.</p><p> Производитель украинского бренда детского трикотажа Timi Tex. Отправляем Новой почтой по всей Украине, обмен и возврат 14 дней.</p>]]></description>
+<vendor code="uw1446137643j6c6">Тімі текс</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,595bb1adab3fb">бавовна,футер</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Склад комплекту" paramcode="1011" valuecode="982a96c430b6160fdb47197728357f21">боді, повзунки та шапочка</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 <param name="Тип застібки" paramcode="2359" valuecode="e92d0917d2b4a9bd699b8fb5cf1198d7">кнопки</param>
 </offer>
@@ -78760,6 +78821,146 @@
 <param name="Матеріал верху" paramcode="8546" valuecode="4s3aftgptmwlg6zp">штучна шкіра</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6980026250716</param>
+</offer>
+<offer id="XD198-NAVY-24" available="true">
+<price>1849</price>
+<category code="819">Черевики дитячі</category>
+<attribute_set code="819">Черевики дитячі</attribute_set>
+<name lang="ua">Дитячі черевики American Club XD 198 темно-сині на флісі, на липучках та блискавці, розмір 24</name>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-67989487281790_+0e3366e65b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-54457804829438_+b0c07e449e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-29075897626926_+32f204d927.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-77206112317723_+8cc785f4b5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-43050527283758_+78195b39ee.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-81403494760710_+fc7b44c236.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-92904833684017_+62eecaff62.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-52481007289436_+10d7044ddb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-98711411379532_+db803963eb.jpg</picture>
+<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі черевики American Club XD 198   теплий і зручний вибір на прохолодну погоду.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Темно-сині черевики польського бренду American Club з контрастною білою підошвою та помаранчевими акцентами. Підкладка й устілка з м'якого флісу тримають тепло в холодну осінь і ранню весну.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Особливості моделі:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Дві липучки й бічна блискавка&lt;/strong&gt;   черевики легко взути й зняти, навіть коли дитина поспішає на прогулянку.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Верх з екошкіри&lt;/strong&gt; з декоративною прострочкою   виглядає охайно й легко чиститься вологою серветкою.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Флісова підкладка й устілка&lt;/strong&gt;   тепло й м'якість для ніжок.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Рельєфна підошва&lt;/strong&gt; з протектором для впевненого кроку.&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;Бренд: American Club (Польща)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Артикул: XD 198&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Колір: темно-синій&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Матеріал верху: екошкіра&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Підкладка та устілка: фліс&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Застібка: дві липучки + блискавка&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Сезон: демісезон (весна осінь)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Розміри: 24 28&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Як підібрати розмір:&lt;/strong&gt; обведіть стопу дитини на аркуші паперу й виміряйте відстань від п'яти до найдовшого пальця. Під теплу шкарпетку додайте невеликий запас. Якщо розмір не підійде   обміняємо протягом 14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/cca8d2a9-27f9-4271-8911-f0744dbe44dc.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<vendor code="27e7f78dda1a4ef3b688fa92f29c6812">American Club</vendor>
+<country_of_origin code="pol">Польща</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Розмір" paramcode="12016" valuecode="3cdb030a6feb0ff5446358e49eaae3e5">24</param>
+<param name="Матеріал верху" paramcode="8546" valuecode="4s3aftgptmwlg6zp">штучна шкіра</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Штрих-код" paramcode="barcodes">5903497240346</param>
+</offer>
+<offer id="XD198-NAVY-25" available="true">
+<price>1849</price>
+<category code="819">Черевики дитячі</category>
+<attribute_set code="819">Черевики дитячі</attribute_set>
+<name lang="ua">Дитячі черевики American Club XD 198 темно-сині на флісі, на липучках та блискавці, розмір 25</name>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-67989487281790_+0e3366e65b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-54457804829438_+b0c07e449e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-29075897626926_+32f204d927.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-77206112317723_+8cc785f4b5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-43050527283758_+78195b39ee.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-81403494760710_+fc7b44c236.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-92904833684017_+62eecaff62.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-52481007289436_+10d7044ddb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-98711411379532_+db803963eb.jpg</picture>
+<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі черевики American Club XD 198   теплий і зручний вибір на прохолодну погоду.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Темно-сині черевики польського бренду American Club з контрастною білою підошвою та помаранчевими акцентами. Підкладка й устілка з м'якого флісу тримають тепло в холодну осінь і ранню весну.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Особливості моделі:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Дві липучки й бічна блискавка&lt;/strong&gt;   черевики легко взути й зняти, навіть коли дитина поспішає на прогулянку.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Верх з екошкіри&lt;/strong&gt; з декоративною прострочкою   виглядає охайно й легко чиститься вологою серветкою.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Флісова підкладка й устілка&lt;/strong&gt;   тепло й м'якість для ніжок.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Рельєфна підошва&lt;/strong&gt; з протектором для впевненого кроку.&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;Бренд: American Club (Польща)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Артикул: XD 198&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Колір: темно-синій&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Матеріал верху: екошкіра&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Підкладка та устілка: фліс&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Застібка: дві липучки + блискавка&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Сезон: демісезон (весна осінь)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Розміри: 24 28&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Як підібрати розмір:&lt;/strong&gt; обведіть стопу дитини на аркуші паперу й виміряйте відстань від п'яти до найдовшого пальця. Під теплу шкарпетку додайте невеликий запас. Якщо розмір не підійде   обміняємо протягом 14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/cca8d2a9-27f9-4271-8911-f0744dbe44dc.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<vendor code="27e7f78dda1a4ef3b688fa92f29c6812">American Club</vendor>
+<country_of_origin code="pol">Польща</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Розмір" paramcode="12016" valuecode="637b0c23afac8b5808a44d73d1400731">25</param>
+<param name="Матеріал верху" paramcode="8546" valuecode="4s3aftgptmwlg6zp">штучна шкіра</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Штрих-код" paramcode="barcodes">5903497240353</param>
+</offer>
+<offer id="XD198-NAVY-26" available="true">
+<price>1849</price>
+<category code="819">Черевики дитячі</category>
+<attribute_set code="819">Черевики дитячі</attribute_set>
+<name lang="ua">Дитячі черевики American Club XD 198 темно-сині на флісі, на липучках та блискавці, розмір 26</name>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-67989487281790_+0e3366e65b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-54457804829438_+b0c07e449e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-29075897626926_+32f204d927.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-77206112317723_+8cc785f4b5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-43050527283758_+78195b39ee.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-81403494760710_+fc7b44c236.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-92904833684017_+62eecaff62.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-52481007289436_+10d7044ddb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-98711411379532_+db803963eb.jpg</picture>
+<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі черевики American Club XD 198   теплий і зручний вибір на прохолодну погоду.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Темно-сині черевики польського бренду American Club з контрастною білою підошвою та помаранчевими акцентами. Підкладка й устілка з м'якого флісу тримають тепло в холодну осінь і ранню весну.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Особливості моделі:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Дві липучки й бічна блискавка&lt;/strong&gt;   черевики легко взути й зняти, навіть коли дитина поспішає на прогулянку.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Верх з екошкіри&lt;/strong&gt; з декоративною прострочкою   виглядає охайно й легко чиститься вологою серветкою.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Флісова підкладка й устілка&lt;/strong&gt;   тепло й м'якість для ніжок.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Рельєфна підошва&lt;/strong&gt; з протектором для впевненого кроку.&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;Бренд: American Club (Польща)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Артикул: XD 198&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Колір: темно-синій&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Матеріал верху: екошкіра&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Підкладка та устілка: фліс&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Застібка: дві липучки + блискавка&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Сезон: демісезон (весна осінь)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Розміри: 24 28&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Як підібрати розмір:&lt;/strong&gt; обведіть стопу дитини на аркуші паперу й виміряйте відстань від п'яти до найдовшого пальця. Під теплу шкарпетку додайте невеликий запас. Якщо розмір не підійде   обміняємо протягом 14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/cca8d2a9-27f9-4271-8911-f0744dbe44dc.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<vendor code="27e7f78dda1a4ef3b688fa92f29c6812">American Club</vendor>
+<country_of_origin code="pol">Польща</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Розмір" paramcode="12016" valuecode="acfad1052a136adb0430c119352d44aa">26</param>
+<param name="Матеріал верху" paramcode="8546" valuecode="4s3aftgptmwlg6zp">штучна шкіра</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Штрих-код" paramcode="barcodes">5903497240360</param>
+</offer>
+<offer id="XD198-NAVY-27" available="true">
+<price>1849</price>
+<category code="819">Черевики дитячі</category>
+<attribute_set code="819">Черевики дитячі</attribute_set>
+<name lang="ua">Дитячі черевики American Club XD 198 темно-сині на флісі, на липучках та блискавці, розмір 27</name>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-67989487281790_+0e3366e65b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-54457804829438_+b0c07e449e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-29075897626926_+32f204d927.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-77206112317723_+8cc785f4b5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-43050527283758_+78195b39ee.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-81403494760710_+fc7b44c236.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-92904833684017_+62eecaff62.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-52481007289436_+10d7044ddb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-98711411379532_+db803963eb.jpg</picture>
+<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі черевики American Club XD 198   теплий і зручний вибір на прохолодну погоду.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Темно-сині черевики польського бренду American Club з контрастною білою підошвою та помаранчевими акцентами. Підкладка й устілка з м'якого флісу тримають тепло в холодну осінь і ранню весну.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Особливості моделі:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Дві липучки й бічна блискавка&lt;/strong&gt;   черевики легко взути й зняти, навіть коли дитина поспішає на прогулянку.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Верх з екошкіри&lt;/strong&gt; з декоративною прострочкою   виглядає охайно й легко чиститься вологою серветкою.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Флісова підкладка й устілка&lt;/strong&gt;   тепло й м'якість для ніжок.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Рельєфна підошва&lt;/strong&gt; з протектором для впевненого кроку.&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;Бренд: American Club (Польща)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Артикул: XD 198&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Колір: темно-синій&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Матеріал верху: екошкіра&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Підкладка та устілка: фліс&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Застібка: дві липучки + блискавка&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Сезон: демісезон (весна осінь)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Розміри: 24 28&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Як підібрати розмір:&lt;/strong&gt; обведіть стопу дитини на аркуші паперу й виміряйте відстань від п'яти до найдовшого пальця. Під теплу шкарпетку додайте невеликий запас. Якщо розмір не підійде   обміняємо протягом 14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/cca8d2a9-27f9-4271-8911-f0744dbe44dc.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<vendor code="27e7f78dda1a4ef3b688fa92f29c6812">American Club</vendor>
+<country_of_origin code="pol">Польща</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Розмір" paramcode="12016" valuecode="d6c0ec33f5b26cb7643f121fa30f6c64">27</param>
+<param name="Матеріал верху" paramcode="8546" valuecode="4s3aftgptmwlg6zp">штучна шкіра</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Штрих-код" paramcode="barcodes">5903497240377</param>
+</offer>
+<offer id="XD198-NAVY-28" available="true">
+<price>1849</price>
+<category code="819">Черевики дитячі</category>
+<attribute_set code="819">Черевики дитячі</attribute_set>
+<name lang="ua">Дитячі черевики American Club XD 198 темно-сині на флісі, на липучках та блискавці, розмір 28</name>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-67989487281790_+0e3366e65b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-54457804829438_+b0c07e449e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-29075897626926_+32f204d927.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-77206112317723_+8cc785f4b5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-43050527283758_+78195b39ee.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-81403494760710_+fc7b44c236.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-92904833684017_+62eecaff62.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-52481007289436_+10d7044ddb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-98711411379532_+db803963eb.jpg</picture>
+<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі черевики American Club XD 198   теплий і зручний вибір на прохолодну погоду.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Темно-сині черевики польського бренду American Club з контрастною білою підошвою та помаранчевими акцентами. Підкладка й устілка з м'якого флісу тримають тепло в холодну осінь і ранню весну.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Особливості моделі:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Дві липучки й бічна блискавка&lt;/strong&gt;   черевики легко взути й зняти, навіть коли дитина поспішає на прогулянку.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Верх з екошкіри&lt;/strong&gt; з декоративною прострочкою   виглядає охайно й легко чиститься вологою серветкою.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Флісова підкладка й устілка&lt;/strong&gt;   тепло й м'якість для ніжок.&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;&lt;strong&gt;Рельєфна підошва&lt;/strong&gt; з протектором для впевненого кроку.&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;  &lt;ul&gt;  &lt;li&gt;&lt;p&gt;Бренд: American Club (Польща)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Артикул: XD 198&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Колір: темно-синій&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Матеріал верху: екошкіра&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Підкладка та устілка: фліс&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Застібка: дві липучки + блискавка&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Сезон: демісезон (весна осінь)&lt;/p&gt;&lt;/li&gt;  &lt;li&gt;&lt;p&gt;Розміри: 24 28&lt;/p&gt;&lt;/li&gt;  &lt;/ul&gt;  &lt;p&gt;&lt;strong&gt;Як підібрати розмір:&lt;/strong&gt; обведіть стопу дитини на аркуші паперу й виміряйте відстань від п'яти до найдовшого пальця. Під теплу шкарпетку додайте невеликий запас. Якщо розмір не підійде   обміняємо протягом 14 днів.&lt;/p&gt;  &lt;p&gt;&lt;video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/cca8d2a9-27f9-4271-8911-f0744dbe44dc.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"&gt;&lt;/video&gt;&lt;/p&gt;</description>
+<vendor code="27e7f78dda1a4ef3b688fa92f29c6812">American Club</vendor>
+<country_of_origin code="pol">Польща</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Розмір" paramcode="12016" valuecode="e0fad356558d65e5acbe9c97a649653e">28</param>
+<param name="Матеріал верху" paramcode="8546" valuecode="4s3aftgptmwlg6zp">штучна шкіра</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Штрих-код" paramcode="barcodes">5903497240384</param>
 </offer>
 </offers>
 </yml_catalog>
