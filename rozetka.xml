@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-31 14:38">
+<yml_catalog date="2026-10-31 16:10">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -167598,7 +167598,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="92080489" available="false">
+<offer id="92080489" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -167608,7 +167608,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>460</price>
 <price_old>460</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/41/pinetky_black_15-30045018490400_%2B7070ed140c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/pinetky_black_15-24516103012241_%2Bec687b3b87.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/pinetky_black_15-76022617189188_%2B33480fab2b.jpg</picture>
