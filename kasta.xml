@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-01 21:55">
+<yml_catalog date="2026-11-01 22:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -102786,7 +102786,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778822245</barcode>
 </offer>
-   <offer id="6029" available="false">
+   <offer available="false" id="6029">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102882,7 +102882,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778822177</barcode>
 </offer>
-   <offer id="6035" available="false">
+   <offer available="false" id="6035">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102946,7 +102946,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802605</barcode>
 </offer>
-   <offer id="6039" available="false">
+   <offer available="false" id="6039">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102962,7 +102962,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802612</barcode>
 </offer>
-   <offer id="6040" available="false">
+   <offer available="false" id="6040">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102978,7 +102978,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802629</barcode>
 </offer>
-   <offer id="6041" available="false">
+   <offer available="false" id="6041">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103138,7 +103138,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6979215727931</barcode>
 </offer>
-   <offer id="6051" available="false">
+   <offer available="false" id="6051">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103154,7 +103154,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6979215727948</barcode>
 </offer>
-   <offer id="6052" available="false">
+   <offer available="false" id="6052">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103240,7 +103240,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
 </offer>
-   <offer id="6055" available="false">
+   <offer available="false" id="6055">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Apawwa</vendor>
@@ -103258,7 +103258,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802667</barcode>
 </offer>
-<offer id="96055" available="false">
+<offer available="false" id="96055">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103345,7 +103345,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
 </offer>
-   <offer id="6058" available="false">
+   <offer available="false" id="6058">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Apawwa</vendor>
@@ -103363,7 +103363,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802766</barcode>
 </offer>
-<offer id="96058" available="false">
+<offer available="false" id="96058">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103505,7 +103505,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">18</param>
 <param name="страна-производитель">Китай</param>
 </offer>
-   <offer id="6066" available="false">
+   <offer available="false" id="6066">
 <currencyId>UAH</currencyId>
 <categoryId>11683</categoryId>
 <vendor>Apawwa</vendor>
@@ -103772,7 +103772,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6980026250716</barcode>
 </offer>
-   <offer id="6081" available="false">
+   <offer available="false" id="6081">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103792,7 +103792,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000528274</barcode>
 </offer>
-   <offer id="6082" available="false">
+   <offer available="false" id="6082">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103811,7 +103811,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000528199</barcode>
 </offer>
-   <offer id="6083" available="false">
+   <offer available="false" id="6083">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103830,7 +103830,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000528076</barcode>
 </offer>
-   <offer id="6084" available="false">
+   <offer available="false" id="6084">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -104088,7 +104088,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000401966</barcode>
 </offer>
-   <offer id="6098" available="false">
+   <offer available="false" id="6098">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
