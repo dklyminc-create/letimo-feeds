@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-01 20:08">
+<yml_catalog date="2026-11-01 21:55">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -102786,7 +102786,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778822245</barcode>
 </offer>
-   <offer id="6029" available="true">
+   <offer id="6029" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102795,7 +102795,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові черевики Apawwa ABD5521R Black </strong></p>    <p>Практичні чорні черевики Apawwa зі світлою контрастною підошвою та коричнево-оливковими деталями. Модель має шнурівку, застібку-липучку та бокову блискавку для зручного взування.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD5521R</li>   <li>Колір: чорний</li>   <li>Сезон: зима</li>   <li>Верх: штучна шкіра</li>   <li>Підкладка: штучне хутро</li>   <li>Устілка: штучне хутро</li>   <li>Застібки: шнурівка, липучка та бокова блискавка</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо виміряти стопу дитини та звірити з фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; штучна шкіра; підкладка та устілка &mdash; штучне хутро.</p>  ]]></description_ua>
 <price>1421</price>
 <price_old>1496</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/30/52065160201814_%2B6fb0cac29f.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">22</param>
@@ -102882,7 +102882,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778822177</barcode>
 </offer>
-   <offer id="6035" available="true">
+   <offer id="6035" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102891,7 +102891,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Black </strong></p>    <p>Чорні утеплені дутики Apawwa з високою халявою, стьобаним верхом, світлими декоративними вставками та рельєфною підошвою. Петлі допомагають зручніше взувати взуття.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: чорний</li>   <li>Сезон: зима</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Матеріал верху, тип утеплювача та довжину устілки вказуйте після підтвердження за маркуванням постачальника або вимірювання пари.</p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>  ]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/36/33171894458816_%2B7b3481d685.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">23</param>
@@ -102946,7 +102946,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802605</barcode>
 </offer>
-   <offer id="6039" available="true">
+   <offer id="6039" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102955,14 +102955,14 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Black </strong></p>    <p>Чорні утеплені дутики Apawwa з високою халявою, стьобаним верхом, світлими декоративними вставками та рельєфною підошвою. Петлі допомагають зручніше взувати взуття.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: чорний</li>   <li>Сезон: зима</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Матеріал верху, тип утеплювача та довжину устілки вказуйте після підтвердження за маркуванням постачальника або вимірювання пари.</p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>  ]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/40/93490169337795_%2B3c0b4dc061.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802612</barcode>
 </offer>
-   <offer id="6040" available="true">
+   <offer id="6040" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102971,14 +102971,14 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Black </strong></p>    <p>Чорні утеплені дутики Apawwa з високою халявою, стьобаним верхом, світлими декоративними вставками та рельєфною підошвою. Петлі допомагають зручніше взувати взуття.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: чорний</li>   <li>Сезон: зима</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Матеріал верху, тип утеплювача та довжину устілки вказуйте після підтвердження за маркуванням постачальника або вимірювання пари.</p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>  ]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/41/35100210911844_%2B269f50d4f5.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802629</barcode>
 </offer>
-   <offer id="6041" available="true">
+   <offer id="6041" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102987,7 +102987,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі демісезонні хайтопи Apawwa ABQ0771R Camel </strong></p>    <p>Дитячі хайтопи Apawwa у бежево-коричневому кольорі camel. Модель поєднує гладкі вставки, текстуровані світлі панелі, шнурівку та широку застібку-липучку. Підійдуть для повсякденних образів у перехідний сезон.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABQ0771R</li>   <li>Колір: camel (бежево-коричневий)</li>   <li>Сезон: весна/осінь</li>   <li>Матеріал верху: штучна шкіра та текстильні вставки (за описами постачальників)</li>   <li>Підкладка: флісова (за описами постачальників)</li>   <li>Застібка: шнурівка та липучка</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Склад матеріалів може відрізнятися залежно від партії; за потреби звірте маркування на конкретній парі.</p>    <p><strong>Колір:</strong> кемел (бежево-коричневий).<br />  <strong>Матеріал:</strong> штучна шкіра та текстильні вставки; підкладка: флісова.</p>  ]]></description_ua>
 <price>1378</price>
 <price_old>1450</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/42/17864606440038_%2Bd8d4d889c0.png</picture>
 <param name="Колір">коричневий</param>
 <param name="Розмір">23</param>
@@ -103138,7 +103138,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6979215727931</barcode>
 </offer>
-   <offer id="6051" available="true">
+   <offer id="6051" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103147,14 +103147,14 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі черевики Apawwa ABD0026R Black</strong> &mdash; практична модель для прохолодної погоди.</p>    <p>Чорний верх із фактурними вставками, двома застібками-липучками та декоративною емблемою ведмедика. Рельєфна підошва допомагає забезпечити зчеплення під час повсякденної ходьби.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0026R</li>   <li>Колір: чорний</li>   <li>Застібка: дві липучки</li>   <li>Підкладка: утеплена</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо виміряти стопу дитини та звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; замінник шкіри.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/ca333405-89d3-4aba-9e94-0eeef637d375.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1292</price>
 <price_old>1360</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/2/93462771836929_%2Bd1769c8ad9.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6979215727948</barcode>
 </offer>
-   <offer id="6052" available="true">
+   <offer id="6052" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103163,7 +103163,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі черевики Apawwa ABD0026R Black</strong> &mdash; практична модель для прохолодної погоди.</p>    <p>Чорний верх із фактурними вставками, двома застібками-липучками та декоративною емблемою ведмедика. Рельєфна підошва допомагає забезпечити зчеплення під час повсякденної ходьби.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0026R</li>   <li>Колір: чорний</li>   <li>Застібка: дві липучки</li>   <li>Підкладка: утеплена</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо виміряти стопу дитини та звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; замінник шкіри.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/ca333405-89d3-4aba-9e94-0eeef637d375.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1292</price>
 <price_old>1360</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/3/79080843762912_%2Bdbfe6fd4b7.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">28</param>
@@ -103240,7 +103240,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
 </offer>
-   <offer id="6055" available="true">
+   <offer id="6055" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Apawwa</vendor>
@@ -103249,7 +103249,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Beige</strong></p>    <p>Утеплені дитячі дутики бежевого кольору з чорними контрастними вставками. Висока модель із м&rsquo;якою призібраною верхньою частиною, петельками для зручного взування та рельєфною підошвою.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: бежевий (beige)</li>   <li>Сезон: зима</li>   <li>Верх: поліестер</li>   <li>Підкладка та устілка: штучне хутро</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> бежевий.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/6/58802644525794_%2Bccacc5d460.png</picture>
 <picture>https://letimo.com.ua/content/images/6/28139256502749_%2B7530463cd5.png</picture>
 <picture>https://letimo.com.ua/content/images/6/91707720553174_%2B9f2e6572f7.png</picture>
@@ -103258,7 +103258,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802667</barcode>
 </offer>
-<offer id="96055" available="true">
+<offer id="96055" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103267,7 +103267,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Beige</strong></p>    <p>Утеплені дитячі дутики бежевого кольору з чорними контрастними вставками. Висока модель із м&rsquo;якою призібраною верхньою частиною, петельками для зручного взування та рельєфною підошвою.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: бежевий (beige)</li>   <li>Сезон: зима</li>   <li>Верх: поліестер</li>   <li>Підкладка та устілка: штучне хутро</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> бежевий.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/6/58802644525794_%2Bccacc5d460.png</picture>
 <picture>https://letimo.com.ua/content/images/6/28139256502749_%2B7530463cd5.png</picture>
 <picture>https://letimo.com.ua/content/images/6/91707720553174_%2B9f2e6572f7.png</picture>
@@ -103345,7 +103345,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
 </offer>
-   <offer id="6058" available="true">
+   <offer id="6058" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Apawwa</vendor>
@@ -103354,7 +103354,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Beige</strong></p>    <p>Утеплені дитячі дутики бежевого кольору з чорними контрастними вставками. Висока модель із м&rsquo;якою призібраною верхньою частиною, петельками для зручного взування та рельєфною підошвою.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: бежевий (beige)</li>   <li>Сезон: зима</li>   <li>Верх: поліестер</li>   <li>Підкладка та устілка: штучне хутро</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> бежевий.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/9/22848280775382_%2B232a34e301.png</picture>
 <picture>https://letimo.com.ua/content/images/9/80059105219100_%2Be30d7d08c0.png</picture>
 <picture>https://letimo.com.ua/content/images/9/79697303316956_%2B6158120045.png</picture>
@@ -103363,7 +103363,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802766</barcode>
 </offer>
-<offer id="96058" available="true">
+<offer id="96058" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103372,7 +103372,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Beige</strong></p>    <p>Утеплені дитячі дутики бежевого кольору з чорними контрастними вставками. Висока модель із м&rsquo;якою призібраною верхньою частиною, петельками для зручного взування та рельєфною підошвою.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: бежевий (beige)</li>   <li>Сезон: зима</li>   <li>Верх: поліестер</li>   <li>Підкладка та устілка: штучне хутро</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> бежевий.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/9/22848280775382_%2B232a34e301.png</picture>
 <picture>https://letimo.com.ua/content/images/9/80059105219100_%2Be30d7d08c0.png</picture>
 <picture>https://letimo.com.ua/content/images/9/79697303316956_%2B6158120045.png</picture>
@@ -103772,7 +103772,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6980026250716</barcode>
 </offer>
-   <offer id="6081" available="true">
+   <offer id="6081" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103781,7 +103781,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>В&#39;язаний зимовий шолом Talvi &laquo;Фінн&raquo; закриває голову, вушка й шию &mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.</p>    <ul>   <li>Склад: основа &mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &mdash; 100% поліестер (фліс)</li>   <li>Сезон: холодна осінь, зима</li>   <li>Розміри (обхват голови): 46-48 см, 48-50 см &mdash; орієнтовно на 1-2 роки</li>   <li>Виробник: Talvi, Україна</li>  </ul>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>475</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-96723094974993_%2B4713b3ba09.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-59003236027057_%2B4612a07b14.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-42081762501666_%2B5c47609c9b.jpg</picture>
@@ -103792,7 +103792,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000528274</barcode>
 </offer>
-   <offer id="6082" available="true">
+   <offer id="6082" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103801,7 +103801,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>В&#39;язаний зимовий шолом Talvi &laquo;Фінн&raquo; закриває голову, вушка й шию &mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.</p>    <ul>   <li>Склад: основа &mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &mdash; 100% поліестер (фліс)</li>   <li>Сезон: холодна осінь, зима</li>   <li>Розміри (обхват голови): 46-48 см, 48-50 см &mdash; орієнтовно на 1-2 роки</li>   <li>Виробник: Talvi, Україна</li>  </ul>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>475</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-35075296836274_%2Bd7090e3852.jpg</picture>
 <picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-67152584813881_%2B9e6c678325.jpg</picture>
 <picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-59197821895664_%2Bd19fd5331f.jpg</picture>
@@ -103811,7 +103811,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000528199</barcode>
 </offer>
-   <offer id="6083" available="true">
+   <offer id="6083" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103820,7 +103820,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>В&#39;язаний зимовий шолом Talvi &laquo;Фінн&raquo; закриває голову, вушка й шию &mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.</p>    <ul>   <li>Склад: основа &mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &mdash; 100% поліестер (фліс)</li>   <li>Сезон: холодна осінь, зима</li>   <li>Розміри (обхват голови): 46-48 см, 48-50 см &mdash; орієнтовно на 1-2 роки</li>   <li>Виробник: Talvi, Україна</li>  </ul>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>475</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-16615263462298_%2Bf20d83bfbf.jpg</picture>
 <picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-84756154690564_%2Bd8ec3ff3b9.jpg</picture>
 <picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-60930566602906_%2B824cd34fc0.jpg</picture>
@@ -103830,7 +103830,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000528076</barcode>
 </offer>
-   <offer id="6084" available="true">
+   <offer id="6084" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103839,7 +103839,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>В&#39;язаний зимовий шолом Talvi &laquo;Фінн&raquo; закриває голову, вушка й шию &mdash; шарф не потрібен. Усередині шолом повністю утеплений флісом, а прикрашений двома пухнастими помпонами зі штучного хутра. Підходить і хлопчикам, і дівчаткам.</p>    <ul>   <li>Склад: основа &mdash; 50% акрил, 28% ПБТ, 22% нейлон; підкладка &mdash; 100% поліестер (фліс)</li>   <li>Сезон: холодна осінь, зима</li>   <li>Розміри (обхват голови): 46-48 см, 48-50 см &mdash; орієнтовно на 1-2 роки</li>   <li>Виробник: Talvi, Україна</li>  </ul>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>475</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-85797880087480_%2B751384bf6e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-47890354949918_%2Ba4bbfcf1b7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-71687378257910_%2Bb4d5ef2e46.jpg</picture>
@@ -104088,7 +104088,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000401966</barcode>
 </offer>
-   <offer id="6098" available="true">
+   <offer id="6098" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -104097,7 +104097,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Комплект Talvi &laquo;Освін&raquo;: шапка з трикотажним помпоном і хомут. Шапка гладкої в&#39;язки з відворотом у рубчик, усередині &mdash; фліс по всій площині. Хомут щільної в&#39;язки в рубчик, без флісу. Унісекс.</p>    <ul>   <li>Склад: верх &mdash; 50% вовна, 50% акрил; підкладка шапки &mdash; 100% поліестер (фліс)</li>   <li>Сезон: від холодної осені до теплої зими</li>   <li>Розмір (обхват голови): 50-52 см &mdash; орієнтовно на 3-4 роки</li>   <li>Виробник: Talvi, Україна</li>  </ul>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/90eda2fb-877f-4b0f-ac94-6df23942fb1f.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>618</price>
 <price_old>650</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-60074390633950_%2B4ad4a39dc4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-74731073745200_%2Ba1fe7108df.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-46376352403396_%2B14945ce731.jpg</picture>
@@ -137016,7 +137016,99 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Польща</param>
 <barcode>5903497240384</barcode>
 </offer>
-  <offer id="91685306" available="false">
+  <offer id="98627895" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT84476299</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>4420</price>
+<price_old>4420</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-11403711160024_%2B4d0af83558.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_%2Bfaf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_%2B88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_%2B03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_%2B2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_%2B75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_%2Bfdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_%2Bdadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_%2B72cc7e9fa5.jpg</picture>
+<param name="Розмір">80см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98653842" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT84476299</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>4420</price>
+<price_old>4420</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/4/apollo_winter_meadow_fur_80-47605541781202_%2B5109c59742.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_%2Bfaf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_%2B88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_%2B03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_%2B2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_%2B75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_%2Bfdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_%2Bdadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_%2B72cc7e9fa5.jpg</picture>
+<param name="Розмір">86см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98659608" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT84476299</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>4420</price>
+<price_old>4420</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/5/apollo_winter_meadow_fur_86-24925052058515_%2B56c6054b25.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_%2Bfaf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_%2B88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_%2B03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_%2B2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_%2B75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_%2Bfdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_%2Bdadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_%2B72cc7e9fa5.jpg</picture>
+<param name="Розмір">92см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98685555" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT84476299</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>4420</price>
+<price_old>4420</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/6/apollo_winter_meadow_fur_92-97266983100588_%2Bf839c29106.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_%2Bfaf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_%2B88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_%2B03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_%2B2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_%2B75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_%2Bfdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_%2Bdadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_%2B72cc7e9fa5.jpg</picture>
+<param name="Розмір">98см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91685306" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -137548,6 +137640,94 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+<offer id="95159861" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3930</price>
+<price_old>3930</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-75433084972190_%2B18bab6e070.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">80см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95159888" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3930</price>
+<price_old>3930</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/8/apollo_winter_meadow_80-51575763933764_%2B898f7bd7ff.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">86см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95159894" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3930</price>
+<price_old>3930</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/9/apollo_winter_meadow_86-20174783545700_%2B46acaa2f6e.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">92см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95159921" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83420016</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зимова галявина]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3930</price>
+<price_old>3930</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/10/apollo_winter_meadow_92-67891111479217_%2B7d4cff447b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_%2Bad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_%2B97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_%2B27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_%2B6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_%2Ba8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_%2B50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_%2Bdf485c75cb.jpg</picture>
+<param name="Розмір">98см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
 <offer id="91144312" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
@@ -137964,6 +138144,55 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-81377857308793_%2Baed884220b.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-60869689421002_%2Be6831b2ed7.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-53809100356005_%2Ba8f4a29c78.jpg</picture>
+<param name="Розмір">98см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91288759" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT87961479</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Шоколадний з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3790</price>
+<price_old>3790</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-37004005468264_%2B6b05834f59.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-43488206229919_%2B5181875d3c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-23788864109496_%2Bb4c1207087.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-68669739071703_%2B9077465117.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-51108832455638_%2B06d2700b1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-88943244463268_%2B630046afa4.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-34475745682740_%2Bb0e7d56e29.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-41794757785827_%2Bef3a77b1a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-27870620323209_%2B7c7d1111a5.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">92см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="91314706" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT87961479</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Шоколадний з опушкою]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3790</price>
+<price_old>3790</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/22/apollo_chocolate_fur_92-34131525186533_%2Ba2eb4bf3ee.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-37004005468264_%2B6b05834f59.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-43488206229919_%2B5181875d3c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-23788864109496_%2Bb4c1207087.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-68669739071703_%2B9077465117.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-51108832455638_%2B06d2700b1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-88943244463268_%2B630046afa4.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-34475745682740_%2Bb0e7d56e29.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-41794757785827_%2Bef3a77b1a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-27870620323209_%2B7c7d1111a5.jpg</picture>
+<param name="Колір">коричневий</param>
 <param name="Розмір">98см</param>
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
@@ -138791,6 +139020,54 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/2/discovery_black-65676681884308_%2B1e36775a56.jpeg</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95189685" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82561196</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Шоколадний]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3280</price>
+<price_old>3280</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/25/apollo_chocolate_86-85141673918497_%2Be83e2efcba.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-71985698356762_%2B0656c8f73a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-25698378133766_%2Bb156ebad7c.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-90084033579168_%2Be0f2e2050e.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-75422824995932_%2B2a39cc8833.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-70430453773325_%2Bb8c67860f5.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-74950670313808_%2B2325acb75a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-29803747805002_%2B068ebbe0a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-94986763118833_%2Ba41831d943.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">92см</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="95189712" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82561196</article>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Шоколадний]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3280</price>
+<price_old>3280</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/26/apollo_chocolate_92-16890551260041_%2B93a27695a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-71985698356762_%2B0656c8f73a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-25698378133766_%2Bb156ebad7c.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-90084033579168_%2Be0f2e2050e.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-75422824995932_%2B2a39cc8833.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-70430453773325_%2Bb8c67860f5.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-74950670313808_%2B2325acb75a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-29803747805002_%2B068ebbe0a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-94986763118833_%2Ba41831d943.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">98см</param>
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
