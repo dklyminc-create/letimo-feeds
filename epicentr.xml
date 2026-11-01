@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-01 22:01">
+<yml_catalog date="2026-11-01 22:04">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -66232,7 +66232,7 @@
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 </offer>
-<offer id="TV-03645-BEZH-4648" available="true">
+<offer available="false" id="TV-03645-BEZH-4648">
 <price>500</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -66263,7 +66263,7 @@
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
-<offer id="TV-03645-CHORN-4648" available="true">
+<offer available="false" id="TV-03645-CHORN-4648">
 <price>500</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -66293,7 +66293,7 @@
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
-<offer id="TV-03645-CHORN-4850" available="true">
+<offer available="false" id="TV-03645-CHORN-4850">
 <price>500</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -66323,7 +66323,7 @@
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
-<offer id="TV-03645-BIL-4850" available="true">
+<offer available="false" id="TV-03645-BIL-4850">
 <price>500</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -66731,7 +66731,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 </offer>
-<offer id="TV-05293-KOR-5052" available="true">
+<offer available="false" id="TV-05293-KOR-5052">
 <price>650</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -78267,7 +78267,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778822245</param>
 </offer>
-<offer id="ABD5521R-BLACK-22" available="true">
+<offer available="false" id="ABD5521R-BLACK-22">
 <price>1496</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78387,7 +78387,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778822177</param>
 </offer>
-<offer id="ABD0166R-BLACK-23" available="true">
+<offer available="false" id="ABD0166R-BLACK-23">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78467,7 +78467,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802605</param>
 </offer>
-<offer id="ABD0166R-BLACK-27" available="true">
+<offer available="false" id="ABD0166R-BLACK-27">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78487,7 +78487,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802612</param>
 </offer>
-<offer id="ABD0166R-BLACK-28" available="true">
+<offer available="false" id="ABD0166R-BLACK-28">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78507,7 +78507,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802629</param>
 </offer>
-<offer id="ABQ0771R-CAMEL-23" available="true">
+<offer available="false" id="ABQ0771R-CAMEL-23">
 <price>1450</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78707,7 +78707,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6979215727931</param>
 </offer>
-<offer id="ABD0026R-BLACK-27" available="true">
+<offer available="false" id="ABD0026R-BLACK-27">
 <price>1360</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78727,7 +78727,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6979215727948</param>
 </offer>
-<offer id="ABD0026R-BLACK-28" available="true">
+<offer available="false" id="ABD0026R-BLACK-28">
 <price>1360</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78791,7 +78791,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802650</param>
 </offer>
-<offer id="ABD0166R-BEIGE-25" available="true">
+<offer available="false" id="ABD0166R-BEIGE-25">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -78857,7 +78857,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802681</param>
 </offer>
-<offer id="ABD0166R-BEIGE-28" available="true">
+<offer available="false" id="ABD0166R-BEIGE-28">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
