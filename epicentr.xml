@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-01 18:39">
+<yml_catalog date="2026-11-01 21:08">
 <offers>
 <offer id="1076013176" available="true">
 <price>903</price>
@@ -70475,6 +70475,158 @@
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 </offer>
+<offer id="DR-2120-74-O" available="false">
+<price>4420</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина з опушкою 74/80 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка с опушкой 74/80 см</name>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-11403711160024_+4d0af83558.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_+faf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_+88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_+03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_+2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_+75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_+fdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_+dadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_+72cc7e9fa5.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4911,4913">74,80</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="e60ee50d24dc2d6d2f81528258cc0cfc">74</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
+</offer>
+<offer id="DR-2120-80-O" available="false">
+<price>4420</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина з опушкою 80/86 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка с опушкой 80/86 см</name>
+<picture>https://dorechi.ua/content/images/4/apollo_winter_meadow_fur_80-47605541781202_+5109c59742.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_+faf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_+88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_+03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_+2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_+75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_+fdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_+dadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_+72cc7e9fa5.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4913,4917">80,86</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="22f1b94aa9adfba52c9a34336d48902d">80</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
+</offer>
+<offer id="DR-2120-86-O" available="false">
+<price>4420</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина з опушкою 86/92 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка с опушкой 86/92 см</name>
+<picture>https://dorechi.ua/content/images/5/apollo_winter_meadow_fur_86-24925052058515_+56c6054b25.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_+faf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_+88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_+03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_+2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_+75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_+fdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_+dadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_+72cc7e9fa5.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="96234bbb455f840ab0261f3e3e88c1bb">86</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
+</offer>
+<offer id="DR-2120-92-O" available="false">
+<price>4420</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина з опушкою 92/98 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка с опушкой 92/98 см</name>
+<picture>https://dorechi.ua/content/images/6/apollo_winter_meadow_fur_92-97266983100588_+f839c29106.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-44345065877755_+faf97c5b41.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28177623341747_+88d00a309d.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-50813526458330_+03bae31f00.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-67440838539385_+2253dbdc1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-30157855662376_+75f3ab410c.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-23538352117608_+fdb4812b12.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-98167450513934_+dadb162956.jpg</picture>
+<picture>https://dorechi.ua/content/images/3/apollo_winter_meadow_fur_74-28399552503751_+72cc7e9fa5.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="a0a9e184acca4c7badbf8636451761d3">92</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
+</offer>
 <offer id="DR-2095-74-O" available="false">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
@@ -71239,6 +71391,154 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
+<offer id="DR-2120-74" available="false">
+<price>3930</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина 74/80 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка 74/80 см</name>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-75433084972190_+18bab6e070.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_+ad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_+97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_+27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_+6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_+a8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_+50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_+df485c75cb.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4911,4913">74,80</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="e60ee50d24dc2d6d2f81528258cc0cfc">74</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
+</offer>
+<offer id="DR-2120-80" available="false">
+<price>3930</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина 80/86 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка 80/86 см</name>
+<picture>https://dorechi.ua/content/images/8/apollo_winter_meadow_80-51575763933764_+898f7bd7ff.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_+ad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_+97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_+27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_+6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_+a8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_+50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_+df485c75cb.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4913,4917">80,86</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="22f1b94aa9adfba52c9a34336d48902d">80</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
+</offer>
+<offer id="DR-2120-86" available="false">
+<price>3930</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина 86/92 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка 86/92 см</name>
+<picture>https://dorechi.ua/content/images/9/apollo_winter_meadow_86-20174783545700_+46acaa2f6e.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_+ad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_+97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_+27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_+6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_+a8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_+50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_+df485c75cb.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="96234bbb455f840ab0261f3e3e88c1bb">86</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
+</offer>
+<offer id="DR-2120-92" available="false">
+<price>3930</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Зимова галявина 92/98 см</name>
+<name lang="ru">Комбинезон зимний Аполло Зимняя лужайка 92/98 см</name>
+<picture>https://dorechi.ua/content/images/10/apollo_winter_meadow_92-67891111479217_+7d4cff447b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-31372371918917_+ad5bb2e747.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-38971381690328_+97613173e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-95934646876171_+27db914e87.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-14455341987657_+6bbebc755b.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-94565598184228_+a8b8c9d67d.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-40473769608267_+50aea68853.jpg</picture>
+<picture>https://dorechi.ua/content/images/7/apollo_winter_meadow_74-68106024156660_+df485c75cb.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">різнокольоровий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="a0a9e184acca4c7badbf8636451761d3">92</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
+</offer>
 <offer id="DR-2095-74" available="false">
 <price>3930</price>
 <category code="796">Дитячі зимові комбінезони</category>
@@ -71836,6 +72136,83 @@
 <param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Візерунок" paramcode="2075" valuecode="59474de515830,4c3aa035b1f3a51c30ddc7034caedc86">з малюнком,принт</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
+</offer>
+<offer id="DR-2121-86-O" available="false">
+<price>3790</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Шоколадний з опушкою 86/92 см</name>
+<name lang="ru">Комбинезон зимний Аполло Шоколадный с опушкой 86/92 см</name>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-37004005468264_+6b05834f59.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-43488206229919_+5181875d3c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-23788864109496_+b4c1207087.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-68669739071703_+9077465117.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-51108832455638_+06d2700b1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-88943244463268_+630046afa4.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-34475745682740_+b0e7d56e29.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-41794757785827_+ef3a77b1a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-27870620323209_+7c7d1111a5.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="96234bbb455f840ab0261f3e3e88c1bb">86</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
+</offer>
+<offer id="DR-2121-92-O" available="false">
+<price>3790</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Шоколадний з опушкою 92/98 см</name>
+<name lang="ru">Комбинезон зимний Аполло Шоколадный с опушкой 92/98 см</name>
+<picture>https://dorechi.ua/content/images/22/apollo_chocolate_fur_92-34131525186533_+a2eb4bf3ee.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-37004005468264_+6b05834f59.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-43488206229919_+5181875d3c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-23788864109496_+b4c1207087.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-68669739071703_+9077465117.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-51108832455638_+06d2700b1c.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-88943244463268_+630046afa4.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-34475745682740_+b0e7d56e29.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-41794757785827_+ef3a77b1a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/apollo_chocolate_fur_74-27870620323209_+7c7d1111a5.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="a0a9e184acca4c7badbf8636451761d3">92</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
@@ -72989,6 +73366,82 @@
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+</offer>
+<offer id="DR-2121-86" available="false">
+<price>3280</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Шоколадний 86/92 см</name>
+<name lang="ru">Комбинезон зимний Аполло Шоколадный 86/92 см</name>
+<picture>https://dorechi.ua/content/images/25/apollo_chocolate_86-85141673918497_+e83e2efcba.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-71985698356762_+0656c8f73a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-25698378133766_+b156ebad7c.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-90084033579168_+e0f2e2050e.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-75422824995932_+2a39cc8833.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-70430453773325_+b8c67860f5.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-74950670313808_+2325acb75a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-29803747805002_+068ebbe0a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-94986763118833_+a41831d943.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4917,4919">86,92</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="96234bbb455f840ab0261f3e3e88c1bb">86</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
+</offer>
+<offer id="DR-2121-92" available="false">
+<price>3280</price>
+<category code="796">Дитячі зимові комбінезони</category>
+<attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
+<name lang="ua">Комбінезон зимовий Аполло Шоколадний 92/98 см</name>
+<name lang="ru">Комбинезон зимний Аполло Шоколадный 92/98 см</name>
+<picture>https://dorechi.ua/content/images/26/apollo_chocolate_92-16890551260041_+93a27695a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-71985698356762_+0656c8f73a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-25698378133766_+b156ebad7c.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-90084033579168_+e0f2e2050e.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-75422824995932_+2a39cc8833.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-70430453773325_+b8c67860f5.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-74950670313808_+2325acb75a.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-29803747805002_+068ebbe0a7.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/apollo_chocolate_74-94986763118833_+a41831d943.jpg</picture>
+<description lang="ua">&lt;p&gt;Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.&lt;/li&gt;&lt;li&gt;Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.&lt;/li&gt;&lt;li&gt;Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.&lt;/li&gt;&lt;li&gt;Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.&lt;/p&gt;</description>
+<description lang="ru"><![CDATA[<p>Зимний комбинезон «Аполло» от украинского производителя ДоРечи — мембранный комбинезон для малышей, которые уже ходят и играют на снегу.</p><ul><li> Мембрана: водонепроницаемость 7000 мм, паропроницаемость 5000 г/м². Не продувается ветром, защищает от мокрого снега и дождя, а ребенок не перегревается во время активных игр.</li><li> Утеплитель Hollowsoft™ 300 г/м² – теплый, легкий, не впитывает влагу и восстанавливает форму после стирки.</li><li> Грудь и спинка – флис Polar, рукава и штанины – гладкий атлас, чтобы комбинезон легко одевался.</li><li> Светоотражающие элементы со всех сторон, анатомический капюшон, резинка на талии.</li></ul><p> Размер – по росту ребенка, указанному в названии. Под комбинезон обычно достаточно термобелья из хлопка или шерсти: мембрана работает лучше всего, когда ребенок не потеет.</p>]]></description>
+<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">80</param>
+<param name="Глибина" paramcode="length">350</param>
+<param name="Ширина" paramcode="width">250</param>
+<param name="Вага" paramcode="weight">600</param>
+<param name="Базовий колір" paramcode="12097" valuecode="2e96b43de658554c4bcc7b6edae777c2">коричневий</param>
+<param name="Зріст" paramcode="11972" valuecode="4919,4921">92,98</param>
+<param name="Розмір (міжнародний)" paramcode="8076" valuecode="a0a9e184acca4c7badbf8636451761d3">92</param>
+<param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
+<param name="Сезон" paramcode="2465" valuecode="59474de517dca">зима</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5123ea,59474de5129e0">бавовна,фліс,вовна</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
+<param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
+<param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
 <offer id="DR-1891-80" available="false">
 <price>3060</price>
