@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-01 21:38">
+<yml_catalog date="2026-11-01 21:53">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -125908,7 +125908,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778822245</barcode>
 </offer>
-   <offer id="6029" available="true">
+   <offer id="6029" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -125919,7 +125919,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские зимние ботинки Apawwa ABD5521R Black</strong></p><p> Практические черные ботинки Apawwa со светлой контрастной подошвой и коричнево-оливковыми деталями. Модель имеет шнуровку, застежку-липучку и боковую молнию для удобной обуви.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD5521R</li><li> Цвет: черный</li><li> Сезон: зима</li><li> Верх: искусственная кожа</li><li> Подкладка: искусственный мех</li><li> Стелька: искусственный мех</li><li> Застежки: шнуровка, липучка и боковая молния</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Перед заказом рекомендуем измерить стопу и сверить с фактической длиной стельки.</p><p> <strong>Цвет:</strong> черный.<br /> <strong>Материал:</strong> верх – искусственная кожа; подкладка и стелька – искусственный мех.</p>]]></description>
 <price>1496</price>
 <price_old>1496</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/30/52065160201814_%2B6fb0cac29f.png</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">22</param>
@@ -126016,7 +126016,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778822177</barcode>
 </offer>
-   <offer id="6035" available="true">
+   <offer id="6035" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126027,7 +126027,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские зимние дутики Apawwa ABD0166R Black</strong></p><p> Черные утепленные дутики Apawwa с высокой голенищем, стеганым верхом, светлыми декоративными вставками и рельефной подошвой. Петли помогают удобнее надевать обувь.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD0166R</li><li> Цвет: черный</li><li> Сезон: зима</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Материал верха, тип утеплителя и длину стельки указывайте после подтверждения по маркировке поставщика или измерения пара.</p><p> <strong>Цвет:</strong> черный.<br /> <strong>Материал:</strong> верх – полиэстер.</p>]]></description>
 <price>1660</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/36/33171894458816_%2B7b3481d685.png</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">23</param>
@@ -126088,7 +126088,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802605</barcode>
 </offer>
-   <offer id="6039" available="true">
+   <offer id="6039" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126099,14 +126099,14 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские зимние дутики Apawwa ABD0166R Black</strong></p><p> Черные утепленные дутики Apawwa с высокой голенищем, стеганым верхом, светлыми декоративными вставками и рельефной подошвой. Петли помогают удобнее надевать обувь.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD0166R</li><li> Цвет: черный</li><li> Сезон: зима</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Материал верха, тип утеплителя и длину стельки указывайте после подтверждения по маркировке поставщика или измерения пара.</p><p> <strong>Цвет:</strong> черный.<br /> <strong>Материал:</strong> верх – полиэстер.</p>]]></description>
 <price>1660</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/40/93490169337795_%2B3c0b4dc061.png</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802612</barcode>
 </offer>
-   <offer id="6040" available="true">
+   <offer id="6040" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126117,14 +126117,14 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские зимние дутики Apawwa ABD0166R Black</strong></p><p> Черные утепленные дутики Apawwa с высокой голенищем, стеганым верхом, светлыми декоративными вставками и рельефной подошвой. Петли помогают удобнее надевать обувь.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD0166R</li><li> Цвет: черный</li><li> Сезон: зима</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Материал верха, тип утеплителя и длину стельки указывайте после подтверждения по маркировке поставщика или измерения пара.</p><p> <strong>Цвет:</strong> черный.<br /> <strong>Материал:</strong> верх – полиэстер.</p>]]></description>
 <price>1660</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/41/35100210911844_%2B269f50d4f5.png</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802629</barcode>
 </offer>
-   <offer id="6041" available="true">
+   <offer id="6041" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126135,7 +126135,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские демисезонные хайтопы Apawwa ABQ0771R Camel</strong></p><p> Детские хайтопы Apawwa в бежево-коричневом цвете camel. Модель сочетает гладкие вставки, текстурированные светлые панели, шнуровку и широкую липучку. Подойдут для повседневных образов в переходный сезон.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABQ0771R</li><li> Цвет: camel (бежево-коричневый)</li><li> Сезон: весна/осень</li><li> Материал верха: искусственная кожа и текстильные вставки (по описаниям поставщиков)</li><li> Подкладка: флисовая (по описаниям поставщиков)</li><li> Застежка: шнуровка и липучка</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Состав материалов может отличаться в зависимости от партии; при необходимости сверьте маркировку на конкретной паре.</p><p> <strong>Цвет:</strong> кемел (бежево-коричневый).<br /> <strong>Материал:</strong> искусственная кожа и текстильные вставки; подкладка: флисовая.</p>]]></description>
 <price>1450</price>
 <price_old>1450</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/42/17864606440038_%2Bd8d4d889c0.png</picture>
 <param name="Колір" paramid="131559" valueid="1008435">Коричневий</param>
 <param name="Розмір">23</param>
@@ -126304,7 +126304,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6979215727931</barcode>
 </offer>
-   <offer id="6051" available="true">
+   <offer id="6051" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126315,14 +126315,14 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские ботинки Apawwa ABD0026R Black</strong> - практичная модель для прохладной погоды.</p><p> Черный верх с фактурными вставками, двумя застежками-липучками и декоративной эмблемой мишки. Рельефная подошва помогает обеспечить сцепление во время повседневной ходьбы.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD0026R</li><li> Цвет: черный</li><li> Застежка: две липучки</li><li> Подкладка: утепленная</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Перед заказом рекомендуем измерить стопу и сверить размер с фактической длиной стельки.</p><p> <strong>Цвет:</strong> черный.<br /> <strong>Материал:</strong> верх – заменитель кожи. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/ca333405-89d3-4aba-9e94-0eeef637d375.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>1360</price>
 <price_old>1360</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/2/93462771836929_%2Bd1769c8ad9.png</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6979215727948</barcode>
 </offer>
-   <offer id="6052" available="true">
+   <offer id="6052" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126333,7 +126333,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские ботинки Apawwa ABD0026R Black</strong> - практичная модель для прохладной погоды.</p><p> Черный верх с фактурными вставками, двумя застежками-липучками и декоративной эмблемой мишки. Рельефная подошва помогает обеспечить сцепление во время повседневной ходьбы.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD0026R</li><li> Цвет: черный</li><li> Застежка: две липучки</li><li> Подкладка: утепленная</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Перед заказом рекомендуем измерить стопу и сверить размер с фактической длиной стельки.</p><p> <strong>Цвет:</strong> черный.<br /> <strong>Материал:</strong> верх – заменитель кожи. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/ca333405-89d3-4aba-9e94-0eeef637d375.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>1360</price>
 <price_old>1360</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/3/79080843762912_%2Bdbfe6fd4b7.png</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">28</param>
@@ -126416,7 +126416,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
 </offer>
-   <offer id="6055" available="true">
+   <offer id="6055" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Apawwa</vendor>
@@ -126427,7 +126427,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские зимние дутики Apawwa ABD0166R Beige</strong></p><p> Детские утепленные дутики бежевого цвета с черными контрастными вставками. Высокая модель с мягкой прибранной верхней частью, петельками для удобной обуви и рельефной подошвой.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD0166R</li><li> Цвет: бежевый (beige)</li><li> Сезон: зима</li><li> Верх: полиэстер</li><li> Подкладка и стелька: искусственный мех</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Перед заказом советуем сверить размер с фактической длиной стельки.</p><p> <strong>Цвет:</strong> бежевый.<br /> <strong>Материал:</strong> верх – полиэстер. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>1660</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/6/58802644525794_%2Bccacc5d460.png</picture>
 <picture>https://letimo.com.ua/content/images/6/28139256502749_%2B7530463cd5.png</picture>
 <picture>https://letimo.com.ua/content/images/6/91707720553174_%2B9f2e6572f7.png</picture>
@@ -126436,7 +126436,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802667</barcode>
 </offer>
-<offer id="96055" available="true">
+<offer id="96055" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126446,7 +126446,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Beige</strong></p>    <p>Утеплені дитячі дутики бежевого кольору з чорними контрастними вставками. Висока модель із м&rsquo;якою призібраною верхньою частиною, петельками для зручного взування та рельєфною підошвою.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: бежевий (beige)</li>   <li>Сезон: зима</li>   <li>Верх: поліестер</li>   <li>Підкладка та устілка: штучне хутро</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> бежевий.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1660</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/6/58802644525794_%2Bccacc5d460.png</picture>
 <picture>https://letimo.com.ua/content/images/6/28139256502749_%2B7530463cd5.png</picture>
 <picture>https://letimo.com.ua/content/images/6/91707720553174_%2B9f2e6572f7.png</picture>
@@ -126530,7 +126530,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
 </offer>
-   <offer id="6058" available="true">
+   <offer id="6058" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Apawwa</vendor>
@@ -126541,7 +126541,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p><strong>Детские зимние дутики Apawwa ABD0166R Beige</strong></p><p> Детские утепленные дутики бежевого цвета с черными контрастными вставками. Высокая модель с мягкой прибранной верхней частью, петельками для удобной обуви и рельефной подошвой.</p><p> <strong>Характеристики:</strong></p><ul><li> Бренд: Apawwa</li><li> Артикул: ABD0166R</li><li> Цвет: бежевый (beige)</li><li> Сезон: зима</li><li> Верх: полиэстер</li><li> Подкладка и стелька: искусственный мех</li><li> Страна производства: Китай</li><li> Состояние: новые</li></ul><p> Перед заказом советуем сверить размер с фактической длиной стельки.</p><p> <strong>Цвет:</strong> бежевый.<br /> <strong>Материал:</strong> верх – полиэстер. </p><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>1660</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/9/22848280775382_%2B232a34e301.png</picture>
 <picture>https://letimo.com.ua/content/images/9/80059105219100_%2Be30d7d08c0.png</picture>
 <picture>https://letimo.com.ua/content/images/9/79697303316956_%2B6158120045.png</picture>
@@ -126550,7 +126550,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802766</barcode>
 </offer>
-<offer id="96058" available="true">
+<offer id="96058" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126560,7 +126560,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Beige</strong></p>    <p>Утеплені дитячі дутики бежевого кольору з чорними контрастними вставками. Висока модель із м&rsquo;якою призібраною верхньою частиною, петельками для зручного взування та рельєфною підошвою.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: бежевий (beige)</li>   <li>Сезон: зима</li>   <li>Верх: поліестер</li>   <li>Підкладка та устілка: штучне хутро</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо звірити розмір із фактичною довжиною устілки.</p>    <p><strong>Колір:</strong> бежевий.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/18b76bfe-1be5-4b8c-8b2e-6933581fb0b1.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description_ua>
 <price>1660</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/9/22848280775382_%2B232a34e301.png</picture>
 <picture>https://letimo.com.ua/content/images/9/80059105219100_%2Be30d7d08c0.png</picture>
 <picture>https://letimo.com.ua/content/images/9/79697303316956_%2B6158120045.png</picture>
@@ -127016,7 +127016,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6980026250716</barcode>
 </offer>
-   <offer id="6081" available="true">
+   <offer id="6081" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -127027,7 +127027,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>500</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-96723094974993_%2B4713b3ba09.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-59003236027057_%2B4612a07b14.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bezhevyi-46-48-sm-42081762501666_%2B5c47609c9b.jpg</picture>
@@ -127038,7 +127038,7 @@ SYSTEM "shops.dtd">
 <barcode>2000000528274</barcode>
 <param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
 </offer>
-   <offer id="6082" available="true">
+   <offer id="6082" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -127049,7 +127049,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>500</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-35075296836274_%2Bd7090e3852.jpg</picture>
 <picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-67152584813881_%2B9e6c678325.jpg</picture>
 <picture>https://letimo.com.ua/content/images/33/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-46-48-sm-59197821895664_%2Bd19fd5331f.jpg</picture>
@@ -127059,7 +127059,7 @@ SYSTEM "shops.dtd">
 <barcode>2000000528199</barcode>
 <param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
 </offer>
-   <offer id="6083" available="true">
+   <offer id="6083" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -127070,7 +127070,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>500</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-16615263462298_%2Bf20d83bfbf.jpg</picture>
 <picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-84756154690564_%2Bd8ec3ff3b9.jpg</picture>
 <picture>https://letimo.com.ua/content/images/34/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-chornyi-48-50-sm-60930566602906_%2B824cd34fc0.jpg</picture>
@@ -127080,7 +127080,7 @@ SYSTEM "shops.dtd">
 <barcode>2000000528076</barcode>
 <param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
 </offer>
-   <offer id="6084" available="true">
+   <offer id="6084" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -127091,7 +127091,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Вязаный зимний шлем Talvi «Финн» закрывает голову, ушки и шею – шарф не нужен. Внутри шлем полностью утеплен флисом, а украшен двумя пушистыми помпонами из искусственного меха. Подходит и мальчикам и девочкам.</p><ul><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон; подкладка - 100% полиэстер (флис)</li><li> Сезон: холодная осень, зима</li><li> Размеры (обхват головы): 46-48 см, 48-50 см - ориентировочно на 1-2 года.</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/b7e0be75-cdbc-4981-98f4-cfa8d1e08d53.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>500</price>
 <price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-85797880087480_%2B751384bf6e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-47890354949918_%2Ba4bbfcf1b7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/35/zymovyi-sholom-talvi-finn-z-khutrianymy-pomponamy-bilyi-48-50-sm-71687378257910_%2Bb4d5ef2e46.jpg</picture>
@@ -127342,7 +127342,7 @@ SYSTEM "shops.dtd">
 <param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
 </offer>
    
-   <offer id="6098" available="true">
+   <offer id="6098" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -127353,7 +127353,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Комплект Talvi «Освин»: шапка с трикотажным помпоном и хомутом. Шапка гладкой вязки с отворотом в рубчик, внутри – флис по всей плоскости. Хомут плотной вязки в рубчике, без флиса. Унисекс.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка шапки - 100% полиэстер (флис)</li><li> Сезон: от холодной осени до теплой зимы</li><li> Размер (обхват головы): 50-52 см – ориентировочно на 3-4 года.</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/90eda2fb-877f-4b0f-ac94-6df23942fb1f.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>]]></description>
 <price>650</price>
 <price_old>650</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-60074390633950_%2B4ad4a39dc4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-74731073745200_%2Ba1fe7108df.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-46376352403396_%2B14945ce731.jpg</picture>
