@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-02 18:38">
+<yml_catalog date="2026-11-02 21:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -141979,6 +141979,24 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/11/farby_double_shade-31464455228210_%2Bfce949fbb5.jpeg</picture>
 <picture>https://dorechi.ua/content/images/11/farby_double_shade-33645031083355_%2B4459d89135.jpg</picture>
 <param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98236090" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1103</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT84565011</article>
+<name_ua><![CDATA[Пінетки зимові Зимова галявина]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>820</price>
+<price_old>820</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-39415015254213_%2Bcd1e775ab8.jpg</picture>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-29285581116337_%2Bc26f81002d.jpg</picture>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-32600579958969_%2B2b15549b43.jpg</picture>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-31226397704079_%2Bfaef5ca258.jpg</picture>
+<param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
