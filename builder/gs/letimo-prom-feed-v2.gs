@@ -3427,7 +3427,7 @@ function tvPromDropFilter_(xml) {
   });
   Logger.log('Prom: прибрано Talvi-дроп не в наявності: ' + cut);
   // запобіжник тарифу Prom: не більше TV_PROM_CAP позицій у файлі; зайве Talvi знімаємо цілими моделями (group_id) з кінця
-  const TV_PROM_CAP = 9500;
+  const TV_PROM_CAP = 45000; // 04.11.2026: тариф Prom = 10 000 товарів (груп) і 50 000 різновидів, а не 10 000 позицій — раніше стояло 9500
   const total = (out.match(/<offer\b/g) || []).length;
   if (total <= TV_PROM_CAP) return out;
   let over = total - TV_PROM_CAP;
