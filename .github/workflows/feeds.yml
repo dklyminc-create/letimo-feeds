@@ -1,6 +1,9 @@
 name: Фіди маркетплейсів (Prom, Kasta, Rozetka)
 
 on:
+  push:
+    branches: [main]
+    paths: ['_data/tick.txt']   # «пульс» від Apps Script кожні 30 хв (розклад GitHub ненадійний)
   schedule:
     - cron: '15,45 * * * *'   # кожні 30 хв
   workflow_dispatch: {}
