@@ -73,7 +73,7 @@ const Logger = { log: function () { const a = Array.from(arguments); console.log
 const PROPS_FILE = path.join(DATA, 'props.json');
 let PROPS = {}; try { PROPS = JSON.parse(fs.readFileSync(PROPS_FILE, 'utf8')); } catch (e) {}
 // секрети — зі змінних середовища (GitHub Secrets)
-['GH_TOKEN', 'GH_REPO', 'MB_FEED_URL', 'DR_FEED_URL', 'EPICENTR_TOKEN'].forEach(k => { if (process.env[k]) PROPS[k] = process.env[k]; });
+['GH_TOKEN', 'GH_REPO', 'MB_FEED_URL', 'DR_FEED_URL', 'EPICENTR_TOKEN'].forEach(k => { if (process.env[k]) PROPS[k] = String(process.env[k]).trim(); });
 const propStore = {
   getProperty: (k) => (PROPS[k] === undefined ? null : PROPS[k]),
   setProperty: (k, v) => { PROPS[k] = String(v); return propStore; },
