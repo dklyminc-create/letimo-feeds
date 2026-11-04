@@ -91,6 +91,8 @@ function epiWarm() {
 
 // 4) Rozetka: готовий файл rozetka.xml на GitHub Pages замість збирання «на льоту» (~2 хв — Rozetka не дочікувалась)
 if (PUB_JOBS.indexOf('rozetka') < 0) PUB_JOBS.push('rozetka');
+// 04.11.2026: Prom, Kasta і Rozetka збирає GitHub Actions (без лімітів Google) — тут лишаються Епіцентр і ДоРечі.
+['prom', 'kasta', 'rozetka'].forEach(function (j) { const i = PUB_JOBS.indexOf(j); if (i >= 0) PUB_JOBS.splice(i, 1); });
 
 function publishRozetka() {
   const stamp = Utilities.formatDate(new Date(), 'Europe/Kyiv', 'yyyy-MM-dd HH:mm');
