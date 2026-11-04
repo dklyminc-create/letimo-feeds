@@ -1,0 +1,47 @@
+name: Фіди маркетплейсів (Prom, Kasta, Rozetka)
+
+on:
+  schedule:
+    - cron: '15,45 * * * *'   # кожні 30 хв
+  workflow_dispatch: {}
+
+concurrency:
+  group: feeds-build
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Зібрати фіди
+        env:
+          MB_FEED_URL: ${{ secrets.MB_FEED_URL }}
+          DR_FEED_URL: ${{ secrets.DR_FEED_URL }}
+          FEEDS_LIVE: ${{ vars.FEEDS_LIVE }}
+        run: node --max-old-space-size=6144 builder/run.js prom kasta rozetka
+
+      - name: Опублікувати
+        run: |
+          git config user.name "letimo-feeds-bot"
+          git config user.email "feeds-bot@users.noreply.github.com"
+          git add -A -- '*.xml' '*.xml.gz' '_test/*' || true
+          if git diff --cached --quiet; then echo "Без змін"; exit 0; fi
+          git commit -m "actions: prom kasta rozetka $(TZ=Europe/Kyiv date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
+            sleep $((i*5))
+          done
+          exit 1
