@@ -235,6 +235,8 @@ function loadCode() {
   // Прибираємо «переклади», що відрізняються лише пробілами (Google Translate їх обрізає).
   const nsp = function (x) { return String(x).replace(/\s+/g, ''); };
   Object.keys(trMap).forEach(function (k) { if (nsp(k) === nsp(trMap[k])) delete trMap[k]; });
+  // 04.11.2026: прибираємо й «переклади» зі старою структурою (засіяні з живого фіду) — вони дають відхилення «Назва і Назва (ua) не співпадають»
+  if (typeof ctx.rzRuBad_ === 'function') { let nb = 0; Object.keys(trMap).forEach(function (k) { if (ctx.rzRuBad_(trMap[k], k)) { delete trMap[k]; nb++; } }); console.log('rz-tr: прибрано зі старою структурою ' + nb); }
   const trTodo = {};
   const trStart = Object.keys(trMap).length; let trErr = 0, trLastErr = '';
   ctx.rzTrRu_ = function (ua, vendor) {
