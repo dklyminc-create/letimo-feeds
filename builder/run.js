@@ -174,11 +174,27 @@ const ScriptApp = {
 };
 const ContentService = { MimeType: { XML: 'xml', TEXT: 'text', JSON: 'json' }, createTextOutput: (s) => ({ setMimeType: function () { return this; }, getContent: () => s }) };
 const DriveApp = { getFiles: () => ({ hasNext: () => false }) };
+// LanguageApp.translate — через публічний endpoint Google Translate (той самий рушій)
+const TR_CACHE = new Map();
+const LanguageApp = {
+  translate: (text, from, to) => {
+    const k = from + '|' + to + '|' + text;
+    if (TR_CACHE.has(k)) return TR_CACHE.get(k);
+    const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=' + from + '&tl=' + to + '&dt=t&q=' + encodeURIComponent(text);
+    const r = fetchOne(url, { muteHttpExceptions: true });
+    if (r.getResponseCode() !== 200) throw new Error('translate HTTP ' + r.getResponseCode());
+    const j = JSON.parse(r.getContentText());
+    const out = (j[0] || []).map(x => x[0]).join('');
+    if (!out) throw new Error('translate empty');
+    TR_CACHE.set(k, out);
+    return out;
+  },
+};
 
 /* ---------------- завантаження коду ---------------- */
 function loadCode() {
   const ctx = vm.createContext({
-    UrlFetchApp, Utilities, Logger, PropertiesService, CacheService, SpreadsheetApp, ScriptApp, ContentService, DriveApp, console,
+    UrlFetchApp, Utilities, Logger, PropertiesService, CacheService, SpreadsheetApp, ScriptApp, ContentService, DriveApp, LanguageApp, console,
   });
   const dir = path.join(__dirname, 'gs');
   const order = ['letimo-prom-feed-v2.gs', 'fast.gs'];
