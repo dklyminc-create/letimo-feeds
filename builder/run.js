@@ -272,7 +272,7 @@ function loadCode() {
 function patchForNode(code) {
   return code
     .replace(/TV_DROP_MAX_ = \d+;/g, 'TV_DROP_MAX_ = 0;')
-    .replace(/let trBudget = \d+;/, 'let trBudget = 1500;')
+    .replace(/let trBudget = \d+;/, 'let trBudget = 30000;')
     .replace(/function tvCapChars_\(xml, maxChars\) \{/, 'function tvCapChars_(xml, maxChars) { return xml;')
     .replace(/headers: \{ Range: 'bytes=' \+ start \+ '-' \+ \(start \+ CH - 1\), 'Accept-Encoding': 'identity' \} \}/, 'headers: {} }')
     .replace(/const DR_FEED = [^;]*;/, "const DR_FEED = (PropertiesService.getScriptProperties().getProperty('DR_FEED_URL') || '');");
