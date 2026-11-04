@@ -1187,9 +1187,7 @@ function drDescFallback_(name) {
 
 function drOffers_() {
   if (DR_CACHE_) return DR_CACHE_;
-  const res = UrlFetchApp.fetch(DR_FEED, { muteHttpExceptions: true, followRedirects: true });
-  if (res.getResponseCode() !== 200) throw new Error('ДоРечі фід HTTP ' + res.getResponseCode());
-  const xml = res.getContentText('UTF-8');
+  const xml = drFeedXml_(); // 04.11.2026: з резервною копією (fast.gs)
   const pr = drPrices_();
   const rep = { feed: 0, ok: 0, inStock: 0, noMatch: [], noCat: [], groups: 0, byCat: {} };
   const groupsSeen = {}, ids = {}, offers = [], byArt = {};

@@ -92,7 +92,7 @@ function epiWarm() {
 // 4) Rozetka: готовий файл rozetka.xml на GitHub Pages замість збирання «на льоту» (~2 хв — Rozetka не дочікувалась)
 if (PUB_JOBS.indexOf('rozetka') < 0) PUB_JOBS.push('rozetka');
 // 04.11.2026: Prom, Kasta і Rozetka збирає GitHub Actions (без лімітів Google) — тут лишаються Епіцентр і ДоРечі.
-['prom', 'kasta', 'rozetka'].forEach(function (j) { const i = PUB_JOBS.indexOf(j); if (i >= 0) PUB_JOBS.splice(i, 1); });
+['prom', 'kasta', 'rozetka', 'epicentr'].forEach(function (j) { const i = PUB_JOBS.indexOf(j); if (i >= 0) PUB_JOBS.splice(i, 1); }); // 04.11.2026: Епіцентр — окремим тригером о :50 (epiTriggerInstall)
 
 function publishRozetka() {
   const stamp = Utilities.formatDate(new Date(), 'Europe/Kyiv', 'yyyy-MM-dd HH:mm');
@@ -1601,3 +1601,53 @@ function rzAgeH_(sz) {
   if (m) return Y[+m[2]] ? String(Y[+m[2]]) : '';
   return '';
 }
+
+
+// ===== 04.11.2026: Епіцентр окремим запуском + резервна копія фіду ДоРечі =====
+// Збірка Епіцентру ~5 хв із 6 дозволених — запускаємо окремо о :50, щоб не збігатися з ghSync/publishFeeds/translateRu (:07/:08/:37).
+function epiTriggerInstall() {
+  ScriptApp.getProjectTriggers().filter(function (t) { return t.getHandlerFunction() === 'publishEpicentr'; }).forEach(function (t) { ScriptApp.deleteTrigger(t); });
+  ScriptApp.newTrigger('publishEpicentr').timeBased().everyHours(1).nearMinute(50).create();
+  return 'publishEpicentr: щогодини ~:50';
+}
+// Фід ДоРечі: успішну відповідь зберігаємо в CacheService (gzip, шматками, 6 год). Якщо постачальник не відповідає —
+// 1 год не чекаємо на нього (~50 с на кожну спробу) і беремо збережену копію, щоб товари ДоРечі не випадали з фідів.
+const DR_CACHE_KEY_ = 'drsrc';
+function drCacheSave_(xml) {
+  const b64 = Utilities.base64Encode(Utilities.gzip(Utilities.newBlob(xml, 'text/xml')).getBytes());
+  const n = Math.ceil(b64.length / 90000), o = {};
+  for (let i = 0; i < n; i++) o[DR_CACHE_KEY_ + i] = b64.slice(i * 90000, (i + 1) * 90000);
+  o[DR_CACHE_KEY_ + 'n'] = String(n);
+  CacheService.getScriptCache().putAll(o, 21600);
+}
+function drCacheLoad_() {
+  const c = CacheService.getScriptCache(), n = Number(c.get(DR_CACHE_KEY_ + 'n') || 0);
+  if (!n) return null;
+  const keys = []; for (let i = 0; i < n; i++) keys.push(DR_CACHE_KEY_ + i);
+  const got = c.getAll(keys); let s = '';
+  for (let i = 0; i < n; i++) { if (!got[keys[i]]) return null; s += got[keys[i]]; }
+  return Utilities.ungzip(Utilities.newBlob(Utilities.base64Decode(s), 'application/x-gzip')).getDataAsString('UTF-8');
+}
+function drFeedXml_() {
+  const sp = PropertiesService.getScriptProperties();
+  if (Date.now() > Number(sp.getProperty('DR_DOWN_UNTIL') || 0)) {
+    try {
+      const res = UrlFetchApp.fetch(DR_FEED, { muteHttpExceptions: true, followRedirects: true });
+      const xml = res.getResponseCode() === 200 ? res.getContentText('UTF-8') : '';
+      if (/<offer\b/.test(xml)) {
+        try { drCacheSave_(xml); } catch (e) { Logger.log('ДоРечі: копію не збережено: ' + e.message); }
+        sp.deleteProperty('DR_DOWN_UNTIL');
+        return xml;
+      }
+      throw new Error('HTTP ' + res.getResponseCode());
+    } catch (e) {
+      sp.setProperty('DR_DOWN_UNTIL', String(Date.now() + 3600000));
+      Logger.log('ДоРечі недоступні (' + e.message + ') — 1 год беру збережену копію');
+    }
+  }
+  const cached = drCacheLoad_();
+  if (!cached) throw new Error('ДоРечі недоступні, збереженої копії немає');
+  Logger.log('ДоРечі: збережена копія ' + Math.round(cached.length / 1024) + ' КБ');
+  return cached;
+}
+function drFeedTest() { DR_CACHE_ = null; PropertiesService.getScriptProperties().deleteProperty('DR_DOWN_UNTIL'); const x = drFeedXml_(); const c = drCacheLoad_(); const r_ = 'фід ' + x.length + ' симв., копія ' + (c ? c.length : 'НЕМАЄ') + ', офери ДоРечі: ' + drOffers_().offers.length; Logger.log(r_); return r_; }
