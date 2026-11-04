@@ -184,7 +184,8 @@ const LanguageApp = {
     const r = fetchOne(url, { muteHttpExceptions: true });
     if (r.getResponseCode() !== 200) throw new Error('translate HTTP ' + r.getResponseCode());
     const j = JSON.parse(r.getContentText());
-    const out = (j[0] || []).map(x => x[0]).join('');
+    let out = (j[0] || []).map(x => x[0]).join('');
+    if (out) out = (text.match(/^\s*/) || [''])[0] + out.trim() + (text.match(/\s*$/) || [''])[0]; // зберігаємо пробіли по краях, як LanguageApp
     if (!out) throw new Error('translate empty');
     TR_CACHE.set(k, out);
     return out;
@@ -231,6 +232,9 @@ function loadCode() {
   }
   // Переклади, які зробив Apps Script (LanguageApp працює там; з серверів GitHub Google Translate віддає 429).
   try { const g = JSON.parse(fs.readFileSync(path.join(ROOT, '_data', 'rz-tr-gas.json'), 'utf8')); Object.keys(g).forEach(function (k) { if (!trMap[k]) trMap[k] = g[k]; }); } catch (e) {}
+  // Прибираємо «переклади», що відрізняються лише пробілами (Google Translate їх обрізає).
+  const nsp = function (x) { return String(x).replace(/\s+/g, ''); };
+  Object.keys(trMap).forEach(function (k) { if (nsp(k) === nsp(trMap[k])) delete trMap[k]; });
   const trTodo = {};
   const trStart = Object.keys(trMap).length; let trErr = 0, trLastErr = '';
   ctx.rzTrRu_ = function (ua, vendor) {
@@ -244,6 +248,7 @@ function loadCode() {
         return (/[А-Яа-яІіЇїЄєҐґ]/.test(body) ? LanguageApp.translate(body, 'uk', 'ru') : body) + tail;
       }).join(vendor || '');
     } catch (e) { trErr++; trLastErr = String(e && e.message || e); ru = null; trTodo[ua] = vendor || ''; }
+    if (ru && nsp(ru) === nsp(ua)) ru = ua;
     if (ru && ru !== ua) trMap[ua] = ru;
     return ru;
   };
