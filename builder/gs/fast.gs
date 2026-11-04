@@ -1388,8 +1388,15 @@ function rzTrSync() {
   if (n) ghPublish_({ '_data/rz-tr-gas.json': JSON.stringify(done) }, 'rz-tr +' + n);
   Logger.log('rzTrSync: перекладено ' + n + ', помилок ' + fail + ', у черзі було ' + Object.keys(todo).length);
 }
+// Запуск збірки фідів на GitHub Actions (розклад GitHub ненадійний — запускаємо самі, одразу після оновлення даних).
+function ghDispatch_() {
+  const p = PropertiesService.getScriptProperties();
+  const r = UrlFetchApp.fetch('https://api.github.com/repos/' + p.getProperty('GH_REPO') + '/actions/workflows/feeds.yml/dispatches', { method: 'post', contentType: 'application/json', payload: JSON.stringify({ ref: GH_BRANCH }), muteHttpExceptions: true, headers: { Authorization: 'Bearer ' + p.getProperty('GH_TOKEN'), Accept: 'application/vnd.github+json' } });
+  Logger.log('Запуск збірки на GitHub: HTTP ' + r.getResponseCode() + (r.getResponseCode() === 204 ? ' (ок)' : ' ' + r.getContentText().slice(0, 200)));
+}
 function ghSync() {
   try { ghDataExport(); } catch (e) { Logger.log('ghDataExport: ' + e.message); }
+  try { ghDispatch_(); } catch (e) { Logger.log('ghDispatch_: ' + e.message); }
   try { rzTrSync(); } catch (e) { Logger.log('rzTrSync: ' + e.message); }
 }
 function ghSyncInstall() {
