@@ -229,10 +229,13 @@ function loadCode() {
       trSeeded = true; console.log('rz-tr: засіяно з rozetka.xml — ' + Object.keys(trMap).length);
     } catch (e) { console.log('rz-tr seed: ' + e.message); }
   }
+  // Переклади, які зробив Apps Script (LanguageApp працює там; з серверів GitHub Google Translate віддає 429).
+  try { const g = JSON.parse(fs.readFileSync(path.join(ROOT, '_data', 'rz-tr-gas.json'), 'utf8')); Object.keys(g).forEach(function (k) { if (!trMap[k]) trMap[k] = g[k]; }); } catch (e) {}
+  const trTodo = {};
   const trStart = Object.keys(trMap).length; let trErr = 0, trLastErr = '';
   ctx.rzTrRu_ = function (ua, vendor) {
     if (trMap[ua]) return trMap[ua];
-    if (trErr >= 20) return null;
+    if (trErr >= 3) { trTodo[ua] = vendor || ''; return null; } // перекладач недоступний — у чергу для Apps Script
     let ru = null;
     try {
       const parts = vendor ? ua.split(vendor) : [ua];
@@ -240,13 +243,14 @@ function loadCode() {
         const m = p.match(/^(.*?)(\s*\(\d+\)\s*)?$/); const body = m[1], tail = m[2] || '';
         return (/[А-Яа-яІіЇїЄєҐґ]/.test(body) ? LanguageApp.translate(body, 'uk', 'ru') : body) + tail;
       }).join(vendor || '');
-    } catch (e) { trErr++; trLastErr = String(e && e.message || e); ru = null; }
+    } catch (e) { trErr++; trLastErr = String(e && e.message || e); ru = null; trTodo[ua] = vendor || ''; }
     if (ru && ru !== ua) trMap[ua] = ru;
     return ru;
   };
   process.on('exit', function () {
     const n = Object.keys(trMap).length;
     console.log('rz-tr: було ' + trStart + ', стало ' + n + ', помилок перекладу ' + trErr + (trLastErr ? ' (' + trLastErr + ')' : ''));
+    try { fs.mkdirSync(path.join(ROOT, '_test'), { recursive: true }); fs.writeFileSync(path.join(ROOT, '_test', 'rz-tr-todo.json'), JSON.stringify(trTodo)); console.log('rz-tr: у черзі на переклад ' + Object.keys(trTodo).length); } catch (e) {}
     if (n !== trStart || trSeeded) { try { fs.mkdirSync(path.dirname(trF), { recursive: true }); fs.writeFileSync(trF, JSON.stringify(trMap)); } catch (e) {} }
   });
   ctx.ghPublish_ = function (files) { Object.keys(files).forEach(k => { let v = files[k]; if (/\.xml$/.test(k)) v = oos(v); write(k, Buffer.from(v, 'utf8')); }); };
