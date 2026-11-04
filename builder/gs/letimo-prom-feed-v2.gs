@@ -2528,7 +2528,7 @@ function epiDiagOwn() {
 function buildEpicentr_(mode, from) {
   const res = srcRes_(); // 04.11.2026: читання експорту шматками
   if (res.getResponseCode() !== 200) throw new Error('Horoshop feed HTTP ' + res.getResponseCode());
-  const xml = drAdd_(res.getContentText('UTF-8'));
+  const xml = tvDropAvail_(drAdd_(res.getContentText('UTF-8'))); // 04.11.2026: Talvi-дроп лише в наявності (таблиця залишків)
   if (mode === 'warm') {
     const sets = []; EPI_RULES.forEach(function (r) { if (r[2] && sets.indexOf(r[2]) < 0) sets.push(r[2]); });
     const start = Number(from || 0), t0 = Date.now(), done = [];
@@ -2553,7 +2553,10 @@ function buildEpicentr_(mode, from) {
     const cat = epiTag_(body, 'categoryId').text.trim(); if (EPI_DIAG_ && !EPI_DIAG_.test(body)) return all; // діагностика 31.10.2026
     const nameUa = (epiTag_(body, 'name_ua').text || epiTag_(body, 'name').text).trim();
     const nl = nameUa.toLowerCase();
-    const rule = EPI_RULES.filter(function (r) { return r[0] === cat && r[1].test(nl); })[0];
+    const tvArt_ = (epiTag_(body, 'vendorCode').text || '').trim();
+    const tvR_ = /^TALVI-/.test(tvArt_) ? tvDropEpiRule_(cat, nl, (body.match(/<param name="Розмір">([^<]*)</) || [])[1] || '') : undefined; // 04.11.2026 Talvi-дроп
+    if (tvR_ === false) { const kk = 'Talvi ' + cat + ' (немає відповідника в Епіцентрі)'; rep.noRule[kk] = (rep.noRule[kk] || 0) + 1; return all; }
+    const rule = tvR_ || EPI_RULES.filter(function (r) { return r[0] === cat && r[1].test(nl); })[0];
     if (!rule || !rule[2]) { const k = cat + ' ' + nameUa.split(/\s+/).slice(0, 2).join(' '); rep.noRule[k] = (rep.noRule[k] || 0) + 1; return all; }
     const S = rule[2];
     const R = rep.bySet[S] = rep.bySet[S] || { title: rule[3], ok: 0, skip: {} };
@@ -2598,10 +2601,11 @@ function buildEpicentr_(mode, from) {
       if (a.t !== 'select' && a.t !== 'multiselect') { if (a.r) miss.push(a.n); return; }
       let opts; try { opts = epiOptions_(S, a.c); } catch (e) { if (a.r) miss.push(a.n + ' (API)'); return; }
       if (ctx.dr && a.c === '78') opts = Object.assign({}, opts, DR_EPI_COLOR78); // ДоРечі: базові кольори довідника
+    if (/^TALVI-/.test(art)) { const dv = tvDropEpiVals_(a, S, opts, P, nameUa); if (dv && dv.length) { const tp = epiParam_(a.n, a.c, opts, dv); if (tp) { parts.push(tp); return; } } }
     if (/^TV-/.test(art)) { const tvv = tvEpiVals_(a, nameUa, opts); if (tvv) { const tp = epiParam_(a.n, a.c, opts, tvv); if (tp) { parts.push(tp); return; } } }
     let vals = (ctx.dr && drEpiVals_(a, ctx, opts)) || epiDerive_(a, ctx, opts);
       if (!vals || !vals.length) vals = epiMbVals_(a, mbP, opts);
-      if (/^(TV-|4820000)/.test(art) && !(vals && vals.length && epiParam_(a.n, a.c, opts, vals))) { const ov = ownEpiVals_(a, ctx, opts); if (ov.length) vals = ov; } // 30.10.2026: власний склад (Talvi, Timi Tex) — заповнення пропусків
+      if (/^(TV-|TALVI-|4820000)/.test(art) && !(vals && vals.length && epiParam_(a.n, a.c, opts, vals))) { const ov = ownEpiVals_(a, ctx, opts); if (ov.length) vals = ov; } // 30.10.2026: власний склад (Talvi, Timi Tex) — заповнення пропусків
       const prm = vals && vals.length ? epiParam_(a.n, a.c, opts, vals) : null;
       if (prm) parts.push(prm); else if (a.r) miss.push(a.n);
     });
@@ -2616,7 +2620,7 @@ function buildEpicentr_(mode, from) {
     out.push('<offer id="' + xmlEsc_(art) + '" available="' + avail + '">\n<price>' + price + '</price>\n' +
       '<category code="' + S + '">' + rule[3] + '</category>\n<attribute_set code="' + S + '">' + rule[3] + '</attribute_set>\n' +
       '<name lang="ua">' + xmlEsc_(nameUa) + '</name>\n' + (ruN ? '<name lang="ru">' + xmlEsc_(ruN) + '</name>\n' : '') + pics + '\n<description lang="ua">' + desc + '</description>\n' + (ruD ? '<description lang="ru"><![CDATA[' + ruD.replace(/\]\]>/g, '').replace(/Совет LETIMO:/g, 'Совет:') + ']]></description>\n' : '') + ((nameUa.match(/["«“„]([^"»”“]+)["»”“]/) || [])[1] ? '<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[' + (nameUa.match(/["«“„]([^"»”“]+)["»”“]/) || [])[1].trim() + ']]></param>\n' : '') +
-      (drIsArt_(art) ? '<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>\n' : /^TV-/.test(art) ? '<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>\n' : /^4820000\d{6}$/.test(art) ? '<vendor code="uw1446137643j6c6">Тімі текс</vendor>\n' : '<vendor code="' + EPI_BRAND_CODE + '">Mag Baby</vendor>\n') + '<country_of_origin code="' + countryUkr + '">Україна</country_of_origin>\n' + measure +
+      (drIsArt_(art) ? '<vendor code="0257f14b7a0e4ae3a4056111e84198c0">ДоРечі</vendor>\n' : /^(TV|TALVI)-/.test(art) ? '<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>\n' : /^4820000\d{6}$/.test(art) ? '<vendor code="uw1446137643j6c6">Тімі текс</vendor>\n' : '<vendor code="' + EPI_BRAND_CODE + '">Mag Baby</vendor>\n') + '<country_of_origin code="' + countryUkr + '">Україна</country_of_origin>\n' + measure +
       '<param name="Мінімальна кратність товару" paramcode="ratio">1</param>\n' +
       '<param name="Висота" paramcode="height">' + pk.height + '</param>\n<param name="Глибина" paramcode="length">' + pk.length + '</param>\n' +
       '<param name="Ширина" paramcode="width">' + pk.width + '</param>\n<param name="Вага" paramcode="weight">' + pk.weight + '</param>\n' +
@@ -2707,7 +2711,7 @@ function mbPrice_(art, sitePrice) {
 function mpPrice_(art, name, sitePrice, pct) {
   if (drIsArt_(art) && DR_OWN_.indexOf(String(art).trim()) >= 0) return DR_OWN_PRICE_[String(art).trim()] || Math.round(parseFloat(sitePrice)); // 31.10.2026: ДоРечі з власного складу (рах. №754) — РРЦ без комісії на всіх маркетплейсах (рішення Дмитра)
   if (drIsArt_(art)) return Math.round(parseFloat(sitePrice)); // 01.11.2026 рішення Дмитра: ДоРечі на всіх сайтах = дроп-ціна ×2 (ціна сайту), без надбавки на комісію
-  if (/^TV-/.test(String(art || '').trim())) return Math.round(parseFloat(sitePrice)); // Talvi 18.10.2026: ціна сайту (як у взуття)
+  if (/^(TV|TALVI)-/.test(String(art || '').trim())) return Math.round(parseFloat(sitePrice)); // 04.11.2026: і Talvi-дроп — ціна сайту (дроп ×2), як на інших маркетплейсах // Talvi 18.10.2026: ціна сайту (як у взуття)
 if (/^4820000\d{6}$/.test(String(art || '').trim())) return Math.round(parseFloat(sitePrice)); // Timi Tex 22.10.2026: ціна сайту на всіх маркетплейсах (рішення Дмитра)
   { const a0 = String(art || '').trim(); if (p1ByArt_()[a0] > 0 || MB_CAB_[a0] > 0) return mbPrice_(a0, sitePrice); } // 02.11.2026: MagBaby = закупка ×2 (і для Епіцентру)
   let p1 = p1ByArt_()[String(art || '').trim()];

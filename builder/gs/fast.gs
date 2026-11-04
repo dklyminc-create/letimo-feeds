@@ -1407,3 +1407,132 @@ function ghSyncInstall() {
   ScriptApp.newTrigger('ghSync').timeBased().everyMinutes(30).create();
   ghSync();
 }
+
+// 04.11.2026: Talvi на Епіцентр — пошук категорій (наборів) і їх обов'язкових полів. Результат у _diag/epi-sets.txt
+function tvEpiSets() {
+  const out = [], rx = /волосс|резинк|заколк|шап|панам|головн|пов.яз|обідк|бандан|косинк|чепч|манішк|снуд|шарф|рукавиц|рукавич|мітен|плед|покрив|сукн|плать|плаття|костюм|комплект|кофт|светр|лонгсл|лосин/i;
+  for (let page = 41; page <= 200; page++) {
+    let r = epiGet_('/v2/pim/attribute-sets?page=' + page);
+    if (r.code !== 200) { Utilities.sleep(3000); r = epiGet_('/v2/pim/attribute-sets?page=' + page); }
+    if (r.code !== 200) { out.push('HTTP ' + r.code + ' p' + page); continue; }
+    const j = JSON.parse(r.body);
+    (j.items || []).forEach(function (it) {
+      const ua = ((it.translations || []).filter(function (t) { return t.languageCode === 'ua'; })[0] || {}).title || '';
+      if (rx.test(ua)) out.push(it.code + ' | ' + ua + ' | req: ' + it.attributes.filter(function (x) { return x.isRequired && !x.isSystem; }).map(function (x) { const t = ((x.translations || []).filter(function (q) { return q.languageCode === 'ua'; })[0] || {}).title || ''; return x.code + ':' + t + '(' + x.type + ')'; }).join(', '));
+    });
+    if (page >= (j.pages || 1)) { out.push('сторінок ' + page); break; }
+  }
+  for (let a = 0; a < 4; a++) { try { ghPublish_({ '_diag/epi-sets2.txt': out.join('\n') }, 'diag epi sets'); break; } catch (e) { Logger.log('publish: ' + e.message); Utilities.sleep(5000); } }
+  Logger.log('знайдено ' + out.length);
+}
+
+function tvEpiOptsDump() {
+  const out = [];
+  [['2417'], ['6635'], ['2418'], ['2419'], ['4112'], ['2427'], ['797'], ['805'], ['6585']].forEach(function (s) {
+    const S = s[0];
+    let attrs; try { attrs = epiSetAttrs_(S); } catch (e) { out.push(S + ' ERR ' + e.message); return; }
+    out.push('=== ' + S + ': ' + attrs.map(function (a) { return a.c + (a.r ? '*' : '') + ':' + a.n + '(' + a.t + ')'; }).join(', '));
+    attrs.forEach(function (a) {
+      if (!a.r || ['select', 'multiselect'].indexOf(a.t) < 0 || ['brand', 'country_of_origin', 'measure'].indexOf(a.c) >= 0) return;
+      try { const o = epiOptions_(S, a.c); const k = Object.keys(o); out.push('  ' + a.c + ' ' + a.n + ' [' + k.length + ']: ' + k.slice(0, a.c === '78' ? 400 : 250).join(' | ')); } catch (e) { out.push('  ' + a.c + ' ERR ' + e.message); }
+    });
+  });
+  try { epiFileSave_(); } catch (e) {}
+  for (let a = 0; a < 4; a++) { try { ghPublish_({ '_diag/epi-opts.txt': out.join('\n') }, 'diag epi opts'); break; } catch (e) { Utilities.sleep(5000); } }
+}
+
+// ===== TALVI-ДРОП → ЕПІЦЕНТР (04.11.2026) =====
+// Категорії Епіцентру для артикулів TALVI- (лише в наявності) і значення обов'язкових полів з назви та характеристик Talvi.
+// Значення беруться тільки з довідника Епіцентру; якщо підходящого немає — поле не заповнюється, товар пропускається (не вгадуємо).
+function tvSizeNorm_(s) { return String(s || '').toLowerCase().replace(/[–—]/g, '-').replace(/\s*см\.?\s*$/, '').replace(/\s+/g, '').trim(); }
+function tvSizePick_(s, opts) {
+  const n = tvSizeNorm_(s), keys = Object.keys(opts || {});
+  if (!n) return [];
+  if (/універс|onesize/.test(n)) { const k = keys.filter(function (x) { return /one size|універс/.test(x); })[0]; return k ? [k] : []; }
+  if (opts[n]) return [n];
+  const m = n.match(/^(\d+)(?:-(\d+))?$/); if (!m) return [];
+  const a = +m[1], b = +(m[2] || m[1]);
+  let best = null, bw = 1e9;
+  keys.forEach(function (k) { const q = k.match(/^(\d+)-(\d+)$/); if (q && +q[1] <= a && +q[2] >= b && (+q[2] - +q[1]) < bw) { best = k; bw = +q[2] - +q[1]; } });
+  if (best) return [best];
+  if (opts[String(a)]) return [String(a)];
+  if (opts[String(b)]) return [String(b)];
+  return [];
+}
+// Повертає правило [категорія, rx, набір, назва, пакування]; false — пропустити товар; undefined — звичайні правила.
+function tvDropEpiRule_(cat, nl, size) {
+  if (/кепк/.test(nl)) return [cat, /./, '6585', 'Кепки дитячі', 'small'];
+  if (/панам/.test(nl)) { try { if (tvSizePick_(size, epiOptions_('6635', '2293')).length) return [cat, /./, '6635', 'Дитячі панамки', 'small']; } catch (e) {} }
+  if (cat === '1128' || cat === '1136') return [cat, /./, '166', 'Головні убори для новонароджених', 'small'];
+  if (cat === '1122') return [cat, /./, '2418', 'Шарфи і снуди дитячі', 'small'];
+  if (cat === '1108') return [cat, /./, '4112', 'Пледи і покривала дитячі', 'big'];
+  if (cat === '1088') return false; // рукавички: розміри Talvi (0–12 міс, універсальний) не мають відповідника в довіднику Епіцентру
+  if (cat === '1150') {
+    if (/сукн|плать/.test(nl)) return [cat, /./, '797', 'Плаття дитячі', 'light'];
+    if (/костюм|комплект/.test(nl)) return [cat, /./, '2427', 'Костюми дитячі', 'mid'];
+    return [cat, /./, '805', 'Светри і кофти дитячі', 'mid'];
+  }
+  return undefined;
+}
+function tvDropEpiVals_(a, S, opts, P, nameUa) {
+  const nm = String(nameUa || '').toLowerCase(), keys = Object.keys(opts || {});
+  const pick = function (list) { const o = []; list.forEach(function (v) { v = String(v || '').toLowerCase().trim(); if (v && keys.indexOf(v) >= 0 && o.indexOf(v) < 0) o.push(v); }); return o; };
+  const c = String(a.c), size = P['Розмір'] || '';
+  const g = /дівч/.test(nm) && !/хлопч/.test(nm) ? 'g' : /хлопч/.test(nm) && !/дівч/.test(nm) ? 'b' : 'u';
+  if (c === '2293' || c === '5575') return tvSizePick_(size, opts);
+  if (c === '12036') {
+    const m = String(size + ' ' + nm).match(/(\d{2,3})\s*[*xх×]\s*(\d{2,3})/); if (!m) return [];
+    const x = +m[1], y = +m[2];
+    const k = keys.filter(function (z) { const q = z.match(/(\d+)\s*[xх]\s*(\d+)/); return q && ((+q[1] === x && +q[2] === y) || (+q[1] === y && +q[2] === x)); })[0];
+    return k ? [k] : [];
+  }
+  if (c === '2295' || c === '2465') {
+    const sz = String(P['Сезон'] || '').toLowerCase();
+    let v;
+    if (/зимов|утеплен|тепл|хутр|пухнаст|фліс|вушанк/.test(nm) || /зим/.test(sz)) v = ['зима', 'осінь'];
+    else if (/літн|панам|муслін|батист|одношаров|котонов/.test(nm) || /літ/.test(sz)) v = ['літо'];
+    else v = ['демісезон', 'весна', 'осінь'];
+    let r = pick(v); if (!r.length) r = pick(['демісезон']); return r;
+  }
+  if (c === '2292') return pick([g === 'g' ? 'для дівчинки' : g === 'b' ? 'для хлопчика' : 'унісекс']);
+  if (c === '2469') { const r = pick(g === 'g' ? ['для дівчаток', 'для дівчинки'] : g === 'b' ? ['для хлопчиків', 'для хлопчика'] : ['унісекс', 'дитячі']); return r.length ? r : pick(['для дівчаток', 'для хлопчиків']); }
+  if (c === '50' && S === '166') return pick([/комплект|набір/.test(nm) ? 'набір' : /косинк/.test(nm) ? 'косинка' : /чепчик/.test(nm) ? 'чепчик' : /пов.яз|чалм/.test(nm) ? "пов'язка" : /бандан/.test(nm) ? 'бандана' : 'шапочка']);
+  if (c === '51' && S === '2418') return pick([/ман[іи]шк|мон[іи]шк/.test(nm) ? 'манишка' : /снуд/.test(nm) ? 'снуд' : /хомут/.test(nm) ? 'хомут' : /комплект|набір/.test(nm) ? 'набір' : 'шарф']);
+  if (c === '2418' && S === '4112') return pick(['плед']);
+  if (c === '78') {
+    const sh = String(P['Відтінок'] || '').toLowerCase().replace(/№\s*\d+/g, '').replace(/(^|\s)[a-zа-яіїєґ]*-?\d+[a-zа-яіїєґ]*(?=\s|$)/g, ' ').replace(/\s+/g, ' ').trim();
+    const col = String(P['Колір'] || '').toLowerCase().trim();
+    return pick([sh, col, epiBaseColor_(col)]).slice(0, 1);
+  }
+  if (c === '12097') return pick([epiBaseColor_(P['Колір'] || ''), epiBaseColor_(P['Відтінок'] || '')]).slice(0, 1);
+  if (c === '52' || c === '5333') {
+    const sk = (String(P['Склад'] || '') + ' ' + nm).toLowerCase(), m = [];
+    [[/бавовн|котон|cotton/, 'бавовна'], [/муслін/, 'муслін'], [/батист/, 'батист'], [/акрил/, 'акрил'], [/вовн|мерин/, 'вовна'], [/віскоз|бамбук/, 'віскоза'],
+     [/поліест|поліефір/, 'поліестер'], [/еластан|спандекс|лайкр/, 'еластан'], [/фліс/, 'фліс'], [/велюр|тедді|плюш|велсофт/, c === '5333' ? 'велсофт' : 'велюр'], [/трикотаж|в.язан|рубчик/, 'трикотаж']
+    ].forEach(function (r) { if (r[0].test(sk) && m.indexOf(r[1]) < 0) m.push(r[1]); });
+    let out = pick(m); if (!out.length && c === '52' && S === '166') out = pick(['трикотаж']);
+    return out.slice(0, 3);
+  }
+  if (c === '11972' || c === '2200') {
+    const nums = (tvSizeNorm_(size).match(/\d+/g) || []).map(Number).filter(function (x) { return x >= 44 && x <= 182; });
+    if (c === '2200') { const r = pick([tvSizeNorm_(size)]); if (r.length) return r; }
+    return pick(nums.map(String)).slice(0, 2);
+  }
+  return null;
+}
+// Діагностика: звіт лише по Talvi-дропу → _diag/epi-talvi.json
+function epiDiagTalvi() {
+  EPI_DIAG_ = /TALVI-/;
+  const r = buildEpicentr_('report');
+  try { epiFileSave_(); } catch (e) {}
+  for (let i = 0; i < 4; i++) { try { ghPublish_({ '_diag/epi-talvi.json': r }, 'diag epi talvi'); break; } catch (e) { Utilities.sleep(5000); } }
+  Logger.log(r.slice(0, 3000));
+}
+
+function tvEpiProbe() {
+  const o = [], b = '/v2/pim/attribute-sets/166/attributes/78/options';
+  ['?page=1', '?filter%5Bsearch%5D=' + encodeURIComponent('чорний'), '?search=' + encodeURIComponent('чорний'), '?filter%5Bvalue%5D=' + encodeURIComponent('чорний'), '?filter%5Btitle%5D=' + encodeURIComponent('чорний'), '?filter%5Btranslations.value%5D=' + encodeURIComponent('чорний'), '?filter%5Bcodes%5D%5B%5D=black', '?limit=500', '?per_page=500', '?perPage=500'].forEach(function (q) {
+    try { const r = epiGet_(b + q); let info = ''; try { const j = JSON.parse(r.body); info = 'pages=' + j.pages + ' n=' + (j.items || []).length + ' first=' + JSON.stringify((j.items || []).slice(0, 2)).slice(0, 300); } catch (e) { info = r.body.slice(0, 200); } o.push(q + ' -> ' + r.code + ' ' + info); } catch (e) { o.push(q + ' ERR ' + e.message); }
+  });
+  for (let a = 0; a < 4; a++) { try { ghPublish_({ '_diag/epi-probe.txt': o.join('\n') }, 'diag probe'); break; } catch (e) { Utilities.sleep(5000); } }
+}
