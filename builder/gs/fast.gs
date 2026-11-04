@@ -1651,3 +1651,13 @@ function drFeedXml_() {
   return cached;
 }
 function drFeedTest() { DR_CACHE_ = null; PropertiesService.getScriptProperties().deleteProperty('DR_DOWN_UNTIL'); const x = drFeedXml_(); const c = drCacheLoad_(); const r_ = 'фід ' + x.length + ' симв., копія ' + (c ? c.length : 'НЕМАЄ') + ', офери ДоРечі: ' + drOffers_().offers.length; Logger.log(r_); return r_; }
+
+// 04.11.2026: MD5 через Utilities — серверний виклик, швидкість якого сильно скаче (Епіцентр падав по 6 хв).
+// Описи однакові в усіх розмірах моделі → рахуємо хеш один раз на текст.
+var PR_HASH_MEMO_ = {};
+function prHash_(s) {
+  s = String(s);
+  const m = PR_HASH_MEMO_[s]; if (m !== undefined) return m;
+  const h = Utilities.base64EncodeWebSafe(Utilities.computeDigest(Utilities.DigestAlgorithm.MD5, s, Utilities.Charset.UTF_8)).slice(0, 22);
+  PR_HASH_MEMO_[s] = h; return h;
+}
