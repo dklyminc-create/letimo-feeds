@@ -2318,7 +2318,7 @@ function epiOptions_(set, attr) {
       if (ua) map[String(ua.value).replace(/&#039;/g, "'").toLowerCase().trim()] = o.code;
     });
     page++;
-  } while (page <= pages && page <= 40);
+  } while (page <= pages && page <= (attr === '78' ? 150 : 40)); // 04.11.2026: кольори — 101 сторінка
   epiCachePut_(key, map); return map;
 }
 

@@ -1457,8 +1457,22 @@ function tvSizePick_(s, opts) {
   if (best) return [best];
   if (opts[String(a)]) return [String(a)];
   if (opts[String(b)]) return [String(b)];
-  return [];
+  // найближче значення довідника: найбільше перекриття діапазонів, мінус зайве поза нашим діапазоном
+  let bo = null, bs = 0;
+  keys.forEach(function (k) {
+    const q = k.match(/^(\d+)(?:-(\d+))?$/); if (!q) return;
+    const x = +q[1], y = +(q[2] || q[1]);
+    const ov = Math.min(b, y) - Math.max(a, x); if (ov < 0) return;
+    const sc = (q[2] ? ov : 0.5) - 0.5 * (Math.max(0, a - x) + Math.max(0, y - b));
+    if (sc > bs) { bs = sc; bo = k; }
+  });
+  return bo ? [bo] : [];
 }
+const TV_EPI_BASE_ = [[/бузо?к|лаванд|фіолет|сливов/, 'фіолетовий'], [/крем|таш|беж|мокко|кава|карамел|пісоч|капучин|молоч|айвор|вершк/, 'бежевий'],
+  [/пудр|рожев|корал|персик/, 'рожевий'], [/малин|червон|бордо|вишн/, 'червоний'], [/гірчиц|жовт|лимон/, 'жовтий'], [/оливк|хакі|м.ят|ментол|зелен|смараг/, 'зелений'],
+  [/графіт|антрацит|сір|попеляст|меланж/, 'сірий'], [/чорн/, 'чорний'], [/біл/, 'білий'], [/блакит|джинс|бірюз/, 'блакитний'], [/син/, 'синій'],
+  [/коричн|шоколад|теракот/, 'коричневий'], [/помаранч|оранж/, 'помаранчевий']];
+function tvBase_(s) { s = String(s || '').toLowerCase(); for (let i = 0; i < TV_EPI_BASE_.length; i++) if (TV_EPI_BASE_[i][0].test(s)) return TV_EPI_BASE_[i][1]; return epiBaseColor_(s); }
 // Повертає правило [категорія, rx, набір, назва, пакування]; false — пропустити товар; undefined — звичайні правила.
 function tvDropEpiRule_(cat, nl, size) {
   if (/кепк/.test(nl)) return [cat, /./, '6585', 'Кепки дитячі', 'small'];
@@ -1502,9 +1516,17 @@ function tvDropEpiVals_(a, S, opts, P, nameUa) {
   if (c === '78') {
     const sh = String(P['Відтінок'] || '').toLowerCase().replace(/№\s*\d+/g, '').replace(/(^|\s)[a-zа-яіїєґ]*-?\d+[a-zа-яіїєґ]*(?=\s|$)/g, ' ').replace(/\s+/g, ' ').trim();
     const col = String(P['Колір'] || '').toLowerCase().trim();
-    return pick([sh, col, epiBaseColor_(col)]).slice(0, 1);
+    return pick([sh, col, tvBase_(sh || col)]).slice(0, 1);
   }
-  if (c === '12097') return pick([epiBaseColor_(P['Колір'] || ''), epiBaseColor_(P['Відтінок'] || '')]).slice(0, 1);
+  if (c === '12097') return pick([tvBase_(P['Відтінок'] || ''), tvBase_(P['Колір'] || '')]).slice(0, 1);
+  if (c === '2075') return pick([/принт|малюнк/.test(nm) ? 'із принтом' : /горох|горош/.test(nm) ? 'горошок' : /смуж/.test(nm) ? 'смужка' : 'без візерунка (однотонний)']);
+  if (c === '1011') {
+    const top = /футболк/.test(nm) ? 'футболка' : /лонгслів|реглан/.test(nm) ? 'реглан' : /кофт|світшот|худі|толстовк/.test(nm) ? 'кофта' : /майк/.test(nm) ? 'майка' : /светр/.test(nm) ? 'светр' : /сорочк/.test(nm) ? 'сорочка' : '';
+    const bot = /лосин/.test(nm) ? ['лосини', 'легінси'] : /легінс/.test(nm) ? ['легінси', 'лосини'] : /штан|джогер/.test(nm) ? ['штани'] : /шорт/.test(nm) ? ['шорти'] : /спідн/.test(nm) ? ['спідниця'] : [];
+    if (!top) return [];
+    const cand = []; bot.forEach(function (x) { cand.push(top + ' і ' + x, top + ' та ' + x); if (top === 'кофта') cand.push('светр і ' + x); });
+    return pick(cand).slice(0, 1);
+  }
   if (c === '52' || c === '5333') {
     const sk = (String(P['Склад'] || '') + ' ' + nm).toLowerCase(), m = [];
     [[/бавовн|котон|cotton/, 'бавовна'], [/муслін/, 'муслін'], [/батист/, 'батист'], [/акрил/, 'акрил'], [/вовн|мерин/, 'вовна'], [/віскоз|бамбук/, 'віскоза'],
@@ -1529,10 +1551,35 @@ function epiDiagTalvi() {
   Logger.log(r.slice(0, 3000));
 }
 
+// 04.11.2026: довідник «Колір виробника» (78) Епіцентру — 101 сторінка; раніше читалось лише 40 (немає «чорний» тощо).
+// Разово читаємо повністю і кладемо в кеш для наборів, де він потрібен Talvi-дропу (код опцій спільний для атрибута).
+function tvEpiColorsWarm() {
+  const base = '/v2/pim/attribute-sets/166/attributes/78/options?page=';
+  const map = {}; let page = 1, pages = 1, fails = 0;
+  while (page <= pages && page <= 150) {
+    const r = epiGet_(base + page);
+    if (r.code !== 200) { if (++fails > 5) throw new Error('78 HTTP ' + r.code + ' p' + page); Utilities.sleep(2000); continue; }
+    const j = JSON.parse(r.body); pages = j.pages || 1;
+    (j.items || []).forEach(function (o) { const ua = (o.translations || []).filter(function (t) { return t.languageCode === 'ua'; })[0]; if (ua) map[String(ua.value).replace(/&#039;/g, "'").toLowerCase().trim()] = o.code; });
+    page++;
+  }
+  ['166', '2418', '4112', '6585', '2427', '797', '805', '6635'].forEach(function (S) {
+    try { if (epiSetAttrs_(S).some(function (a) { return a.c === '78'; })) epiCachePut_('epo3_' + S + '_78', map); } catch (e) { Logger.log(S + ': ' + e.message); }
+  });
+  EPI_FILE_N_ = 0; epiFileSave_();
+  Logger.log('Кольорів у довіднику: ' + Object.keys(map).length + ', сторінок ' + pages + '; чорний=' + !!map['чорний'] + ', бузок=' + !!map['бузок']);
+}
+
 function tvEpiProbe() {
   const o = [], b = '/v2/pim/attribute-sets/166/attributes/78/options';
   ['?page=1', '?filter%5Bsearch%5D=' + encodeURIComponent('чорний'), '?search=' + encodeURIComponent('чорний'), '?filter%5Bvalue%5D=' + encodeURIComponent('чорний'), '?filter%5Btitle%5D=' + encodeURIComponent('чорний'), '?filter%5Btranslations.value%5D=' + encodeURIComponent('чорний'), '?filter%5Bcodes%5D%5B%5D=black', '?limit=500', '?per_page=500', '?perPage=500'].forEach(function (q) {
     try { const r = epiGet_(b + q); let info = ''; try { const j = JSON.parse(r.body); info = 'pages=' + j.pages + ' n=' + (j.items || []).length + ' first=' + JSON.stringify((j.items || []).slice(0, 2)).slice(0, 300); } catch (e) { info = r.body.slice(0, 200); } o.push(q + ' -> ' + r.code + ' ' + info); } catch (e) { o.push(q + ' ERR ' + e.message); }
   });
   for (let a = 0; a < 4; a++) { try { ghPublish_({ '_diag/epi-probe.txt': o.join('\n') }, 'diag probe'); break; } catch (e) { Utilities.sleep(5000); } }
+}
+
+function tvEpiDbg() {
+  const P = { 'Колір': 'Бузок', 'Відтінок': 'Бузок' };
+  const o1 = epiOptions_('2427', '12097'), o2 = epiOptions_('2427', '78');
+  Logger.log('base=' + tvBase_('Бузок') + ' | 12097 n=' + Object.keys(o1).length + ' has=' + ('фіолетовий' in o1) + ' -> ' + JSON.stringify(tvDropEpiVals_({ c: '12097' }, '2427', o1, P, 'Костюм «Люсі», бузок, 86–92')) + ' | 78 n=' + Object.keys(o2).length + ' -> ' + JSON.stringify(tvDropEpiVals_({ c: '78' }, '2427', o2, P, 'x')) + ' | rx=' + TV_EPI_BASE_[0][0].source);
 }
