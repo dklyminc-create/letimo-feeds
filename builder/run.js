@@ -213,6 +213,42 @@ function loadCode() {
     try { const c = JSON.parse(fs.readFileSync(ruF, 'utf8')); c.n = c.n || {}; c.d = c.d || {}; return c; }
     catch (e) { console.log('ru-cache: ' + e.message); return { n: {}, d: {} }; }
   };
+  // Постійний словник перекладів назв Rozetka (UA → RU): у Google він жив у кеші між запусками, тут — у файлі репозиторію.
+  // Лежить у _test/ — цю папку workflow вже комітить.
+  const trF = path.join(ROOT, '_test', 'rz-tr.json');
+  let trMap = {}; try { trMap = JSON.parse(fs.readFileSync(trF, 'utf8')); } catch (e) { console.log('rz-tr: ' + e.message); }
+  let trSeeded = false;
+  if (!Object.keys(trMap).length) {
+    try {
+      const live = fs.readFileSync(path.join(ROOT, 'rozetka.xml'), 'utf8');
+      (live.match(/<offer\b[\s\S]*?<\/offer>/g) || []).forEach(function (o) {
+        const n = (o.match(/<name>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name>/) || [])[1];
+        const u = (o.match(/<name_ua>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name_ua>/) || [])[1];
+        if (n && u && n !== u) trMap[u] = n;
+      });
+      trSeeded = true; console.log('rz-tr: засіяно з rozetka.xml — ' + Object.keys(trMap).length);
+    } catch (e) { console.log('rz-tr seed: ' + e.message); }
+  }
+  const trStart = Object.keys(trMap).length; let trErr = 0, trLastErr = '';
+  ctx.rzTrRu_ = function (ua, vendor) {
+    if (trMap[ua]) return trMap[ua];
+    if (trErr >= 20) return null;
+    let ru = null;
+    try {
+      const parts = vendor ? ua.split(vendor) : [ua];
+      ru = parts.map(function (p) {
+        const m = p.match(/^(.*?)(\s*\(\d+\)\s*)?$/); const body = m[1], tail = m[2] || '';
+        return (/[А-Яа-яІіЇїЄєҐґ]/.test(body) ? LanguageApp.translate(body, 'uk', 'ru') : body) + tail;
+      }).join(vendor || '');
+    } catch (e) { trErr++; trLastErr = String(e && e.message || e); ru = null; }
+    if (ru && ru !== ua) trMap[ua] = ru;
+    return ru;
+  };
+  process.on('exit', function () {
+    const n = Object.keys(trMap).length;
+    console.log('rz-tr: було ' + trStart + ', стало ' + n + ', помилок перекладу ' + trErr + (trLastErr ? ' (' + trLastErr + ')' : ''));
+    if (n !== trStart || trSeeded) { try { fs.mkdirSync(path.dirname(trF), { recursive: true }); fs.writeFileSync(trF, JSON.stringify(trMap)); } catch (e) {} }
+  });
   ctx.ghPublish_ = function (files) { Object.keys(files).forEach(k => { let v = files[k]; if (/\.xml$/.test(k)) v = oos(v); write(k, Buffer.from(v, 'utf8')); }); };
   ctx.ghPublishBig_ = function (name, text) { write(name + '.gz', zlib.gzipSync(Buffer.from(oos(text), 'utf8'), { level: 9 })); };
   ctx.ghPublishLean_ = function (name, produce) {
@@ -227,6 +263,7 @@ function loadCode() {
 function patchForNode(code) {
   return code
     .replace(/TV_DROP_MAX_ = \d+;/g, 'TV_DROP_MAX_ = 0;')
+    .replace(/let trBudget = \d+;/, 'let trBudget = 1500;')
     .replace(/function tvCapChars_\(xml, maxChars\) \{/, 'function tvCapChars_(xml, maxChars) { return xml;')
     .replace(/headers: \{ Range: 'bytes=' \+ start \+ '-' \+ \(start \+ CH - 1\), 'Accept-Encoding': 'identity' \} \}/, 'headers: {} }')
     .replace(/const DR_FEED = [^;]*;/, "const DR_FEED = (PropertiesService.getScriptProperties().getProperty('DR_FEED_URL') || '');");
