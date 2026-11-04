@@ -191,6 +191,12 @@ function loadCode() {
   const OUT = path.join(ROOT, process.env.FEEDS_LIVE === '1' ? '' : '_test/'); // поки FEEDS_LIVE≠1 — тестова папка _test/
   const write = (name, data) => { const f = path.join(OUT, name); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, data); console.log('  → ' + path.relative(ROOT, f) + ' (' + (data.length / 1048576).toFixed(1) + ' МБ)'); };
   const oos = (t) => (typeof ctx.oosPatch_ === 'function' ? ctx.oosPatch_(t) : t);
+  // Кеш перекладів ru-cache.json лежить у цьому ж репозиторії — читаємо з диска (без токена GitHub API).
+  const ruF = path.join(ROOT, 'ru-cache.json');
+  ctx.prRuLoad_ = function () {
+    try { const c = JSON.parse(fs.readFileSync(ruF, 'utf8')); c.n = c.n || {}; c.d = c.d || {}; return c; }
+    catch (e) { console.log('ru-cache: ' + e.message); return { n: {}, d: {} }; }
+  };
   ctx.ghPublish_ = function (files) { Object.keys(files).forEach(k => { let v = files[k]; if (/\.xml$/.test(k)) v = oos(v); write(k, Buffer.from(v, 'utf8')); }); };
   ctx.ghPublishBig_ = function (name, text) { write(name + '.gz', zlib.gzipSync(Buffer.from(oos(text), 'utf8'), { level: 9 })); };
   ctx.ghPublishLean_ = function (name, produce) {
