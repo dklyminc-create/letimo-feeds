@@ -1388,11 +1388,12 @@ function rzTrSync() {
   if (n) ghPublish_({ '_data/rz-tr-gas.json': JSON.stringify(done) }, 'rz-tr +' + n);
   Logger.log('rzTrSync: перекладено ' + n + ', помилок ' + fail + ', у черзі було ' + Object.keys(todo).length);
 }
-// Запуск збірки фідів на GitHub Actions (розклад GitHub ненадійний — запускаємо самі, одразу після оновлення даних).
+// Запуск збірки фідів на GitHub Actions: комітимо «пульс» _data/tick.txt — workflow стартує на push цього файлу
+// (розклад GitHub ненадійний, а прямий запуск токен не дозволяє).
 function ghDispatch_() {
-  const p = PropertiesService.getScriptProperties();
-  const r = UrlFetchApp.fetch('https://api.github.com/repos/' + p.getProperty('GH_REPO') + '/actions/workflows/feeds.yml/dispatches', { method: 'post', contentType: 'application/json', payload: JSON.stringify({ ref: GH_BRANCH }), muteHttpExceptions: true, headers: { Authorization: 'Bearer ' + p.getProperty('GH_TOKEN'), Accept: 'application/vnd.github+json' } });
-  Logger.log('Запуск збірки на GitHub: HTTP ' + r.getResponseCode() + (r.getResponseCode() === 204 ? ' (ок)' : ' ' + r.getContentText().slice(0, 200)));
+  const stamp = Utilities.formatDate(new Date(), 'Europe/Kyiv', 'yyyy-MM-dd HH:mm:ss');
+  ghPublish_({ '_data/tick.txt': stamp + '\n' }, 'tick ' + stamp);
+  Logger.log('Збірку на GitHub запущено: ' + stamp);
 }
 function ghSync() {
   try { ghDataExport(); } catch (e) { Logger.log('ghDataExport: ' + e.message); }
