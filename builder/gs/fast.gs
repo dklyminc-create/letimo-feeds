@@ -1530,12 +1530,12 @@ function tvDropEpiVals_(a, S, opts, P, nameUa) {
   if (c === '51' && S === '2418') return pick([/ман[іи]шк|мон[іи]шк/.test(nm) ? 'манишка' : /снуд/.test(nm) ? 'снуд' : /хомут/.test(nm) ? 'хомут' : /комплект|набір/.test(nm) ? 'набір' : 'шарф']);
   if (c === '2418' && S === '4112') return pick(['плед']);
   if (c === '78') {
-    const sh = String(P['Відтінок'] || '').toLowerCase().replace(/№\s*\d+/g, '').replace(/(^|\s)[a-zа-яіїєґ]*-?\d+[a-zа-яіїєґ]*(?=\s|$)/g, ' ').replace(/\s+/g, ' ').trim();
-    const col = String(P['Колір'] || '').toLowerCase().trim();
+    const sh = String(P['Відтінок'] || P['Цвет'] || '').toLowerCase().replace(/№\s*\d+/g, '').replace(/(^|\s)[a-zа-яіїєґ]*-?\d+[a-zа-яіїєґ]*(?=\s|$)/g, ' ').replace(/\s+/g, ' ').trim();
+    const col = String(P['Колір'] || P['Цвет'] || '').toLowerCase().trim(); // 05.11.2026: в експорті сайту колір Talvi — у полі «Цвет»
     const sh2 = tvShade_(sh, nm); // 05.11.2026
     return pick([sh2, sh, col, tvBase_(sh2 || sh || col)]).slice(0, 1);
   }
-  if (c === '12097') return pick([tvBase_(tvShade_(P['Відтінок'] || '', nm)), tvBase_(P['Відтінок'] || ''), tvBase_(P['Колір'] || '')]).slice(0, 1);
+  if (c === '12097') return pick([tvBase_(tvShade_(P['Відтінок'] || P['Цвет'] || '', nm)), tvBase_(P['Відтінок'] || ''), tvBase_(P['Колір'] || P['Цвет'] || '')]).slice(0, 1);
   if (c === '51' && S === '7889') return pick([/мітен/.test(nm) ? 'мітенки' : 'рукавички', 'рукавички', 'мітенки']).slice(0, 1); // 05.11.2026
   if (c === '2075') return pick([/принт|малюнк/.test(nm) ? 'із принтом' : /горох|горош/.test(nm) ? 'горошок' : /смуж/.test(nm) ? 'смужка' : 'без візерунка (однотонний)']);
   if (c === '1011') {
