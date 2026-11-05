@@ -1,0 +1,54 @@
+name: Фід Епіцентру
+
+# 05.11.2026: Епіцентр перенесено з Google Apps Script — там експорт сайту (>50 МБ) обрізався,
+# і на Епіцентр не потрапляв «хвіст» каталогу (нові моделі Talvi тощо).
+# Поки змінна репозиторію EPI_LIVE ≠ 1 — фід пишеться в _test/epicentr.xml (живий epicentr.xml не чіпаємо).
+
+on:
+  schedule:
+    - cron: '0,30 * * * *'   # кожні 30 хв (між запусками фідів Prom/Kasta/Rozetka)
+  workflow_dispatch: {}
+
+concurrency:
+  group: feeds-build
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Зібрати фід Епіцентру
+        env:
+          MB_FEED_URL: ${{ secrets.MB_FEED_URL }}
+          DR_FEED_URL: ${{ secrets.DR_FEED_URL }}
+          EPICENTR_TOKEN: ${{ secrets.EPICENTR_TOKEN }}
+          FEEDS_LIVE: ${{ vars.EPI_LIVE }}
+        run: node --max-old-space-size=6144 builder/run.js epicentr
+
+      - name: Опублікувати
+        run: |
+          git config user.name "letimo-feeds-bot"
+          git config user.email "feeds-bot@users.noreply.github.com"
+          for f in epicentr.xml epi-cache.json _test/epicentr.xml _test/epi-cache.json; do
+            if [ -f "$f" ]; then git add -- "$f"; fi
+          done
+          if git diff --cached --quiet; then echo "Без змін"; exit 0; fi
+          git commit -m "actions: epicentr $(TZ=Europe/Kyiv date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
+            sleep $((i*5))
+          done
+          exit 1
