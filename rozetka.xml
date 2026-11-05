@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-06 00:11">
+<yml_catalog date="2026-11-06 00:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -194141,25 +194141,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
 <param name="Окружність голови" paramid="232291" valueid="3518599, 3518611">40, 42</param>
 </offer>
-   <offer id="10756" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3294451</article>
-<name><![CDATA[Демисезонная шапка для малышей «Амани» Talvi светло-серый 40–42 см]]></name>
-<name_ua><![CDATA[Демісезонна шапка для малюків «Амані» Talvi світло-сірий 40–42 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонна шапка для малюків  Амані </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язана шапка для найменших дітлахів</li><li>Виготовлена з м'якенької віскози, всередені бавовняна підкладка</li><li>UNISEX</li><li>Підійде орієнтовно для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю, орієнтуйтесь по розміру голівки, вказаний вік є орієнтовним)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</li><li>Вік: 0-1 міс</li><li>Розміри (обхват голови): 36 38 см, 38 40 см, 40 42 см, 42 44 см, 44 46 см</li><li>Кольори: Світлий хакі, Джинс, Білий, Кава, Світла пудра, Світло-сірий, Молочний, Блакитний, Світло-рожевий, Світлий беж</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Демисезонная шапка для детей Амани</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Вязаная шапка для самых маленьких детей</li><li> Изготовлена ​​из мягкой вискозы, внутри хлопковая подкладка.</li><li> UNISEX</li><li> Подойдет ориентировочно для малышей 0-1 мес (обратите внимание – детки могут рождаться сразу с большей окружностью, ориентируйтесь по размеру головки, указанный возраст является ориентировочным)</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: основа – 52% вискоза, 26% эластан, 22% нейлон; подклад – 95% хлопок, 5% эластан</li><li> Возраст: 0-1 мес</li><li> Размеры (обхват головы): 36 38 см, 38 40 см, 40 42 см, 42 44 см, 44 46 см.</li><li> Цвета: Светлый хаки, Джинс, Белый, Кофе, Светлая пудра, Светло-серый, Молочный, Голубой, Светло-розовый, Светлый беж</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на грани берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/7/50206166412723_%2B9766a24f63.jpg</picture>
-<picture>https://letimo.com.ua/content/images/7/58235342991540_%2Bfbc4493678.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008407">Сірий</param>
-<param name="Розмір">40–42 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
-<param name="Окружність голови" paramid="232291" valueid="3518599, 3518611">40, 42</param>
-</offer>
    <offer id="10757" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -231292,24 +231273,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518647">44, 48</param>
 </offer>
-   <offer id="14174" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3511451-1gika</article>
-<name><![CDATA[Зимняя шапка для малышей «День» Talvi светлый 36-38 см]]></name>
-<name_ua><![CDATA[Зимова шапка для малюків «Дінь» Talvi світлий 36–38 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для малюків  Дінь </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка з бавовняної пряжі для малюків на зав'яках</li><li>Додатково утеплена флісом</li><li>Декорована милою нашивкою з ведмедиком</li><li>Низ-фліс</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% бавовна, 50% ПАН</li><li>Розміри (обхват голови): 36 38 см, 40 42 см</li><li>Кольори: Світлий хакі, Гірчиця, Хакі, Джинс, Темно-синій, Чорний, Антрацит, Темний беж, Лавандовий, Темно-сірий меланж, Пудра, Небесний, Кава, Світлий джинс, Блакитний, Рожевий, Світла пудра, Світло-рожевий, Жовтий</li></ul>]]></description_ua>
-<price>324</price>
-<price_old>324</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/25/25332869593435_%2Bae1697a092.jpg</picture>
-<picture>https://letimo.com.ua/content/images/25/81957285472152_%2B45760c69c5.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008757">Хакі</param>
-<param name="Розмір">36–38 см</param>
-<param name="Склад">50% бавовна, 50% ПАН</param>
-<param name="Окружність голови" paramid="232291" valueid="3518575, 3518587">36, 38</param>
-</offer>
    <offer id="14175" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -231345,24 +231308,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">36–38 см</param>
 <param name="Склад">50% бавовна, 50% ПАН</param>
 <param name="Окружність голови" paramid="232291" valueid="3518575, 3518587">36, 38</param>
-</offer>
-   <offer id="14181" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3511451-rv8b1</article>
-<name><![CDATA[Зимняя шапка для малышей «День» Talvi темный 40–42 см]]></name>
-<name_ua><![CDATA[Зимова шапка для малюків «Дінь» Talvi темний 40–42 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для малюків  Дінь </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка з бавовняної пряжі для малюків на зав'яках</li><li>Додатково утеплена флісом</li><li>Декорована милою нашивкою з ведмедиком</li><li>Низ-фліс</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% бавовна, 50% ПАН</li><li>Розміри (обхват голови): 36 38 см, 40 42 см</li><li>Кольори: Світлий хакі, Гірчиця, Хакі, Джинс, Темно-синій, Чорний, Антрацит, Темний беж, Лавандовий, Темно-сірий меланж, Пудра, Небесний, Кава, Світлий джинс, Блакитний, Рожевий, Світла пудра, Світло-рожевий, Жовтий</li></ul>]]></description_ua>
-<price>324</price>
-<price_old>324</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/32/82472950025097_%2B9dde10ac46.jpg</picture>
-<picture>https://letimo.com.ua/content/images/32/66775362807472_%2B8e1adf02ba.jpg</picture>
-<param name="Колір">темний</param>
-<param name="Розмір">40–42 см</param>
-<param name="Склад">50% бавовна, 50% ПАН</param>
-<param name="Окружність голови" paramid="232291" valueid="3518599, 3518611">40, 42</param>
 </offer>
    <offer id="14182" available="true">
 <currencyId>UAH</currencyId>
