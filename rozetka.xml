@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-05 02:08">
+<yml_catalog date="2026-11-05 02:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -241829,7 +241829,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">92/98</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98677944" available="true">
+<offer id="98677944" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -241853,7 +241853,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-31369855496357_%2Bb9b13e71e0.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
@@ -244778,7 +244778,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">46см</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="91951698" available="true">
+<offer id="91951698" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>ДоРечі</vendor>
@@ -244788,7 +244788,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>М&#39;якенька приємна до тіла зимова шапочка з вовною мериноса &ndash; найкращий варіант зиму, бо вона дарує тепло та комфорт малятку навіть у найлютіші морози.</h2> <p>Неймовірно м&rsquo;якенька, тепла та зручна, а декор у вигляді пухнастого помпону додає шапочці яскраві нотки.</p> <p dir="ltr">Помпон знімний - на кнопці.</p> <p dir="ltr">Максимально натуральний склад пряжі - 35% віскоза, 30% меринос, 25% бавовна + 10% нейлон для еластичності, завдяки чому шапочка надійно зберігає тепло, не створює парникового ефекту та не електризується.</p> <p dir="ltr">Шапка легко одягається та надійно тримається на голові.</p> <p dir="ltr">Вушка дитини добре захищені, а зав&#39;язки надійно фіксують виріб на голові. </p> <p dir="ltr">Додаткове утеплення силіконізованим синтепоном для безкомпромісного захисту </p> <p dir="ltr">Подкладка: 100% бавовна. Дуже важливо, щоб голівка дитини торкалася виключно натуральних матеріалів, тому згідно санітарних норм у шапочках для дітей до року дозволено використовувати у якості підкладки лише бавовну</p> <p dir="ltr">Ідеально поєднується зі снудами з цієї ж пряжі, які можна придбати додатково.</p> <p dir="ltr">Поради по догляду</p> <p dir="ltr">Перед пранням обов&rsquo;язково зняти помпон. Для чистки не користуйтеся пральною машиною і сушкою. Лише ручне прання у теплій воді з засобом для прання вовни. Не використовуйте пом&rsquo;якшувачі, відбілювачі, миючі засоби або інші продукти, що містять відбілюючі інгредієнти.</p> <p dir="ltr">Не прасувати.</p>]]></description_ua>
 <price>1000</price>
 <price_old>1000</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/34/merino-beanie-milk-48-81699454897420_%2Be6e2f7ef2f.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/merino-beanie-milk-46-39918708569808_%2Bec530868a4.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/merino-beanie-milk-50-90308598836285_%2Beeddbd1b52.jpeg</picture>
