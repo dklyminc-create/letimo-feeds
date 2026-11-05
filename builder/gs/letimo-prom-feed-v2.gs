@@ -3403,7 +3403,7 @@ function tvDropAvail_(xml) {
     keptGroups[g] = 1; kept++;
     // 04.11.2026: для маркетплейсів — опис Talvi без «Як обрати розмір» і FAQ (на сайті повний)
     o = o.replace(/<h3>(?:Як обрати розмір|Часті запитання)<\/h3>[\s\S]*?(?=\]\]>|<\/description)/g, '');
-    return o.replace(/available="false"/, 'available="true"');
+    return o.replace(/available="[^"]*"/, 'available="true"'); // 05.11.2026: у Horoshop для дропу буває available="" (порожньо) — раніше такі позиції лишались «не в наявності»
   });
   TV_DROP_STATE_.kept = kept;
   Logger.log('Talvi-дроп: лишено ' + kept + ', не в наявності прибрано ' + cut + (capped ? ', понад ліміт ' + TV_DROP_MAX_ + ' знято ' + capped : ''));
