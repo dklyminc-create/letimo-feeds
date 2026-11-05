@@ -6,7 +6,8 @@
  * Ліміту 50 МБ і пам'яті Google тут немає.
  *
  * Використання: node builder/run.js <job> [<job> ...]
- *   job: prom | kasta | rozetka
+ *   job: prom | kasta | rozetka | epicentr
+ * 05.11.2026: + epicentr — у Google експорт сайту >50 МБ обрізався, і на Епіцентр не потрапляв «хвіст» каталогу.
  */
 'use strict';
 const fs = require('fs');
@@ -121,6 +122,16 @@ const SpreadsheetApp = {
 let fetchN = 0;
 function fetchOne(url, opt) {
   opt = opt || {};
+  // 05.11.2026: читання файлів цього ж репозиторію через GitHub API (epi-cache.json тощо) — беремо з диска, токен не потрібен.
+  const ghFile = String(opt.method || 'get').toLowerCase() === 'get' && String(url).match(/^https:\/\/api\.github\.com\/repos\/.+?\/contents\/([^?]+)\?ref=/);
+  if (ghFile) {
+    const lf = path.join(ROOT, decodeURIComponent(ghFile[1]));
+    const ok = fs.existsSync(lf);
+    const body = ok ? fs.readFileSync(lf) : Buffer.from('{"message":"Not Found"}');
+    const code = ok ? 200 : 404;
+    if (code >= 400 && !opt.muteHttpExceptions) throw new Error('Request failed for ' + url.replace(/\?.*/, '') + ' returned code ' + code);
+    return { getResponseCode: () => code, getContentText: () => body.toString('utf8'), getContent: () => bytesOut(body), getBlob: () => new Blob(body, 'application/octet-stream'), getHeaders: () => ({}), getAllHeaders: () => ({}) };
+  }
   const n = ++fetchN;
   const bodyF = path.join(TMP, 'b' + n), hdrF = path.join(TMP, 'h' + n);
   const args = ['-sS', '--compressed', '-o', bodyF, '-D', hdrF, '-w', '%{http_code}', '--max-time', '600', '-X', String(opt.method || 'get').toUpperCase()];
@@ -277,13 +288,16 @@ function patchForNode(code) {
     .replace(/let trBudget = \d+;/, 'let trBudget = 30000;')
     .replace(/function tvCapChars_\(xml, maxChars\) \{/, 'function tvCapChars_(xml, maxChars) { return xml;')
     .replace(/headers: \{ Range: 'bytes=' \+ start \+ '-' \+ \(start \+ CH - 1\), 'Accept-Encoding': 'identity' \} \}/, 'headers: {} }')
-    .replace(/const DR_FEED = [^;]*;/, "const DR_FEED = (PropertiesService.getScriptProperties().getProperty('DR_FEED_URL') || '');");
+    .replace(/const DR_FEED = [^;]*;/, "const DR_FEED = (PropertiesService.getScriptProperties().getProperty('DR_FEED_URL') || '');")
+    // 05.11.2026 Епіцентр: без 5-хвилинного ліміту Google; кеш довідників старший за 7 днів беремо, якщо немає EPICENTR_TOKEN (інакше перечитуємо з API)
+    .replace(/Date\.now\(\) - EPI_T0_ > 290000/g, 'false')
+    .replace('if (!f.t || Date.now() - f.t > 7 * 864e5) return;', "if (!f.t || (Date.now() - f.t > 7 * 864e5 && PropertiesService.getScriptProperties().getProperty('EPICENTR_TOKEN'))) return;");
 }
 
 /* ---------------- запуск ---------------- */
 function main() {
   const jobs = process.argv.slice(2);
-  if (!jobs.length) { console.error('Вкажіть задачу: prom | kasta | rozetka'); process.exit(2); }
+  if (!jobs.length) { console.error('Вкажіть задачу: prom | kasta | rozetka | epicentr'); process.exit(2); }
   const ctx = loadCode();
   let failed = 0;
   jobs.forEach(job => {
