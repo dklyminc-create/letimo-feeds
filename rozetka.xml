@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-05 18:38">
+<yml_catalog date="2026-11-05 19:10">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -240912,7 +240912,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">92/98</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235381" available="true">
+<offer id="98235381" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -240924,7 +240924,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: мембранна тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>4140</price>
 <price_old>4140</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/3/trend_leopard-11412626683719_%2Bb0df945dc1.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/trend_leopard-63749453840331_%2Be18707bc3c.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/trend_leopard-95219431657584_%2B2e1ae46462.jpg</picture>
