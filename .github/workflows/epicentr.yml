@@ -5,6 +5,9 @@ name: Фід Епіцентру
 # Поки змінна репозиторію EPI_LIVE ≠ 1 — фід пишеться в _test/epicentr.xml (живий epicentr.xml не чіпаємо).
 
 on:
+  push:
+    branches: [main]
+    paths: ['_data/tick.txt']   # 05.11.2026: «пульс» від Apps Script кожні 30 хв — розклад GitHub цю збірку не запускав
   schedule:
     - cron: '0,30 * * * *'   # кожні 30 хв (між запусками фідів Prom/Kasta/Rozetka)
   workflow_dispatch: {}
