@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-05 01:52">
+<yml_catalog date="2026-11-05 02:54">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -152285,7 +152285,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2075-74-O" available="true">
+<offer id="DR-2075-74-O" available="false">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -156215,7 +156215,7 @@
 <param name="Обхват голови" paramcode="2127" valuecode="bc5ab465568e5b8ff34dc0d8643a600b">46</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
-<offer id="DR-2009-48" available="true">
+<offer id="DR-2009-48" available="false">
 <price>1000</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
