@@ -2596,7 +2596,7 @@ function buildEpicentr_(mode, from) {
     let attrsList; try { attrsList = epiSetAttrs_(S); } catch (e) { skip('API: ' + e.message); return all; }
     attrsList.forEach(function (a) {
       if (EPI_SYS.indexOf(a.c) > -1) return;
-      if (a.t !== 'select' && a.t !== 'multiselect') { if (a.r) miss.push(a.n); return; }
+      if (a.t !== 'select' && a.t !== 'multiselect') { if (a.c === '7286' && /^TALVI-/.test(art) && size) { parts.push('<param lang="ua" paramcode="7286" name="' + xmlEsc_(a.n) + '">' + xmlEsc_(/універс/i.test(size) ? 'Універсальний' : String(size).replace(/(\s*см)+$/, ' см')) + '</param>'); return; } if (a.r) miss.push(a.n); return; } // 05.11.2026: «Розмір виробника» (текст) для Talvi
       let opts; try { opts = epiOptions_(S, a.c); } catch (e) { if (a.r) miss.push(a.n + ' (API)'); return; }
       if (ctx.dr && a.c === '78') opts = Object.assign({}, opts, DR_EPI_COLOR78); // ДоРечі: базові кольори довідника
     if (/^TALVI-/.test(art)) { const dv = tvDropEpiVals_(a, S, opts, P, nameUa); if (dv && dv.length) { const tp = epiParam_(a.n, a.c, opts, dv); if (tp) { parts.push(tp); return; } } }
