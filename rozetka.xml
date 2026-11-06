@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-06 22:08">
+<yml_catalog date="2026-11-06 22:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -126140,7 +126140,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802599</barcode>
 </offer>
-   <offer available="false" id="6038">
+   <offer id="6038" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -126392,7 +126392,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6979215727948</barcode>
 </offer>
-   <offer available="false" id="6052">
+   <offer id="6052" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -127412,7 +127412,7 @@ SYSTEM "shops.dtd">
 <param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
 </offer>
    
-   <offer available="false" id="6098">
+   <offer id="6098" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -237091,24 +237091,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
 </offer>
-   <offer id="14801" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi белый 42-44 см]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi білий 42–44 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/2/12870887553644_%2Ba075675511.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/92298556844722_%2B218a91042e.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008176">Білий</param>
-<param name="Розмір">42–44 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
-</offer>
    <offer id="14803" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -249712,24 +249694,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/19/68837395693601_%2B6eca0cd2ab.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/31496126967234_%2B5f77754e4b.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">46 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635">46</param>
-</offer>
-   <offer id="15719" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451</article>
-<name><![CDATA[Милый шлем с флисом «Тедди» Talvi черный 46 см]]></name>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді» Talvi чорний 46 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>580</price>
-<price_old>580</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/20/76446086112635_%2B3f7a88fa90.jpg</picture>
-<picture>https://letimo.com.ua/content/images/20/20727389336778_%2B3d2c591f29.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">46 см</param>
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="Окружність голови" paramid="232291" valueid="3518635">46</param>
