@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-06 20:08">
+<yml_catalog date="2026-11-06 20:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -249572,24 +249572,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="Окружність голови" paramid="232291" valueid="3518647">48</param>
 </offer>
-   <offer id="15707" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451</article>
-<name><![CDATA[Милый шлем с флисом «Тедди» Talvi черный 48 см]]></name>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді» Talvi чорний 48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>580</price>
-<price_old>580</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/8/98085773369087_%2Bd852bd547c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/8/11145515789894_%2B0008c5d84f.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
-<param name="Розмір">48 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647">48</param>
-</offer>
    <offer id="15710" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -251194,6 +251176,81 @@ SYSTEM "shops.dtd">
 <param name="Розмір">92/98</param>
 <param name="Країна виробник">Україна</param>
 </offer>
+<offer id="98677944" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82686920</article>
+<name><![CDATA[Комбинезон зимний Аполло Зеленый с опушкой ДоРечі зеленый 74/80 (98677944)]]></name>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений з опушкою ДоРечі зелений 74/80 (98677944)]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3790</price>
+<price_old>3790</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-31369855496357_%2Bb9b13e71e0.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-48027314591486_%2B224cf6b352.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-92433169064501_%2B9c184e0f53.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-65116632976814_%2B4a171303aa.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-84047150826776_%2Be396add2a1.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-61648238513078_%2B880654deb8.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-26877870677821_%2B65815dce15.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-14807154753602_%2B0c601a2f9f.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">74/80</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98709657" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82686920</article>
+<name><![CDATA[Комбинезон зимний Аполло Зеленый с опушкой ДоРечі зеленый 86/92 (98709657)]]></name>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений з опушкою ДоРечі зелений 86/92 (98709657)]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3790</price>
+<price_old>3790</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/15/apollo_green_fur_86-21479016608490_%2B41a37dab09.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-48027314591486_%2B224cf6b352.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-92433169064501_%2B9c184e0f53.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-65116632976814_%2B4a171303aa.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-84047150826776_%2Be396add2a1.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-61648238513078_%2B880654deb8.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-26877870677821_%2B65815dce15.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-14807154753602_%2B0c601a2f9f.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">86/92</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98735604" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82686920</article>
+<name><![CDATA[Комбинезон зимний Аполло Зеленый с опушкой ДоРечі зеленый 92/98 (98735604)]]></name>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений з опушкою ДоРечі зелений 92/98 (98735604)]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3790</price>
+<price_old>3790</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/16/apollo_green_fur_92-22644889649315_%2B3b32d5d04b.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-48027314591486_%2B224cf6b352.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-92433169064501_%2B9c184e0f53.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-65116632976814_%2B4a171303aa.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-84047150826776_%2Be396add2a1.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-61648238513078_%2B880654deb8.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-26877870677821_%2B65815dce15.jpg</picture>
+<picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-14807154753602_%2B0c601a2f9f.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">92/98</param>
+<param name="Країна виробник">Україна</param>
+</offer>
 <offer id="98703891" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
@@ -251637,6 +251694,54 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/2/discovery_black-65676681884308_%2B1e36775a56.jpeg</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">56-74 см</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98297303" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82993837</article>
+<name><![CDATA[Комбинезон зимний Аполло Зеленый ДоРечі зеленый 86/92 (98297303)]]></name>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений ДоРечі зелений 86/92 (98297303)]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3280</price>
+<price_old>3280</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/38/apollo_green_86-69096349075147_%2B6cc8f55a84.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-61138235202533_%2Bdf3dceb8b6.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-18197544642694_%2Bf338ec9569.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-28508797979046_%2B8c7ba231f6.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-93742491907798_%2B564314cdde.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-92735416605787_%2Bb196698987.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-89490613220087_%2Bda9994eab3.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">86/92</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98297330" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82993837</article>
+<name><![CDATA[Комбинезон зимний Аполло Зеленый ДоРечі зеленый 92/98 (98297330)]]></name>
+<name_ua><![CDATA[Комбінезон зимовий Аполло Зелений ДоРечі зелений 92/98 (98297330)]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
+<price>3280</price>
+<price_old>3280</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/39/apollo_green_92-19696119605158_%2Bde5d70f081.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-61138235202533_%2Bdf3dceb8b6.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-18197544642694_%2Bf338ec9569.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-28508797979046_%2B8c7ba231f6.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-93742491907798_%2B564314cdde.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-92735416605787_%2Bb196698987.jpg</picture>
+<picture>https://dorechi.ua/content/images/36/apollo_green_74-89490613220087_%2Bda9994eab3.jpg</picture>
+<param name="Колір">зелений</param>
+<param name="Розмір">92/98</param>
 <param name="Країна виробник">Україна</param>
 </offer>
 <offer id="98297270" available="false">
