@@ -49,9 +49,13 @@ jobs:
           done
           if git diff --cached --quiet; then echo "Без змін"; exit 0; fi
           git commit -m "actions: epicentr $(TZ=Europe/Kyiv date '+%Y-%m-%d %H:%M')"
-          for i in 1 2 3 4 5; do
+          # 07.11.2026: push відхилявся, коли паралельно писав Apps Script, а pull --rebase падав через незакомічені службові файли
+          # (fatal: no rebase in progress → exit 128). Тепер: прибираємо зайве, --autostash і жоден крок повтору не валить задачу.
+          git checkout -- . 2>/dev/null || true
+          git clean -fdq -e epicentr.xml -e epi-cache.json -e _test/ 2>/dev/null || true
+          for i in 1 2 3 4 5 6; do
             if git push; then exit 0; fi
-            git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
+            git pull --rebase --autostash -X theirs || { git rebase --abort 2>/dev/null || true; git pull --no-rebase --autostash -X ours || true; }
             sleep $((i*5))
           done
           exit 1
