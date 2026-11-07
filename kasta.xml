@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-07 20:08">
+<yml_catalog date="2026-11-07 20:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -137503,23 +137503,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7761" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3131451-1gjc4</article>
-<name_ua><![CDATA[Манішка з флісом «Кріпер»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Манішка з флісом  Кріпер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла манішка з тематичним дизайном Minecraft</li><li>Щільна в'язка + додатково утеплена шаром флісу по всій грудині</li><li>Горловина вив'язана в щільний рубчик, що забезпечує її еластичність</li><li>Підійде на холодну осінь-зиму</li><li>Орієнтовно на вік від 3-х років, а також підліткам з окружністю голівки до 54 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри: 48 54 см</li><li>Кольори: Світлий хакі, Гірчиця, Бежевий, Світло-сірий меланж, Кавовий, Світло-сірий, Світлий джинс, Індиго, Темно-сірий меланж</li></ul>]]></description_ua>
-<price>464</price>
-<price_old>464</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/74282305544541_%2Bc8b2a1b7c4.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/12498320376540_%2B91be994589.jpg</picture>
-<param name="Колір">світло-сірий</param>
-<param name="Розмір">48–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="7762" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -147091,23 +147074,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="8802" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3193451</article>
-<name_ua><![CDATA[Зимовий комплект «Піксель»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимовий комплект  Піксель </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Дуже теплий зимовий комплект для хлопчиків</li><li>Шапка декорована нашивкою з Minecraft</li><li>Двошарова, з відворотом, утеплена флісом по всій площині зсередини</li><li>Відворот не закріплений, можна регулювати до межі початку флісової підкладки</li><li>Хомут двошаровий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 4-10 років</li><li>Розміри (обхват голови): 50 54 см</li><li>Кольори: Кавовий, Темно-сірий меланж, Чорний, Темно-синій, Світло-сірий меланж</li></ul>]]></description_ua>
-<price>780</price>
-<price_old>780</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/3/90967722976734_%2B0fee635185.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/69927255280793_%2Bc26cab6ab7.jpg</picture>
-<param name="Колір">кавовий</param>
-<param name="Розмір">50–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="8803" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -147121,23 +147087,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/4/92721282437613_%2Be95fcf6434.jpg</picture>
 <picture>https://letimo.com.ua/content/images/4/79220342742296_%2B67b3a3702e.jpg</picture>
 <param name="Колір">темно-сірий</param>
-<param name="Розмір">50–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="8805" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3193451</article>
-<name_ua><![CDATA[Зимовий комплект «Піксель»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимовий комплект  Піксель </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Дуже теплий зимовий комплект для хлопчиків</li><li>Шапка декорована нашивкою з Minecraft</li><li>Двошарова, з відворотом, утеплена флісом по всій площині зсередини</li><li>Відворот не закріплений, можна регулювати до межі початку флісової підкладки</li><li>Хомут двошаровий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 4-10 років</li><li>Розміри (обхват голови): 50 54 см</li><li>Кольори: Кавовий, Темно-сірий меланж, Чорний, Темно-синій, Світло-сірий меланж</li></ul>]]></description_ua>
-<price>780</price>
-<price_old>780</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/6/53761975143840_%2B3df8bd4a22.jpg</picture>
-<picture>https://letimo.com.ua/content/images/6/67711151223726_%2B9c2bf6330a.jpg</picture>
-<param name="Колір">темно-синій</param>
 <param name="Розмір">50–54 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -178511,23 +178460,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% бавовна, 25% еластан, 25% нейлон</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="11909" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3367451-cb6c7</article>
-<name_ua><![CDATA[Шапка Харті]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка Харті</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила шапка для дівчаток в сердечка</li><li>Декорована трикотажним помпоном та фірмовим шевроном talvi, з відворотом, що закріплений</li><li>Утеплена флісом по всій площині зсередини</li><li>Підійде для дівчаток орієнтовно 3-5 рочків</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 50 52 см</li><li>Кольори: Лаванда, Рожевий, Пудра, Світло-сірий меланж, Темна пудра</li></ul>]]></description_ua>
-<price>317</price>
-<price_old>317</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/10/97262529262572_%2Ba1b826c571.jpg</picture>
-<picture>https://letimo.com.ua/content/images/10/89776553778032_%2Ba7d8ab6d6a.jpg</picture>
-<param name="Колір">фіолетовий</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="11910" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -191460,23 +191392,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/6/88107828626732_%2B50b9944a42.jpg</picture>
 <picture>https://letimo.com.ua/content/images/6/96407660923526_%2B48f551dfbd.jpg</picture>
 <param name="Колір">гірчичний</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">верх - вовна 50%, ПАН 50%, низ - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="13306" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3454451-1gbss</article>
-<name_ua><![CDATA[Тепла зимова шапка «Альфа»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тепла зимова шапка  Альфа </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Дитяча зимова шапочка на зав'язках</li><li>Утеплена флісом</li><li>Вовна - це теплий та м'який матеріал, який дозволяє шкірі голови дихати і не перегріватися, а акрил додає міцності та еластичності, що робить шапку більш зносостійкою та довговічною.</li><li>Фліс - це м'який та легкий матеріал, який відводить вологу від тіла та дозволяє шкірі голови дихати, забезпечує додаткове тепло та комфорт</li><li>Підійде на 1-2 рочки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - вовна 50%, ПАН 50%, низ - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: Теракотовый меланж, Гірчичний, Бузковий меланж, Синьо-червоний меланж, Зелений меланж, Джинсовий меланж, Рожевий меланж, Малиновий меланж</li></ul>]]></description_ua>
-<price>305</price>
-<price_old>305</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/7/55668174152086_%2B3e51558f04.jpg</picture>
-<picture>https://letimo.com.ua/content/images/7/87123559904548_%2Bf628009f0d.jpg</picture>
-<param name="Колір">бузковий</param>
 <param name="Розмір">46–48 см</param>
 <param name="Склад">верх - вовна 50%, ПАН 50%, низ - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -220885,6 +220800,24 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+<offer id="98236090" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1103</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT84565011</article>
+<name_ua><![CDATA[Пінетки зимові Зимова галявина]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>820</price>
+<price_old>820</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-39415015254213_%2Bcd1e775ab8.jpg</picture>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-29285581116337_%2Bc26f81002d.jpg</picture>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-32600579958969_%2B2b15549b43.jpg</picture>
+<picture>https://dorechi.ua/content/images/2/booties_winter_meadow-31226397704079_%2Bfaef5ca258.jpg</picture>
+<param name="Розмір">14 (0-18м)</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
 <offer id="98235405" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
@@ -220962,6 +220895,25 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/48/kozirki-vid-soncyadouble-shade-dorechi-soncezahisniy-kozirok-20443755749734_%2B1268d92a06.jpg</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+<offer id="98213987" available="false">
+<currencyId>UAH</currencyId>
+<categoryId>1103</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT87505628</article>
+<name_ua><![CDATA[Пінетки зимові Бежеві]]></name_ua>
+<description_ua><![CDATA[]]></description_ua>
+<price>660</price>
+<price_old>660</price_old>
+<stock_quantity>0</stock_quantity>
+<picture>https://dorechi.ua/content/images/4/booties_beige-69417790893107_%2Bc91167211c.jpg</picture>
+<picture>https://dorechi.ua/content/images/4/booties_beige-64213708793524_%2Bbadf1cc06b.jpg</picture>
+<picture>https://dorechi.ua/content/images/4/booties_beige-21444701128549_%2Bd561723fb7.jpg</picture>
+<picture>https://dorechi.ua/content/images/4/booties_beige-68107678983331_%2B50e9b53bcd.jpg</picture>
+<param name="Колір">бежевий</param>
+<param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
