@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-07 14:39">
+<yml_catalog date="2026-11-07 15:11">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -254806,7 +254806,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">48-52см</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="90349585" available="false">
+<offer id="90349585" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>ДоРечі</vendor>
@@ -254816,7 +254816,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>М&rsquo;яка приємна до тіла бавовняна шапочка &ndash; найкращий варіант на весну та осінь, коли протягом дня тепло чергується з прохолодою.</h2> <p>Виготовлена з еластичного кашкорсе з натуральної бавовни (95% бавовна, 5% еластан). Має зручну посадку по голові та стильний подовжений край.</p> <p>Легко чиститься та довгий час зберігає свій колір.</p> <p>Шапочка доступна до замовлення у двох розмірах 44-48 (до року-півтора) та 48-52 (від року до чотирьох)</p> <p>Ідеально поєднується зі снудами виробництва ДоРечі.</p> <p>Поради по догляду.</p> <p>Прати в пральній машині в режимах &ldquo;Бавовна&rdquo; чи &ldquo;Делікатне прання&rdquo; за температури 30&deg;С з неагресивним пральним засобом, з речами подібними по тону, уникати сусідства з речами, які мають елементи, що можуть пошкодити тканину (металевий декор, гострі гудзики, застібки-блискавки).</p> <p>Для збереження природної ніжності бавовни бажано застосовувати пом&rsquo;якшуючі тканину ополіскувачі.</p> <p>Віджим 400 обертів. Сушіння у горизонтальному положенні, уникати пересушування та прямої дії сонячних променів.</p> <p>Прасувати праскою з відпарюванням.</p>]]></description_ua>
 <price>436</price>
 <price_old>436</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/30/beanie_pink_44-61008537933808_%2Bfc99bc4705.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/beanie_pink_44-22657494682985_%2B93cb2e51ab.jpg</picture>
 <picture>https://dorechi.ua/content/images/31/beanie_pink_48-15236171333409_%2B38e669d85a.jpg</picture>
