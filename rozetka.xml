@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-07 14:08">
+<yml_catalog date="2026-11-07 14:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -229988,24 +229988,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518671, 3518683">52, 54</param>
 </offer>
-   <offer id="14099" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3507451</article>
-<name><![CDATA[Зимняя шапка для девочек «Капи» Talvi бежевый 44–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка для дівчат «Капі» Talvi бежевий 44–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для дівчат  Капі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для дівчаток на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та милою нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон на кнопці, можна знімати для зручності прання</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см</li><li>Кольори: Білий, Бежевий, Чорний, Молочний, Персикова пудра, Сірий, Коричневий, Кава, Світла пудра, Світлий беж</li></ul>]]></description_ua>
-<price>640</price>
-<price_old>640</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/50/20689495922332_%2B49a0a033e9.jpg</picture>
-<picture>https://letimo.com.ua/content/images/50/82206004828201_%2B9aac7cb157.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008148">Бежевий</param>
-<param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518623, 3518647">44, 48</param>
-</offer>
    <offer id="14100" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -230020,24 +230002,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/1/47931368745681_%2B1163e33e65.jpg</picture>
 <picture>https://letimo.com.ua/content/images/1/30536732032798_%2Bc5a33c4a26.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
-<param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518623, 3518647">44, 48</param>
-</offer>
-   <offer id="14102" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3507451-148lq</article>
-<name><![CDATA[Зимняя шапка для девочек «Капи» Talvi розовый 44–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка для дівчат «Капі» Talvi рожевий 44–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для дівчат  Капі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для дівчаток на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та милою нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон на кнопці, можна знімати для зручності прання</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см</li><li>Кольори: Білий, Бежевий, Чорний, Молочний, Персикова пудра, Сірий, Коричневий, Кава, Світла пудра, Світлий беж</li></ul>]]></description_ua>
-<price>640</price>
-<price_old>640</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/3/45844716358100_%2B526642a264.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/86397445818471_%2B6f3e72cf01.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1273336">Рожевий</param>
 <param name="Розмір">44–48 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518647">44, 48</param>
