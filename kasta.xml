@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-08 18:08">
+<yml_catalog date="2026-11-08 18:23">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -216757,7 +216757,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504459" available="true">
+<offer id="94504459" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216779,7 +216779,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-47551914176955_%2Bada16e283b.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
@@ -216862,7 +216862,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504519" available="true">
+<offer id="94504519" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216884,7 +216884,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/apollo_first_snow_92-25850798208141_%2B303c6f945c.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
