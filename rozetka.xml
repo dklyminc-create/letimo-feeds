@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-08 16:10">
+<yml_catalog date="2026-11-08 16:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -209797,25 +209797,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">52% віскоза, 26% еластан, 22% нейлон</param>
 <param name="Окружність голови" paramid="232291" valueid="3518671">52</param>
 </offer>
-   <offer id="12212" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3386451</article>
-<name><![CDATA[Шапка в рваном стиле «Мармеладка» Talvi темно-серый 52–56 см]]></name>
-<name_ua><![CDATA[Шапка у рваному стилі «Мармеладка» Talvi темно-сірий 52–56 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка у рваному стилі  Мармеладка </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна однотонна шапка у рваному стилі</li><li>Щільна одношарова в'язка + відворот, що закріплений</li><li>Зверніть увагу - дірочки тільки на відвороті шапці, тож вушка будуть надійно захищені</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 52% віскоза, 26% еластан, 22% нейлон</li><li>Розміри (обхват голови): 52 56 см</li><li>Кольори: Білий, Рожевий, Бежевий, Пудра, Світлий беж, Темна пудра, Світлий хакі, Індиго, Світла пудра, Чорний, Коричневий, Темно-сірий, Сірий, Світло-сірий, Капучіно, Помаранчевий</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Шапка в рваном стиле Мармеладка</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Стильная однотонная шапка в рваном стиле</li><li> Плотная однослойная вязка + закрепленный отворот.</li><li> Обратите внимание - дырочки только на отвороте шапке, так что ушки будут надежно защищены</li><li> UNISEX</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: 52% вискоза, 26% эластан, 22% нейлон.</li><li> Размеры (обхват головы): 52 56 см</li><li> Цвета: Белый, Розовый, Бежевый, Пудра, Светлый беж, Темная пудра, Светлый хаки, Индиго, Светлая пудра, Черный, Коричневый, Темно-серый, Серый, Светло-серый, Капучино, Оранжевый</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на грани берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>500</price>
-<price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/19679092192353_%2Bab74d6c318.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/28414420894584_%2Bf7ef2c4b6b.jpg</picture>
-<param name="Колір">темно-сірий</param>
-<param name="Розмір">52–56 см</param>
-<param name="Склад">52% віскоза, 26% еластан, 22% нейлон</param>
-<param name="Окружність голови" paramid="232291" valueid="3518671">52</param>
-</offer>
    <offer id="12213" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -238949,23 +238930,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/47/33601441358485_%2Bbeec2e941d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/47/20534087269707_%2Bc263dae332.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008148">Бежевий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">50% акрил, 28% ПБТ, 22% нейлон</param>
-</offer>
-   <offer id="15097" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3554451</article>
-<name><![CDATA[Вязаная манишка «Агнесса» для девочек Talvi белый Универсальный]]></name>
-<name_ua><![CDATA[В'язана манішка «Агнеса» для дівчат Talvi білий Універсальний]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана манішка  Агнеса  для дівчат</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язана манішка для дівчаток</li><li>Подовжена, закриває не лише шию, а й грудну клітину</li><li>Горловина еластична, двошарова</li><li>За розміром підійде діткам від 3-х років, підліткам, та дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% акрил, 28% ПБТ, 22% нейлон</li><li>Розміри: Універсальний</li><li>Кольори: Світлий беж, Лаванда, Молочний, Світла пудра, Бежевий, Білий</li></ul>]]></description_ua>
-<price>680</price>
-<price_old>680</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/48/55205806138108_%2Bf91d1cb830.jpg</picture>
-<picture>https://letimo.com.ua/content/images/48/92478385094287_%2B67c1cc186b.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008176">Білий</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">50% акрил, 28% ПБТ, 22% нейлон</param>
 </offer>
