@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 02:08">
+<yml_catalog date="2026-11-08 02:40">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -134730,6 +134730,34 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
+<offer id="TALVI-03724-92307" available="true">
+<price>400</price>
+<category code="166">Головні убори для новонароджених</category>
+<attribute_set code="166">Головні убори для новонароджених</attribute_set>
+<name lang="ua">Шапка базова «Урбан», пудра, 52–56 см</name>
+<name lang="ru">Шапка базовая "Урбан", пудра, 52-56 см</name>
+<picture>https://letimo.com.ua/content/images/13/25349944815374_+d4c90f536d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/64717253291262_+e805fd84a2.jpg</picture>
+<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка базова  Урбан &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якенька в'язана шапка для діток&lt;/li&gt;&lt;li&gt;Декорована фірмовим шевроном talvi&lt;/li&gt;&lt;li&gt;Двошарова + відворот (відповідно у зоні вушок 4 шари, що забезпечує додаткове утеплення)&lt;/li&gt;&lt;li&gt;Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% віскоза, 22% нейлон, 28% ПБТ&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 48 52 см, 52 56 см&lt;/li&gt;&lt;li&gt;Кольори: Темний беж, (225) Світлий хакі, (098) Темна пудра, Світло-сірий, Сірий, Світла пудра, Кавовий, Чорний, Пудра, Сірий меланж, (1044) Коричневий, Рожевий, Білий, (251) Світлий джинс, Молочний, Бежевий, Світло-рожевий&lt;/li&gt;&lt;/ul&gt;</description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Урбан]]></param>
+<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">20</param>
+<param name="Глибина" paramcode="length">120</param>
+<param name="Ширина" paramcode="width">100</param>
+<param name="Вага" paramcode="weight">50</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">50% віскоза, 22% нейлон, 28% ПБТ</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
+<param name="Колір виробника" paramcode="78" valuecode="g20kusvhgpe2qitv">пудра</param>
+<param name="Розмір" paramcode="2293" valuecode="nd7kc8fm6jff9ggh">50-56</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+</offer>
 <offer id="TALVI-01072-81330" available="true">
 <price>150</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -173701,33 +173729,6 @@
 <param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="TALVI-02626-84149" available="true">
-<price>345</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Зимова шапка для дівчат «Онлі», світло-рожевий, 48–56 см</name>
-<picture>https://letimo.com.ua/content/images/46/33718850907541_+dcc0ee8cd2.jpg</picture>
-<picture>https://letimo.com.ua/content/images/46/23569464608271_+95f6f85ea1.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Зимова шапка для дівчат  Онлі &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Яскрава шапка з різнобарвним трикотажним помпоном та нашивкою "good vibes only"&lt;/li&gt;&lt;li&gt;Щільна двошарова в'язка + утеплювач фліс по лінії вух&lt;/li&gt;&lt;li&gt;Підійде на холодну осінь-теплу зиму&lt;/li&gt;&lt;li&gt;Для дівчат від 3-х років та дорослих&lt;/li&gt;&lt;li&gt;Чудовий варіант для family look мами та донечки&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 48 56 см&lt;/li&gt;&lt;li&gt;Кольори: Світло-рожевий, Світло-сірий, Зелений, Персик, Світло-сірий меланж, Помаранчевий, Білий, Пудра, Чорний&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Онлі]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="9e13d69b34048713a16f064ba3babf08">для дівчинки</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
-<param name="Колір виробника" paramcode="78" valuecode="b599060b4e53a1c756485836a337b06d">світло-рожевий</param>
-<param name="Розмір" paramcode="2293" valuecode="y4fczlvetm3mlihr">48</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
 <offer id="TALVI-02626-88927" available="true">
 <price>345</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -183694,34 +183695,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
-<offer id="TALVI-02619-86581" available="true">
-<price>620</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шолом з вушками «Герман», джинсовий меланж, 46–48 см</name>
-<picture>https://letimo.com.ua/content/images/43/82709175560728_+8c77795557.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/21387653048291_+d16de78592.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шолом з вушками  Герман &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий шолом із кумедними вушками&lt;/li&gt;&lt;li&gt;Декорований фірмовою нашивкою talvi&lt;/li&gt;&lt;li&gt;Утеплений по всій площині зсередини&lt;/li&gt;&lt;li&gt;Підійде на холодну осінь-зиму&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 46 48 см, 50 52 см&lt;/li&gt;&lt;li&gt;Кольори: Джинсовий меланж, Темна пудра, Малина, Хакі, Світло-сірий, Червоний, Помаранчевий, (MLN) Бордовий меланж, Блакитний, Рожевий, Лаванда, Світлий джинс, Світло-сірий меланж, Персик, Білий, Пудра, Гірчиця, Світлий хакі, Молочний, Темно-сірий меланж, BORDO Темно-бордовий, Світло-рожевий, Зелений, Темно-синій, Коричневий, Світло-бежевий меланж, Чорний, Бежевий, Кавовий, Хаки&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Герман]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
-<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Декор" paramcode="13477" valuecode="9f9aa1ebeefa405e00b85b5fc2ced551">з вушками</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
 <offer id="TALVI-02619-86593" available="true">
 <price>620</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -184218,34 +184191,6 @@
 <param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
 <param name="Колір виробника" paramcode="78" valuecode="b599060b4e53a1c756485836a337b06d">світло-рожевий</param>
-<param name="Розмір" paramcode="2293" valuecode="t8rpzuhctaynejme">50-54</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Декор" paramcode="13477" valuecode="9f9aa1ebeefa405e00b85b5fc2ced551">з вушками</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-00695-83677" available="true">
-<price>620</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шолом з вушками «Герман», малина, 50–52 см</name>
-<picture>https://letimo.com.ua/content/images/28/74828153571597_+34194add86.jpg</picture>
-<picture>https://letimo.com.ua/content/images/28/25195704370568_+b297a9aebe.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шолом з вушками  Герман &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий шолом із кумедними вушками&lt;/li&gt;&lt;li&gt;Декорований фірмовою нашивкою talvi&lt;/li&gt;&lt;li&gt;Утеплений по всій площині зсередини&lt;/li&gt;&lt;li&gt;Підійде на холодну осінь-зиму&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 46 48 см, 50 52 см&lt;/li&gt;&lt;li&gt;Кольори: Джинсовий меланж, Темна пудра, Малина, Хакі, Світло-сірий, Червоний, Помаранчевий, (MLN) Бордовий меланж, Блакитний, Рожевий, Лаванда, Світлий джинс, Світло-сірий меланж, Персик, Білий, Пудра, Гірчиця, Світлий хакі, Молочний, Темно-сірий меланж, BORDO Темно-бордовий, Світло-рожевий, Зелений, Темно-синій, Коричневий, Світло-бежевий меланж, Чорний, Бежевий, Кавовий, Хаки&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Герман]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="c0ac579117df213cfe2a942ace8f1eca">червоний</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
-<param name="Колір виробника" paramcode="78" valuecode="5uooq3p5">червоний</param>
 <param name="Розмір" paramcode="2293" valuecode="t8rpzuhctaynejme">50-54</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Декор" paramcode="13477" valuecode="9f9aa1ebeefa405e00b85b5fc2ced551">з вушками</param>
