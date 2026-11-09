@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 00:11">
+<yml_catalog date="2026-11-10 00:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -235991,8 +235991,8 @@ SYSTEM "shops.dtd">
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
 <article>LT3543451-wybw2</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi комбинированный 42-44 см, разноцветный (14797)]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi комбінований 42–44 см (14797)]]></name_ua>
+<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi комбинированный 42-44 см]]></name>
+<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi комбінований 42–44 см]]></name_ua>
 <description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
 <price>540</price>
 <price_old>540</price_old>
@@ -236058,24 +236058,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
 </offer>
-   <offer id="14802" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451-h5nwe</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi комбинированный 42-44 см, разноцветный (14802)]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi комбінований 42–44 см (14802)]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/3/87430424890110_%2B085e5d62dd.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/86967422885952_%2B3e1efaa64d.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">42–44 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
-</offer>
    <offer id="14803" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -236094,42 +236076,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
 </offer>
-   <offer id="14809" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi светло-розовый 46–48 см]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi світло-рожевий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/10/73845438528048_%2B473742bc08.jpg</picture>
-<picture>https://letimo.com.ua/content/images/10/44397091022179_%2Bc55c69a400.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1273336">Рожевий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
-   <offer id="14811" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451-1gjc4</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi светло-серый 46–48 см]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi світло-сірий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/73279015536627_%2Be5f1fc2d5b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/70201115817549_%2Bb9a1b514aa.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008407">Сірий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
    <offer id="14812" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -236144,24 +236090,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/13/96853887518372_%2B3e8ce99613.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/80599430535172_%2B2db26185fa.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
-   <offer id="14813" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi черный 46–48 см]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi чорний 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/14/82161829960849_%2B8976a7df10.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/23976602805047_%2Beeb3e87eaa.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">46–48 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
@@ -236292,24 +236220,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
 </offer>
-   <offer id="14830" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451-h5nwe</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi комбинированный 50-52 см]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi комбінований 50–52 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/31/22423456425498_%2B373f197874.jpg</picture>
-<picture>https://letimo.com.ua/content/images/31/82537275436390_%2B7144c07f20.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
-</offer>
    <offer id="14831" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -236360,24 +236270,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/42/24670493254434_%2B073fb85a21.jpg</picture>
 <picture>https://letimo.com.ua/content/images/42/43709411379738_%2Bb91cf28e35.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
-<param name="Розмір">52–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518671, 3518683">52, 54</param>
-</offer>
-   <offer id="14842" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name><![CDATA[Демисезонный вязаный шлем «Санчо» Talvi кофейный 52-54 см]]></name>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо» Talvi кавовий 52–54 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/43/51256287990424_%2B6c7b3c6ad7.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/47545941589486_%2Bc0f28ee750.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1009149">Кавовий</param>
 <param name="Розмір">52–54 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518671, 3518683">52, 54</param>
@@ -248432,24 +248324,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
 </offer>
-   <offer id="15754" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3578451-1y55l</article>
-<name><![CDATA[Теплый зимний шлем «Мими» Talvi светло-бежевый 44–46 см]]></name>
-<name_ua><![CDATA[Теплий зимовий шолом «Мімі» Talvi світло-бежевий 44–46 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом  Мімі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимовий шолом з милими вушками, утеплений флісом</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 40 42 см, 44 46 см</li><li>Кольори: Хакі, Темно-сірий меланж, Темно-синій, Лаванда, Темна пудра, Персик, Чорний, Коричневий, Гірчиця, Бежевий, Блакитний, Світло-сірий, Джинсовий меланж, Кавовий, Пудра, Рожевий, Світло-бежевий меланж, Світлий джинс, Світло-рожевий, Світлий хакі, Молочний, Білий, Світло-сірий меланж, Помаранчевий, Малина</li></ul>]]></description_ua>
-<price>660</price>
-<price_old>660</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/5/76639288056169_%2Bc4fe47fb91.jpg</picture>
-<picture>https://letimo.com.ua/content/images/5/74643586470814_%2Be637181bc7.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008148">Бежевий</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
-</offer>
    <offer id="15758" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -248788,24 +248662,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/18553836013001_%2Bc80ee9336b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/46338431151960_%2B6a8a4ab075.jpg</picture>
 <param name="Колір">бордовий</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
-</offer>
-   <offer id="15859" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3580451-17ak6</article>
-<name><![CDATA[Теплый зимний шлем с помпонами «Финн» Talvi фиолетовый 48-50 см]]></name>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн» Talvi фіолетовий 48–50 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/10/91868293473465_%2B5ba3ac9bd4.jpg</picture>
-<picture>https://letimo.com.ua/content/images/10/68471405772766_%2B5170e98bfb.jpg</picture>
-<param name="Колір">фіолетовий</param>
 <param name="Розмір">48–50 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
@@ -252604,7 +252460,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">0-18 міс</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98236088" available="true">
+<offer id="98236088" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -252614,7 +252470,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>820</price>
 <price_old>820</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-46250149027557_%2B20cbff5baf.jpg</picture>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-84873260895423_%2Bfc695c5b64.jpg</picture>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-71860120398171_%2Bf960f9aa28.jpg</picture>
