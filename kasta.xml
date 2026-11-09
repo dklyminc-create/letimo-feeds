@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-09 10:11">
+<yml_catalog date="2026-11-09 10:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -139441,6 +139441,23 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="7979" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1122</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3148451-h5nwe</article>
+<name_ua><![CDATA[В'язана манішка «Юта» unisex]]></name_ua>
+<description_ua><![CDATA[<p><strong>В'язана манішка  Юта  unisex</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Одношарова м'якенька манішка</li><li>Подовжена, закриває не лише шию, а й грудну клітину</li><li>Горловина еластична</li><li>UNISEX</li><li>За розміром підійде діткам від 3-х років, підліткам, та дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% віскоза, 22% нейлон, 28% ПБТ</li><li>Розміри: Універсальний</li><li>Кольори: Темний беж, Світлий хакі, Білий, Джинс, Чорний, (1044) Коричневий, Сірий меланж, Молочний, Світло-рожевий, Пудра, Коричневий, Світлий беж</li></ul>]]></description_ua>
+<price>440</price>
+<price_old>440</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/30/88956617916597_%2Bd5046d189e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/30/38310918399417_%2B843376636a.jpg</picture>
+<param name="Колір">комбінований</param>
+<param name="Розмір">Універсальний</param>
+<param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="7982" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -145727,6 +145744,23 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/26/67123574662157_%2B8efd54b910.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/51684968821975_%2B4320f1ecc0.jpg</picture>
 <param name="Колір">комбінований</param>
+<param name="Розмір">50–52 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="8626" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3185451</article>
+<name_ua><![CDATA[Утеплений комплект для дівчат «Розе»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Утеплений комплект для дівчат  Розе </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Дівчачий комплект виготовлений з теплої та приємної на дотик пряжі</li><li>Шапка: двошарова в'язка + утеплення флісом по лінії вух</li><li>Відворот не закріплений, можна регулювати до межі початку флісової підкладки</li><li>Хомут: в'язка+фліс</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 3-5 років</li><li>Розміри (обхват голови): 50 52 см, 52 54 см</li><li>Кольори: Коричневий, Бежевий, Світло-сірий, Білий, Молочний, Світла пудра</li></ul>]]></description_ua>
+<price>780</price>
+<price_old>780</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/27/99606633978893_%2B6852813d00.jpg</picture>
+<picture>https://letimo.com.ua/content/images/27/75706660922634_%2B3f7ce490fb.jpg</picture>
+<param name="Колір">молочний</param>
 <param name="Розмір">50–52 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -186072,6 +186106,40 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/48/43273262660093_%2B1710265a98.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/36160392612754_%2B6a18205a4b.jpg</picture>
 <param name="Колір">білий</param>
+<param name="Розмір">38–40 см</param>
+<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="12748" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3421451-1988j</article>
+<name_ua><![CDATA[Шапка з тедді-вушками «Падді»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Шапка з тедді-вушками  Падді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька в'язана шапочка з вушками з хутра тедді, виготовлена з пряжі преміальної якості</li><li>Додатково декорована фірмовою тканинною нашивкою збоку</li><li>Оснащена зав'язками</li><li>Щільна в'язка + підклад бавовна</li><li>З відворотом, що закріплений (додає в зоні вушок третій шар)</li><li>UNISEX</li><li>Для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю голівки, підійде тим, в кого окружність 34-36 см)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</li><li>Розміри (обхват голови): 34 36 см, 36 38 см, 38 40 см, 42 44 см, 46 48 см, 50 52 см</li><li>Кольори: Коричневий, Джинс, Світла пудра, Малиновий, Світлий хакі, Чорний, Сірий, Персикова пудра, Бежевий, Білий, Світлий беж, Молочний, Рожевий, Бежевый</li></ul>]]></description_ua>
+<price>600</price>
+<price_old>600</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/49/32903641998060_%2Bed9d21700a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/78290491483985_%2Bca6f951dc3.jpg</picture>
+<param name="Колір">світлий</param>
+<param name="Розмір">38–40 см</param>
+<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="12750" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3421451</article>
+<name_ua><![CDATA[Шапка з тедді-вушками «Падді»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Шапка з тедді-вушками  Падді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька в'язана шапочка з вушками з хутра тедді, виготовлена з пряжі преміальної якості</li><li>Додатково декорована фірмовою тканинною нашивкою збоку</li><li>Оснащена зав'язками</li><li>Щільна в'язка + підклад бавовна</li><li>З відворотом, що закріплений (додає в зоні вушок третій шар)</li><li>UNISEX</li><li>Для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю голівки, підійде тим, в кого окружність 34-36 см)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</li><li>Розміри (обхват голови): 34 36 см, 36 38 см, 38 40 см, 42 44 см, 46 48 см, 50 52 см</li><li>Кольори: Коричневий, Джинс, Світла пудра, Малиновий, Світлий хакі, Чорний, Сірий, Персикова пудра, Бежевий, Білий, Світлий беж, Молочний, Рожевий, Бежевый</li></ul>]]></description_ua>
+<price>600</price>
+<price_old>600</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/1/17539490058427_%2B91413f9f9d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/1/23125214565184_%2Bddd51198fc.jpg</picture>
+<param name="Колір">молочний</param>
 <param name="Розмір">38–40 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
