@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 22:09">
+<yml_catalog date="2026-11-10 22:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -170154,25 +170154,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">Універсальний</param>
 <param name="Склад">вовна 50%, ПАН 50%</param>
 </offer>
-   <offer id="8596" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3182451-du39e</article>
-<name><![CDATA[Теплый зимний комплект «Альфа» Talvi терракотовый 46–48 см]]></name>
-<name_ua><![CDATA[Теплий зимовий комплект «Альфа» Talvi теракотовий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий комплект  Альфа </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Дитячий зимовий комплект, шапка на зав'язках</li><li>Утеплений флісом</li><li>Вовна - це теплий та м'який матеріал, який дозволяє шкірі голови дихати і не перегріватися, а акрил додає міцності та еластичності, що робить шапку більш зносостійкою та довговічною.</li><li>Фліс - це м'який та легкий матеріал, який відводить вологу від тіла та дозволяє шкірі голови дихати, забезпечує додаткове тепло та комфорт</li><li>Підійде на 1-2 рочки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - вовна 50%, ПАН 50%, низ - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Теракотовый меланж, Зелений меланж, Бузковий меланж, Синьо-червоний меланж</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Теплый комплект зимний Альфа</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Детский зимний комплект, шапка на завязках</li><li> Утепленный флисом</li><li> Шерсть – это теплый и мягкий материал, который позволяет коже головы дышать и не перегреваться, а акрил придает прочности и эластичности, что делает шапку более износостойкой и долговечной.</li><li> Флис - это мягкий и легкий материал, который отводит влагу от тела и позволяет дышать коже головы, обеспечивает дополнительное тепло и комфорт.</li><li> Подойдет на 1-2 годика</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: верх – шерсть 50%, ПАН 50%, низ – 100% полиэстер (флис)</li><li> Размеры (обхват головы): 46 48 см</li><li> Цвета: Теракотовый меланж, Зеленый меланж, Сиреневый меланж, Сине-красный меланж</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на границе берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>420</price>
-<price_old>420</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/47/20931677356925_%2Be1155ad372.jpg</picture>
-<picture>https://letimo.com.ua/content/images/47/13281923074191_%2Bcbe355f4f9.jpg</picture>
-<param name="Колір">теракотовий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">верх - вовна 50%, ПАН 50%, низ - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
    <offer id="8600" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -229945,24 +229926,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518647">44, 48</param>
 </offer>
-   <offer id="14164" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3510451</article>
-<name><![CDATA[Зимняя шапка для мальчиков «Норд» Talvi хаки 48-52 см]]></name>
-<name_ua><![CDATA[Зимова шапка для хлопчиків «Норд» Talvi хакі 48–52 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для хлопчиків  Норд </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для хлопчиків на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та стильною нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон пришитий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см, 48 52 см</li><li>Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/15/29449087660783_%2B4cdf278e33.jpg</picture>
-<picture>https://letimo.com.ua/content/images/15/87113716040465_%2B20d87ca2b4.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008757">Хакі</param>
-<param name="Розмір">48–52 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647, 3518671">48, 52</param>
-</offer>
    <offer id="14175" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -247981,24 +247944,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/13/72877178813870_%2B6be2010074.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/97379664965100_%2B5bbdcb57d2.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008757">Хакі</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
-</offer>
-   <offer id="15764" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3578451</article>
-<name><![CDATA[Теплый зимний шлем «Мими» Talvi белый 44–46 см]]></name>
-<name_ua><![CDATA[Теплий зимовий шолом «Мімі» Talvi білий 44–46 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом  Мімі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимовий шолом з милими вушками, утеплений флісом</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 40 42 см, 44 46 см</li><li>Кольори: Хакі, Темно-сірий меланж, Темно-синій, Лаванда, Темна пудра, Персик, Чорний, Коричневий, Гірчиця, Бежевий, Блакитний, Світло-сірий, Джинсовий меланж, Кавовий, Пудра, Рожевий, Світло-бежевий меланж, Світлий джинс, Світло-рожевий, Світлий хакі, Молочний, Білий, Світло-сірий меланж, Помаранчевий, Малина</li></ul>]]></description_ua>
-<price>660</price>
-<price_old>660</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/15/40454201381525_%2B0fb67b2d1a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/15/57954446307479_%2B615b88cf39.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008176">Білий</param>
 <param name="Розмір">44–46 см</param>
 <param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
