@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 16:10">
+<yml_catalog date="2026-11-10 16:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -139322,6 +139322,23 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="7980" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1122</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3148451</article>
+<name_ua><![CDATA[В'язана манішка «Юта» unisex]]></name_ua>
+<description_ua><![CDATA[<p><strong>В'язана манішка  Юта  unisex</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Одношарова м'якенька манішка</li><li>Подовжена, закриває не лише шию, а й грудну клітину</li><li>Горловина еластична</li><li>UNISEX</li><li>За розміром підійде діткам від 3-х років, підліткам, та дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% віскоза, 22% нейлон, 28% ПБТ</li><li>Розміри: Універсальний</li><li>Кольори: Темний беж, Світлий хакі, Білий, Джинс, Чорний, (1044) Коричневий, Сірий меланж, Молочний, Світло-рожевий, Пудра, Коричневий, Світлий беж</li></ul>]]></description_ua>
+<price>440</price>
+<price_old>440</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/31/20693369695197_%2Bc14cf1d633.jpg</picture>
+<picture>https://letimo.com.ua/content/images/31/64811551814071_%2B7d1c1b1a52.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">Універсальний</param>
+<param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="7981" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -146020,23 +146037,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% бавовна, 50% акрил</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="8662" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3186451</article>
-<name_ua><![CDATA[В'язаний демісезонний комплект «Купер»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язаний демісезонний комплект  Купер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний комплект з м'якої бавовняної пряжі</li><li>Базовий, підійде під все, величезна палітра відтінків</li><li>Шапка декорована фірмовою нашивкою з екошкіри, двошарова, з відворотом</li><li>Відворот не закріплений, завдяки чому висоту (глибину) шапки можна регулювати за зручність</li><li>Хомут двошаровий</li><li>Підійде орієнтовно на 1-5 рочків</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% бавовна, 50% акрил</li><li>Розміри (обхват голови): 46 50 см, 52 56 см</li><li>Кольори: Рожевий, Темно-синій, Червоний, Пудра, Білий, Небесний, Світло-жовтий, Фісташковий, Світло-сірий, Блакитний, Бежевий, Корал, Світлий хакі, Молочний, Чорний, Світла пудра, Гірчиця, Світло-рожевий, Джинс, Антрацит, Лавандовий, Світло-бежевий, Світлий джинс, Темно-бежевий, Хакі, (857) Білий, Кавовий</li></ul>]]></description_ua>
-<price>500</price>
-<price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/11627369021464_%2B8f59435df1.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/60253210457236_%2Bce6211e1e3.jpg</picture>
-<param name="Колір">темно-бежевий</param>
-<param name="Розмір">52–56 см</param>
-<param name="Склад">50% бавовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="8663" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -150389,6 +150389,23 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="8757" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3220451-17ak6</article>
+<name_ua><![CDATA[Зимовий комплект для дівчат «Лойл»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимовий комплект для дівчат  Лойл </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий зимовий комплект для дівчаток з вушками котика</li><li>Комплект включає в себе шапку та хомут, хомут можна також використовувати в якості пов'язки на голову у більш теплу пору року</li><li>Шапка утеплена флісом по всій площині зсередини, з відворотом, відворот закріплений</li><li>Шапка декорована металевою нашивкою talvi</li><li>Хомут щільний двошаровий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: (527) Персикова пудра, Пудра, Темна пудра, Бузок, (542) Сірий меланж, (568) Лаванда, (541) Світло-сірий, (591) Молочний, Світла пудра, (564) Чорний, Світлий беж</li></ul>]]></description_ua>
+<price>415</price>
+<price_old>415</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/8/74398831302410_%2B7a8f79d780.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/32512994285758_%2B1a53273836.jpg</picture>
+<param name="Колір">фіолетовий</param>
+<param name="Розмір">46–48 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="8758" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -150403,6 +150420,23 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/95084532638658_%2B32c24b9854.jpg</picture>
 <param name="Колір">сірий</param>
 <param name="Розмір">46–48 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="8762" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3220451-1988j</article>
+<name_ua><![CDATA[Зимовий комплект для дівчат «Лойл»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимовий комплект для дівчат  Лойл </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий зимовий комплект для дівчаток з вушками котика</li><li>Комплект включає в себе шапку та хомут, хомут можна також використовувати в якості пов'язки на голову у більш теплу пору року</li><li>Шапка утеплена флісом по всій площині зсередини, з відворотом, відворот закріплений</li><li>Шапка декорована металевою нашивкою talvi</li><li>Хомут щільний двошаровий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: (527) Персикова пудра, Пудра, Темна пудра, Бузок, (542) Сірий меланж, (568) Лаванда, (541) Світло-сірий, (591) Молочний, Світла пудра, (564) Чорний, Світлий беж</li></ul>]]></description_ua>
+<price>415</price>
+<price_old>415</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/13/45763478864343_%2Bd32395c9c8.jpg</picture>
+<picture>https://letimo.com.ua/content/images/13/11886627859475_%2B956f4da92e.jpg</picture>
+<param name="Колір">світлий</param>
+<param name="Розмір">50–52 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
@@ -183050,40 +183084,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 100% нейлон; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="12476" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3406451-h5nwe</article>
-<name_ua><![CDATA[Шапка з двома помпонами «Сонько»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з двома помпонами  Сонько </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла м'якенька шапочка з пухнастої пряжі для дівчаток</li><li>Всередені утеплена флісом по всій площині</li><li>Декорована двома трикотажними помпончиками та металевою нашивкою talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 100% нейлон; підклад - 100% поліестер (фліс)</li><li>Вік: 6-9 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см</li><li>Кольори: Бежевий, Пудра, Коричневий, Чорний, Світла пудра, Світлий беж, Рожевий, Білий, Світло-рожевий, Молочний</li></ul>]]></description_ua>
-<price>460</price>
-<price_old>460</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/27/21699174271271_%2B359e446acf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/27/62420700081891_%2B5ac76942af.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">основа - 100% нейлон; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="12478" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3406451</article>
-<name_ua><![CDATA[Шапка з двома помпонами «Сонько»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з двома помпонами  Сонько </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла м'якенька шапочка з пухнастої пряжі для дівчаток</li><li>Всередені утеплена флісом по всій площині</li><li>Декорована двома трикотажними помпончиками та металевою нашивкою talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 100% нейлон; підклад - 100% поліестер (фліс)</li><li>Вік: 6-9 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см</li><li>Кольори: Бежевий, Пудра, Коричневий, Чорний, Світла пудра, Світлий беж, Рожевий, Білий, Світло-рожевий, Молочний</li></ul>]]></description_ua>
-<price>460</price>
-<price_old>460</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/29/56453874895053_%2B8cb48c33b7.jpg</picture>
-<picture>https://letimo.com.ua/content/images/29/51994930572739_%2Bbd03782bcb.jpg</picture>
-<param name="Колір">коричневий</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">основа - 100% нейлон; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="12479" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -185698,23 +185698,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/46/81243708833170_%2B86c41d3ed5.jpg</picture>
 <picture>https://letimo.com.ua/content/images/46/68472862735620_%2B5fcb3a394d.jpg</picture>
 <param name="Колір">чорний</param>
-<param name="Розмір">38–40 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="12747" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3421451</article>
-<name_ua><![CDATA[Шапка з тедді-вушками «Падді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з тедді-вушками  Падді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька в'язана шапочка з вушками з хутра тедді, виготовлена з пряжі преміальної якості</li><li>Додатково декорована фірмовою тканинною нашивкою збоку</li><li>Оснащена зав'язками</li><li>Щільна в'язка + підклад бавовна</li><li>З відворотом, що закріплений (додає в зоні вушок третій шар)</li><li>UNISEX</li><li>Для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю голівки, підійде тим, в кого окружність 34-36 см)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</li><li>Розміри (обхват голови): 34 36 см, 36 38 см, 38 40 см, 42 44 см, 46 48 см, 50 52 см</li><li>Кольори: Коричневий, Джинс, Світла пудра, Малиновий, Світлий хакі, Чорний, Сірий, Персикова пудра, Бежевий, Білий, Світлий беж, Молочний, Рожевий, Бежевый</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/48/43273262660093_%2B1710265a98.jpg</picture>
-<picture>https://letimo.com.ua/content/images/48/36160392612754_%2B6a18205a4b.jpg</picture>
-<param name="Колір">білий</param>
 <param name="Розмір">38–40 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
@@ -189812,6 +189795,23 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/7/20272600453067_%2B8282b1e10c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/7/57006363087499_%2Bd2ca65299c.jpg</picture>
 <param name="Колір">темно-синій</param>
+<param name="Розмір">44–46 см</param>
+
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="13207" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3447451</article>
+<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
+<price>700</price>
+<price_old>700</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/8/22224672804880_%2B64c184957d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/95107727991977_%2B0161010dbe.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">44–46 см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -199149,6 +199149,91 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="14090" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3506451-r7kc1</article>
+<name_ua><![CDATA[Зимова шапка «Блер»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимова шапка  Блер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапка для хлопців та дівчат</li><li>Базова, однотонна, підійде під будь-який образ</li><li>Виготовлена з теплої, приємної на дотик пряжі, всередині утеплена флісом по всій площині шапки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 6-9 років</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Білий, Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Коричневий</li></ul>]]></description_ua>
+<price>480</price>
+<price_old>480</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/41/37184212315064_%2Bff23896496.jpg</picture>
+<picture>https://letimo.com.ua/content/images/41/15169707536166_%2B25a24e77fc.jpg</picture>
+<param name="Колір">бордовий</param>
+<param name="Розмір">52–54 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="14093" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3506451</article>
+<name_ua><![CDATA[Зимова шапка «Блер»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимова шапка  Блер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапка для хлопців та дівчат</li><li>Базова, однотонна, підійде під будь-який образ</li><li>Виготовлена з теплої, приємної на дотик пряжі, всередині утеплена флісом по всій площині шапки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 6-9 років</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Білий, Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Коричневий</li></ul>]]></description_ua>
+<price>480</price>
+<price_old>480</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/44/29045779393159_%2B240ce60c74.jpg</picture>
+<picture>https://letimo.com.ua/content/images/44/82525268579655_%2Bbf88cb9f0f.jpg</picture>
+<param name="Колір">чорний</param>
+<param name="Розмір">52–54 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="14094" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3506451-1ilsm</article>
+<name_ua><![CDATA[Зимова шапка «Блер»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимова шапка  Блер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапка для хлопців та дівчат</li><li>Базова, однотонна, підійде під будь-який образ</li><li>Виготовлена з теплої, приємної на дотик пряжі, всередині утеплена флісом по всій площині шапки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 6-9 років</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Білий, Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Коричневий</li></ul>]]></description_ua>
+<price>480</price>
+<price_old>480</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/45/34812699083723_%2Bf8e9f68d14.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/72212848515637_%2B822302fff3.jpg</picture>
+<param name="Колір">сірий</param>
+<param name="Розмір">52–54 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="14095" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3506451</article>
+<name_ua><![CDATA[Зимова шапка «Блер»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимова шапка  Блер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапка для хлопців та дівчат</li><li>Базова, однотонна, підійде під будь-який образ</li><li>Виготовлена з теплої, приємної на дотик пряжі, всередині утеплена флісом по всій площині шапки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 6-9 років</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Білий, Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Коричневий</li></ul>]]></description_ua>
+<price>480</price>
+<price_old>480</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/46/12717074131112_%2B0a10799b81.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/36031139442162_%2B48ef47eab1.jpg</picture>
+<param name="Колір">темно-синій</param>
+<param name="Розмір">52–54 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="14097" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3506451</article>
+<name_ua><![CDATA[Зимова шапка «Блер»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимова шапка  Блер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапка для хлопців та дівчат</li><li>Базова, однотонна, підійде під будь-який образ</li><li>Виготовлена з теплої, приємної на дотик пряжі, всередині утеплена флісом по всій площині шапки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 6-9 років</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Білий, Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Коричневий</li></ul>]]></description_ua>
+<price>480</price>
+<price_old>480</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/48/87090294056150_%2B1312546a42.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/48086228896957_%2B3d0e8f858e.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">52–54 см</param>
+<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="14100" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -203637,23 +203722,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50%-вовна, 50%-ПАН</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14533" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3529451</article>
-<name_ua><![CDATA[М'який в'язаний хомут «Рубчик Віскоза»]]></name_ua>
-<description_ua><![CDATA[<p><strong>М'який в'язаний хомут  Рубчик Віскоза </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Демісезонний баф із преміальної пряжі в універсальному розмірі</li><li>Підійде як дітям, так і дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: віскоза-52%, еластан-26%, нейлон-22%</li><li>Розміри: Універсальний</li><li>Кольори: Білий, Молочний, Світлий беж, Зелений, Помаранчевий, Кава, Персикова пудра, Капучіно, Гірчичний, Джинс, Світлий жовтий, Бежевий, Лаванда, Бордовий, Хакі, Темна пудра, Пудра, М'ята, Світло-сірий, Коричневий, Світлий хакі, Сірий, Малиновий, Сірий меланж, Світло-рожевий, Світла пудра, Рожевий, (289) Сірий меланж, Темно-синій, Блакитний, Чорний, Темно-сірий, Індиго</li></ul>]]></description_ua>
-<price>342</price>
-<price_old>342</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/34/86641737806633_%2Bdb1c9a8f42.jpg</picture>
-<picture>https://letimo.com.ua/content/images/34/29969498544674_%2B3f4f3a8d3a.jpg</picture>
-<param name="Колір">білий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">віскоза-52%, еластан-26%, нейлон-22%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14534" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -205592,6 +205660,23 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="14798" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3543451</article>
+<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
+<price>540</price>
+<price_old>540</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/49/68096876041239_%2Be0bfee8fea.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/13692135215321_%2Bbb5cbbc4d8.jpg</picture>
+<param name="Колір">чорний</param>
+<param name="Розмір">42–44 см</param>
+<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="14799" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -205605,6 +205690,23 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/50/25098362786125_%2B653ee563aa.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/58870902035850_%2Bcaf58f569d.jpg</picture>
 <param name="Колір">блакитний</param>
+<param name="Розмір">42–44 см</param>
+<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="14800" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3543451</article>
+<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
+<price>540</price>
+<price_old>540</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/1/79439220092378_%2B5bb0f3ddca.jpg</picture>
+<picture>https://letimo.com.ua/content/images/1/79577025756935_%2B03b4e5f92f.jpg</picture>
+<param name="Колір">молочний</param>
 <param name="Розмір">42–44 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -205623,40 +205725,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/3/86967422885952_%2B3e1efaa64d.jpg</picture>
 <param name="Колір">комбінований</param>
 <param name="Розмір">42–44 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14803" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/4/69329235521886_%2Bbc8d7fe647.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/45579414995694_%2Bfa325ec959.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">42–44 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14809" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/10/73845438528048_%2B473742bc08.jpg</picture>
-<picture>https://letimo.com.ua/content/images/10/44397091022179_%2Bc55c69a400.jpg</picture>
-<param name="Колір">світло-рожевий</param>
-<param name="Розмір">46–48 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
@@ -205707,23 +205775,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/14/82161829960849_%2B8976a7df10.jpg</picture>
 <picture>https://letimo.com.ua/content/images/14/23976602805047_%2Beeb3e87eaa.jpg</picture>
 <param name="Колір">чорний</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14817" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/18/44656066550576_%2B76a2543cea.jpg</picture>
-<picture>https://letimo.com.ua/content/images/18/82177597465760_%2B66b304aa2b.jpg</picture>
-<param name="Колір">рожевий</param>
 <param name="Розмір">46–48 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -205827,6 +205878,23 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/32/34192448038984_%2Bfa723f1313.jpg</picture>
 <param name="Колір">рожевий</param>
 <param name="Розмір">50–52 см</param>
+<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="14838" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3543451-1cnqw</article>
+<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
+<price>540</price>
+<price_old>540</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/39/96058388746201_%2Ba02a2d4433.jpg</picture>
+<picture>https://letimo.com.ua/content/images/39/14624949373337_%2B3c09fcd096.jpg</picture>
+<param name="Колір">комбінований</param>
+<param name="Розмір">52–54 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
@@ -209583,23 +209651,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/14/19686127818242_%2B735f4a603f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/14/25998267343973_%2Ba6ab782ce8.jpg</picture>
 <param name="Колір">фіолетовий</param>
-<param name="Розмір">54–56 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15214" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3559451</article>
-<name_ua><![CDATA[Комплект з флісом «Освін»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Комплект з флісом  Освін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий базовий комплект з трикотажним помпончиком</li><li>Основа шапки - гладка в'язка, відворот - в'язка в рубчик. Шапка по всій площині всередені утпелена флісом</li><li>Хомут - щільна в'язка в рубчик, без флісу</li><li>Состав: верх   шерсть 50%, акрил 50%, низ   100% полиэстер (фліс)</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Розміри (обхват голови): 48 50 см, 50 52 см, 54 56 см</li><li>Кольори: Чорний, Кавовий, Світло-рожевий, Світлий джинс, Світло-бежевий меланж, Темно-синій, Білий, Пудра, Гірчиця, Персик, Коричневий, Джинсовий меланж, Малина, Хакі, Молочний, Бежевий, Темна пудра, Блакитний, Рожевий, Світло-сірий, Темно-сірий меланж, Світлий хакі, Зелений, Помаранчевий, Лаванда, Бордо, Світло-сірий меланж, Червоний</li></ul>]]></description_ua>
-<price>720</price>
-<price_old>720</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/15/22401811264208_%2Bd9050f7252.jpg</picture>
-<picture>https://letimo.com.ua/content/images/15/34217803412796_%2B63c5f98a77.jpg</picture>
-<param name="Колір">кавовий</param>
 <param name="Розмір">54–56 см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -215418,23 +215469,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="15764" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3578451</article>
-<name_ua><![CDATA[Теплий зимовий шолом «Мімі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом  Мімі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимовий шолом з милими вушками, утеплений флісом</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 40 42 см, 44 46 см</li><li>Кольори: Хакі, Темно-сірий меланж, Темно-синій, Лаванда, Темна пудра, Персик, Чорний, Коричневий, Гірчиця, Бежевий, Блакитний, Світло-сірий, Джинсовий меланж, Кавовий, Пудра, Рожевий, Світло-бежевий меланж, Світлий джинс, Світло-рожевий, Світлий хакі, Молочний, Білий, Світло-сірий меланж, Помаранчевий, Малина</li></ul>]]></description_ua>
-<price>660</price>
-<price_old>660</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/15/40454201381525_%2B0fb67b2d1a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/15/57954446307479_%2B615b88cf39.jpg</picture>
-<param name="Колір">білий</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="15765" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -215448,23 +215482,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/16/99148556883182_%2B3e92fed9bc.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/69144804991473_%2B444f0ced09.jpg</picture>
 <param name="Колір">блакитний</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15766" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3578451</article>
-<name_ua><![CDATA[Теплий зимовий шолом «Мімі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом  Мімі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимовий шолом з милими вушками, утеплений флісом</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 40 42 см, 44 46 см</li><li>Кольори: Хакі, Темно-сірий меланж, Темно-синій, Лаванда, Темна пудра, Персик, Чорний, Коричневий, Гірчиця, Бежевий, Блакитний, Світло-сірий, Джинсовий меланж, Кавовий, Пудра, Рожевий, Світло-бежевий меланж, Світлий джинс, Світло-рожевий, Світлий хакі, Молочний, Білий, Світло-сірий меланж, Помаранчевий, Малина</li></ul>]]></description_ua>
-<price>660</price>
-<price_old>660</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/17/31137696283826_%2Bf44a14cb66.jpg</picture>
-<picture>https://letimo.com.ua/content/images/17/76570309878747_%2Bab6076e877.jpg</picture>
-<param name="Колір">рожевий</param>
 <param name="Розмір">44–46 см</param>
 <param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
