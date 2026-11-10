@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-11 00:15">
+<yml_catalog date="2026-11-11 00:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -102898,7 +102898,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802575</barcode>
 </offer>
-   <offer id="6036" available="true">
+   <offer available="false" id="6036">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102907,14 +102907,14 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Black </strong></p>    <p>Чорні утеплені дутики Apawwa з високою халявою, стьобаним верхом, світлими декоративними вставками та рельєфною підошвою. Петлі допомагають зручніше взувати взуття.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: чорний</li>   <li>Сезон: зима</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p></p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>  <h3>Як обрати розмір</h3>  <p>Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п яти до найдовшого пальця. Для зимового взуття додайте 1 1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами   напишіть нам, підкажемо.</p>  <h3>Часті запитання</h3>  <p><strong>Як зрозуміти, що взуття по розміру?</strong><br>Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого   це запас для шкарпетки й руху.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/apawwa/">Apawwa</a>.</p>]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/37/80767963814396_%2Bed3b313b79.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802582</barcode>
 </offer>
-   <offer id="6037" available="true">
+   <offer available="false" id="6037">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102923,14 +102923,14 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Black </strong></p>    <p>Чорні утеплені дутики Apawwa з високою халявою, стьобаним верхом, світлими декоративними вставками та рельєфною підошвою. Петлі допомагають зручніше взувати взуття.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: чорний</li>   <li>Сезон: зима</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p></p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>  <h3>Як обрати розмір</h3>  <p>Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п яти до найдовшого пальця. Для зимового взуття додайте 1 1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами   напишіть нам, підкажемо.</p>  <h3>Часті запитання</h3>  <p><strong>Як зрозуміти, що взуття по розміру?</strong><br>Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого   це запас для шкарпетки й руху.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/apawwa/">Apawwa</a>.</p>]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/38/50135588549193_%2Bf928f009b8.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802599</barcode>
 </offer>
-   <offer id="6038" available="true">
+   <offer available="false" id="6038">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102939,7 +102939,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові дутики Apawwa ABD0166R Black </strong></p>    <p>Чорні утеплені дутики Apawwa з високою халявою, стьобаним верхом, світлими декоративними вставками та рельєфною підошвою. Петлі допомагають зручніше взувати взуття.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Apawwa</li>   <li>Артикул: ABD0166R</li>   <li>Колір: чорний</li>   <li>Сезон: зима</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p></p>    <p><strong>Колір:</strong> чорний.<br />  <strong>Матеріал:</strong> верх &mdash; поліестер.</p>  <h3>Як обрати розмір</h3>  <p>Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п яти до найдовшого пальця. Для зимового взуття додайте 1 1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами   напишіть нам, підкажемо.</p>  <h3>Часті запитання</h3>  <p><strong>Як зрозуміти, що взуття по розміру?</strong><br>Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого   це запас для шкарпетки й руху.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/apawwa/">Apawwa</a>.</p>]]></description_ua>
 <price>1577</price>
 <price_old>1660</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/39/28473720651122_%2B1937205afe.png</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">26</param>
@@ -103646,7 +103646,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6980026258729</barcode>
 </offer>
-   <offer id="6074" available="true">
+   <offer available="false" id="6074">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Clibee</vendor>
@@ -103655,7 +103655,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові черевики Clibee HA828-3 Pink</strong></p>    <p>Рожеві черевики Clibee з теплою хутряною підкладкою, темною окантовкою халяви та емблемою-смайлом збоку. Дві застібки-липучки дозволяють швидко взувати та регулювати посадку.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Clibee</li>   <li>Артикул: HA828-3</li>   <li>Колір: рожевий</li>   <li>Сезон: зима</li>   <li>Верх: штучна шкіра</li>   <li>Підкладка: штучне хутро</li>   <li>Застібки: дві липучки</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.</p>    <p><strong>Колір:</strong> рожевий.<br />  <strong>Матеріал:</strong> верх &mdash; штучна шкіра; підкладка &mdash; штучне хутро.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/235baf42-80bf-4501-874e-0a67b73acbac.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>  <h3>Як обрати розмір</h3>  <p>Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п яти до найдовшого пальця. Для зимового взуття додайте 1 1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами   напишіть нам, підкажемо.</p>  <h3>Часті запитання</h3>  <p><strong>Як зрозуміти, що взуття по розміру?</strong><br>Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого   це запас для шкарпетки й руху.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/clibee/">Clibee</a>.</p>]]></description_ua>
 <price>1492</price>
 <price_old>1570</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/25/80838789444963_%2B48b43141ef.png</picture>
 <picture>https://letimo.com.ua/content/images/25/80889168145564_%2B9699117774.png</picture>
 <picture>https://letimo.com.ua/content/images/25/99541837318037_%2Bfc4914dc81.png</picture>
@@ -103926,7 +103926,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000315768</barcode>
 </offer>
-   <offer id="6089" available="true">
+   <offer available="false" id="6089">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -103935,7 +103935,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий шолом Talvi &laquo;Мімі&raquo; з милими в&#39;язаними вушками. Напівшерстяний верх і флісова підкладка тримають тепло, а шолом закриває шию й не сповзає під час прогулянки.</p>    <ul>   <li>Склад: верх &mdash; 50% вовна, 50% акрил; підкладка &mdash; 100% поліестер (фліс)</li>   <li>Сезон: зима</li>   <li>Розмір (обхват голови): 44-46 см &mdash; орієнтовно на 9-12 місяців</li>   <li>Виробник: Talvi, Україна</li>  </ul>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/bf1a4f8f-a563-4c56-a6ef-95b6452e6391.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>  <h3>Як обрати розмір</h3>  <p>Розмір шапки   це обхват голови в сантиметрах. Виміряйте голову сантиметровою стрічкою по лінії над бровами і через найвиступаючу точку потилиці. Якщо результат на межі двох розмірів   беріть більший.</p>  <h3>Часті запитання</h3>  <p><strong>Як виміряти голову малюка?</strong><br>Сантиметровою стрічкою по колу: спереду над бровами, ззаду   через найвиступаючу точку потилиці. Стрічку не затягуйте.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/talvi/">Talvi</a>.</p>]]></description_ua>
 <price>569</price>
 <price_old>599</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/40/zymovyi-sholom-talvi-mimi-z-vushkamy-bezhevyi-44-46-sm-24908609323990_%2B39fb76f650.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/zymovyi-sholom-talvi-mimi-z-vushkamy-bezhevyi-44-46-sm-32606583707102_%2B174e8985f2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/zymovyi-sholom-talvi-mimi-z-vushkamy-bezhevyi-44-46-sm-54227103420629_%2B25c55aceb4.jpg</picture>
@@ -104022,7 +104022,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000503462</barcode>
 </offer>
-   <offer id="6095" available="true">
+   <offer available="false" id="6095">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -104031,7 +104031,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Комплект Talvi &laquo;Освін&raquo;: шапка з трикотажним помпоном і хомут. Шапка гладкої в&#39;язки з відворотом у рубчик, усередині &mdash; фліс по всій площині. Хомут щільної в&#39;язки в рубчик, без флісу. Унісекс.</p>    <ul>   <li>Склад: верх &mdash; 50% вовна, 50% акрил; підкладка шапки &mdash; 100% поліестер (фліс)</li>   <li>Сезон: від холодної осені до теплої зими</li>   <li>Розмір (обхват голови): 50-52 см &mdash; орієнтовно на 3-4 роки</li>   <li>Виробник: Talvi, Україна</li>  </ul>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/90eda2fb-877f-4b0f-ac94-6df23942fb1f.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>  <h3>Як обрати розмір</h3>  <p>Розмір шапки   це обхват голови в сантиметрах. Виміряйте голову сантиметровою стрічкою по лінії над бровами і через найвиступаючу точку потилиці. Якщо результат на межі двох розмірів   беріть більший.</p>  <h3>Часті запитання</h3>  <p><strong>Як виміряти голову малюка?</strong><br>Сантиметровою стрічкою по колу: спереду над бровами, ззаду   через найвиступаючу точку потилиці. Стрічку не затягуйте.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/talvi/">Talvi</a>.</p>]]></description_ua>
 <price>618</price>
 <price_old>650</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-51023344210588_%2Ba2dbee8a66.jpg</picture>
 <picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-62859620900390_%2B9d30b71a2c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/46/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-bilyi-50-52-sm-93672912159343_%2B989484b7d8.jpg</picture>
@@ -137095,7 +137095,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Польща</param>
 <barcode>5903497240353</barcode>
 </offer>
-   <offer id="7699" available="true">
+   <offer available="false" id="7699">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>American Club</vendor>
@@ -137104,7 +137104,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі черевики American Club XD 198   теплий і зручний вибір на прохолодну погоду.</strong></p>  <p>Темно-сині черевики польського бренду American Club з контрастною білою підошвою та помаранчевими акцентами. Підкладка й устілка з м'якого флісу тримають тепло в холодну осінь і ранню весну.</p>  <p><strong>Особливості моделі:</strong></p>  <ul>  <li><p><strong>Дві липучки й бічна блискавка</strong>   черевики легко взути й зняти, навіть коли дитина поспішає на прогулянку.</p></li>  <li><p><strong>Верх з екошкіри</strong> з декоративною прострочкою   виглядає охайно й легко чиститься вологою серветкою.</p></li>  <li><p><strong>Флісова підкладка й устілка</strong>   тепло й м'якість для ніжок.</p></li>  <li><p><strong>Рельєфна підошва</strong> з протектором для впевненого кроку.</p></li>  </ul>  <p><strong>Характеристики:</strong></p>  <ul>  <li><p>Бренд: American Club (Польща)</p></li>  <li><p>Артикул: XD 198</p></li>  <li><p>Колір: темно-синій</p></li>  <li><p>Матеріал верху: екошкіра</p></li>  <li><p>Підкладка та устілка: фліс</p></li>  <li><p>Застібка: дві липучки + блискавка</p></li>  <li><p>Сезон: демісезон (весна осінь)</p></li>  <li><p>Розміри: 24 28</p></li>  </ul>  <p><strong>Як підібрати розмір:</strong> обведіть стопу дитини на аркуші паперу й виміряйте відстань від п'яти до найдовшого пальця. Під теплу шкарпетку додайте невеликий запас. Якщо розмір не підійде   обміняємо протягом 14 днів.</p>  <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/cca8d2a9-27f9-4271-8911-f0744dbe44dc.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>  <h3>Як обрати розмір</h3>  <p>Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п яти до найдовшого пальця. Для зимового взуття додайте 1 1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами   напишіть нам, підкажемо.</p>  <h3>Часті запитання</h3>  <p><strong>Як зрозуміти, що взуття по розміру?</strong><br>Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого   це запас для шкарпетки й руху.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/american-club/">American Club</a>.</p>]]></description_ua>
 <price>1757</price>
 <price_old>1849</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-67989487281790_%2B0e3366e65b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-54457804829438_%2Bb0c07e449e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/ditjach-chereviki-american-club-xd-198-temno-sin-na-fls-na-lipuchkax-ta-bliskavc-rozmr-24-29075897626926_%2B32f204d927.jpg</picture>
@@ -144320,23 +144320,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="8460" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3172451</article>
-<name_ua><![CDATA[Комплект з діно «Рекс»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Комплект з діно  Рекс </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Яскравий комплект з різнобарвним трикотажним помпоном та нашивкою з динозавром</li><li>Шапка: щільна двошарова в'язка + утеплювач фліс по лінії вух</li><li>Хомут: щільна двошарова в'язка (без флісу)</li><li>Підійде на холодну осінь-теплу зиму</li><li>Для хлопчиків від 3-х років та підлітків</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 48 56 см</li><li>Кольори: Джинсовий меланж, Помаранчевий, Зелений, Чорний, Світлий хакі, Світло-сірий меланж, Темно-синій, Світлий джинс, Індиго, Темно-сірий меланж</li></ul>]]></description_ua>
-<price>740</price>
-<price_old>740</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/11/85982810074526_%2B002f7169f5.jpg</picture>
-<picture>https://letimo.com.ua/content/images/11/72843462192428_%2B427a61cae5.jpg</picture>
-<param name="Колір">зелений</param>
-<param name="Розмір">48–56 см</param>
-<param name="Склад">верх - вовна 50%, акрил 50%, низ - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="8462" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -150386,23 +150369,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/95084532638658_%2B32c24b9854.jpg</picture>
 <param name="Колір">сірий</param>
 <param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="8762" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3220451-1988j</article>
-<name_ua><![CDATA[Зимовий комплект для дівчат «Лойл»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимовий комплект для дівчат  Лойл </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий зимовий комплект для дівчаток з вушками котика</li><li>Комплект включає в себе шапку та хомут, хомут можна також використовувати в якості пов'язки на голову у більш теплу пору року</li><li>Шапка утеплена флісом по всій площині зсередини, з відворотом, відворот закріплений</li><li>Шапка декорована металевою нашивкою talvi</li><li>Хомут щільний двошаровий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: (527) Персикова пудра, Пудра, Темна пудра, Бузок, (542) Сірий меланж, (568) Лаванда, (541) Світло-сірий, (591) Молочний, Світла пудра, (564) Чорний, Світлий беж</li></ul>]]></description_ua>
-<price>415</price>
-<price_old>415</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/45763478864343_%2Bd32395c9c8.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/11886627859475_%2B956f4da92e.jpg</picture>
-<param name="Колір">світлий</param>
-<param name="Розмір">50–52 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
@@ -185056,23 +185022,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50%-вовна, 50%-ПАН</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="12656" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3416451-cb6c7</article>
-<name_ua><![CDATA[Шапка з об'ємної в'язки «Черрі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з об'ємної в'язки  Черрі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Найтрендовіша універсальна шапочка. Хочеш Фемелі Лук? -Легко!</li><li>Подвійна, м'яка, об'ємна тепла в'язка - зігріє і дитину від 5 рочків, і дорослого</li><li>Відворот не пришитий, тож висоту (глибину) шапки можна регулювати за зручністю</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50%-вовна, 50%-ПАН</li><li>Розміри (обхват голови): 50 58 см</li><li>Кольори: Гірчиця, Помаранчевий, Блакитний, Темно-синій, (MLN) Бордовий меланж, Жовтий, Червоний, Темна м'ята, Рожевий, Лаванда, Джинсовий меланж, Зелений, Чорний, Кавовий, Світлий хакі, Темна пудра, Пудра, Хакі, Світлий джинс, Світло-рожевий, Персик</li></ul>]]></description_ua>
-<price>317</price>
-<price_old>317</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/7/91276197416033_%2B5582b68ff6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/7/77867947447290_%2B21f560b05f.jpg</picture>
-<param name="Колір">фіолетовий</param>
-<param name="Розмір">50–58 см</param>
-<param name="Склад">50%-вовна, 50%-ПАН</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="12669" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -205609,23 +205558,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14811" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451-1gjc4</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/73279015536627_%2Be5f1fc2d5b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/70201115817549_%2Bb9a1b514aa.jpg</picture>
-<param name="Колір">світло-сірий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14812" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -205639,23 +205571,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/13/96853887518372_%2B3e8ce99613.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/80599430535172_%2B2db26185fa.jpg</picture>
 <param name="Колір">комбінований</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14813" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/14/82161829960849_%2B8976a7df10.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/23976602805047_%2Beeb3e87eaa.jpg</picture>
-<param name="Колір">чорний</param>
 <param name="Розмір">46–48 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -205690,23 +205605,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/25/32346323272908_%2B9a0fed8a4d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/32016597128833_%2Baeec77b35e.jpg</picture>
 <param name="Колір">світло-сірий</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14826" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/27/38291558436996_%2Bf055656d85.jpg</picture>
-<picture>https://letimo.com.ua/content/images/27/71370593600162_%2Bb781daf26a.jpg</picture>
-<param name="Колір">молочний</param>
 <param name="Розмір">50–52 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -205792,23 +205690,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/41/41222984479860_%2B4e094d1d3e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/41/50090160628961_%2Bfd9144b596.jpg</picture>
 <param name="Колір">світло-бежевий</param>
-<param name="Розмір">52–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14842" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>540</price>
-<price_old>540</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/43/51256287990424_%2B6c7b3c6ad7.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/47545941589486_%2Bc0f28ee750.jpg</picture>
-<param name="Колір">кавовий</param>
 <param name="Розмір">52–54 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -207632,23 +207513,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="15062" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3551451</article>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Лате»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Лате </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/88678220363520_%2B5011267655.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/37091283700546_%2Bc494ed3a6c.jpg</picture>
-<param name="Колір">молочний</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="15063" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -209281,23 +209145,6 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="15190" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3559451</article>
-<name_ua><![CDATA[Комплект з флісом «Освін»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Комплект з флісом  Освін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий базовий комплект з трикотажним помпончиком</li><li>Основа шапки - гладка в'язка, відворот - в'язка в рубчик. Шапка по всій площині всередені утпелена флісом</li><li>Хомут - щільна в'язка в рубчик, без флісу</li><li>Состав: верх   шерсть 50%, акрил 50%, низ   100% полиэстер (фліс)</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Розміри (обхват голови): 48 50 см, 50 52 см, 54 56 см</li><li>Кольори: Чорний, Кавовий, Світло-рожевий, Світлий джинс, Світло-бежевий меланж, Темно-синій, Білий, Пудра, Гірчиця, Персик, Коричневий, Джинсовий меланж, Малина, Хакі, Молочний, Бежевий, Темна пудра, Блакитний, Рожевий, Світло-сірий, Темно-сірий меланж, Світлий хакі, Зелений, Помаранчевий, Лаванда, Бордо, Світло-сірий меланж, Червоний</li></ul>]]></description_ua>
-<price>720</price>
-<price_old>720</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/41/29366706860074_%2Bb6123b9557.jpg</picture>
-<picture>https://letimo.com.ua/content/images/41/46801316600835_%2Bce23fb4d64.jpg</picture>
-<param name="Колір">бежевий</param>
-<param name="Розмір">50–52 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="15191" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -209345,23 +209192,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/44/14313294713917_%2B6cbeddae72.jpg</picture>
 <picture>https://letimo.com.ua/content/images/44/31721892563823_%2B67a723dcd8.jpg</picture>
 <param name="Колір">комбінований</param>
-<param name="Розмір">50–52 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15194" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3559451</article>
-<name_ua><![CDATA[Комплект з флісом «Освін»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Комплект з флісом  Освін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий базовий комплект з трикотажним помпончиком</li><li>Основа шапки - гладка в'язка, відворот - в'язка в рубчик. Шапка по всій площині всередені утпелена флісом</li><li>Хомут - щільна в'язка в рубчик, без флісу</li><li>Состав: верх   шерсть 50%, акрил 50%, низ   100% полиэстер (фліс)</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Розміри (обхват голови): 48 50 см, 50 52 см, 54 56 см</li><li>Кольори: Чорний, Кавовий, Світло-рожевий, Світлий джинс, Світло-бежевий меланж, Темно-синій, Білий, Пудра, Гірчиця, Персик, Коричневий, Джинсовий меланж, Малина, Хакі, Молочний, Бежевий, Темна пудра, Блакитний, Рожевий, Світло-сірий, Темно-сірий меланж, Світлий хакі, Зелений, Помаранчевий, Лаванда, Бордо, Світло-сірий меланж, Червоний</li></ul>]]></description_ua>
-<price>720</price>
-<price_old>720</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/45/17573259464277_%2Bcb6ac67352.jpg</picture>
-<picture>https://letimo.com.ua/content/images/45/63582162806339_%2B6e0315ccb2.jpg</picture>
-<param name="Колір">зелений</param>
 <param name="Розмір">50–52 см</param>
 
 <param name="страна-производитель">Україна</param>
