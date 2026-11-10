@@ -1291,9 +1291,9 @@ function rzgDedupe_(xml) {
 // ===== 01.11.2026 21:55: проданих розмірів НЕ МАЄ бути в наявності в жодному фіді =====
 // id товарів сайту (з вивантаження Хорошопу): Фінн чорний 46-48/48-50, Фінн бежевий 46-48, Фінн білий 48-50, Освін коричневий,
 // Apawwa ABD0166R beige 25/28, black 23/27/28, ABD0026R black 27/28, ABQ0771R camel 23, FD120 white 19, ABD5521R black 22
-const OOS_IDS_ = ['6082','6088','6083','6081','6084','6055','6058','6035','6039','6040','6051','6041','6066','6029']; // 02.11 13:41: 6083 (Фінн чорний 48-50) продано
+const OOS_IDS_ = ['6082','6088','6083','6081','6084','6055','6058','6035','6039','6040','6051','6041','6066','6029','6036','6037','6038','6074','6089','6095','7699']; // 02.11 13:41: 6083 (Фінн чорний 48-50) продано; 11.11 00:25: нуль у SalesDrive — ABD0166R black 24/25/26, HA828-3 pink 28, Talvi 02425 беж 44-46, 05293 білий 50-52, XD198 navy 26
 // Епіцентр використовує артикул як id оферу
-const OOS_ARTS_ = ['TV-03645-CHORN-4648','TV-02425-SKHAKI-4446','TV-03645-CHORN-4850','TV-03645-BEZH-4648','TV-03645-BIL-4850','ABD0166R-BEIGE-25','ABD0166R-BEIGE-28','ABD0166R-BLACK-23','ABD0166R-BLACK-27','ABD0166R-BLACK-28','ABD0026R-BLACK-27','ABQ0771R-CAMEL-23','FD120-WHITE-19','ABD5521R-BLACK-22'];
+const OOS_ARTS_ = ['TV-03645-CHORN-4648','TV-02425-SKHAKI-4446','TV-03645-CHORN-4850','TV-03645-BEZH-4648','TV-03645-BIL-4850','ABD0166R-BEIGE-25','ABD0166R-BEIGE-28','ABD0166R-BLACK-23','ABD0166R-BLACK-27','ABD0166R-BLACK-28','ABD0026R-BLACK-27','ABQ0771R-CAMEL-23','FD120-WHITE-19','ABD5521R-BLACK-22','ABD0166R-BLACK-24','ABD0166R-BLACK-25','ABD0166R-BLACK-26','HA828-3-PINK-28','TV-02425-BEZH-4446','TV-05293-BIL-5052','XD198-NAVY-26'];
 function oosHit_(id) {
   if (OOS_ARTS_.indexOf(id) >= 0) return true;
   return OOS_IDS_.some(function (x) { return id === x || id === '9' + x || id === '98' + x || new RegExp('^' + x + '\\D').test(id); });
