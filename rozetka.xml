@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 22:39">
+<yml_catalog date="2026-11-10 23:09">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -252757,7 +252757,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">46-48см</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235313" available="false">
+<offer id="98235313" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1088</categoryId>
 <vendor>ДоРечі</vendor>
@@ -252767,7 +252767,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Ці м&rsquo;якенькі, теплі та зручні рукавички створені для діток від народження до 2х років (довжина 14 см).</p> <p dir="ltr">Максимально натуральний склад використаної пряжі - 35% віскоза, 30% меринос, 25% бавовна + 10% нейлон для еластичності - дозволяє зберігати тепло, не створюючи парникового ефекту та не електризуючись. До того ж,  надійний захист від холоду забезпечують не 1, а цілих 2 шари вязаного полотна.</p> <p dir="ltr">Рукавички</p> <p dir="ltr">- легко одягаються та надійно тримаються</p> <p dir="ltr">- не губляться завдяки в&#39;язаному шнурочку з тієї ж пряжі</p> <p dir="ltr">- ідеально поєднуються з шапками та снудами з цієї ж пряжі, які можна придбати додатково.</p> <p dir="ltr">Поради по догляду</p> <p dir="ltr">Для чистки не користуйтеся пральною машиною і сушкою. Лише ручне прання у теплій воді з засобом для прання вовни. Не використовуйте пом&rsquo;якшувачі, відбілювачі, миючі засоби або інші продукти, що містять відбілюючі інгредієнти.</p> <p dir="ltr">Не прасувати.</p>]]></description_ua>
 <price>460</price>
 <price_old>460</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/38/gloves_black-80919762579837_%2Ba7d3e7bd1d.jpg</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">-</param>
