@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 08:08">
+<yml_catalog date="2026-11-10 08:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -176807,23 +176807,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/11/36590112597956_%2B29b14f4aaf.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/68523060496855_%2B41ce0cee72.jpg</picture>
 <param name="Колір">комбінований</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="11761" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3352451</article>
-<name_ua><![CDATA[Шапка демісезонна «Фейт»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка демісезонна  Фейт </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Подвійна шапочка з м'якої пряжі в універсальному розмірі</li><li>Відворот на шапці не пришитий, тож висоту (глибину) шапки можна регулювати за зручністю</li><li>Підійде діткам від 2-х рочків, а також підліткам та дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: віскоза 52%, еластан 26%, нейлон 22%</li><li>Розміри (обхват голови): Універсальний</li><li>Кольори: Білий, Блакитний, Світло-сірий, Світлий беж, Гірчичний, Джинс, Світлий жовтий, Бордовий, Індиго, Червоний, Пудра, Темно-сірий, Темно-синій, Світло-рожевий, Кава, Персикова пудра, Малиновий, Чорний, Світлий хакі, М'ята, Помаранчевий, Хакі, Світла пудра, Рожевий, Бежевий, Лавандовий, Зелений, Молочний, Темна пудра, Сірий, Коричневий, Капучіно</li></ul>]]></description_ua>
-<price>415</price>
-<price_old>415</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/64757444349029_%2Be2b4f0c31b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/86408437970082_%2Bd207edb9ca.jpg</picture>
-<param name="Колір">рожевий</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
 <param name="страна-производитель">Україна</param>
