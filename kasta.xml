@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 11:10">
+<yml_catalog date="2026-11-10 11:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -217823,7 +217823,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="93168010" available="true">
+<offer id="93168010" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217860,7 +217860,7 @@ SYSTEM "shops.dtd">
 <p>Чудово поєднується з муфтами ДоРечі.</p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/33/baby_xs_late-61958328695135_%2B63c8903587.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/baby_xs_late-86748558729710_%2B1ed13634de.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/baby_xs_late-83845023575964_%2B0a20fe6c80.jpg</picture>
@@ -217878,7 +217878,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="93168971" available="true">
+<offer id="93168971" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217915,7 +217915,7 @@ SYSTEM "shops.dtd">
 <p>Чудово поєднується з муфтами ДоРечі.</p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/34/baby_xs_pink-93419909683165_%2Bd2d5242fe9.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/baby_xs_pink-71938450357658_%2B313450efb9.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/baby_xs_pink-98330203038013_%2Bb6ec36d374.jpg</picture>
