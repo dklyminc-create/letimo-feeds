@@ -1689,3 +1689,9 @@ function prHash_(s) {
   const h = Utilities.base64EncodeWebSafe(Utilities.computeDigest(Utilities.DigestAlgorithm.MD5, s, Utilities.Charset.UTF_8)).slice(0, 22);
   PR_HASH_MEMO_[s] = h; return h;
 }
+
+// 11.11.2026: Apawwa накл. №73292 (EAN-13 з коробок; id варіантів на сайті: Navy 15874…15879, Black 15880…15885, ABD0156R 15892…15897 = розміри 23…28). I3603R-A має внутрішні коди CDKXJ… (не EAN) — у фіди не йдуть.
+(function () {
+const g = { 'ABD0176R-NAVY': [15874, ['6942778802858','6942778802865','6942778802872','6942778802889','6942778802896','6942778802902']], 'ABD0176R-BLACK': [15880, ['6942778802926','6942778802933','6942778802940','6942778802957','6942778802964','6942778802971']], 'ABD0156R-BLACK': [15892, ['6942778802360','6942778802377','6942778802384','6942778802391','6942778802407','6942778802414']] };
+Object.keys(g).forEach(function (m) { for (let s = 23; s <= 28; s++) { SHOE_BARCODE[m + '-' + s] = g[m][1][s - 23]; SHOE_ID_MAP_[g[m][0] + s - 23] = m + '-' + s; } });
+})();
