@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-11 17:10">
+<yml_catalog date="2026-11-11 17:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -216951,7 +216951,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213274" available="true">
+<offer id="98213274" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216964,7 +216964,7 @@ SYSTEM "shops.dtd">
 <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">Після прання в машинці</span></span> <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">вовна зкатається та стане схожою на вовняний пледик (хоча це зовсім не страшно, бо своїх теплих властивостей вона все одно не втратить)</span></span></span></span></p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/35/18291672140203_%2B139879e46b.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/baby-xs-dorechi-grafitoviy-95014982503369_%2Bbfee894ba3.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/59512214926968_%2B3698a76c7d.jpg</picture>
