@@ -3422,7 +3422,9 @@ function tvDropAvail_(xml) {
 }
 var TV_DROP_MAX_ = 0;
 // 12.11.2026: шапки Talvi власного складу (накл. №50582 від 02.11.2026), яких немає в залишках Talvi-дропу — артикул TALVI- картки на сайті → кількість у нас
-var TV_OWN_EXTRA_ = {"TALVI-03187-82075":2,"TALVI-03253-82420":3,"TALVI-03476-89682":3,"TALVI-03601-91237":4,"TALVI-03603-91227":3,"TALVI-03628-91330":5,"TALVI-03645-91490":5,"TALVI-03645-91493":5,"TALVI-03644-91503":2,"TALVI-03644-91506":5,"TALVI-03647-91531":4,"TALVI-04209-95931":3,"TALVI-04209-95924":5,"TALVI-04955-102030":4,"TALVI-04969-102184":4,"TALVI-04969-102182":4,"TALVI-04969-102187":4};
+var TV_OWN_EXTRA_ = {"TALVI-03187-82075":2,"TALVI-03253-82420":3,"TALVI-03476-89682":3,"TALVI-03601-91237":4,"TALVI-03603-91227":3,"TALVI-03628-91330":5,"TALVI-03645-91490":5,"TALVI-03645-91493":5,"TALVI-03644-91503":2,"TALVI-03644-91506":5,"TALVI-03647-91531":4,"TALVI-04209-95931":3,"TALVI-04209-95924":5,"TALVI-04955-102030":4,"TALVI-04969-102184":4,"TALVI-04969-102182":4,"TALVI-04969-102187":4,
+  // ті самі поставки, що вже були в залишках Talvi-дропу (рішення Дмитра 12.11.2026: теж ×2 + комісія)
+  "TALVI-03253-82972":4,"TALVI-04209-95927":5,"TALVI-03287-83147":5,"TALVI-03628-91333":3,"TALVI-04473-98183":5,"TALVI-04473-98192":3,"TALVI-04473-98186":3,"TALVI-04955-102034":5};
 function tvDropAvailTest() {
   const xml = UrlFetchApp.fetch(SRC, { muteHttpExceptions: true }).getContentText('UTF-8');
   const cnt = function (x) { let all = 0, av = 0; (x.match(/<offer\b[^>]*>[\s\S]*?<\/offer>/g) || []).forEach(function (o) { if (/<vendorCode>(?:<!\[CDATA\[)?\s*TALVI-/.test(o)) { all++; if (/available="true"/.test(o)) av++; } }); return all + ' TALVI, в наявності ' + av; };
