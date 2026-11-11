@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-11 16:39">
+<yml_catalog date="2026-11-11 17:10">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -216442,7 +216442,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213149" available="false">
+<offer id="98213149" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216462,7 +216462,7 @@ SYSTEM "shops.dtd">
 Після прання в машинці вовна зкатається та стане схожою на вовняний пледик (хоча це зовсім не страшно, бо своїх теплих властивостей вона все одно не втратить)</p> <p>В конверті Тренд ваша дитина буде у теплі, а зимові прогулянки будуть тривали стільки, скільки забажаєте ви, а не вимагатиме низька температура повітря.</p> <p>Купити дитячий зимовий конверт для немовлят на овчині Trend Ви можете в будь-якому з кольорових рішень, представлених на сайті. </p>]]></description_ua>
 <price>3640</price>
 <price_old>3640</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-99554161458887_%2Bccb7c59393.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-38031561049309_%2B94e7e27e31.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-19494603421965_%2Ba74a40241c.jpg</picture>
