@@ -36,6 +36,7 @@ jobs:
         env:
           MB_FEED_URL: ${{ secrets.MB_FEED_URL }}
           DR_FEED_URL: ${{ secrets.DR_FEED_URL }}
+          SD_YML_URL: ${{ secrets.SD_YML_URL }}
           EPICENTR_TOKEN: ${{ secrets.EPICENTR_TOKEN }}
           FEEDS_LIVE: ${{ vars.EPI_LIVE }}
         run: node --max-old-space-size=6144 builder/run.js epicentr
