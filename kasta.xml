@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 21:38">
+<yml_catalog date="2026-11-12 22:09">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -217595,7 +217595,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235375" available="true">
+<offer id="98235375" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217604,7 +217604,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі зі стильним принтом "Перший сніг" - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/47/handmuff_green-62318508358553_%2B6eb1e492f0.jpg</picture>
 <picture>https://dorechi.ua/content/images/47/handmuff_green-11734250586000_%2B77e98f36ea.jpg</picture>
 <picture>https://dorechi.ua/content/images/47/handmuff_green-31621984160584_%2B6cc71b32f3.jpg</picture>
@@ -217675,7 +217675,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213062" available="true">
+<offer id="98213062" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217705,7 +217705,7 @@ SYSTEM "shops.dtd">
 <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">Після прання в машинці</span></span> <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">вовна зкатається та стане схожою на вовняний пледик (хоча це зовсім не страшно, бо своїх теплих властивостей вона все одно не втратить)</span></span></span></span></p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/34/mufti-dorechiknyaginya-dorechi-mufta-dlya-vizochkiv-87671398801484_%2B82f3567e06.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/mufti-dorechiknyaginya-dorechi-mufta-dlya-vizochkiv-32510872256300_%2Bba1dacee46.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/mufti-dorechiknyaginya-dorechi-mufta-dlya-vizochkiv-50260283087214_%2B9c948c4925.jpg</picture>
