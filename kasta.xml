@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 14:40">
+<yml_catalog date="2026-11-12 15:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -217858,7 +217858,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="96728130" available="true">
+<offer id="96728130" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217868,7 +217868,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Утеплювач - інноваційний матеріал Thermoloft Active 200. Тонкий, легкий і ефективно утримує тепло - до двох разів тепліше аналогічних утеплювачів однакової ваги. Не пропускає воду, не сковує рухи і практично не дає усадку при пранні.</p> <p>Підкладка - антипілінговий фліс Polar, який практично не кошлатиться.</p> <p>У штанинах - підкладковий атлас для легкого одягання.</p> <p>Температурний режим +5 - 20 &deg; С без урахування вітру і вологості</p> <p>Розміри - 92, 98 і 104 см.</p> <p>Напівкомбінезони невибагливі в догляді - їх можна прати (використовуйте рідкі порошки або засоби для мембрани) і сушити в пральній машині.</p> <p>Створюють чарівний комплект 2 в 1 з <u><span style="font-size:16px;"><span style="color:#f39c12;">куртками-парками</span></span><span style="color:#f39c12;"> ДоРечі.</span></u></p>]]></description_ua>
 <price>1790</price>
 <price_old>1790</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/18/napivkombinezon-zymovyi-hrafitovyi-99500203672398_%2Be81ceeca47.jpg</picture>
 <picture>https://dorechi.ua/content/images/18/napivkombinezon-zymovyi-hrafitovyi-63521598290835_%2Be4bfb981c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/18/napivkombinezon-zymovyi-hrafitovyi-64151222965048_%2Bd4d92aec92.jpg</picture>
