@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 15:34">
+<yml_catalog date="2026-11-12 15:40">
 <offers>
+<offer id="1076013176" available="true">
+<price>1176</price>
+<category code="6871">Чоловічки дитячі</category>
+<attribute_set code="6871">Чоловічки дитячі</attribute_set>
+<name lang="ua">Велюровий чоловічок "Tim", молочний 62 (0-3 міс)</name>
+<name lang="ru">Велюровый человечек "Tim", молочный 62 (0-3 мес)</name>
+<picture>https://letimo.com.ua/content/images/15/14172399490599_+d17ea71255.jpg</picture>
+<picture>https://letimo.com.ua/content/images/15/veliurovyi-cholovichok-tim-molochnyi-62-0-3-mis-24354511541309_+4e8857a680.jpg</picture>
+<picture>https://letimo.com.ua/content/images/15/veliurovyi-cholovichok-tim-molochnyi-62-0-3-mis-29568933938106_+fb1c106e16.jpg</picture>
+<picture>https://letimo.com.ua/content/images/15/veliurovyi-cholovichok-tim-molochnyi-62-0-3-mis-68964490602427_+12dbdc21b9.jpg</picture>
+<picture>https://letimo.com.ua/content/images/15/veliurovyi-cholovichok-tim-molochnyi-62-0-3-mis-45563355042621_+aceef668ba.jpg</picture>
+<picture>https://letimo.com.ua/content/images/15/veliurovyi-cholovichok-tim-molochnyi-62-0-3-mis-68614096854025_+7f08723c2c.jpg</picture>
+<description lang="ua">&lt;p&gt;Велюровий чоловічок &amp;laquo;Tim&amp;raquo; &amp;mdash; стриманий монохромний чоловічок із м&#39;якої бавовни.&lt;/p&gt;    &lt;h3&gt;Що важливо&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Склад: 100% бавовна, м&#39;який вельвет.&lt;/li&gt;   &lt;li&gt;Теплий і гнучкий.&lt;/li&gt;   &lt;li&gt;Кнопки спереду.&lt;/li&gt;   &lt;li&gt;Пасує до велюрового комбінезона &amp;laquo;Tim&amp;raquo;.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Догляд&lt;/h3&gt;    &lt;p&gt;Прати навиворіт при 30 &amp;deg;C, сушити природним способом.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Порада:&lt;/strong&gt; такий чоловічок добре виглядає на фото з виписки.&lt;/p&gt;  </description>
+<description lang="ru"><![CDATA[<p>Велюровый человечек «Tim» — сдержанный монохромный человечек из мягкого хлопка.</p><h3> Что важно</h3><ul><li> Состав: 100% хлопок, мягкий вельвет.</li><li> Теплый и гибкий.</li><li> Кнопки спереди.</li><li> Подходит к велюровому комбинезону «Tim».</li></ul><h3> Уход</h3><p> Стирать наизнанку при 30 °C, сушить естественным способом.</p><p> <strong>Совет:</strong> такой человечек хорошо смотрится на фото из выписки.</p>]]></description>
+<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Tim]]></param>
+<vendor code="5ee656d74c3d4f75a9c5ab633005ae4f">Mag Baby</vendor>
+<country_of_origin code="ukr">Україна</country_of_origin>
+<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
+<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+<param name="Висота" paramcode="height">30</param>
+<param name="Глибина" paramcode="length">250</param>
+<param name="Ширина" paramcode="width">200</param>
+<param name="Вага" paramcode="weight">250</param>
+<param lang="ua" paramcode="5123" name="Склад тканини">100% бавовна</param>
+<param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Зріст" paramcode="11972" valuecode="4907">62</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de511413">бавовна,велюр</param>
+<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx,ophru6z8">молочний,білий</param>
+<param name="Вид" paramcode="51" valuecode="491074a8e09c86b02134d1da4165fc48">з довгим рукавом</param>
+<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
+<param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
+<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+<param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
+<param name="Тип застібки" paramcode="2407" valuecode="80a4923d758236d64c78cf77bc5605e8">кнопки</param>
+</offer>
 <offer id="1076013177" available="true">
 <price>1176</price>
 <category code="6871">Чоловічки дитячі</category>
@@ -5101,6 +5137,7 @@
 <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
 <param name="Вид" paramcode="51" valuecode="59474de50c575">куртка</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,gaslt0maz3oaouua">бавовна,поліестер</param>
+<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
@@ -108101,6 +108138,7 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">100% нейлон</param>
+<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
 <param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
 <param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8">універсальний</param>
