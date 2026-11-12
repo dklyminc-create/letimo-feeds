@@ -3398,10 +3398,16 @@ function tvDropAvail_(xml) {
   // 04.11.2026: Talvi-дроп не в наявності прибираємо одразу (економія пам'яті на всіх етапах);
   // TV_DROP_MAX_ (якщо задано) — максимум позицій Talvi-дропу, зайве знімаємо цілими моделями (group_id).
   if (!TV_DROP_STATE_) TV_DROP_STATE_ = { g: {}, kept: 0 };
-  const keptGroups = TV_DROP_STATE_.g; let kept = TV_DROP_STATE_.kept, cut = 0, capped = 0;
+  const keptGroups = TV_DROP_STATE_.g; let kept = TV_DROP_STATE_.kept, cut = 0, capped = 0, sdOos = 0;
   const out = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>\s*/g, function (o) {
     const k = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*(TALVI-[^<\]\s]+)/) || [])[1];
-    if (!k) return o;
+    if (!k) {
+      // 12.11.2026 рішення Дмитра: власний склад — якщо в SalesDrive залишок 0, на маркетплейсах «немає в наявності» (не чекаючи синхронізації статусів Хорошопу)
+      const vc_ = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
+      const sd_ = vc_ ? sdStock_() : null;
+      if (sd_ && Object.prototype.hasOwnProperty.call(sd_, vc_) && sd_[vc_] <= 0 && !/available="false"/.test(o)) { sdOos++; return o.replace(/available="[^"]*"/, 'available="false"'); }
+      return o;
+    }
     TV_DROP_IDS_[(o.match(/<offer\b[^>]*\bid="([^"]+)"/) || [])[1]] = 1;
     const own_ = tvOwnQty_(k); // 12.11.2026: власний склад Talvi (накл. №50582) поверх нульового залишку Talvi-дропу
     const q = Math.max(map[k] || 0, own_);
@@ -3417,6 +3423,7 @@ function tvDropAvail_(xml) {
     return o.replace(/available="[^"]*"/, 'available="true"'); // 05.11.2026: у Horoshop для дропу буває available="" (порожньо) — раніше такі позиції лишались «не в наявності»
   });
   TV_DROP_STATE_.kept = kept;
+  if (sdOos) Logger.log('SalesDrive: власний склад із залишком 0 → немає в наявності: ' + sdOos);
   Logger.log('Talvi-дроп: лишено ' + kept + ', не в наявності прибрано ' + cut + (capped ? ', понад ліміт ' + TV_DROP_MAX_ + ' знято ' + capped : ''));
   return out;
 }
