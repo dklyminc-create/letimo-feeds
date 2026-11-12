@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 04:08">
+<yml_catalog date="2026-11-12 04:42">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -133778,90 +133778,6 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
 <param name="Колір виробника" paramcode="78" valuecode="d0e14e93e24eab2881b49cb4cacb0159">індиго</param>
 <param name="Розмір" paramcode="2293" valuecode="fvp6ojir2f9zlemt">50</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-03725-92322" available="true">
-<price>400</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка базова «Урбан», темний беж, 48–52 см</name>
-<name lang="ru">Шапка базовая "Урбан", темный беж, 48-52 см.</name>
-<picture>https://letimo.com.ua/content/images/39/16773351327496_+96294ea15d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/39/30357337092588_+20367c39f2.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка базова  Урбан &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якенька в'язана шапка для діток&lt;/li&gt;&lt;li&gt;Декорована фірмовим шевроном talvi&lt;/li&gt;&lt;li&gt;Двошарова + відворот (відповідно у зоні вушок 4 шари, що забезпечує додаткове утеплення)&lt;/li&gt;&lt;li&gt;Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% віскоза, 22% нейлон, 28% ПБТ&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 48 52 см, 52 56 см&lt;/li&gt;&lt;li&gt;Кольори: Темний беж, (225) Світлий хакі, (098) Темна пудра, Світло-сірий, Сірий, Світла пудра, Кавовий, Чорний, Пудра, Сірий меланж, (1044) Коричневий, Рожевий, Білий, (251) Світлий джинс, Молочний, Бежевий, Світло-рожевий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Урбан]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% віскоза, 22% нейлон, 28% ПБТ</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="596687299a834">темний беж</param>
-<param name="Розмір" paramcode="2293" valuecode="y4fczlvetm3mlihr">48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-03725-92332" available="true">
-<price>400</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка базова «Урбан», (225) світлий хакі, 48–52 см</name>
-<name lang="ru">Шапка базовая «Урбан», (225) светлый хаки, 48–52 см</name>
-<picture>https://letimo.com.ua/content/images/40/64133065203694_+6bf5bb6fb9.jpg</picture>
-<picture>https://letimo.com.ua/content/images/40/84343062699593_+2ab741015c.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка базова  Урбан &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якенька в'язана шапка для діток&lt;/li&gt;&lt;li&gt;Декорована фірмовим шевроном talvi&lt;/li&gt;&lt;li&gt;Двошарова + відворот (відповідно у зоні вушок 4 шари, що забезпечує додаткове утеплення)&lt;/li&gt;&lt;li&gt;Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% віскоза, 22% нейлон, 28% ПБТ&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 48 52 см, 52 56 см&lt;/li&gt;&lt;li&gt;Кольори: Темний беж, (225) Світлий хакі, (098) Темна пудра, Світло-сірий, Сірий, Світла пудра, Кавовий, Чорний, Пудра, Сірий меланж, (1044) Коричневий, Рожевий, Білий, (251) Світлий джинс, Молочний, Бежевий, Світло-рожевий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Урбан]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% віскоза, 22% нейлон, 28% ПБТ</param>
-<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
-<param name="Розмір" paramcode="2293" valuecode="y4fczlvetm3mlihr">48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-03725-92325" available="true">
-<price>400</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка базова «Урбан», (098) темна пудра, 48–52 см</name>
-<name lang="ru">Шапка базовая «Урбан» (098) темная пудра, 48–52 см</name>
-<picture>https://letimo.com.ua/content/images/41/26897676223129_+ca1a853de3.jpg</picture>
-<picture>https://letimo.com.ua/content/images/41/60168049338005_+9c4e204c75.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка базова  Урбан &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якенька в'язана шапка для діток&lt;/li&gt;&lt;li&gt;Декорована фірмовим шевроном talvi&lt;/li&gt;&lt;li&gt;Двошарова + відворот (відповідно у зоні вушок 4 шари, що забезпечує додаткове утеплення)&lt;/li&gt;&lt;li&gt;Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% віскоза, 22% нейлон, 28% ПБТ&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 48 52 см, 52 56 см&lt;/li&gt;&lt;li&gt;Кольори: Темний беж, (225) Світлий хакі, (098) Темна пудра, Світло-сірий, Сірий, Світла пудра, Кавовий, Чорний, Пудра, Сірий меланж, (1044) Коричневий, Рожевий, Білий, (251) Світлий джинс, Молочний, Бежевий, Світло-рожевий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Урбан]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% віскоза, 22% нейлон, 28% ПБТ</param>
-<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-<param name="Розмір" paramcode="2293" valuecode="y4fczlvetm3mlihr">48</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
