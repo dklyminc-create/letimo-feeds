@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-13 02:10">
+<yml_catalog date="2026-11-13 02:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -138404,23 +138404,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7871" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3141451-jtp84</article>
-<name_ua><![CDATA[Тепла манішка з флісом для малюків «Фрост»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тепла манішка з флісом для малюків  Фрост </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла однотонна манішка, яка підійде під будь-який образ</li><li>Щільна в'язка + додаткове утеплення шаром флісу по всій грудині</li><li>Горловина вив'язана в щільний рубчик, що забезпечує її еластичність (двошарова)</li><li>UNISEX</li><li>Підійде орієнтовно для діток від 9 міс до 4-5 років</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри: 46 52 см</li><li>Кольори: Білий, Світла пудра, Коричневий, Малиновий, Пудра, Світлий беж, Чорний, Світлий хакі, Світло-рожевий, Кава, Світло-сірий, Лавандовий, Рожевий, Джинс, Молочний, Блакитний, Сірий, Темно-синій</li></ul>]]></description_ua>
-<price>520</price>
-<price_old>520</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/22/18353069224924_%2B3236f862e2.jpg</picture>
-<picture>https://letimo.com.ua/content/images/22/94915117855193_%2B57bc13377f.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">46–52 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="7873" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -185345,23 +185328,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="12783" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3421451-ms2nx</article>
-<name_ua><![CDATA[Шапка з тедді-вушками «Падді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з тедді-вушками  Падді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька в'язана шапочка з вушками з хутра тедді, виготовлена з пряжі преміальної якості</li><li>Додатково декорована фірмовою тканинною нашивкою збоку</li><li>Оснащена зав'язками</li><li>Щільна в'язка + підклад бавовна</li><li>З відворотом, що закріплений (додає в зоні вушок третій шар)</li><li>UNISEX</li><li>Для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю голівки, підійде тим, в кого окружність 34-36 см)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</li><li>Розміри (обхват голови): 34 36 см, 36 38 см, 38 40 см, 42 44 см, 46 48 см, 50 52 см</li><li>Кольори: Коричневий, Джинс, Світла пудра, Малиновий, Світлий хакі, Чорний, Сірий, Персикова пудра, Бежевий, Білий, Світлий беж, Молочний, Рожевий, Бежевый</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/34/20981275036262_%2Bbfa2419813.jpg</picture>
-<picture>https://letimo.com.ua/content/images/34/93458992849258_%2Bfab58de234.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="12791" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -206098,23 +206064,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/36/32058839368327_%2B6de9e4c3d6.jpg</picture>
 <picture>https://letimo.com.ua/content/images/36/45886230174375_%2Bdf7e504005.jpg</picture>
 <param name="Колір">коричневий</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15036" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3550451-h5nwe</article>
-<name_ua><![CDATA[В'язаний шолом на флісі «Маура»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язаний шолом на флісі  Маура </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток на флісі</li><li>Завдяки своєму квадратному крою при одяганні на голову стоврюється ефект милих вушок</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 9-12 міс</li><li>Розміри (обхват голови): 44 46 см, 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Темно-синій, Коричневий, Білий, Помаранчевий, Персик, Чорний, Пудра, Молочний, Світло-сірий меланж, Світло-бежевий меланж, Світло-сірий, Кавовий, Малина</li></ul>]]></description_ua>
-<price>480</price>
-<price_old>480</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/37/95337996695703_%2B6442421701.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/33557423114967_%2B761784a249.jpg</picture>
-<param name="Колір">комбінований</param>
 <param name="Розмір">48–50 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
