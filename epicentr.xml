@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 17:41">
+<yml_catalog date="2026-11-13 18:09">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -194099,7 +194099,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-1842" available="true">
+<offer id="DR-1842" available="false">
 <price>3640</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
