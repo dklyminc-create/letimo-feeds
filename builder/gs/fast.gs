@@ -1016,12 +1016,12 @@ function rzTrRu_(ua, vendor) {
   if (ru) cache.put(key, ru, 21600);
   return ru;
 }
-function rzModFix_(xml) {
+/* 13.11.2026: Rozetka — пледи/хомут Talvi, приховані за фото («на фото асартимент», «колір не відповідає назві»): лишаємо тільки перше фото (один колір), колір у назві — за першим фото. */ const RZ_TV_FIX_ = {'9432':'','9433':'','9434':'','9421':'','15393':'','9445':'персиковий','9425':'рожевий','9448':'темно-рожевий','9446':'бежевий','9443':'пудровий','9447':'коричневий','15398':'пудровий','15396':'рожевий','15416':'гірчичний','15419':'пудровий','15422':'сірий','14607':'-'}; const RZ_TV_RU_ = {'персиковий':'персиковый','рожевий':'розовый','темно-рожевий':'темно-розовый','бежевий':'бежевый','пудровий':'пудровый','коричневий':'коричневый','гірчичний':'горчичный','сірий':'серый'}; function rzTvFix_(o, id) { if (!(id in RZ_TV_FIX_)) return o; const c = RZ_TV_FIX_[id]; if (c === '-') return ''; /* хомут «Карл»: на фото інший колір */ let n = 0; o = o.replace(/<picture>[\s\S]*?<\/picture>\s*/g, function (p) { return n++ === 0 ? p : ''; }); if (c) { o = o.replace(/(<name_ua>(?:<!\[CDATA\[)?[\s\S]*?Talvi )(комбінований|світлий|темний)/, '$1' + c); o = o.replace(/(<name>(?:<!\[CDATA\[)?[\s\S]*?Talvi )(комбинированный|светлый|темный)/, '$1' + RZ_TV_RU_[c]); o = rzSetParam_(o, 'Колір', c); } return o.replace(/, разноцветный/, ''); } function rzModFix_(xml) {
   const st = { excl: 0, train: 0, newborn: 0, dr: 0, fd: 0, ru: 0, ruFail: 0 };
   let trBudget = 400;
   xml = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>/g, function (o) {
     const id = (o.match(/<offer\b[^>]*\bid="(?:rzid_)?([^"]+)"/) || [])[1] || '';
-    if (RZ_PHOTO_EXCLUDE.indexOf(id) >= 0) { st.excl++; return ''; }
+    if (RZ_PHOTO_EXCLUDE.indexOf(id) >= 0) { st.excl++; return ''; } o = rzTvFix_(o, id); if (!o) { st.excl++; return ''; }
     const ua = (o.match(/<name_ua>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name_ua>/) || [])[1] || '';
     const sz = (o.match(/<param name="Розмір">([^<]*)<\/param>/) || [])[1] || '';
     let m;
