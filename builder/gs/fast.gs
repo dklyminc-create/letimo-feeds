@@ -1037,7 +1037,7 @@ function rzModFix_(xml) {
       o = rzSetParam_(o, 'Вік дитини', RZ_FD120[sz][0]); o = rzSetParam_(o, 'Зріст', RZ_FD120[sz][1]); st.fd++;
     }
     // Назва RU = назва UA (українською) -> модератор ховає «Назва і Назва (ua) не співпадають»: перекладаємо RU
-    if (/колготк|шкарпет/i.test(ua)) { const hh = rzAgeH_(sz); if (hh) { o = rzSetParam_(o, 'Зріст', hh); st.ageH = (st.ageH || 0) + 1; } } // 04.11.2026: Rozetka вимагає зріст, а не вік
+    if (/колготк|шкарпет/i.test(ua)) { const hh = rzAgeH_(sz); if (hh) { o = rzSetParam_(o, 'Зріст', hh); st.ageH = (st.ageH || 0) + 1; } if (!/\d\s*см/.test(ua)) { const hn = /см/.test(sz) ? sz.replace(/\s*см\.?/, ' см') : (hh ? 'до ' + hh + ' см' : ''); if (hn) { o = rzSetSizeInNames_(o, '', hn); st.hName = (st.hName || 0) + 1; } } } // 13.11.2026: модератор Rozetka — «вказати зріст у назві» (шкарпетки, колготки) // 04.11.2026: Rozetka вимагає зріст, а не вік
     const ru = (o.match(/<name>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name>/) || [])[1] || '';
     const ua2 = (o.match(/<name_ua>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name_ua>/) || [])[1] || '';
     if (ru && (ru === ua2 || rzRuBad_(ru, ua2)) && trBudget-- > 0) { // 04.11.2026: і коли RU-назва з іншою структурою (модерація: «назви мають повністю співпадати»)
