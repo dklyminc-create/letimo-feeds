@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-13 22:11">
+<yml_catalog date="2026-11-13 22:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -199960,23 +199960,6 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/22/68942713304622_%2B18cfc44e68.jpg</picture>
 <picture>https://letimo.com.ua/content/images/22/51445379900463_%2B372fd18cce.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">52–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14222" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3513451-43i1y</article>
-<name_ua><![CDATA[Зимова шапка «Кейсі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка  Кейсі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка з трикотажним помпоном</li><li>Основа - фактурна в'язка, а відворот вив'язаний в рубчик; утеплена всередені флісом по всій площині</li><li>UNISEX</li><li>Для діток 4-8 рочків</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Бузок, Темна пудра, Капучіно, /09 Бордовий, SM Пудра, Світло-сірий меланж</li></ul>]]></description_ua>
-<price>293</price>
-<price_old>293</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/23/37001924463482_%2Bac59f25d7d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/55354617841985_%2B6cb9326749.jpg</picture>
 <param name="Колір">комбінований</param>
 <param name="Розмір">52–54 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
