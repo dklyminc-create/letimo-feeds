@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-13 10:08">
+<yml_catalog date="2026-11-13 10:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -138744,23 +138744,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50%-бавовна, 50%-ПАН.</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7936" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3146451-h5nwe</article>
-<name_ua><![CDATA[В'язана бавовняна манішка «Айріс»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана бавовняна манішка  Айріс </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язана манішка з м'якої бавовняної пряжі, не кусається, в універсальному розмірі. Підійде дітям від 2-х років та дорослим.</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50%-бавовна, 50%-ПАН.</li><li>Розміри: Універсальний</li><li>Кольори: Червоний, Джинс, Антрацит, Лаванда, Хакі, Темно-синій, Блакитний, Кава, Салатовий, Пудра, Небесний, Темний беж, Бежевий, Корал, Лимонний, Світло-сірий, Світло-рожевий, Світлий хакі, Чорний, Світла пудра, Гірчиця, Світлий джинс, Білий, Рожевий, Молочний, Світло-бежевий, Фісташковий, Темно-сірий меланж</li></ul>]]></description_ua>
-<price>460</price>
-<price_old>460</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/37/99486312650873_%2B64b88486e8.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/52941073403585_%2B871f402d46.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">50%-бавовна, 50%-ПАН.</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="7937" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -138774,23 +138757,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/38/63912276526421_%2B555d1f90e5.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/20156752484832_%2B4e3396c994.jpg</picture>
 <param name="Колір">блакитний</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">50%-бавовна, 50%-ПАН.</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="7938" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3146451-rv8b1</article>
-<name_ua><![CDATA[В'язана бавовняна манішка «Айріс»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана бавовняна манішка  Айріс </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язана манішка з м'якої бавовняної пряжі, не кусається, в універсальному розмірі. Підійде дітям від 2-х років та дорослим.</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50%-бавовна, 50%-ПАН.</li><li>Розміри: Універсальний</li><li>Кольори: Червоний, Джинс, Антрацит, Лаванда, Хакі, Темно-синій, Блакитний, Кава, Салатовий, Пудра, Небесний, Темний беж, Бежевий, Корал, Лимонний, Світло-сірий, Світло-рожевий, Світлий хакі, Чорний, Світла пудра, Гірчиця, Світлий джинс, Білий, Рожевий, Молочний, Світло-бежевий, Фісташковий, Темно-сірий меланж</li></ul>]]></description_ua>
-<price>460</price>
-<price_old>460</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/39/52480861865361_%2B7646474aeb.jpg</picture>
-<picture>https://letimo.com.ua/content/images/39/70346724238694_%2B361697d507.jpg</picture>
-<param name="Колір">темний</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">50%-бавовна, 50%-ПАН.</param>
 <param name="страна-производитель">Україна</param>
