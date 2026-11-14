@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-14 02:10">
+<yml_catalog date="2026-11-14 02:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -175570,40 +175570,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="11708" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3349451</article>
-<name_ua><![CDATA[Шапка базова «Урбан»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка базова  Урбан </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якенька в'язана шапка для діток</li><li>Декорована фірмовим шевроном talvi</li><li>Двошарова + відворот (відповідно у зоні вушок 4 шари, що забезпечує додаткове утеплення)</li><li>Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% віскоза, 22% нейлон, 28% ПБТ</li><li>Розміри (обхват голови): 48 52 см, 52 56 см</li><li>Кольори: Темний беж, (225) Світлий хакі, (098) Темна пудра, Світло-сірий, Сірий, Світла пудра, Кавовий, Чорний, Пудра, Сірий меланж, (1044) Коричневий, Рожевий, Білий, (251) Світлий джинс, Молочний, Бежевий, Світло-рожевий</li></ul>]]></description_ua>
-<price>400</price>
-<price_old>400</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/9/80348048098326_%2Be24b5127f5.jpg</picture>
-<picture>https://letimo.com.ua/content/images/9/64958490451495_%2Ba7f522a1c8.jpg</picture>
-<param name="Колір">бежевий</param>
-<param name="Розмір">52–56 см</param>
-<param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="11712" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3349451-h5nwe</article>
-<name_ua><![CDATA[Шапка базова «Урбан»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка базова  Урбан </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якенька в'язана шапка для діток</li><li>Декорована фірмовим шевроном talvi</li><li>Двошарова + відворот (відповідно у зоні вушок 4 шари, що забезпечує додаткове утеплення)</li><li>Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% віскоза, 22% нейлон, 28% ПБТ</li><li>Розміри (обхват голови): 48 52 см, 52 56 см</li><li>Кольори: Темний беж, (225) Світлий хакі, (098) Темна пудра, Світло-сірий, Сірий, Світла пудра, Кавовий, Чорний, Пудра, Сірий меланж, (1044) Коричневий, Рожевий, Білий, (251) Світлий джинс, Молочний, Бежевий, Світло-рожевий</li></ul>]]></description_ua>
-<price>400</price>
-<price_old>400</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/25349944815374_%2Bd4c90f536d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/64717253291262_%2Be805fd84a2.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">52–56 см</param>
-<param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="11722" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -213442,40 +213408,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/21/54444405034291_%2B033635a7c7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/55400793279282_%2B6655fdd68e.jpg</picture>
 <param name="Колір">синій</param>
-<param name="Розмір">52 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15672" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451-ygb3q</article>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>580</price>
-<price_old>580</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/23/52645394136246_%2B3cc9b43dd1.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/66123561542965_%2B46861288f4.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">52 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15673" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451</article>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>580</price>
-<price_old>580</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/24/79784781430433_%2Bcafdcfa4ef.jpg</picture>
-<picture>https://letimo.com.ua/content/images/24/86827029411192_%2B1f81e5f2f9.jpg</picture>
-<param name="Колір">молочний</param>
 <param name="Розмір">52 см</param>
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="страна-производитель">Україна</param>
