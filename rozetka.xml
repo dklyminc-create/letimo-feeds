@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-14 09:10">
+<yml_catalog date="2026-11-14 09:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -243311,7 +243311,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235377" available="false">
+<offer id="98235377" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -243339,7 +243339,7 @@ SYSTEM "shops.dtd">
 <p>Температурний режим від +0 до -20&deg;С.</p>]]></description_ua>
 <price>3290</price>
 <price_old>3290</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/49/discovery_milk-11701851575644_%2Be66e754462.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/discovery_milk-17360744513939_%2B81c5434d67.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/discovery_milk-31244901023413_%2Bb2e0690ad8.jpg</picture>
@@ -243401,7 +243401,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">56-74 см</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235380" available="false">
+<offer id="98235380" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -243411,7 +243411,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон-трансформер Діскавері ДоРечі - це зручний, просторий та теплий одяг, який росте з вашою дитиною під час її першої зими.</p> <p>Спочатку (перші 3-4 місяці) використовується як конверт зі з&#39;єднаними ніжками та закритими манжетами ручками.</p> <p>Потім (до 6-7 місяців) ніжки роз&#39;єднуються у окремі штанинки і комбінезон продовжує використовуватися з закритими манжетами.</p> <p>Коли малятко підростає ще більше, манжети на ручках та ніжках відвертаються і використання продовжується до зросту 74 см, що в середньому відповідає 9-10 місяцям.</p> <p>Верх - вітронепродуваєма та водовідштовхуюча плащова тканина.</p> <p>Утеплювач - Hollowsoft&trade; 300 має відмінну термоізоляцію, не втягує вологу та дуже легкий.</p> <p>Підкладка - м&#39;який приємний на дотик велсофт.</p> <p>Капюшон з милими вушками оснащений резинкою та забезпечує щільне прилягання до голови дитини, створюючи надійний захист від вітру та дощу.</p> <p>Дві, захищені внутрішніми вітрозахисними планками, застібки допоможуть дуже швидко одягти малятко.</p> <p>Температурний режим від +0 до -20&deg;С.</p>]]></description_ua>
 <price>3290</price>
 <price_old>3290</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/discovery_black-20581937030942_%2B94fcb6fffa.jpg</picture>
 <picture>https://dorechi.ua/content/images/2/discovery_black-63329740334697_%2Bf091984081.jpg</picture>
 <picture>https://dorechi.ua/content/images/2/discovery_black-94090783887093_%2Bd5751ca448.jpg</picture>
