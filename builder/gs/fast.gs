@@ -148,6 +148,8 @@ function rzRuCacheMove_() {
 }
 function publishFeeds() {
   rzRuCacheMove_();
+  // 14.11.2026: наявність ДоРечі на сайті — раз на годину (drPresenceSync у letimo-prom-feed-v2.gs)
+  try { const pp = PropertiesService.getScriptProperties(); if (Date.now() - Number(pp.getProperty('DR_PRES_LAST') || 0) > 55 * 60 * 1000) { pp.setProperty('DR_PRES_LAST', String(Date.now())); drPresenceSync(); } } catch (e) { Logger.log('ДоРечі наявність: ' + e.message); }
   const props = PropertiesService.getScriptProperties();
   let k = Number(props.getProperty('PUB_NEXT') || 0) % PUB_JOBS.length;
   const t0 = Date.now(), log = [], errors = [];
@@ -1016,12 +1018,12 @@ function rzTrRu_(ua, vendor) {
   if (ru) cache.put(key, ru, 21600);
   return ru;
 }
-/* 13.11.2026: Rozetka — пледи/хомут Talvi, приховані за фото («на фото асартимент», «колір не відповідає назві»): лишаємо тільки перше фото (один колір), колір у назві — за першим фото. */ const RZ_TV_FIX_ = {'9432':'','9433':'','9434':'','9421':'','15393':'','9445':'персиковий','9425':'рожевий','9448':'темно-рожевий','9446':'бежевий','9443':'пудровий','9447':'коричневий','15398':'пудровий','15396':'рожевий','15416':'гірчичний','15419':'пудровий','15422':'сірий','14607':'-'}; const RZ_TV_RU_ = {'персиковий':'персиковый','рожевий':'розовый','темно-рожевий':'темно-розовый','бежевий':'бежевый','пудровий':'пудровый','коричневий':'коричневый','гірчичний':'горчичный','сірий':'серый'}; function rzTvFix_(o, id) { if (!(id in RZ_TV_FIX_)) return o; const c = RZ_TV_FIX_[id]; if (c === '-') return ''; /* хомут «Карл»: на фото інший колір */ let n = 0; o = o.replace(/<picture>[\s\S]*?<\/picture>\s*/g, function (p) { return n++ === 0 ? p : ''; }); if (c) { o = o.replace(/(<name_ua>(?:<!\[CDATA\[)?[\s\S]*?Talvi )(комбінований|світлий|темний)/, '$1' + c); o = o.replace(/(<name>(?:<!\[CDATA\[)?[\s\S]*?Talvi )(комбинированный|светлый|темный)/, '$1' + RZ_TV_RU_[c]); o = rzSetParam_(o, 'Колір', c); } return o.replace(/, разноцветный/, ''); } /* 13.11.2026: Rozetka — не вивантажуємо іграшки Kiddisvit зі знижкою від РРЦ менше 25% (рішення Дмитра). Список артикулів — _data/kd-low.json (оновлює kdSync в Apps Script з прайсу Kiddisvit). */ var KD_ID_ART_ = {}; var KD_LOW_ = null; function kdLow_() { if (KD_LOW_) return KD_LOW_; KD_LOW_ = {}; try { const p = PropertiesService.getScriptProperties(); const r = UrlFetchApp.fetch('https://api.github.com/repos/' + p.getProperty('GH_REPO') + '/contents/_data/kd-low.json?ref=' + GH_BRANCH, { muteHttpExceptions: true, headers: { Authorization: 'Bearer ' + p.getProperty('GH_TOKEN'), Accept: 'application/vnd.github.raw' } }); if (r.getResponseCode() === 200) JSON.parse(r.getContentText()).low.forEach(function (a) { KD_LOW_[String(a).trim()] = 1; }); Logger.log('kd-low: ' + Object.keys(KD_LOW_).length); } catch (e) { Logger.log('kd-low: ' + e.message); } return KD_LOW_; } var KD_TOYS_PRICE_ORIG_ = toysPrice_; toysPrice_ = function (xml) { xml.replace(/<offer\b[^>]*?\bid="(\d+)"[^>]*>([\s\S]*?)<\/offer>/g, function (all, id, body) { const c = (body.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1]; const v = (body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]]+?)\s*(?:\]\]>)?<\/vendorCode>/) || [])[1]; if (v && TOY_CATS.indexOf(c) >= 0) KD_ID_ART_[id] = v; return all; }); return KD_TOYS_PRICE_ORIG_(xml); }; /* 13.11.2026 (рішення Дмитра): іграшки Kiddisvit — сайт = дроп-ціна Kiddisvit × 2, маркетплейси = дроп × 2 + комісія майданчика (Prom 18, Rozetka 24,5, Kasta 22, Епіцентр 15). Ціни — _data/kd-prices.json (kdSync в Apps Script щодня з прайсу Kiddisvit). */ var KD_P_ = null; function kdPrices_() { if (KD_P_) return KD_P_; KD_P_ = {}; try { const p = PropertiesService.getScriptProperties(); const r = UrlFetchApp.fetch('https://api.github.com/repos/' + p.getProperty('GH_REPO') + '/contents/_data/kd-prices.json?ref=' + GH_BRANCH, { muteHttpExceptions: true, headers: { Authorization: 'Bearer ' + p.getProperty('GH_TOKEN'), Accept: 'application/vnd.github.raw' } }); if (r.getResponseCode() === 200) KD_P_ = JSON.parse(r.getContentText()).p || {}; Logger.log('kd-prices: ' + Object.keys(KD_P_).length); } catch (e) { Logger.log('kd-prices: ' + e.message); } return KD_P_; } function kdMp_(art, pct) { const k = kdPrices_()[String(art || '').trim()]; return k && k[1] > 0 ? Math.round(Math.round(k[1] * 2) * (1 + pct / 100)) : 0; } var KD_MP_PRICE_ORIG_ = mpPrice_; mpPrice_ = function (art, name, sitePrice, pct) { return kdMp_(art, pct) || KD_MP_PRICE_ORIG_(art, name, sitePrice, pct); }; function kdSet_(xml, pct) { let n = 0; xml = xml.replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) { const c = (body.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1]; if (TOY_CATS.indexOf(c) < 0) return all; const v = (body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]]+?)\s*(?:\]\]>)?<\/vendorCode>/) || [])[1]; const np = kdMp_(v, pct); if (!np) return all; n++; body = body.replace(/<price>[^<]*<\/price>/, '<price>' + np + '</price>').replace(/\s*<oldprice>[^<]*<\/oldprice>/, ''); return '<offer' + attrs + '>' + body + '</offer>'; }); Logger.log('kd ціни (' + pct + '%): ' + n); return xml; } var KD_TP2_ = toysPrice_; toysPrice_ = function (xml) { return kdSet_(KD_TP2_(xml), MP_PCT_); }; var KD_TPP_ = toysPromPrice_; toysPromPrice_ = function (xml) { return kdSet_(KD_TPP_(xml), MP_MARKUP.prom); }; function rzModFix_(xml) {
+function rzModFix_(xml) {
   const st = { excl: 0, train: 0, newborn: 0, dr: 0, fd: 0, ru: 0, ruFail: 0 };
   let trBudget = 400;
   xml = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>/g, function (o) {
     const id = (o.match(/<offer\b[^>]*\bid="(?:rzid_)?([^"]+)"/) || [])[1] || '';
-    if (RZ_PHOTO_EXCLUDE.indexOf(id) >= 0) { st.excl++; return ''; } o = rzTvFix_(o, id); if (!o) { st.excl++; return ''; } if (KD_ID_ART_[id] && kdLow_()[KD_ID_ART_[id]]) { st.kd = (st.kd || 0) + 1; return ''; }
+    if (RZ_PHOTO_EXCLUDE.indexOf(id) >= 0) { st.excl++; return ''; }
     const ua = (o.match(/<name_ua>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name_ua>/) || [])[1] || '';
     const sz = (o.match(/<param name="Розмір">([^<]*)<\/param>/) || [])[1] || '';
     let m;
@@ -1037,7 +1039,7 @@ function rzTrRu_(ua, vendor) {
       o = rzSetParam_(o, 'Вік дитини', RZ_FD120[sz][0]); o = rzSetParam_(o, 'Зріст', RZ_FD120[sz][1]); st.fd++;
     }
     // Назва RU = назва UA (українською) -> модератор ховає «Назва і Назва (ua) не співпадають»: перекладаємо RU
-    if (/колготк|шкарпет/i.test(ua)) { const hh = rzAgeH_(sz); if (hh) { o = rzSetParam_(o, 'Зріст', hh); st.ageH = (st.ageH || 0) + 1; } if (!/\d\s*см/.test(ua)) { const hn = /см/.test(sz) ? sz.replace(/\s*см\.?/, ' см') : (hh ? 'до ' + hh + ' см' : ''); if (hn) { o = rzSetSizeInNames_(o, '', hn); st.hName = (st.hName || 0) + 1; } } } // 13.11.2026: модератор Rozetka — «вказати зріст у назві» (шкарпетки, колготки) // 04.11.2026: Rozetka вимагає зріст, а не вік
+    if (/колготк|шкарпет/i.test(ua)) { const hh = rzAgeH_(sz); if (hh) { o = rzSetParam_(o, 'Зріст', hh); st.ageH = (st.ageH || 0) + 1; } } // 04.11.2026: Rozetka вимагає зріст, а не вік
     const ru = (o.match(/<name>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name>/) || [])[1] || '';
     const ua2 = (o.match(/<name_ua>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name_ua>/) || [])[1] || '';
     if (ru && (ru === ua2 || rzRuBad_(ru, ua2)) && trBudget-- > 0) { // 04.11.2026: і коли RU-назва з іншою структурою (модерація: «назви мають повністю співпадати»)
@@ -1291,9 +1293,9 @@ function rzgDedupe_(xml) {
 // ===== 01.11.2026 21:55: проданих розмірів НЕ МАЄ бути в наявності в жодному фіді =====
 // id товарів сайту (з вивантаження Хорошопу): Фінн чорний 46-48/48-50, Фінн бежевий 46-48, Фінн білий 48-50, Освін коричневий,
 // Apawwa ABD0166R beige 25/28, black 23/27/28, ABD0026R black 27/28, ABQ0771R camel 23, FD120 white 19, ABD5521R black 22
-const OOS_IDS_ = ['6082','6088','6083','6081','6084','6055','6058','6035','6039','6040','6051','6041','6066','6029','6036','6037','6038','6074','6089','6095','7699']; // 02.11 13:41: 6083 (Фінн чорний 48-50) продано; 11.11 00:25: нуль у SalesDrive — ABD0166R black 24/25/26, HA828-3 pink 28, Talvi 02425 беж 44-46, 05293 білий 50-52, XD198 navy 26
+const OOS_IDS_ = ['6082','6088','6083','6081','6084','6055','6058','6035','6039','6040','6051','6041','6066','6029']; // 02.11 13:41: 6083 (Фінн чорний 48-50) продано
 // Епіцентр використовує артикул як id оферу
-const OOS_ARTS_ = ['TV-03645-CHORN-4648','TV-02425-SKHAKI-4446','TV-03645-CHORN-4850','TV-03645-BEZH-4648','TV-03645-BIL-4850','ABD0166R-BEIGE-25','ABD0166R-BEIGE-28','ABD0166R-BLACK-23','ABD0166R-BLACK-27','ABD0166R-BLACK-28','ABD0026R-BLACK-27','ABQ0771R-CAMEL-23','FD120-WHITE-19','ABD5521R-BLACK-22','ABD0166R-BLACK-24','ABD0166R-BLACK-25','ABD0166R-BLACK-26','HA828-3-PINK-28','TV-02425-BEZH-4446','TV-05293-BIL-5052','XD198-NAVY-26'];
+const OOS_ARTS_ = ['TV-03645-CHORN-4648','TV-02425-SKHAKI-4446','TV-03645-CHORN-4850','TV-03645-BEZH-4648','TV-03645-BIL-4850','ABD0166R-BEIGE-25','ABD0166R-BEIGE-28','ABD0166R-BLACK-23','ABD0166R-BLACK-27','ABD0166R-BLACK-28','ABD0026R-BLACK-27','ABQ0771R-CAMEL-23','FD120-WHITE-19','ABD5521R-BLACK-22'];
 function oosHit_(id) {
   if (OOS_ARTS_.indexOf(id) >= 0) return true;
   return OOS_IDS_.some(function (x) { return id === x || id === '9' + x || id === '98' + x || new RegExp('^' + x + '\\D').test(id); });
@@ -1689,9 +1691,3 @@ function prHash_(s) {
   const h = Utilities.base64EncodeWebSafe(Utilities.computeDigest(Utilities.DigestAlgorithm.MD5, s, Utilities.Charset.UTF_8)).slice(0, 22);
   PR_HASH_MEMO_[s] = h; return h;
 }
-
-// 11.11.2026: Apawwa накл. №73292 (EAN-13 з коробок; id варіантів на сайті: Navy 15874…15879, Black 15880…15885, ABD0156R 15892…15897 = розміри 23…28). I3603R-A має внутрішні коди CDKXJ… (не EAN) — у фіди не йдуть.
-(function () {
-const g = { 'ABD0176R-NAVY': [15874, ['6942778802858','6942778802865','6942778802872','6942778802889','6942778802896','6942778802902']], 'ABD0176R-BLACK': [15880, ['6942778802926','6942778802933','6942778802940','6942778802957','6942778802964','6942778802971']], 'ABD0156R-BLACK': [15892, ['6942778802360','6942778802377','6942778802384','6942778802391','6942778802407','6942778802414']] };
-Object.keys(g).forEach(function (m) { for (let s = 23; s <= 28; s++) { SHOE_BARCODE[m + '-' + s] = g[m][1][s - 23]; SHOE_ID_MAP_[g[m][0] + s - 23] = m + '-' + s; } });
-})();
