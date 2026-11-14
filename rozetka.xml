@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-14 14:09">
+<yml_catalog date="2026-11-14 14:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -241607,24 +241607,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
 </offer>
-   <offer id="15866" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3580451-wqlpf</article>
-<name><![CDATA[Теплый зимний шлем с помпонами «Финн» Talvi белый 50-52 см (15866)]]></name>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн» Talvi білий 50–52 см (15866)]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/17/50459802132122_%2B28fbc8c6e8.jpg</picture>
-<picture>https://letimo.com.ua/content/images/17/51300749531962_%2Bb974c3f00e.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008176">Білий</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
-</offer>
    <offer id="15869" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -241684,8 +241666,8 @@ SYSTEM "shops.dtd">
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
 <article>LT3580451-jjlom</article>
-<name><![CDATA[Теплый зимний шлем с помпонами «Финн» Talvi белый 50-52 см (15872)]]></name>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн» Talvi білий 50–52 см (15872)]]></name_ua>
+<name><![CDATA[Теплый зимний шлем с помпонами «Финн» Talvi белый 50-52 см]]></name>
+<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн» Talvi білий 50–52 см]]></name_ua>
 <description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
 <price>600</price>
 <price_old>600</price_old>
@@ -242625,7 +242607,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="94504459" available="false">
+<offer id="94504459" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -242648,7 +242630,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-47551914176955_%2Bada16e283b.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
@@ -242730,7 +242712,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">86/92</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="94504519" available="false">
+<offer id="94504519" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -242753,7 +242735,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/apollo_first_snow_92-25850798208141_%2B303c6f945c.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
