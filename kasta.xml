@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-14 21:13">
+<yml_catalog date="2026-11-14 21:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -102898,7 +102898,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802575</barcode>
 </offer>
-   <offer available="false" id="6036">
+   <offer id="6036" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102914,7 +102914,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802582</barcode>
 </offer>
-   <offer available="false" id="6037">
+   <offer id="6037" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -102930,7 +102930,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802599</barcode>
 </offer>
-   <offer available="false" id="6038">
+   <offer id="6038" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>Apawwa</vendor>
@@ -103646,7 +103646,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6980026258729</barcode>
 </offer>
-   <offer available="false" id="6074">
+   <offer id="6074" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>11681</categoryId>
 <vendor>Clibee</vendor>
@@ -103655,7 +103655,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p><strong>Дитячі зимові черевики Clibee HA828-3 Pink</strong></p>    <p>Рожеві черевики Clibee з теплою хутряною підкладкою, темною окантовкою халяви та емблемою-смайлом збоку. Дві застібки-липучки дозволяють швидко взувати та регулювати посадку.</p>    <p><strong>Характеристики:</strong></p>    <ul>   <li>Бренд: Clibee</li>   <li>Артикул: HA828-3</li>   <li>Колір: рожевий</li>   <li>Сезон: зима</li>   <li>Верх: штучна шкіра</li>   <li>Підкладка: штучне хутро</li>   <li>Застібки: дві липучки</li>   <li>Країна виробництва: Китай</li>   <li>Стан: нові</li>  </ul>    <p>Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.</p>    <p><strong>Колір:</strong> рожевий.<br />  <strong>Матеріал:</strong> верх &mdash; штучна шкіра; підкладка &mdash; штучне хутро.</p>    <p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/235baf42-80bf-4501-874e-0a67b73acbac.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p>  <h3>Як обрати розмір</h3>  <p>Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п яти до найдовшого пальця. Для зимового взуття додайте 1 1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами   напишіть нам, підкажемо.</p>  <h3>Часті запитання</h3>  <p><strong>Як зрозуміти, що взуття по розміру?</strong><br>Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого   це запас для шкарпетки й руху.</p>  <p><strong>Що робити, якщо розмір не підійшов?</strong><br>Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.</p>  <p>Більше моделей бренду   на сторінці <a href="/clibee/">Clibee</a>.</p>]]></description_ua>
 <price>1492</price>
 <price_old>1570</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/25/80838789444963_%2B48b43141ef.png</picture>
 <picture>https://letimo.com.ua/content/images/25/80889168145564_%2B9699117774.png</picture>
 <picture>https://letimo.com.ua/content/images/25/99541837318037_%2Bfc4914dc81.png</picture>
@@ -103926,7 +103926,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000315768</barcode>
 </offer>
-   <offer available="false" id="6089">
+   <offer id="6089" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -104022,7 +104022,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Україна</param>
 <barcode>2000000503462</barcode>
 </offer>
-   <offer available="false" id="6095">
+   <offer id="6095" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -137095,7 +137095,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Польща</param>
 <barcode>5903497240353</barcode>
 </offer>
-   <offer available="false" id="7699">
+   <offer id="7699" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11682</categoryId>
 <vendor>American Club</vendor>
@@ -177848,23 +177848,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="12015" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3371451</article>
-<name_ua><![CDATA[Шапка на флісі «Райлі» unisex]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка на флісі  Райлі  unisex</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила шапочка з вушками для діток</li><li>Однотонна, базова, підійде під будь який одяг</li><li>Всередині утеплена флісом</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 38 40 см, 40 42 см, 42 44 см, 44 46 см</li><li>Кольори: Білий, Світлий беж, Джинс, Кава, Світло-сірий, Персикова пудра, Коричневий, Сірий, Бежевий, Чорний, Світлий хакі, Помаранчевий, Молочний, Рожевий, Темно-синій</li></ul>]]></description_ua>
-<price>634</price>
-<price_old>634</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/16/35451432651423_%2B70f64c2265.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/15897341950693_%2B5a1aaff43b.jpg</picture>
-<param name="Колір">білий</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="12016" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -177872,8 +177855,8 @@ SYSTEM "shops.dtd">
 <article>LT3371451</article>
 <name_ua><![CDATA[Шапка на флісі «Райлі» unisex]]></name_ua>
 <description_ua><![CDATA[<p><strong>Шапка на флісі  Райлі  unisex</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила шапочка з вушками для діток</li><li>Однотонна, базова, підійде під будь який одяг</li><li>Всередині утеплена флісом</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 38 40 см, 40 42 см, 42 44 см, 44 46 см</li><li>Кольори: Білий, Світлий беж, Джинс, Кава, Світло-сірий, Персикова пудра, Коричневий, Сірий, Бежевий, Чорний, Світлий хакі, Помаранчевий, Молочний, Рожевий, Темно-синій</li></ul>]]></description_ua>
-<price>634</price>
-<price_old>634</price_old>
+<price>520</price>
+<price_old>520</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/17/47675890128406_%2B9105805a04.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/86536925898852_%2B716547f97d.jpg</picture>
@@ -180048,8 +180031,8 @@ SYSTEM "shops.dtd">
 <article>LT3386451</article>
 <name_ua><![CDATA[Шапка у рваному стилі «Мармеладка»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Шапка у рваному стилі  Мармеладка </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна однотонна шапка у рваному стилі</li><li>Щільна одношарова в'язка + відворот, що закріплений</li><li>Зверніть увагу - дірочки тільки на відвороті шапці, тож вушка будуть надійно захищені</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 52% віскоза, 26% еластан, 22% нейлон</li><li>Розміри (обхват голови): 52 56 см</li><li>Кольори: Білий, Рожевий, Бежевий, Пудра, Світлий беж, Темна пудра, Світлий хакі, Індиго, Світла пудра, Чорний, Коричневий, Темно-сірий, Сірий, Світло-сірий, Капучіно, Помаранчевий</li></ul>]]></description_ua>
-<price>610</price>
-<price_old>610</price_old>
+<price>500</price>
+<price_old>500</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/2/98060765172766_%2Bc5febfa9e1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/2/98458272039262_%2Bc1bb0daf6a.jpg</picture>
@@ -180201,8 +180184,8 @@ SYSTEM "shops.dtd">
 <article>LT3386451</article>
 <name_ua><![CDATA[Шапка у рваному стилі «Мармеладка»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Шапка у рваному стилі  Мармеладка </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна однотонна шапка у рваному стилі</li><li>Щільна одношарова в'язка + відворот, що закріплений</li><li>Зверніть увагу - дірочки тільки на відвороті шапці, тож вушка будуть надійно захищені</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 52% віскоза, 26% еластан, 22% нейлон</li><li>Розміри (обхват голови): 52 56 см</li><li>Кольори: Білий, Рожевий, Бежевий, Пудра, Світлий беж, Темна пудра, Світлий хакі, Індиго, Світла пудра, Чорний, Коричневий, Темно-сірий, Сірий, Світло-сірий, Капучіно, Помаранчевий</li></ul>]]></description_ua>
-<price>610</price>
-<price_old>610</price_old>
+<price>500</price>
+<price_old>500</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/11/56352114632143_%2B088aa764a9.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/45195187408090_%2B8b76646a03.jpg</picture>
@@ -180218,8 +180201,8 @@ SYSTEM "shops.dtd">
 <article>LT3386451</article>
 <name_ua><![CDATA[Шапка у рваному стилі «Мармеладка»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Шапка у рваному стилі  Мармеладка </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна однотонна шапка у рваному стилі</li><li>Щільна одношарова в'язка + відворот, що закріплений</li><li>Зверніть увагу - дірочки тільки на відвороті шапці, тож вушка будуть надійно захищені</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 52% віскоза, 26% еластан, 22% нейлон</li><li>Розміри (обхват голови): 52 56 см</li><li>Кольори: Білий, Рожевий, Бежевий, Пудра, Світлий беж, Темна пудра, Світлий хакі, Індиго, Світла пудра, Чорний, Коричневий, Темно-сірий, Сірий, Світло-сірий, Капучіно, Помаранчевий</li></ul>]]></description_ua>
-<price>610</price>
-<price_old>610</price_old>
+<price>500</price>
+<price_old>500</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/12/22796475607727_%2Bc3a6190b60.jpg</picture>
 <picture>https://letimo.com.ua/content/images/12/71739401256015_%2B70527e20d9.jpg</picture>
@@ -182300,40 +182283,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">помаранчевий</param>
 <param name="Розмір">52–54 см</param>
 <param name="Склад">бавовна 97%, еластан 3%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="12412" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3405451-148lq</article>
-<name_ua><![CDATA[Шапка з двома помпонами «Олаф» зимова]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з двома помпонами  Олаф  зимова</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка, що підійде і для дівчаток, і для хлопчиків</li><li>Декорована милими помпонами з пряжі в колір шапки та стильним нашивним шервоном</li><li>Утеплена флісом по всій площині зсередини</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Вік: 9-12 міс</li><li>Розміри (обхват голови): 44 46 см, 46 48 см, 48 50 см</li><li>Кольори: Персикова пудра, Молочний, Коричневий, Темно-синій, Чорний, Пудра, Світло-сірий, Світлий беж, Бежевий, Темно-сірий</li></ul>]]></description_ua>
-<price>781</price>
-<price_old>781</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/90325913718830_%2B6841b32079.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/86344499919646_%2Ba9643382c5.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="12425" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3405451</article>
-<name_ua><![CDATA[Шапка з двома помпонами «Олаф» зимова]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з двома помпонами  Олаф  зимова</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка, що підійде і для дівчаток, і для хлопчиків</li><li>Декорована милими помпонами з пряжі в колір шапки та стильним нашивним шервоном</li><li>Утеплена флісом по всій площині зсередини</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Вік: 9-12 міс</li><li>Розміри (обхват голови): 44 46 см, 46 48 см, 48 50 см</li><li>Кольори: Персикова пудра, Молочний, Коричневий, Темно-синій, Чорний, Пудра, Світло-сірий, Світлий беж, Бежевий, Темно-сірий</li></ul>]]></description_ua>
-<price>781</price>
-<price_old>781</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/26/26776921342445_%2B64f5430220.jpg</picture>
-<picture>https://letimo.com.ua/content/images/26/55799701533180_%2B1279ed3b06.jpg</picture>
-<param name="Колір">темно-синій</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
    <offer id="12443" available="true">
@@ -189000,23 +188949,6 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="13208" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3447451-1988j</article>
-<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>854</price>
-<price_old>854</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/9/29014087542822_%2B221b097c63.jpg</picture>
-<picture>https://letimo.com.ua/content/images/9/46123610391208_%2Bed215c5853.jpg</picture>
-<param name="Колір">світлий</param>
-<param name="Розмір">44–46 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="13209" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -189068,23 +189000,6 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="13212" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3447451</article>
-<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>854</price>
-<price_old>854</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/97390930820048_%2B051643b7cf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/70493699983966_%2B1fbb6b8959.jpg</picture>
-<param name="Колір">чорний</param>
-<param name="Розмір">44–46 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="13216" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -189099,23 +189014,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/17/86398543820957_%2B098a07bb14.jpg</picture>
 <param name="Колір">комбінований</param>
 <param name="Розмір">44–46 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="13217" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3447451</article>
-<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>854</price>
-<price_old>854</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/18/26050697791538_%2Beb76539865.jpg</picture>
-<picture>https://letimo.com.ua/content/images/18/62923804253533_%2B997caeef56.jpg</picture>
-<param name="Колір">білий</param>
-<param name="Розмір">46–48 см</param>
 
 <param name="страна-производитель">Україна</param>
 </offer>
@@ -189160,29 +189058,12 @@ SYSTEM "shops.dtd">
 <article>LT3447451</article>
 <name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>854</price>
-<price_old>854</price_old>
+<price>700</price>
+<price_old>700</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/26/76128776984798_%2Ba0dca64a69.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/61953324809954_%2B045f9e61fa.jpg</picture>
 <param name="Колір">чорний</param>
-<param name="Розмір">46–48 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="13228" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3447451-1988j</article>
-<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>854</price>
-<price_old>854</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/29/26480942917195_%2B45ab458f9f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/29/57580095742644_%2B8a8742c40d.jpg</picture>
-<param name="Колір">світлий</param>
 <param name="Розмір">46–48 см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -198401,23 +198282,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14098" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3507451</article>
-<name_ua><![CDATA[Зимова шапка для дівчат «Капі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для дівчат  Капі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для дівчаток на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та милою нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон на кнопці, можна знімати для зручності прання</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см</li><li>Кольори: Білий, Бежевий, Чорний, Молочний, Персикова пудра, Сірий, Коричневий, Кава, Світла пудра, Світлий беж</li></ul>]]></description_ua>
-<price>781</price>
-<price_old>781</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/49/61777234782494_%2B5bd4fb1aba.jpg</picture>
-<picture>https://letimo.com.ua/content/images/49/35653170689861_%2B0b15df937f.jpg</picture>
-<param name="Колір">білий</param>
-<param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14100" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -199166,23 +199030,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14155" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3510451</article>
-<name_ua><![CDATA[Зимова шапка для хлопчиків «Норд»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для хлопчиків  Норд </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для хлопчиків на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та стильною нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон пришитий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см, 48 52 см</li><li>Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс</li></ul>]]></description_ua>
-<price>756</price>
-<price_old>756</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/6/40191223813597_%2B84b10d319f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/6/12875449794235_%2B976535f5ef.jpg</picture>
-<param name="Колір">чорний</param>
-<param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14158" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -199196,23 +199043,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/85653222374334_%2B336c5b58a8.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/79848733091935_%2Be30d7e9f68.jpg</picture>
 <param name="Колір">комбінований</param>
-<param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14159" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3510451</article>
-<name_ua><![CDATA[Зимова шапка для хлопчиків «Норд»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для хлопчиків  Норд </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для хлопчиків на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та стильною нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон пришитий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см, 48 52 см</li><li>Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс</li></ul>]]></description_ua>
-<price>756</price>
-<price_old>756</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/10/68434583647455_%2Bfe6afb6462.jpg</picture>
-<picture>https://letimo.com.ua/content/images/10/86871987597386_%2B130b2d0268.jpg</picture>
-<param name="Колір">коричневий</param>
 <param name="Розмір">44–48 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -199231,23 +199061,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/12/40453782331286_%2B34e090c2fb.jpg</picture>
 <param name="Колір">бежевий</param>
 <param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14164" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3510451</article>
-<name_ua><![CDATA[Зимова шапка для хлопчиків «Норд»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для хлопчиків  Норд </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для хлопчиків на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та стильною нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон пришитий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см, 48 52 см</li><li>Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс</li></ul>]]></description_ua>
-<price>756</price>
-<price_old>756</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/15/29449087660783_%2B4cdf278e33.jpg</picture>
-<picture>https://letimo.com.ua/content/images/15/87113716040465_%2B20d87ca2b4.jpg</picture>
-<param name="Колір">хакі</param>
-<param name="Розмір">48–52 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
@@ -200244,8 +200057,8 @@ SYSTEM "shops.dtd">
 <article>LT3516451</article>
 <name_ua><![CDATA[Зимова шапка на флісі «Рен»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Зимова шапка на флісі  Рен </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька базова шапка для діток на зав'язках</li><li>Бавовняна в'язка + підклад фліс по всій площині всередині</li><li>Чудово поєднується з нашим светриком Монно, повторено те саме переплетення та пряжа</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Лавандовий, Кавовий, Світло-рожевий, Блакитний, Темно-бежевий, Світло-бежевий, Молочний, Світлий джинс, Коричневий</li></ul>]]></description_ua>
-<price>634</price>
-<price_old>634</price_old>
+<price>520</price>
+<price_old>520</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/23/26598649545233_%2B6c94f83cc4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/23/73515547596542_%2B8c425c7c43.jpg</picture>
@@ -200278,8 +200091,8 @@ SYSTEM "shops.dtd">
 <article>LT3516451</article>
 <name_ua><![CDATA[Зимова шапка на флісі «Рен»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Зимова шапка на флісі  Рен </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька базова шапка для діток на зав'язках</li><li>Бавовняна в'язка + підклад фліс по всій площині всередині</li><li>Чудово поєднується з нашим светриком Монно, повторено те саме переплетення та пряжа</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Лавандовий, Кавовий, Світло-рожевий, Блакитний, Темно-бежевий, Світло-бежевий, Молочний, Світлий джинс, Коричневий</li></ul>]]></description_ua>
-<price>634</price>
-<price_old>634</price_old>
+<price>520</price>
+<price_old>520</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/25/65856329414958_%2Bf8f56eb5e0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/38526379836406_%2B1a3fdf4b43.jpg</picture>
@@ -200397,8 +200210,8 @@ SYSTEM "shops.dtd">
 <article>LT3516451</article>
 <name_ua><![CDATA[Зимова шапка на флісі «Рен»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Зимова шапка на флісі  Рен </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька базова шапка для діток на зав'язках</li><li>Бавовняна в'язка + підклад фліс по всій площині всередині</li><li>Чудово поєднується з нашим светриком Монно, повторено те саме переплетення та пряжа</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Лавандовий, Кавовий, Світло-рожевий, Блакитний, Темно-бежевий, Світло-бежевий, Молочний, Світлий джинс, Коричневий</li></ul>]]></description_ua>
-<price>634</price>
-<price_old>634</price_old>
+<price>520</price>
+<price_old>520</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/32/32059568265519_%2B58edcb9bef.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/65416490214847_%2Bb629a929f2.jpg</picture>
@@ -204300,23 +204113,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14818" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3543451-1y55l</article>
-<name_ua><![CDATA[Демісезонний в'язаний шолом «Санчо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний в'язаний шолом  Санчо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милий шолом для діток з вушками ведмедика</li><li>Однотонний, базовий</li><li>Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см</li><li>Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій</li></ul>]]></description_ua>
-<price>659</price>
-<price_old>659</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/19/69490622112950_%2Ba7b92f071d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/19/27783799344634_%2Bad19ac6c49.jpg</picture>
-<param name="Колір">світло-бежевий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14823" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -204477,8 +204273,8 @@ SYSTEM "shops.dtd">
 <article>LT3545451-wqlpf</article>
 <name_ua><![CDATA[Шолом з фактурної в'язки «Медок»]]></name_ua>
 <description_ua><![CDATA[<p><strong>Шолом з фактурної в'язки  Медок </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний тепленький шолом для малюків</li><li>Декорований вушками та фірмовою нашивкою</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 6-12 міс</li><li>Розміри (обхват голови): 44 46 см, 48 50 см</li><li>Кольори: Бузок, (517) Білий, (591) Молочний, Бежевий, Чорний, (108) Блакитний, Світла пудра, (541) Світло-сірий, (542) Сірий меланж, (527) Персикова пудра, Темно-синій, Кавовий, Пудра, Марсала, (568) Лаванда</li></ul>]]></description_ua>
-<price>561</price>
-<price_old>561</price_old>
+<price>460</price>
+<price_old>460</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/18/69251777911574_%2B1291c21c85.jpg</picture>
 <picture>https://letimo.com.ua/content/images/18/75755577794253_%2Ba827a19bb3.jpg</picture>
@@ -213599,40 +213395,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="15853" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3580451-ms2nx</article>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
-<price>732</price>
-<price_old>732</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/4/34797944184321_%2B690734e237.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/15803026745065_%2Bb07db63d18.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15855" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3580451-12bwh</article>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
-<price>732</price>
-<price_old>732</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/6/87691879764579_%2Bf7bfb723ae.jpg</picture>
-<picture>https://letimo.com.ua/content/images/6/99212771203188_%2B0980cdb7da.jpg</picture>
-<param name="Колір">сірий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="15858" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -213646,40 +213408,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/18553836013001_%2Bc80ee9336b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/46338431151960_%2B6a8a4ab075.jpg</picture>
 <param name="Колір">бордовий</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15861" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3580451-12bwh</article>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
-<price>732</price>
-<price_old>732</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/24999922325057_%2Be1ab6f6a48.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/84155922037906_%2B8bb3d4cc0d.jpg</picture>
-<param name="Колір">сірий</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15863" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3580451-jjlom</article>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
-<price>732</price>
-<price_old>732</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/14/70025675623377_%2Bdf65b30967.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/52024422312043_%2Bb16819378e.jpg</picture>
-<param name="Колір">білий</param>
 <param name="Розмір">48–50 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -213789,7 +213517,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">синій</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802858</barcode>
 </offer>
    <offer id="15875" available="true">
 <currencyId>UAH</currencyId>
@@ -213811,7 +213538,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">синій</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802865</barcode>
 </offer>
    <offer id="15876" available="true">
 <currencyId>UAH</currencyId>
@@ -213833,7 +213559,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">синій</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802872</barcode>
 </offer>
    <offer id="15877" available="true">
 <currencyId>UAH</currencyId>
@@ -213855,7 +213580,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">синій</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802889</barcode>
 </offer>
    <offer id="15878" available="true">
 <currencyId>UAH</currencyId>
@@ -213877,7 +213601,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">синій</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802896</barcode>
 </offer>
    <offer id="15879" available="true">
 <currencyId>UAH</currencyId>
@@ -213899,7 +213622,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">синій</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802902</barcode>
 </offer>
    <offer id="15880" available="true">
 <currencyId>UAH</currencyId>
@@ -213923,7 +213645,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802926</barcode>
 </offer>
    <offer id="15881" available="true">
 <currencyId>UAH</currencyId>
@@ -213947,7 +213668,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802933</barcode>
 </offer>
    <offer id="15882" available="true">
 <currencyId>UAH</currencyId>
@@ -213971,7 +213691,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802940</barcode>
 </offer>
    <offer id="15883" available="true">
 <currencyId>UAH</currencyId>
@@ -213995,7 +213714,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802957</barcode>
 </offer>
    <offer id="15884" available="true">
 <currencyId>UAH</currencyId>
@@ -214019,7 +213737,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802964</barcode>
 </offer>
    <offer id="15885" available="true">
 <currencyId>UAH</currencyId>
@@ -214043,7 +213760,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802971</barcode>
 </offer>
    <offer id="15886" available="true">
 <currencyId>UAH</currencyId>
@@ -214178,7 +213894,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">23</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802360</barcode>
 </offer>
    <offer id="15893" available="true">
 <currencyId>UAH</currencyId>
@@ -214199,7 +213914,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">24</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802377</barcode>
 </offer>
    <offer id="15894" available="true">
 <currencyId>UAH</currencyId>
@@ -214220,7 +213934,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">25</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802384</barcode>
 </offer>
    <offer id="15895" available="true">
 <currencyId>UAH</currencyId>
@@ -214241,7 +213954,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">26</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802391</barcode>
 </offer>
    <offer id="15896" available="true">
 <currencyId>UAH</currencyId>
@@ -214262,7 +213974,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">27</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802407</barcode>
 </offer>
    <offer id="15897" available="true">
 <currencyId>UAH</currencyId>
@@ -214283,9 +213994,8 @@ SYSTEM "shops.dtd">
 <param name="Колір">чорний</param>
 <param name="Розмір">28</param>
 <param name="страна-производитель">Китай</param>
-<barcode>6942778802414</barcode>
 </offer>
-  <offer id="97157422" available="false">
+  <offer id="97157422" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214308,7 +214018,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-39239223073778_%2B05c4da0cf5.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-85243727300311_%2B99e5060c11.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-71111385273300_%2Bf879ce7eb9.jpg</picture>
@@ -214322,7 +214032,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="97183369" available="false">
+<offer id="97183369" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214345,7 +214055,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/18/apollo_mammoth_fur_80-27409510169754_%2B8c0d54686e.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-85243727300311_%2B99e5060c11.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-71111385273300_%2Bf879ce7eb9.jpg</picture>
@@ -214359,7 +214069,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="97189135" available="false">
+<offer id="97189135" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214382,7 +214092,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/apollo_mammoth_fur_86-61223647638850_%2Be36a939349.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-85243727300311_%2B99e5060c11.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-71111385273300_%2Bf879ce7eb9.jpg</picture>
@@ -214396,7 +214106,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="97215082" available="false">
+<offer id="97215082" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214419,7 +214129,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/20/apollo_mammoth_fur_92-52949645652401_%2B6fc8695f73.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-85243727300311_%2B99e5060c11.jpg</picture>
 <picture>https://dorechi.ua/content/images/17/apollo_mammoth_fur_74-71111385273300_%2Bf879ce7eb9.jpg</picture>
@@ -214433,7 +214143,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98786573" available="false">
+<offer id="98786573" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214456,7 +214166,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-34870303266112_%2B7550308a32.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -214470,7 +214180,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98812520" available="false">
+<offer id="98812520" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214493,7 +214203,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/46/apollo_first_snow_fur_80-70675750366305_%2B325d83eacc.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -214507,7 +214217,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98818286" available="false">
+<offer id="98818286" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214530,7 +214240,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/47/apollo_first_snow_fur_86-41921070499970_%2Bb8552095ce.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -214544,7 +214254,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98844233" available="false">
+<offer id="98844233" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214567,7 +214277,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>4420</price>
 <price_old>4420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/48/apollo_first_snow_fur_92-88520055841769_%2B8a8536e53d.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-38081096650414_%2B4cb7cd8568.jpg</picture>
 <picture>https://dorechi.ua/content/images/45/apollo_first_snow_fur_74-25465154923055_%2B62491883db.jpg</picture>
@@ -214581,7 +214291,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235381" available="false">
+<offer id="98235381" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214592,7 +214302,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: мембранна тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>4140</price>
 <price_old>4140</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/3/trend_leopard-11412626683719_%2Bb0df945dc1.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/trend_leopard-63749453840331_%2Be18707bc3c.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/trend_leopard-95219431657584_%2B2e1ae46462.jpg</picture>
@@ -214605,7 +214315,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236096" available="false">
+<offer id="98236096" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214616,7 +214326,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: мембранна тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>4140</price>
 <price_old>4140</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/9/trend_mammoth-53859735492145_%2Bc9784d5690.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/trend_mammoth-78942936031460_%2Bcee8eb8b60.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/trend_mammoth-83726597688599_%2Ba9a93b44a5.jpg</picture>
@@ -214628,7 +214338,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236118" available="false">
+<offer id="98236118" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214639,7 +214349,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: мембранна тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>4140</price>
 <price_old>4140</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/10/trend_first_snow-37181250136230_%2Bc1a9728f71.jpg</picture>
 <picture>https://dorechi.ua/content/images/10/19103859474356_%2B511208c9b9.jpg</picture>
 <picture>https://dorechi.ua/content/images/10/trend_first_snow-16313073512601_%2B3568afcb60.jpg</picture>
@@ -214651,7 +214361,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236119" available="false">
+<offer id="98236119" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214662,7 +214372,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: мембранна тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>4140</price>
 <price_old>4140</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/11/trend_winter_meadow-65781367004491_%2B0f1c7def39.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/trend_winter_meadow-32227825352171_%2B9558687886.jpg</picture>
 <picture>https://dorechi.ua/content/images/11/trend_winter_meadow-68269182049839_%2B6294cc9bf4.jpg</picture>
@@ -214708,7 +214418,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504486" available="false">
+<offer id="94504486" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214730,7 +214440,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/50/apollo_first_snow_80-95168168145940_%2B10412b232b.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
@@ -214743,7 +214453,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94504492" available="false">
+<offer id="94504492" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214765,7 +214475,7 @@ SYSTEM "shops.dtd">
 <p>Температурний режим від +5 до - 20&deg;С.</p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/1/apollo_first_snow_86-83239482665910_%2B673b229f29.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-27104433684020_%2B8fc727398f.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/apollo_first_snow_74-29971652607466_%2B4386a45022.jpg</picture>
@@ -214813,7 +214523,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94474668" available="false">
+<offer id="94474668" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214835,7 +214545,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-64655432955321_%2Bee01c4f6eb.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-13480027681395_%2Ba72697c34c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-76223184002861_%2B5970729794.jpg</picture>
@@ -214848,7 +214558,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94474695" available="false">
+<offer id="94474695" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214870,7 +214580,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/42/apollo_mammoth_80-13308749339556_%2B5f602e2821.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-13480027681395_%2Ba72697c34c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-76223184002861_%2B5970729794.jpg</picture>
@@ -214883,7 +214593,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94474701" available="false">
+<offer id="94474701" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214905,7 +214615,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/43/apollo_mammoth_86-81578545185259_%2Bb2f3e1990b.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-13480027681395_%2Ba72697c34c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-76223184002861_%2B5970729794.jpg</picture>
@@ -214918,7 +214628,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="94474728" available="false">
+<offer id="94474728" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214940,7 +214650,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3930</price>
 <price_old>3930</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/44/apollo_mammoth_92-24037911916557_%2B5e5e721c62.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-13480027681395_%2Ba72697c34c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/apollo_mammoth_74-76223184002861_%2B5970729794.jpg</picture>
@@ -214953,7 +214663,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98677944" available="false">
+<offer id="98677944" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214962,7 +214672,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-31369855496357_%2Bb9b13e71e0.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
@@ -214978,7 +214688,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98709657" available="false">
+<offer id="98709657" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -214987,7 +214697,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/15/apollo_green_fur_86-21479016608490_%2B41a37dab09.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
@@ -215003,7 +214713,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98735604" available="false">
+<offer id="98735604" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215012,7 +214722,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/16/apollo_green_fur_92-22644889649315_%2B3b32d5d04b.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
@@ -215028,7 +214738,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98703891" available="false">
+<offer id="98703891" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215051,7 +214761,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/14/apollo_green_fur_80-24699821434437_%2B16ad654da5.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-70806170025715_%2B8a5f629e2e.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/apollo_green_fur_74-56544716818146_%2B6b89257f46.jpg</picture>
@@ -215067,7 +214777,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91307095" available="false">
+<offer id="91307095" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215090,7 +214800,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-79445913584792_%2Ba10b6c3e4c.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-21969421436442_%2B54e7c1efee.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-86207640783562_%2B8eb8dd3332.jpg</picture>
@@ -215107,7 +214817,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91333042" available="false">
+<offer id="91333042" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215130,7 +214840,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/10/apollo_black_fur_80-22191227743583_%2B60cb588143.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-21969421436442_%2B54e7c1efee.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-86207640783562_%2B8eb8dd3332.jpg</picture>
@@ -215147,7 +214857,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91338808" available="false">
+<offer id="91338808" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215170,7 +214880,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/11/apollo_black_fur_86-77202490083319_%2Bf9ae5b844e.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-21969421436442_%2B54e7c1efee.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-86207640783562_%2B8eb8dd3332.jpg</picture>
@@ -215187,7 +214897,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91364755" available="false">
+<offer id="91364755" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215210,7 +214920,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3790</price>
 <price_old>3790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/12/apollo_black_fur_92-17602187975829_%2B13916adccc.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-21969421436442_%2B54e7c1efee.jpg</picture>
 <picture>https://dorechi.ua/content/images/9/apollo_black_fur_74-86207640783562_%2B8eb8dd3332.jpg</picture>
@@ -215227,7 +214937,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98748281" available="false">
+<offer id="98748281" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215240,7 +214950,7 @@ SYSTEM "shops.dtd">
 </div>]]></description_ua>
 <price>3640</price>
 <price_old>3640</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-89222637300535_%2B084ac5938c.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-86625784326900_%2B300638d4c9.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-23883036995017_%2B58ed4c1b54.jpg</picture>
@@ -215252,7 +214962,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213149" available="false">
+<offer id="98213149" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215272,7 +214982,7 @@ SYSTEM "shops.dtd">
 Після прання в машинці вовна зкатається та стане схожою на вовняний пледик (хоча це зовсім не страшно, бо своїх теплих властивостей вона все одно не втратить)</p> <p>В конверті Тренд ваша дитина буде у теплі, а зимові прогулянки будуть тривали стільки, скільки забажаєте ви, а не вимагатиме низька температура повітря.</p> <p>Купити дитячий зимовий конверт для немовлят на овчині Trend Ви можете в будь-якому з кольорових рішень, представлених на сайті. </p>]]></description_ua>
 <price>3640</price>
 <price_old>3640</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-99554161458887_%2Bccb7c59393.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-38031561049309_%2B94e7e27e31.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-19494603421965_%2Ba74a40241c.jpg</picture>
@@ -215283,7 +214993,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98837654" available="false">
+<offer id="98837654" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215294,7 +215004,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: плащова тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>3230</price>
 <price_old>3400</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/29/trend_fleece_black-24308191200313_%2B8692e65422.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/trend_fleece_black-41947931443037_%2B41dbc15c45.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/trend_fleece_black-89298407505673_%2B7ea7e80e39.jpg</picture>
@@ -215309,7 +215019,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236094" available="false">
+<offer id="98236094" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215320,7 +215030,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Технічні характеристики:</p> <p>Довжина: 100см</p> <p>Ширина: 48 см</p> <p>Верх: мембранна тканина з вітро- та водовідштовхуючим покриттям.</p> <p>Утеплювач: силіконізований синтепон, щільністю 400 гр/м2 (у 2 рази більше, ніж у конвертах на овчині)</p> <p>Підкладка: щільний антиалергенний фліс Polar турецького виробництва, який практично не кошлатиться (перевірено сотнями клієнтів)</p> <p>Розрахований для дітей від 6 місяців до 3х років.</p>]]></description_ua>
 <price>3640</price>
 <price_old>3640</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-29906283710983_%2B8435485843.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-54736789615834_%2Bd09e648447.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-21958791286369_%2Bb4b8c82f98.jpg</picture>
@@ -215426,7 +215136,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235379" available="false">
+<offer id="98235379" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215435,7 +215145,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон-трансформер Діскавері ДоРечі - це зручний, просторий та теплий одяг, який росте з вашою дитиною під час її першої зими.</p> <p>Спочатку (перші 3-4 місяці) використовується як конверт зі з&#39;єднаними ніжками та закритими манжетами ручками.</p> <p>Потім (до 6-7 місяців) ніжки роз&#39;єднуються у окремі штанинки і комбінезон продовжує використовуватися з закритими манжетами.</p> <p>Коли малятко підростає ще більше, манжети на ручках та ніжках відвертаються і використання продовжується до зросту 74 см, що в середньому відповідає 9-10 місяцям.</p> <p>Верх - вітронепродуваєма та водовідштовхуюча плащова тканина.</p> <p>Утеплювач - Hollowsoft&trade; 300 має відмінну термоізоляцію, не втягує вологу та дуже легкий.</p> <p>Підкладка - м&#39;який приємний на дотик велсофт.</p> <p>Капюшон з милими вушками оснащений резинкою та забезпечує щільне прилягання до голови дитини, створюючи надійний захист від вітру та дощу.</p> <p>Дві, захищені внутрішніми вітрозахисними планками, застібки допоможуть дуже швидко одягти малятко.</p> <p>Температурний режим від +0 до -20&deg;С.</p>]]></description_ua>
 <price>3290</price>
 <price_old>3290</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/1/discovery_mint-34087300854511_%2Ba598ccfb78.jpg</picture>
 <picture>https://dorechi.ua/content/images/1/discovery_mint-56760758305942_%2Baff464de90.jpg</picture>
 <picture>https://dorechi.ua/content/images/1/discovery_mint-24038734399650_%2B8a08c4b897.jpg</picture>
@@ -215473,7 +215183,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98297303" available="false">
+<offer id="98297303" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215482,7 +215192,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3280</price>
 <price_old>3280</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/38/apollo_green_86-69096349075147_%2B6cc8f55a84.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
@@ -215497,7 +215207,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98297330" available="false">
+<offer id="98297330" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215506,7 +215216,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон «Аполло» від українського виробника ДоРечі — мембранний комбінезон для малюків, які вже ходять і граються на снігу.</p><ul><li>Мембрана: водонепроникність 7 000 мм, паропроникність 5 000 г/м². Не продувається вітром, захищає від мокрого снігу та дощу, а дитина не перегрівається під час активних ігор.</li><li>Утеплювач Hollowsoft™ 300 г/м² — теплий, легкий, не вбирає вологу й відновлює форму після прання.</li><li>Груди та спинка — фліс Polar, рукави й штанини — гладкий атлас, щоб комбінезон легко вдягався.</li><li>Світловідбивні елементи з усіх боків, анатомічний капюшон, резинка на талії.</li></ul><p>Розмір — за зростом дитини, вказаним у назві. Під комбінезон зазвичай достатньо термобілизни з бавовни або вовни: мембрана працює найкраще, коли дитина не пітніє.</p>]]></description_ua>
 <price>3280</price>
 <price_old>3280</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/39/apollo_green_92-19696119605158_%2Bde5d70f081.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
@@ -215521,7 +215231,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98297270" available="false">
+<offer id="98297270" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215543,7 +215253,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3280</price>
 <price_old>3280</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-77503072943446_%2B7627aea6e7.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
@@ -215558,7 +215268,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98297297" available="false">
+<offer id="98297297" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215580,7 +215290,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>3280</price>
 <price_old>3280</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/37/apollo_green_80-37893662635468_%2Bfb6dc83aff.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-25707839331361_%2B10d3a804c4.jpg</picture>
 <picture>https://dorechi.ua/content/images/36/apollo_green_74-68766709843449_%2Bfdc37b5434.jpg</picture>
@@ -215595,7 +215305,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98327061" available="false">
+<offer id="98327061" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215617,7 +215327,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2907</price>
 <price_old>3060</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-55152087162623_%2Bd406ceb5f9.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-99191424896831_%2B8659c4a0bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-43646674735926_%2B4a9d2a921f.jpg</picture>
@@ -215632,7 +215342,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98327088" available="false">
+<offer id="98327088" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215654,7 +215364,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2907</price>
 <price_old>3060</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/41/apollo_black_80-60389730752653_%2B84cf8578b6.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-99191424896831_%2B8659c4a0bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-43646674735926_%2B4a9d2a921f.jpg</picture>
@@ -215669,7 +215379,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98327094" available="false">
+<offer id="98327094" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215691,7 +215401,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2907</price>
 <price_old>3060</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/42/apollo_black_86-59330121561681_%2B6210a2a9f2.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-99191424896831_%2B8659c4a0bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-43646674735926_%2B4a9d2a921f.jpg</picture>
@@ -215706,7 +215416,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98327121" available="false">
+<offer id="98327121" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215728,7 +215438,7 @@ SYSTEM "shops.dtd">
 <p><span style="font-weight: 400;">Температурний режим від +5 до - 20&deg;С.</span></p>]]></description_ua>
 <price>2907</price>
 <price_old>3060</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/43/apollo_black_92-58667193893880_%2B962740fb73.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-99191424896831_%2B8659c4a0bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/apollo_black_74-43646674735926_%2B4a9d2a921f.jpg</picture>
@@ -215761,7 +215471,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213274" available="false">
+<offer id="98213274" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215774,7 +215484,7 @@ SYSTEM "shops.dtd">
 <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">Після прання в машинці</span></span> <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">вовна зкатається та стане схожою на вовняний пледик (хоча це зовсім не страшно, бо своїх теплих властивостей вона все одно не втратить)</span></span></span></span></p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/35/18291672140203_%2B139879e46b.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/baby-xs-dorechi-grafitoviy-95014982503369_%2Bbfee894ba3.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/59512214926968_%2B3698a76c7d.jpg</picture>
@@ -215904,7 +215614,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="93166088" available="false">
+<offer id="93166088" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -215941,7 +215651,7 @@ SYSTEM "shops.dtd">
 <p>Чудово поєднується з муфтами ДоРечі.</p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/31/baby_xs_milk-fleece-72576260318833_%2Ba3f9e5bc59.jpg</picture>
 <picture>https://dorechi.ua/content/images/31/baby_xs_milk-fleece-23659233112872_%2B5b9aa82328.jpg</picture>
 <picture>https://dorechi.ua/content/images/31/baby_xs_milk-fleece-73497285767960_%2Bae55f6af18.jpg</picture>
@@ -216010,7 +215720,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="93168010" available="false">
+<offer id="93168010" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216047,7 +215757,7 @@ SYSTEM "shops.dtd">
 <p>Чудово поєднується з муфтами ДоРечі.</p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/33/baby_xs_late-61958328695135_%2B63c8903587.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/baby_xs_late-86748558729710_%2B1ed13634de.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/baby_xs_late-83845023575964_%2B0a20fe6c80.jpg</picture>
@@ -216065,7 +215775,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="93168971" available="false">
+<offer id="93168971" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216102,7 +215812,7 @@ SYSTEM "shops.dtd">
 <p>Чудово поєднується з муфтами ДоРечі.</p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/34/baby_xs_pink-93419909683165_%2Bd2d5242fe9.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/baby_xs_pink-71938450357658_%2B313450efb9.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/baby_xs_pink-98330203038013_%2Bb6ec36d374.jpg</picture>
@@ -216558,7 +216268,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="90640811" available="false">
+<offer id="90640811" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216597,7 +216307,7 @@ SYSTEM "shops.dtd">
 <p>Створюють чарівний комплект 2 в 1 з <u><span style="font-size:16px;"><span style="color:#f39c12;">куртками-парками</span></span><span style="color:#f39c12;"> ДоРечі.</span></u></p>]]></description_ua>
 <price>1790</price>
 <price_old>1790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/13/winter_pants_black_104-83263692749671_%2Bce077ab347.jpg</picture>
 <picture>https://dorechi.ua/content/images/10/napivkombinezon-zymovyi-chornyi-13896349322887_%2B67b21174f3.jpg</picture>
 <picture>https://dorechi.ua/content/images/13/35461145244929_%2B8a72ad26eb.jpeg</picture>
@@ -216634,7 +216344,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="96728130" available="false">
+<offer id="96728130" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216644,7 +216354,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Утеплювач - інноваційний матеріал Thermoloft Active 200. Тонкий, легкий і ефективно утримує тепло - до двох разів тепліше аналогічних утеплювачів однакової ваги. Не пропускає воду, не сковує рухи і практично не дає усадку при пранні.</p> <p>Підкладка - антипілінговий фліс Polar, який практично не кошлатиться.</p> <p>У штанинах - підкладковий атлас для легкого одягання.</p> <p>Температурний режим +5 - 20 &deg; С без урахування вітру і вологості</p> <p>Розміри - 92, 98 і 104 см.</p> <p>Напівкомбінезони невибагливі в догляді - їх можна прати (використовуйте рідкі порошки або засоби для мембрани) і сушити в пральній машині.</p> <p>Створюють чарівний комплект 2 в 1 з <u><span style="font-size:16px;"><span style="color:#f39c12;">куртками-парками</span></span><span style="color:#f39c12;"> ДоРечі.</span></u></p>]]></description_ua>
 <price>1790</price>
 <price_old>1790</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/18/napivkombinezon-zymovyi-hrafitovyi-99500203672398_%2Be81ceeca47.jpg</picture>
 <picture>https://dorechi.ua/content/images/18/napivkombinezon-zymovyi-hrafitovyi-63521598290835_%2Be4bfb981c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/18/napivkombinezon-zymovyi-hrafitovyi-64151222965048_%2Bd4d92aec92.jpg</picture>
@@ -216759,7 +216469,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235411" available="false">
+<offer id="98235411" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216768,14 +216478,14 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі практичного чорного кольору - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1560</price>
 <price_old>1560</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/33/handmuff_leopard-71200628587886_%2B23d0e09f0e.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/handmuff_leopard-65451724356702_%2B03e0e9d627.jpg</picture>
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236123" available="false">
+<offer id="98236123" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216784,13 +216494,13 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі практичного чорного кольору з милим малюнком - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1560</price>
 <price_old>1560</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/14/handmuff_mammoth-74510447933117_%2Bd2f6e9613f.jpg</picture>
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236124" available="false">
+<offer id="98236124" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216799,13 +216509,13 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі зі стильним принтом "Перший сніг" - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1560</price>
 <price_old>1560</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/15/handmuff_first_snow-74400486155879_%2B4325eaab2e.jpg</picture>
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236125" available="false">
+<offer id="98236125" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216834,7 +216544,7 @@ SYSTEM "shops.dtd">
 <p style="margin:0cm 0cm 0.0001pt"> </p>]]></description_ua>
 <price>1560</price>
 <price_old>1560</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/16/handmuff_winter_meadow-92533400741399_%2B10b65e1e07.jpg</picture>
 <picture>https://dorechi.ua/content/images/16/handmuff_winter_meadow-95826179166455_%2B7aff3b29c6.jpg</picture>
 <param name="Розмір">-</param>
@@ -216881,7 +216591,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235375" available="false">
+<offer id="98235375" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216890,7 +216600,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі зі стильним принтом "Перший сніг" - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/47/handmuff_green-62318508358553_%2B6eb1e492f0.jpg</picture>
 <picture>https://dorechi.ua/content/images/47/handmuff_green-11734250586000_%2B77e98f36ea.jpg</picture>
 <picture>https://dorechi.ua/content/images/47/handmuff_green-31621984160584_%2B6cc71b32f3.jpg</picture>
@@ -216919,7 +216629,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213060" available="false">
+<offer id="98213060" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216928,7 +216638,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі зі стильним принтом "Перший сніг" - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/mufta_fleece_beige-83353632948030_%2B941774f715.jpg</picture>
 <param name="Колір">бежевий</param>
 <param name="Розмір">-</param>
@@ -216961,7 +216671,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213062" available="false">
+<offer id="98213062" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -216991,7 +216701,7 @@ SYSTEM "shops.dtd">
 <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">Після прання в машинці</span></span> <span lang="RU" style="font-size:13.5pt"><span style="font-family:-webkit-standard, serif">вовна зкатається та стане схожою на вовняний пледик (хоча це зовсім не страшно, бо своїх теплих властивостей вона все одно не втратить)</span></span></span></span></p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/34/mufti-dorechiknyaginya-dorechi-mufta-dlya-vizochkiv-87671398801484_%2B82f3567e06.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/mufti-dorechiknyaginya-dorechi-mufta-dlya-vizochkiv-32510872256300_%2Bba1dacee46.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/mufti-dorechiknyaginya-dorechi-mufta-dlya-vizochkiv-50260283087214_%2B9c948c4925.jpg</picture>
@@ -217002,7 +216712,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98754047" available="false">
+<offer id="98754047" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217011,7 +216721,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі практичного чорного кольору - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1264</price>
 <price_old>1330</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/49/mufta_fleece_black-89970690381437_%2Bd093bc330b.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/mufta_fleece_black-30090175074959_%2B7ebed573e6.jpg</picture>
 <picture>https://dorechi.ua/content/images/49/mufta_fleece_black-50917494141862_%2B58d9d25247.jpg</picture>
@@ -217040,7 +216750,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236122" available="false">
+<offer id="98236122" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217049,7 +216759,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>Муфта ДоРечі практичного шоколадного кольору - це універсальна муфта, яка підходить до усіх видів візків - з однією та двома ручками, з ручними гальмами та без них.</h2> <p>Муфта на коляску від компанії ДоРечі &ndash; це абсолютно новий рівень захисту рук під час прогулянок на морозному повітрі.</p> <p>Це єдина у світі запатентована модель муфти, у якій рука не торкається холодної ручки коляски. Виріб створює замкнений простір, який унеможливлює вихід тепла назовні і запобігає задуванню вітру всередину. Придбавши муфту ДоРечі, ви керуватимете коляскою з задоволенням, незважаючи на низьку температуру, вітер, дощ чи сніг.</p> <p>Світловідбивні елементи забезпечать вашу видимість для водіїв під час переходу через дорогу у темну частину доби.</p> <p>Високоякісні застібки &ldquo;молнії&rdquo; виробництва України, на відміну від дешевого Китаю, прослужать довго і витримають велику кількість циклів розстібання &ndash; застібання.</p> <p>Ззовні &ndash; мембранна тканина з водо відштовхуючою та вітронепроникною обробкою.</p> <p>Утеплювач &ndash; чотиришаровий силіконізований синтепон (вдвічі більше, ніж у муфтах на овчині).</p> <p>Підкладка &ndash; щільний антиалергенний антипілінговий фліс Polar турецького виробництва. Завдяки використання флісу замість звичної нам овчини, яка вимагає особливого догляду, муфту можна прати у пральній машинці, а не користуватися послугами хімчистки.</p> <p>Муфти ідеально поєднуються у кольоровій гаммі з конвертами виробництва компанії ДоРечі.</p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/13/handmuff_chocolate-26512225055808_%2B6655f6b02b.jpg</picture>
 <param name="Колір">коричневий</param>
 <param name="Розмір">-</param>
@@ -217137,7 +216847,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="93104424" available="false">
+<offer id="93104424" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217147,7 +216857,7 @@ SYSTEM "shops.dtd">
  <p>Додаткові козирки від сонця з захистом UPF50 рекомендовані найкращими педіатрами світу.</p> <p>Double Must Have Shade - обов&rsquo;язкове придбання люблячих батьків у сонячну пору року!</p>]]></description_ua>
 <price>1000</price>
 <price_old>1000</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/33/double_mh_black-27780102224761_%2Bd8563fcdcf.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/double_mh_black-66054465854671_%2B5cf027de72.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/double_mh_black-73557391634533_%2B23008c7b36.jpg</picture>
@@ -217232,7 +216942,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="91951696" available="false">
+<offer id="91951696" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217241,7 +216951,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>М&#39;якенька приємна до тіла зимова шапочка з вовною мериноса &ndash; найкращий варіант зиму, бо вона дарує тепло та комфорт малятку навіть у найлютіші морози.</h2> <p>Неймовірно м&rsquo;якенька, тепла та зручна, а декор у вигляді пухнастого помпону додає шапочці яскраві нотки.</p> <p dir="ltr">Помпон знімний - на кнопці.</p> <p dir="ltr">Максимально натуральний склад пряжі - 35% віскоза, 30% меринос, 25% бавовна + 10% нейлон для еластичності, завдяки чому шапочка надійно зберігає тепло, не створює парникового ефекту та не електризується.</p> <p dir="ltr">Шапка легко одягається та надійно тримається на голові.</p> <p dir="ltr">Вушка дитини добре захищені, а зав&#39;язки надійно фіксують виріб на голові. </p> <p dir="ltr">Додаткове утеплення силіконізованим синтепоном для безкомпромісного захисту </p> <p dir="ltr">Подкладка: 100% бавовна. Дуже важливо, щоб голівка дитини торкалася виключно натуральних матеріалів, тому згідно санітарних норм у шапочках для дітей до року дозволено використовувати у якості підкладки лише бавовну</p> <p dir="ltr">Ідеально поєднується зі снудами з цієї ж пряжі, які можна придбати додатково.</p> <p dir="ltr">Поради по догляду</p> <p dir="ltr">Перед пранням обов&rsquo;язково зняти помпон. Для чистки не користуйтеся пральною машиною і сушкою. Лише ручне прання у теплій воді з засобом для прання вовни. Не використовуйте пом&rsquo;якшувачі, відбілювачі, миючі засоби або інші продукти, що містять відбілюючі інгредієнти.</p> <p dir="ltr">Не прасувати.</p>]]></description_ua>
 <price>1000</price>
 <price_old>1000</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/33/merino-beanie-milk-46-87890838569628_%2Bcd38c1037c.jpg</picture>
 <picture>https://dorechi.ua/content/images/33/merino-beanie-milk-46-39918708569808_%2Bec530868a4.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/merino-beanie-milk-50-90308598836285_%2Beeddbd1b52.jpeg</picture>
@@ -217874,7 +217584,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213155" available="false">
+<offer id="98213155" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217884,7 +217594,7 @@ SYSTEM "shops.dtd">
 </ul> <p>Додаткові козирки від сонця з захистом UPF50 рекомендовані найкращими педіатрами світу.</p> <p>Чому козирки чорні?  <p>Twin Shade - обов&rsquo;язкове придбання люблячих батьків у сонячну пору року!</p>]]></description_ua>
 <price>840</price>
 <price_old>840</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-35428671279199_%2B0be010052c.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-72690203728571_%2B78690e358a.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/kozirki-vid-soncyatwin-shade-dorechi-soncezahisniy-kozirok-11578058650945_%2B5db6e3cbfb.jpg</picture>
@@ -217917,7 +217627,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236090" available="false">
+<offer id="98236090" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217926,7 +217636,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[]]></description_ua>
 <price>820</price>
 <price_old>820</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/booties_winter_meadow-39415015254213_%2Bcd1e775ab8.jpg</picture>
 <picture>https://dorechi.ua/content/images/2/booties_winter_meadow-29285581116337_%2Bc26f81002d.jpg</picture>
 <picture>https://dorechi.ua/content/images/2/booties_winter_meadow-32600579958969_%2B2b15549b43.jpg</picture>
@@ -217935,7 +217645,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235405" available="false">
+<offer id="98235405" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217944,7 +217654,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>820</price>
 <price_old>820</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-55614713750681_%2Bace70131e9.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-96782233396701_%2Bd4cd58e7b2.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_leopard-41720276944017_%2Bc60d1fd747.jpg</picture>
@@ -217953,7 +217663,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236088" available="false">
+<offer id="98236088" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217962,7 +217672,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>820</price>
 <price_old>820</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-46250149027557_%2B20cbff5baf.jpg</picture>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-84873260895423_%2Bfc695c5b64.jpg</picture>
 <picture>https://dorechi.ua/content/images/50/booties_mammoth-71860120398171_%2Bf960f9aa28.jpg</picture>
@@ -217971,7 +217681,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236089" available="false">
+<offer id="98236089" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -217980,7 +217690,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>820</price>
 <price_old>820</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/1/booties_first_snow-45475021136061_%2B742901d9e1.jpg</picture>
 <picture>https://dorechi.ua/content/images/1/booties_first_snow-65884462044361_%2B2c84a20d95.jpg</picture>
 <picture>https://dorechi.ua/content/images/1/booties_first_snow-66319405169119_%2B758cfda790.jpg</picture>
@@ -218015,7 +217725,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98213987" available="false">
+<offer id="98213987" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218024,7 +217734,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[]]></description_ua>
 <price>660</price>
 <price_old>660</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/booties_beige-69417790893107_%2Bc91167211c.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_beige-64213708793524_%2Bbadf1cc06b.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/booties_beige-21444701128549_%2Bd561723fb7.jpg</picture>
@@ -218034,7 +217744,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="92020907" available="false">
+<offer id="92020907" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218043,7 +217753,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[]]></description_ua>
 <price>660</price>
 <price_old>660</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/37/pinetky_n_blue_15-26926582640391_%2Be0c98d3b75.jpg</picture>
 <picture>https://dorechi.ua/content/images/37/pinetky_n_blue_15-93075277019342_%2B28889711ff.jpg</picture>
 <picture>https://dorechi.ua/content/images/37/pinetky_n_blue_15-60355063268739_%2B5c801bdcf4.jpg</picture>
@@ -218053,7 +217763,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="92080489" available="false">
+<offer id="92080489" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218062,7 +217772,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>589</price>
 <price_old>620</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/41/pinetky_black_15-30045018490400_%2B7070ed140c.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/pinetky_black_15-24516103012241_%2Bec687b3b87.jpg</picture>
 <picture>https://dorechi.ua/content/images/41/pinetky_black_15-76022617189188_%2B33480fab2b.jpg</picture>
@@ -218072,7 +217782,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235409" available="false">
+<offer id="98235409" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218091,7 +217801,7 @@ SYSTEM "shops.dtd">
 <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>660</price>
 <price_old>660</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/32/booties_green-19411198817720_%2B321137edbb.jpg</picture>
 <picture>https://dorechi.ua/content/images/32/booties_green-89425185877749_%2Becd87c4b04.jpg</picture>
 <picture>https://dorechi.ua/content/images/32/booties_green-91926341559687_%2B94af02fe4a.jpg</picture>
@@ -218101,7 +217811,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98236091" available="false">
+<offer id="98236091" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218110,7 +217820,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Пінетки ДоРечі розроблені для діток від народження до 18 місяців.</p> <p>За допомогою еластичної тасьми вони легко одягаються та утримуються на ніжці.</p> <p>Верхній матеріал - мембранна тканина.</p> <p>Утеплювач - Thermoloft 200, який чудово зберігає тепло.</p> <p>Всередині - м&#39;який фліс Polar.</p> <p>Світловідбиваючі елементи допомагають малюкові бути помітним в темний час доби під час переходу дороги.</p>]]></description_ua>
 <price>660</price>
 <price_old>660</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/3/booties_chocolate-76788988236775_%2Bdee235f1ae.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/booties_chocolate-74048490675989_%2Be9cfa6c424.jpg</picture>
 <picture>https://dorechi.ua/content/images/3/booties_chocolate-56078772929874_%2B68de532f4d.jpg</picture>
@@ -218574,7 +218284,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98235219" available="false">
+<offer id="98235219" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1088</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218599,7 +218309,7 @@ SYSTEM "shops.dtd">
 <p dir="ltr">Не прасувати.</p>]]></description_ua>
 <price>418</price>
 <price_old>440</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/35/gloves_merino_milk-59633860401481_%2Ba4e8f2ab63.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/gloves_merino_milk-93549283675809_%2B6f191a52d5.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/gloves_merino_milk-14916835033044_%2B156f8f7513.jpg</picture>
@@ -218802,7 +218512,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="98545134" available="false">
+<offer id="98545134" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218826,7 +218536,7 @@ SYSTEM "shops.dtd">
 <p>З цими пінетками ніжки маляти завжди будуть у теплі та комфорті, бо вони виготовлені з любов&rsquo;ю та турботою.</p>]]></description_ua>
 <price>440</price>
 <price_old>440</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/4/pinetky_demi_black_13-22629803320805_%2B35f103ac37.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/pinetky_demi_black_13-30528841331726_%2B97175f9076.jpg</picture>
 <picture>https://dorechi.ua/content/images/4/pinetky_demi_black_13-22717995024982_%2Bf1b0c2e713.jpg</picture>
@@ -218855,7 +218565,7 @@ SYSTEM "shops.dtd">
 <param name="Країна виробник">Україна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-<offer id="97532338" available="false">
+<offer id="97532338" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>ДоРечі</vendor>
@@ -218864,7 +218574,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<h2>М&rsquo;яка приємна до тіла бавовняна шапочка &ndash; найкращий варіант на весну та осінь, коли протягом дня тепло чергується з прохолодою.</h2> <p>Виготовлена з еластичного кашкорсе з натуральної бавовни (95% бавовна, 5% еластан). Має зручну посадку по голові та стильний подовжений край.</p> <p>Легко чиститься та довгий час зберігає свій колір.</p> <p>Шапочка доступна до замовлення у двох розмірах 44-48 (до року-півтора) та 48-52 (від року до чотирьох)</p> <p>Ідеально поєднується зі снудами виробництва ДоРечі.</p> <p>Поради по догляду.</p> <p>Прати в пральній машині в режимах &ldquo;Бавовна&rdquo; чи &ldquo;Делікатне прання&rdquo; за температури 30&deg;С з неагресивним пральним засобом, з речами подібними по тону, уникати сусідства з речами, які мають елементи, що можуть пошкодити тканину (металевий декор, гострі гудзики, застібки-блискавки).</p> <p>Для збереження природної ніжності бавовни бажано застосовувати пом&rsquo;якшуючі тканину ополіскувачі.</p> <p>Віджим 400 обертів. Сушіння у горизонтальному положенні, уникати пересушування та прямої дії сонячних променів.</p> <p>Прасувати праскою з відпарюванням.</p>]]></description_ua>
 <price>427</price>
 <price_old>427</price_old>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/16/49085421989022_%2B25c4424c01.jpeg</picture>
 <picture>https://dorechi.ua/content/images/15/beanie_yellow_44-37995921023212_%2Bb9f61afe75.jpg</picture>
 <picture>https://dorechi.ua/content/images/16/42386032818519_%2B0350f116c7.jpeg</picture>
