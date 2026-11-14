@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 21:10">
+<yml_catalog date="2026-11-14 21:38">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -67497,7 +67497,7 @@
 <param name="Декор" paramcode="13477" valuecode="9f9aa1ebeefa405e00b85b5fc2ced551">з вушками</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
-<offer available="false" id="TV-02425-BEZH-4446">
+<offer id="TV-02425-BEZH-4446" available="false">
 <price>599</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -67654,7 +67654,7 @@
 <param name="Застібка" paramcode="2867" valuecode="fb344fe64e6531444b31589f47b458e8">на зав'язках</param>
 <param name="Сезон" paramcode="2295" valuecode="77e9f945d07e0156186bbc3bfb392a2a,c66f6045e0a38e52f7672d3e8e959bba,34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">весна,літо,осінь,зима</param>
 </offer>
-<offer available="false" id="TV-05293-BIL-5052">
+<offer id="TV-05293-BIL-5052" available="false">
 <price>650</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -137766,36 +137766,8 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="TALVI-04955-102030" available="true">
-<price>598</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка на флісі «Райлі» unisex, білий, 44–46 см</name>
-<name lang="ru">Шапка на флисе "Райли" unisex, белый, 44-46 см</name>
-<picture>https://letimo.com.ua/content/images/16/35451432651423_+70f64c2265.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/15897341950693_+5a1aaff43b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка на флісі  Райлі  unisex&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Мила шапочка з вушками для діток&lt;/li&gt;&lt;li&gt;Однотонна, базова, підійде під будь який одяг&lt;/li&gt;&lt;li&gt;Всередині утеплена флісом&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер&lt;/li&gt;&lt;li&gt;Вік: 1-3 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 38 40 см, 40 42 см, 42 44 см, 44 46 см&lt;/li&gt;&lt;li&gt;Кольори: Білий, Світлий беж, Джинс, Кава, Світло-сірий, Персикова пудра, Коричневий, Сірий, Бежевий, Чорний, Світлий хакі, Помаранчевий, Молочний, Рожевий, Темно-синій&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Райлі]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер</param>
-<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
-<param name="Розмір" paramcode="2293" valuecode="wd72nnziafnyawun">42-46</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
 <offer id="TALVI-04955-102034" available="true">
-<price>598</price>
+<price>520</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Шапка на флісі «Райлі» unisex, чорний, 44–46 см</name>
@@ -141360,7 +141332,7 @@
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
 <offer id="TALVI-04473-98183" available="true">
-<price>575</price>
+<price>500</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Шапка у рваному стилі «Мармеладка», білий, 52–56 см</name>
@@ -141612,7 +141584,7 @@
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
 <offer id="TALVI-04473-98186" available="true">
-<price>575</price>
+<price>500</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Шапка у рваному стилі «Мармеладка», чорний, 52–56 см</name>
@@ -141640,7 +141612,7 @@
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
 <offer id="TALVI-04473-98192" available="true">
-<price>575</price>
+<price>500</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Шапка у рваному стилі «Мармеладка», коричневий, 52–56 см</name>
@@ -145062,62 +145034,6 @@
 <param name="Розмір" paramcode="2293" valuecode="t8rpzuhctaynejme">50-54</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-03647-91531" available="true">
-<price>736</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка з двома помпонами «Олаф» зимова, персикова пудра, 44–46 см</name>
-<name lang="ru">Шапка с двумя помпонами «Олаф» зимняя, персиковая пудра, 44-46 см</name>
-<picture>https://letimo.com.ua/content/images/13/90325913718830_+6841b32079.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/86344499919646_+a9643382c5.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка з двома помпонами  Олаф  зимова&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тепла зимова шапочка, що підійде і для дівчаток, і для хлопчиків&lt;/li&gt;&lt;li&gt;Декорована милими помпонами з пряжі в колір шапки та стильним нашивним шервоном&lt;/li&gt;&lt;li&gt;Утеплена флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Вік: 9-12 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 44 46 см, 46 48 см, 48 50 см&lt;/li&gt;&lt;li&gt;Кольори: Персикова пудра, Молочний, Коричневий, Темно-синій, Чорний, Пудра, Світло-сірий, Світлий беж, Бежевий, Темно-сірий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Олаф]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-<param name="Розмір" paramcode="2293" valuecode="wd72nnziafnyawun">42-46</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-03601-91237" available="true">
-<price>736</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка з двома помпонами «Олаф» зимова, темно-синій, 46–48 см</name>
-<name lang="ru">Шапка с двумя помпонами "Олаф" зимняя, темно-синий, 46-48 см.</name>
-<picture>https://letimo.com.ua/content/images/26/26776921342445_+64f5430220.jpg</picture>
-<picture>https://letimo.com.ua/content/images/26/55799701533180_+1279ed3b06.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка з двома помпонами  Олаф  зимова&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тепла зимова шапочка, що підійде і для дівчаток, і для хлопчиків&lt;/li&gt;&lt;li&gt;Декорована милими помпонами з пряжі в колір шапки та стильним нашивним шервоном&lt;/li&gt;&lt;li&gt;Утеплена флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Вік: 9-12 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 44 46 см, 46 48 см, 48 50 см&lt;/li&gt;&lt;li&gt;Кольори: Персикова пудра, Молочний, Коричневий, Темно-синій, Чорний, Пудра, Світло-сірий, Світлий беж, Бежевий, Темно-сірий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Олаф]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="a3974c8c5fb2f5b9d525b4859de8d5a0">темно-синій</param>
-<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
 <offer id="TALVI-03594-92456" available="true">
 <price>460</price>
@@ -156148,32 +156064,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="TALVI-03253-82420" available="true">
-<price>805</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка зимова з помпончиком «Сімо», світлий беж, 44–46 см</name>
-<picture>https://letimo.com.ua/content/images/9/29014087542822_+221b097c63.jpg</picture>
-<picture>https://letimo.com.ua/content/images/9/46123610391208_+ed215c5853.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка зимова з помпончиком  Сімо &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток&lt;/li&gt;&lt;li&gt;Щільна в'язка + утеплення флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою&lt;/li&gt;&lt;li&gt;Відворот на шапці пришитий&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;li&gt;Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Вік: 1-3 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см&lt;/li&gt;&lt;li&gt;Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Сімо]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="596687299a86c">світлий беж</param>
-<param name="Розмір" paramcode="2293" valuecode="wd72nnziafnyawun">42-46</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
 <offer id="TALVI-03253-85707" available="true">
 <price>700</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -156252,32 +156142,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="TALVI-03253-82972" available="true">
-<price>805</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка зимова з помпончиком «Сімо», чорний, 44–46 см</name>
-<picture>https://letimo.com.ua/content/images/13/97390930820048_+051643b7cf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/70493699983966_+1fbb6b8959.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка зимова з помпончиком  Сімо &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток&lt;/li&gt;&lt;li&gt;Щільна в'язка + утеплення флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою&lt;/li&gt;&lt;li&gt;Відворот на шапці пришитий&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;li&gt;Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Вік: 1-3 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см&lt;/li&gt;&lt;li&gt;Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Сімо]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-<param name="Розмір" paramcode="2293" valuecode="wd72nnziafnyawun">42-46</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
 <offer id="TALVI-03253-84016" available="true">
 <price>700</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -156301,32 +156165,6 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="g20kusvhgpe2qitv">пудра</param>
 <param name="Розмір" paramcode="2293" valuecode="wd72nnziafnyawun">42-46</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-04209-95924" available="true">
-<price>805</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка зимова з помпончиком «Сімо», білий, 46–48 см</name>
-<picture>https://letimo.com.ua/content/images/18/26050697791538_+eb76539865.jpg</picture>
-<picture>https://letimo.com.ua/content/images/18/62923804253533_+997caeef56.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка зимова з помпончиком  Сімо &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток&lt;/li&gt;&lt;li&gt;Щільна в'язка + утеплення флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою&lt;/li&gt;&lt;li&gt;Відворот на шапці пришитий&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;li&gt;Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Вік: 1-3 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см&lt;/li&gt;&lt;li&gt;Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Сімо]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
-<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
@@ -156383,7 +156221,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
 <offer id="TALVI-04209-95927" available="true">
-<price>805</price>
+<price>700</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Шапка зимова з помпончиком «Сімо», чорний, 46–48 см</name>
@@ -156404,32 +156242,6 @@
 <param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-04209-95931" available="true">
-<price>805</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка зимова з помпончиком «Сімо», світлий беж, 46–48 см</name>
-<picture>https://letimo.com.ua/content/images/29/26480942917195_+45ab458f9f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/29/57580095742644_+8a8742c40d.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка зимова з помпончиком  Сімо &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток&lt;/li&gt;&lt;li&gt;Щільна в'язка + утеплення флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою&lt;/li&gt;&lt;li&gt;Відворот на шапці пришитий&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;li&gt;Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Вік: 1-3 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см&lt;/li&gt;&lt;li&gt;Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Сімо]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5121ec">трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="596687299a86c">світлий беж</param>
 <param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
@@ -171034,33 +170846,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="TALVI-03476-89682" available="true">
-<price>736</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Зимова шапка для дівчат «Капі», білий, 44–48 см</name>
-<picture>https://letimo.com.ua/content/images/49/61777234782494_+5bd4fb1aba.jpg</picture>
-<picture>https://letimo.com.ua/content/images/49/35653170689861_+0b15df937f.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Зимова шапка для дівчат  Капі &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тепла зимова шапочка для дівчаток на флісі&lt;/li&gt;&lt;li&gt;Виготовлена з пряжі преміальної якості&lt;/li&gt;&lt;li&gt;Декорована хутряним помпоном та милою нашивкою&lt;/li&gt;&lt;li&gt;Помпон виготовлений з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;Помпон на кнопці, можна знімати для зручності прання&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 44 48 см&lt;/li&gt;&lt;li&gt;Кольори: Білий, Бежевий, Чорний, Молочний, Персикова пудра, Сірий, Коричневий, Кава, Світла пудра, Світлий беж&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Капі]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="9e13d69b34048713a16f064ba3babf08">для дівчинки</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
-<param name="Розмір" paramcode="2293" valuecode="hx2bfiasbfydp6bb">44</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
 <offer id="TALVI-03476-89685" available="true">
 <price>640</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -172241,33 +172026,6 @@
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="TALVI-03628-91330" available="true">
-<price>713</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Зимова шапка для хлопчиків «Норд», чорний, 44–48 см</name>
-<picture>https://letimo.com.ua/content/images/6/40191223813597_+84b10d319f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/6/12875449794235_+976535f5ef.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Зимова шапка для хлопчиків  Норд &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тепла зимова шапочка для хлопчиків на флісі&lt;/li&gt;&lt;li&gt;Виготовлена з пряжі преміальної якості&lt;/li&gt;&lt;li&gt;Декорована хутряним помпоном та стильною нашивкою&lt;/li&gt;&lt;li&gt;Помпон виготовлений з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;Помпон пришитий&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 44 48 см, 48 52 см&lt;/li&gt;&lt;li&gt;Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Норд]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-<param name="Розмір" paramcode="2293" valuecode="hx2bfiasbfydp6bb">44</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
 <offer id="TALVI-03628-91332" available="true">
 <price>620</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -172291,32 +172049,6 @@
 <param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
 <param name="Колір виробника" paramcode="78" valuecode="592042665c837">кава</param>
-<param name="Розмір" paramcode="2293" valuecode="hx2bfiasbfydp6bb">44</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-03628-91333" available="true">
-<price>713</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Зимова шапка для хлопчиків «Норд», коричневий, 44–48 см</name>
-<picture>https://letimo.com.ua/content/images/10/68434583647455_+fe6afb6462.jpg</picture>
-<picture>https://letimo.com.ua/content/images/10/86871987597386_+130b2d0268.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Зимова шапка для хлопчиків  Норд &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тепла зимова шапочка для хлопчиків на флісі&lt;/li&gt;&lt;li&gt;Виготовлена з пряжі преміальної якості&lt;/li&gt;&lt;li&gt;Декорована хутряним помпоном та стильною нашивкою&lt;/li&gt;&lt;li&gt;Помпон виготовлений з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;Помпон пришитий&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 44 48 см, 48 52 см&lt;/li&gt;&lt;li&gt;Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Норд]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
 <param name="Розмір" paramcode="2293" valuecode="hx2bfiasbfydp6bb">44</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
@@ -172345,33 +172077,6 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Розмір" paramcode="2293" valuecode="hx2bfiasbfydp6bb">44</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-03603-91227" available="true">
-<price>713</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Зимова шапка для хлопчиків «Норд», хакі, 48–52 см</name>
-<picture>https://letimo.com.ua/content/images/15/29449087660783_+4cdf278e33.jpg</picture>
-<picture>https://letimo.com.ua/content/images/15/87113716040465_+20d87ca2b4.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Зимова шапка для хлопчиків  Норд &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тепла зимова шапочка для хлопчиків на флісі&lt;/li&gt;&lt;li&gt;Виготовлена з пряжі преміальної якості&lt;/li&gt;&lt;li&gt;Декорована хутряним помпоном та стильною нашивкою&lt;/li&gt;&lt;li&gt;Помпон виготовлений з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;Помпон пришитий&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 44 48 см, 48 52 см&lt;/li&gt;&lt;li&gt;Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Норд]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
-<param name="Стать дитини" paramcode="2292" valuecode="7ecaeb7a550dca339347f64ddcc00667">для хлопчика</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5130ad">еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="2jxjeu2a">хакі</param>
-<param name="Розмір" paramcode="2293" valuecode="y4fczlvetm3mlihr">48</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e">для хлопчиків</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
@@ -173935,7 +173640,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
 <offer id="TALVI-04969-102182" available="true">
-<price>598</price>
+<price>520</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Зимова шапка на флісі «Рен», світло-сірий, 46–48 см</name>
@@ -173988,7 +173693,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
 <offer id="TALVI-04969-102184" available="true">
-<price>598</price>
+<price>520</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Зимова шапка на флісі «Рен», кавовий, 46–48 см</name>
@@ -174177,7 +173882,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
 <offer id="TALVI-04969-102187" available="true">
-<price>598</price>
+<price>520</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Зимова шапка на флісі «Рен», коричневий, 46–48 см</name>
@@ -180173,33 +179878,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
-<offer id="TALVI-03187-82075" available="true">
-<price>621</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Демісезонний в'язаний шолом «Санчо», світло-бежевий меланж, 46–48 см</name>
-<picture>https://letimo.com.ua/content/images/19/69490622112950_+a7b92f071d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/19/27783799344634_+ad19ac6c49.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Демісезонний в'язаний шолом  Санчо &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Милий шолом для діток з вушками ведмедика&lt;/li&gt;&lt;li&gt;Однотонний, базовий&lt;/li&gt;&lt;li&gt;Оснащений додатково резиночкою в зоні шиї для надійного захисту від вітру та холода, а також зручного вдягання&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Вік: 3-6 міс&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см, 52 54 см&lt;/li&gt;&lt;li&gt;Кольори: Джинсовий меланж, Світло-сірий меланж, Малина, Чорний, Блакитний, Молочний, Білий, Пудра, Рожевий, Світло-рожевий, Світло-бежевий меланж, Темно-сірий меланж, Кавовий, Коричневий, Темно-синій&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Санчо]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5121ec">акрил,трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
-<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
 <offer id="TALVI-03169-89171" available="true">
 <price>540</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -180442,7 +180120,7 @@
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
 <offer id="TALVI-03287-83147" available="true">
-<price>529</price>
+<price>460</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
 <name lang="ua">Шолом з фактурної в'язки «Медок», (517) білий, 44–46 см</name>
@@ -191768,60 +191446,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="TALVI-03645-91490" available="true">
-<price>690</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Теплий зимовий шолом з помпонами «Фінн», світла пудра, 46–48 см</name>
-<picture>https://letimo.com.ua/content/images/4/34797944184321_+690734e237.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/15803026745065_+b07db63d18.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий зимовий шолом з помпонами  Фінн &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;В'язаний зимовий шолом для діток&lt;/li&gt;&lt;li&gt;Виготовлений з теплої, приємної на дотик пряжі&lt;/li&gt;&lt;li&gt;Утеплений флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Однотонний, базовий, декорований двома пухнастими помпонами&lt;/li&gt;&lt;li&gt;Помпони виготовлені з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см&lt;/li&gt;&lt;li&gt;Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
-<param name="Колір виробника" paramcode="78" valuecode="rlw0sagvkdvthagh">світла пудра</param>
-<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-03645-91493" available="true">
-<price>690</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Теплий зимовий шолом з помпонами «Фінн», (542) сірий меланж, 46–48 см</name>
-<picture>https://letimo.com.ua/content/images/6/87691879764579_+f7bfb723ae.jpg</picture>
-<picture>https://letimo.com.ua/content/images/6/99212771203188_+0980cdb7da.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий зимовий шолом з помпонами  Фінн &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;В'язаний зимовий шолом для діток&lt;/li&gt;&lt;li&gt;Виготовлений з теплої, приємної на дотик пряжі&lt;/li&gt;&lt;li&gt;Утеплений флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Однотонний, базовий, декорований двома пухнастими помпонами&lt;/li&gt;&lt;li&gt;Помпони виготовлені з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см&lt;/li&gt;&lt;li&gt;Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
-<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-<param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
 <offer id="TALVI-03644-91505" available="true">
 <price>600</price>
 <category code="166">Головні убори для новонароджених</category>
@@ -191845,60 +191469,6 @@
 <param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
 <param name="Колір виробника" paramcode="78" valuecode="t6zfilgf7ycplopm">марсала</param>
-<param name="Розмір" paramcode="2293" valuecode="qrtlnwsyu2t7zznu">46-50</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-03644-91503" available="true">
-<price>690</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Теплий зимовий шолом з помпонами «Фінн», (542) сірий меланж, 48–50 см</name>
-<picture>https://letimo.com.ua/content/images/12/24999922325057_+e1ab6f6a48.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/84155922037906_+8bb3d4cc0d.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий зимовий шолом з помпонами  Фінн &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;В'язаний зимовий шолом для діток&lt;/li&gt;&lt;li&gt;Виготовлений з теплої, приємної на дотик пряжі&lt;/li&gt;&lt;li&gt;Утеплений флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Однотонний, базовий, декорований двома пухнастими помпонами&lt;/li&gt;&lt;li&gt;Помпони виготовлені з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см&lt;/li&gt;&lt;li&gt;Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
-<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-<param name="Розмір" paramcode="2293" valuecode="qrtlnwsyu2t7zznu">46-50</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-</offer>
-<offer id="TALVI-03644-91506" available="true">
-<price>690</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Теплий зимовий шолом з помпонами «Фінн», (591) молочний, 48–50 см</name>
-<picture>https://letimo.com.ua/content/images/14/70025675623377_+df65b30967.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/52024422312043_+b16819378e.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий зимовий шолом з помпонами  Фінн &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;В'язаний зимовий шолом для діток&lt;/li&gt;&lt;li&gt;Виготовлений з теплої, приємної на дотик пряжі&lt;/li&gt;&lt;li&gt;Утеплений флісом по всій площині зсередини&lt;/li&gt;&lt;li&gt;Однотонний, базовий, декорований двома пухнастими помпонами&lt;/li&gt;&lt;li&gt;Помпони виготовлені з високоякісного штучного хутра&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см&lt;/li&gt;&lt;li&gt;Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фінн]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
-<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
 <param name="Розмір" paramcode="2293" valuecode="qrtlnwsyu2t7zznu">46-50</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
@@ -192037,7 +191607,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 </offer>
-<offer id="DR-2118-74-O" available="false">
+<offer id="DR-2118-74-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192089,7 +191659,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2118-80-O" available="false">
+<offer id="DR-2118-80-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192141,7 +191711,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2118-86-O" available="false">
+<offer id="DR-2118-86-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192193,7 +191763,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2118-92-O" available="false">
+<offer id="DR-2118-92-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192245,7 +191815,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2119-74-O" available="false">
+<offer id="DR-2119-74-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192297,7 +191867,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2119-80-O" available="false">
+<offer id="DR-2119-80-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192349,7 +191919,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2119-86-O" available="false">
+<offer id="DR-2119-86-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192401,7 +191971,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2119-92-O" available="false">
+<offer id="DR-2119-92-O" available="true">
 <price>4420</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192453,7 +192023,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2087" available="false">
+<offer id="DR-2087" available="true">
 <price>4140</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -192490,7 +192060,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-2109" available="false">
+<offer id="DR-2109" available="true">
 <price>4140</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -192526,7 +192096,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-2110" available="false">
+<offer id="DR-2110" available="true">
 <price>4140</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -192562,7 +192132,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-2111" available="false">
+<offer id="DR-2111" available="true">
 <price>4140</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -192647,7 +192217,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2119-80" available="false">
+<offer id="DR-2119-80" available="true">
 <price>3930</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192697,7 +192267,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2119-86" available="false">
+<offer id="DR-2119-86" available="true">
 <price>3930</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192797,7 +192367,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2118-74" available="false">
+<offer id="DR-2118-74" available="true">
 <price>3930</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192847,7 +192417,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2118-80" available="false">
+<offer id="DR-2118-80" available="true">
 <price>3930</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192897,7 +192467,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2118-86" available="false">
+<offer id="DR-2118-86" available="true">
 <price>3930</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192947,7 +192517,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2118-92" available="false">
+<offer id="DR-2118-92" available="true">
 <price>3930</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -192997,7 +192567,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2075-74-O" available="false">
+<offer id="DR-2075-74-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193036,7 +192606,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2075-86-O" available="false">
+<offer id="DR-2075-86-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193075,7 +192645,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2075-92-O" available="false">
+<offer id="DR-2075-92-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193114,7 +192684,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2075-80-O" available="false">
+<offer id="DR-2075-80-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193167,7 +192737,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2076-74-O" available="false">
+<offer id="DR-2076-74-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193221,7 +192791,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2076-80-O" available="false">
+<offer id="DR-2076-80-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193275,7 +192845,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2076-86-O" available="false">
+<offer id="DR-2076-86-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193329,7 +192899,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2076-92-O" available="false">
+<offer id="DR-2076-92-O" available="true">
 <price>3790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193383,7 +192953,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-1812-F" available="false">
+<offer id="DR-1812-F" available="true">
 <price>3640</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -193420,7 +192990,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-1842" available="false">
+<offer id="DR-1842" available="true">
 <price>3640</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -193463,7 +193033,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="9806bdd9f5bb4ef64fa606d9705f68c4">на овчині</param>
 </offer>
-<offer id="DR-1842-F" available="false">
+<offer id="DR-1842-F" available="true">
 <price>3400</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -193501,7 +193071,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-2107" available="false">
+<offer id="DR-2107" available="true">
 <price>3640</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -193667,7 +193237,7 @@
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 </offer>
-<offer id="DR-2085" available="false">
+<offer id="DR-2085" available="true">
 <price>3290</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193738,7 +193308,7 @@
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 </offer>
-<offer id="DR-2075-86" available="false">
+<offer id="DR-2075-86" available="true">
 <price>3280</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193776,7 +193346,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2075-92" available="false">
+<offer id="DR-2075-92" available="true">
 <price>3280</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193814,7 +193384,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fa20a2a581fe14c86b0656e0480d3d02">92</param>
 </offer>
-<offer id="DR-2075-74" available="false">
+<offer id="DR-2075-74" available="true">
 <price>3280</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193865,7 +193435,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2075-80" available="false">
+<offer id="DR-2075-80" available="true">
 <price>3280</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193916,7 +193486,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2076-74" available="false">
+<offer id="DR-2076-74" available="true">
 <price>3060</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -193967,7 +193537,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="2489e66bdb89d5ffe1e2b14a6aa873d5">74</param>
 </offer>
-<offer id="DR-2076-80" available="false">
+<offer id="DR-2076-80" available="true">
 <price>3060</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -194018,7 +193588,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="fdbfb44e46e63dbe61604f6caba5e7a3">80</param>
 </offer>
-<offer id="DR-2076-86" available="false">
+<offer id="DR-2076-86" available="true">
 <price>3060</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -194069,7 +193639,7 @@
 <param name="Тип" paramcode="4596" valuecode="14dd0e5f8b95a78d03598d7c30b4076a">комбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ae21b8270a3e952a3e7ee9e92e81f733">86</param>
 </offer>
-<offer id="DR-2076-92" available="false">
+<offer id="DR-2076-92" available="true">
 <price>3060</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -194150,7 +193720,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-1883" available="false">
+<offer id="DR-1883" available="true">
 <price>2850</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -194353,7 +193923,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-2070-F" available="false">
+<offer id="DR-2070-F" available="true">
 <price>2850</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -194483,7 +194053,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-2072-F" available="false">
+<offer id="DR-2072-F" available="true">
 <price>2850</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -194550,7 +194120,7 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Особливість" paramcode="10899" valuecode="4dfb658ccbc871f4c529676962fc1c1e">на флісі</param>
 </offer>
-<offer id="DR-2073-F" available="false">
+<offer id="DR-2073-F" available="true">
 <price>2850</price>
 <category code="795">Конверти для новонароджених</category>
 <attribute_set code="795">Конверти для новонароджених</attribute_set>
@@ -195215,7 +194785,7 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70">бавовна</param>
 <param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
 </offer>
-<offer id="DR-1958-104" available="false">
+<offer id="DR-1958-104" available="true">
 <price>1790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -195321,7 +194891,7 @@
 <param name="Тип" paramcode="4596" valuecode="b3baea4483dc059b257c82092e8cff7e">напівкомбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="ade88b6abbef5cc9c6d21196e5b51f8d">104</param>
 </offer>
-<offer id="DR-1959-92" available="false">
+<offer id="DR-1959-92" available="true">
 <price>1790</price>
 <category code="796">Дитячі зимові комбінезони</category>
 <attribute_set code="796">Дитячі зимові комбінезони</attribute_set>
@@ -195521,7 +195091,7 @@
 <param name="Тип" paramcode="4596" valuecode="b3baea4483dc059b257c82092e8cff7e">напівкомбінезон</param>
 <param name="Розмір" paramcode="5575" valuecode="0ffb6aaa190b17eb33c4b62ee43e7b82">98</param>
 </offer>
-<offer id="DR-2096" available="false">
+<offer id="DR-2096" available="true">
 <price>1560</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195543,7 +195113,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
 </offer>
-<offer id="DR-2115" available="false">
+<offer id="DR-2115" available="true">
 <price>1560</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195564,7 +195134,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
 </offer>
-<offer id="DR-2116" available="false">
+<offer id="DR-2116" available="true">
 <price>1560</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195585,7 +195155,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="591f86e85126e,hbrprb2v">принт,різнокольоровий</param>
 </offer>
-<offer id="DR-2117" available="false">
+<offer id="DR-2117" available="true">
 <price>1560</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195677,7 +195247,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
 </offer>
-<offer id="DR-2081" available="false">
+<offer id="DR-2081" available="true">
 <price>1420</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195725,7 +195295,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
 </offer>
-<offer id="DR-1816" available="false">
+<offer id="DR-1816" available="true">
 <price>1420</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195777,7 +195347,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="707e0ea60cbf93e48a8c4b07709c0653">графітовий</param>
 </offer>
-<offer id="DR-1818" available="false">
+<offer id="DR-1818" available="true">
 <price>1420</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195823,7 +195393,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
 </offer>
-<offer id="DR-1818-F" available="false">
+<offer id="DR-1818-F" available="true">
 <price>1330</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195871,7 +195441,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
 </offer>
-<offer id="DR-2114" available="false">
+<offer id="DR-2114" available="true">
 <price>1420</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -195993,7 +195563,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
 </offer>
-<offer id="DR-1833MHB" available="false">
+<offer id="DR-1833MHB" available="true">
 <price>1000</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -196108,7 +195678,7 @@
 <param name="Вік дитини" paramcode="2289" valuecode="9a2add252cc81f133ce3daf38d78b69d">від народження</param>
 <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
 </offer>
-<offer id="DR-2009-46" available="false">
+<offer id="DR-2009-46" available="true">
 <price>1000</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -197033,7 +196603,7 @@
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
 <param name="Тип тканини" paramcode="5333" valuecode="oqjywatimg3j1nod,wkwoavmpmqpirktw">бавовна,акрил</param>
 </offer>
-<offer id="DR-1848" available="false">
+<offer id="DR-1848" available="true">
 <price>840</price>
 <category code="847">Аксесуари для колясок та автокрісел</category>
 <attribute_set code="847">Аксесуари для колясок та автокрісел</attribute_set>
@@ -197638,7 +197208,7 @@
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517f3e,59474de517e96">для хлопчиків,для дівчаток</param>
 </offer>
-<offer id="DR-2030" available="false">
+<offer id="DR-2030" available="true">
 <price>440</price>
 <category code="2419">Дитячі рукавиці</category>
 <attribute_set code="2419">Дитячі рукавиці</attribute_set>
@@ -198369,7 +197939,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802575</param>
 </offer>
-<offer available="false" id="ABD0166R-BLACK-24">
+<offer id="ABD0166R-BLACK-24" available="false">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -198389,7 +197959,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802582</param>
 </offer>
-<offer available="false" id="ABD0166R-BLACK-25">
+<offer id="ABD0166R-BLACK-25" available="false">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -198409,7 +197979,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778802599</param>
 </offer>
-<offer available="false" id="ABD0166R-BLACK-26">
+<offer id="ABD0166R-BLACK-26" available="false">
 <price>1660</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -199083,7 +198653,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6980026258729</param>
 </offer>
-<offer available="false" id="HA828-3-PINK-28">
+<offer id="HA828-3-PINK-28" available="true">
 <price>1570</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -199293,7 +198863,7 @@
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 <param name="Штрих-код" paramcode="barcodes">5903497240353</param>
 </offer>
-<offer available="false" id="XD198-NAVY-26">
+<offer id="XD198-NAVY-26" available="false">
 <price>1849</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -199401,7 +198971,6 @@
 <param name="Розмір" paramcode="12016" valuecode="5c50a97cd4a48d8a5522649abc96dce9">23</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802858</param>
 </offer>
 <offer id="ABD0176R-NAVY-24" available="true">
 <price>1820</price>
@@ -199427,7 +198996,6 @@
 <param name="Розмір" paramcode="12016" valuecode="3cdb030a6feb0ff5446358e49eaae3e5">24</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802865</param>
 </offer>
 <offer id="ABD0176R-NAVY-25" available="true">
 <price>1820</price>
@@ -199453,7 +199021,6 @@
 <param name="Розмір" paramcode="12016" valuecode="637b0c23afac8b5808a44d73d1400731">25</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802872</param>
 </offer>
 <offer id="ABD0176R-NAVY-26" available="true">
 <price>1820</price>
@@ -199479,7 +199046,6 @@
 <param name="Розмір" paramcode="12016" valuecode="acfad1052a136adb0430c119352d44aa">26</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802889</param>
 </offer>
 <offer id="ABD0176R-NAVY-27" available="true">
 <price>1820</price>
@@ -199505,7 +199071,6 @@
 <param name="Розмір" paramcode="12016" valuecode="d6c0ec33f5b26cb7643f121fa30f6c64">27</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802896</param>
 </offer>
 <offer id="ABD0176R-NAVY-28" available="true">
 <price>1820</price>
@@ -199531,7 +199096,6 @@
 <param name="Розмір" paramcode="12016" valuecode="e0fad356558d65e5acbe9c97a649653e">28</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802902</param>
 </offer>
 <offer id="ABD0176R-BLACK-23" available="true">
 <price>1820</price>
@@ -199559,7 +199123,6 @@
 <param name="Розмір" paramcode="12016" valuecode="5c50a97cd4a48d8a5522649abc96dce9">23</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802926</param>
 </offer>
 <offer id="ABD0176R-BLACK-24" available="true">
 <price>1820</price>
@@ -199587,7 +199150,6 @@
 <param name="Розмір" paramcode="12016" valuecode="3cdb030a6feb0ff5446358e49eaae3e5">24</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802933</param>
 </offer>
 <offer id="ABD0176R-BLACK-25" available="true">
 <price>1820</price>
@@ -199615,7 +199177,6 @@
 <param name="Розмір" paramcode="12016" valuecode="637b0c23afac8b5808a44d73d1400731">25</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802940</param>
 </offer>
 <offer id="ABD0176R-BLACK-26" available="true">
 <price>1820</price>
@@ -199643,7 +199204,6 @@
 <param name="Розмір" paramcode="12016" valuecode="acfad1052a136adb0430c119352d44aa">26</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802957</param>
 </offer>
 <offer id="ABD0176R-BLACK-27" available="true">
 <price>1820</price>
@@ -199671,7 +199231,6 @@
 <param name="Розмір" paramcode="12016" valuecode="d6c0ec33f5b26cb7643f121fa30f6c64">27</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802964</param>
 </offer>
 <offer id="ABD0176R-BLACK-28" available="true">
 <price>1820</price>
@@ -199699,295 +199258,6 @@
 <param name="Розмір" paramcode="12016" valuecode="e0fad356558d65e5acbe9c97a649653e">28</param>
 <param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802971</param>
-</offer>
-<offer id="I3603R-A-BLACK-23" available="true">
-<price>1850</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові дутики Apawwa I3603R-A Black, розмір 23</name>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-99315264346513_+e3907319bf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-41262498488367_+81c04fb78a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-49758150152535_+d92d3caf59.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45308291861562_+c8f6cc4887.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45349881152687_+ae2aacfe94.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові дутики Apawwa I3603R-A Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні дутики з м&amp;rsquo;яким верхом і захисною нижньою частиною. Всередині &amp;mdash; густе світле хутро, халява затягується шнурком з фіксатором, збоку блискавка. Ззаду дві петлі зі світловідбивною стрічкою &amp;mdash; і взувати зручно, і дитину видно в темряві. Ефектна підошва з крапчастою вставкою та рельєфним протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: I3603R-A&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: блискавка + шнурок з фіксатором&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;24 розмір   16 см&lt;/li&gt;   &lt;li&gt;25 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;26 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;27 розмір   18 см&lt;/li&gt;   &lt;li&gt;28 розмір   18,7 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="5c50a97cd4a48d8a5522649abc96dce9">23</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-</offer>
-<offer id="I3603R-A-BLACK-24" available="true">
-<price>1850</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові дутики Apawwa I3603R-A Black, розмір 24</name>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-99315264346513_+e3907319bf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-41262498488367_+81c04fb78a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-49758150152535_+d92d3caf59.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45308291861562_+c8f6cc4887.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45349881152687_+ae2aacfe94.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові дутики Apawwa I3603R-A Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні дутики з м&amp;rsquo;яким верхом і захисною нижньою частиною. Всередині &amp;mdash; густе світле хутро, халява затягується шнурком з фіксатором, збоку блискавка. Ззаду дві петлі зі світловідбивною стрічкою &amp;mdash; і взувати зручно, і дитину видно в темряві. Ефектна підошва з крапчастою вставкою та рельєфним протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: I3603R-A&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: блискавка + шнурок з фіксатором&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;24 розмір   16 см&lt;/li&gt;   &lt;li&gt;25 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;26 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;27 розмір   18 см&lt;/li&gt;   &lt;li&gt;28 розмір   18,7 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="3cdb030a6feb0ff5446358e49eaae3e5">24</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-</offer>
-<offer id="I3603R-A-BLACK-25" available="true">
-<price>1850</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові дутики Apawwa I3603R-A Black, розмір 25</name>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-99315264346513_+e3907319bf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-41262498488367_+81c04fb78a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-49758150152535_+d92d3caf59.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45308291861562_+c8f6cc4887.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45349881152687_+ae2aacfe94.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові дутики Apawwa I3603R-A Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні дутики з м&amp;rsquo;яким верхом і захисною нижньою частиною. Всередині &amp;mdash; густе світле хутро, халява затягується шнурком з фіксатором, збоку блискавка. Ззаду дві петлі зі світловідбивною стрічкою &amp;mdash; і взувати зручно, і дитину видно в темряві. Ефектна підошва з крапчастою вставкою та рельєфним протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: I3603R-A&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: блискавка + шнурок з фіксатором&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;24 розмір   16 см&lt;/li&gt;   &lt;li&gt;25 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;26 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;27 розмір   18 см&lt;/li&gt;   &lt;li&gt;28 розмір   18,7 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="637b0c23afac8b5808a44d73d1400731">25</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-</offer>
-<offer id="I3603R-A-BLACK-26" available="true">
-<price>1850</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові дутики Apawwa I3603R-A Black, розмір 26</name>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-99315264346513_+e3907319bf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-41262498488367_+81c04fb78a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-49758150152535_+d92d3caf59.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45308291861562_+c8f6cc4887.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45349881152687_+ae2aacfe94.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові дутики Apawwa I3603R-A Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні дутики з м&amp;rsquo;яким верхом і захисною нижньою частиною. Всередині &amp;mdash; густе світле хутро, халява затягується шнурком з фіксатором, збоку блискавка. Ззаду дві петлі зі світловідбивною стрічкою &amp;mdash; і взувати зручно, і дитину видно в темряві. Ефектна підошва з крапчастою вставкою та рельєфним протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: I3603R-A&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: блискавка + шнурок з фіксатором&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;24 розмір   16 см&lt;/li&gt;   &lt;li&gt;25 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;26 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;27 розмір   18 см&lt;/li&gt;   &lt;li&gt;28 розмір   18,7 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="acfad1052a136adb0430c119352d44aa">26</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-</offer>
-<offer id="I3603R-A-BLACK-27" available="true">
-<price>1850</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові дутики Apawwa I3603R-A Black, розмір 27</name>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-99315264346513_+e3907319bf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-41262498488367_+81c04fb78a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-49758150152535_+d92d3caf59.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45308291861562_+c8f6cc4887.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45349881152687_+ae2aacfe94.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові дутики Apawwa I3603R-A Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні дутики з м&amp;rsquo;яким верхом і захисною нижньою частиною. Всередині &amp;mdash; густе світле хутро, халява затягується шнурком з фіксатором, збоку блискавка. Ззаду дві петлі зі світловідбивною стрічкою &amp;mdash; і взувати зручно, і дитину видно в темряві. Ефектна підошва з крапчастою вставкою та рельєфним протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: I3603R-A&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: блискавка + шнурок з фіксатором&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;24 розмір   16 см&lt;/li&gt;   &lt;li&gt;25 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;26 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;27 розмір   18 см&lt;/li&gt;   &lt;li&gt;28 розмір   18,7 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="d6c0ec33f5b26cb7643f121fa30f6c64">27</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-</offer>
-<offer id="I3603R-A-BLACK-28" available="true">
-<price>1850</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові дутики Apawwa I3603R-A Black, розмір 28</name>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-99315264346513_+e3907319bf.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-41262498488367_+81c04fb78a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-49758150152535_+d92d3caf59.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45308291861562_+c8f6cc4887.jpg</picture>
-<picture>https://letimo.com.ua/content/images/37/dytiachi-zymovi-dutyky-apawwa-i3603r-a-black-rozmir-23-45349881152687_+ae2aacfe94.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові дутики Apawwa I3603R-A Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні дутики з м&amp;rsquo;яким верхом і захисною нижньою частиною. Всередині &amp;mdash; густе світле хутро, халява затягується шнурком з фіксатором, збоку блискавка. Ззаду дві петлі зі світловідбивною стрічкою &amp;mdash; і взувати зручно, і дитину видно в темряві. Ефектна підошва з крапчастою вставкою та рельєфним протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: I3603R-A&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: блискавка + шнурок з фіксатором&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;24 розмір   16 см&lt;/li&gt;   &lt;li&gt;25 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;26 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;27 розмір   18 см&lt;/li&gt;   &lt;li&gt;28 розмір   18,7 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="e0fad356558d65e5acbe9c97a649653e">28</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-</offer>
-<offer id="ABD0156R-BLACK-23" available="true">
-<price>1790</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові черевики Apawwa ABD0156R Black, розмір 23</name>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-62177686661190_+f599863b29.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-48699672452104_+c06554d019.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78664435949274_+37f8f72d2f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-39369258229275_+8d6de6279f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-67121422642703_+2147e3541a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78764544515734_+5fb0ef782b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові черевики Apawwa ABD0156R Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні зимові черевики на двох широких липучках &amp;mdash; дитина взується швидко, а ногу легко підлаштувати по підйому. Всередині &amp;mdash; тепле світле хутро на устілці та м&amp;rsquo;яка підкладка халяви. Світловідбивні вставки спереду, на липучці й на петлях ззаду. Захищений гумою носок, світла підошва з глибоким протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: ABD0156R&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: дві липучки&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   14,7 см&lt;/li&gt;   &lt;li&gt;24 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;25 розмір   16 см&lt;/li&gt;   &lt;li&gt;26 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;27 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;28 розмір   18 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="5c50a97cd4a48d8a5522649abc96dce9">23</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802360</param>
-</offer>
-<offer id="ABD0156R-BLACK-24" available="true">
-<price>1790</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові черевики Apawwa ABD0156R Black, розмір 24</name>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-62177686661190_+f599863b29.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-48699672452104_+c06554d019.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78664435949274_+37f8f72d2f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-39369258229275_+8d6de6279f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-67121422642703_+2147e3541a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78764544515734_+5fb0ef782b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові черевики Apawwa ABD0156R Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні зимові черевики на двох широких липучках &amp;mdash; дитина взується швидко, а ногу легко підлаштувати по підйому. Всередині &amp;mdash; тепле світле хутро на устілці та м&amp;rsquo;яка підкладка халяви. Світловідбивні вставки спереду, на липучці й на петлях ззаду. Захищений гумою носок, світла підошва з глибоким протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: ABD0156R&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: дві липучки&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   14,7 см&lt;/li&gt;   &lt;li&gt;24 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;25 розмір   16 см&lt;/li&gt;   &lt;li&gt;26 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;27 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;28 розмір   18 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="3cdb030a6feb0ff5446358e49eaae3e5">24</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802377</param>
-</offer>
-<offer id="ABD0156R-BLACK-25" available="true">
-<price>1790</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові черевики Apawwa ABD0156R Black, розмір 25</name>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-62177686661190_+f599863b29.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-48699672452104_+c06554d019.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78664435949274_+37f8f72d2f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-39369258229275_+8d6de6279f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-67121422642703_+2147e3541a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78764544515734_+5fb0ef782b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові черевики Apawwa ABD0156R Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні зимові черевики на двох широких липучках &amp;mdash; дитина взується швидко, а ногу легко підлаштувати по підйому. Всередині &amp;mdash; тепле світле хутро на устілці та м&amp;rsquo;яка підкладка халяви. Світловідбивні вставки спереду, на липучці й на петлях ззаду. Захищений гумою носок, світла підошва з глибоким протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: ABD0156R&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: дві липучки&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   14,7 см&lt;/li&gt;   &lt;li&gt;24 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;25 розмір   16 см&lt;/li&gt;   &lt;li&gt;26 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;27 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;28 розмір   18 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="637b0c23afac8b5808a44d73d1400731">25</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802384</param>
-</offer>
-<offer id="ABD0156R-BLACK-26" available="true">
-<price>1790</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові черевики Apawwa ABD0156R Black, розмір 26</name>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-62177686661190_+f599863b29.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-48699672452104_+c06554d019.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78664435949274_+37f8f72d2f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-39369258229275_+8d6de6279f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-67121422642703_+2147e3541a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78764544515734_+5fb0ef782b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові черевики Apawwa ABD0156R Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні зимові черевики на двох широких липучках &amp;mdash; дитина взується швидко, а ногу легко підлаштувати по підйому. Всередині &amp;mdash; тепле світле хутро на устілці та м&amp;rsquo;яка підкладка халяви. Світловідбивні вставки спереду, на липучці й на петлях ззаду. Захищений гумою носок, світла підошва з глибоким протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: ABD0156R&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: дві липучки&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   14,7 см&lt;/li&gt;   &lt;li&gt;24 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;25 розмір   16 см&lt;/li&gt;   &lt;li&gt;26 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;27 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;28 розмір   18 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="acfad1052a136adb0430c119352d44aa">26</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802391</param>
-</offer>
-<offer id="ABD0156R-BLACK-27" available="true">
-<price>1790</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові черевики Apawwa ABD0156R Black, розмір 27</name>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-62177686661190_+f599863b29.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-48699672452104_+c06554d019.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78664435949274_+37f8f72d2f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-39369258229275_+8d6de6279f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-67121422642703_+2147e3541a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78764544515734_+5fb0ef782b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові черевики Apawwa ABD0156R Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні зимові черевики на двох широких липучках &amp;mdash; дитина взується швидко, а ногу легко підлаштувати по підйому. Всередині &amp;mdash; тепле світле хутро на устілці та м&amp;rsquo;яка підкладка халяви. Світловідбивні вставки спереду, на липучці й на петлях ззаду. Захищений гумою носок, світла підошва з глибоким протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: ABD0156R&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: дві липучки&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   14,7 см&lt;/li&gt;   &lt;li&gt;24 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;25 розмір   16 см&lt;/li&gt;   &lt;li&gt;26 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;27 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;28 розмір   18 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="d6c0ec33f5b26cb7643f121fa30f6c64">27</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802407</param>
-</offer>
-<offer id="ABD0156R-BLACK-28" available="true">
-<price>1790</price>
-<category code="819">Черевики дитячі</category>
-<attribute_set code="819">Черевики дитячі</attribute_set>
-<name lang="ua">Дитячі зимові черевики Apawwa ABD0156R Black, розмір 28</name>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-62177686661190_+f599863b29.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-48699672452104_+c06554d019.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78664435949274_+37f8f72d2f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-39369258229275_+8d6de6279f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-67121422642703_+2147e3541a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/43/dytiachi-zymovi-cherevyky-apawwa-abd0156r-black-rozmir-23-78764544515734_+5fb0ef782b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Дитячі зимові черевики Apawwa ABD0156R Black&lt;/strong&gt;&lt;/p&gt;    &lt;p&gt;Чорні зимові черевики на двох широких липучках &amp;mdash; дитина взується швидко, а ногу легко підлаштувати по підйому. Всередині &amp;mdash; тепле світле хутро на устілці та м&amp;rsquo;яка підкладка халяви. Світловідбивні вставки спереду, на липучці й на петлях ззаду. Захищений гумою носок, світла підошва з глибоким протектором.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Характеристики:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Бренд: Apawwa&lt;/li&gt;   &lt;li&gt;Артикул: ABD0156R&lt;/li&gt;   &lt;li&gt;Колір: чорний&lt;/li&gt;   &lt;li&gt;Сезон: зима&lt;/li&gt;   &lt;li&gt;Застібка: дві липучки&lt;/li&gt;   &lt;li&gt;Країна виробництва: Китай&lt;/li&gt;   &lt;li&gt;Стан: нові&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Довжина устілки:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;23 розмір   14,7 см&lt;/li&gt;   &lt;li&gt;24 розмір   15,3 см&lt;/li&gt;   &lt;li&gt;25 розмір   16 см&lt;/li&gt;   &lt;li&gt;26 розмір   16,7 см&lt;/li&gt;   &lt;li&gt;27 розмір   17,3 см&lt;/li&gt;   &lt;li&gt;28 розмір   18 см&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Перед замовленням рекомендуємо виміряти стопу дитини та звірити з таблицею розмірів.&lt;/p&gt;    &lt;h3&gt;Як обрати розмір&lt;/h3&gt;    &lt;p&gt;Обведіть стопу дитини на аркуші паперу і виміряйте відстань від п&amp;rsquo;яти до найдовшого пальця. Для зимового взуття додайте 1&amp;ndash;1,5 см на теплу шкарпетку і запас для руху. Якщо сумніваєтеся між двома розмірами &amp;mdash; напишіть нам, підкажемо.&lt;/p&gt;    &lt;h3&gt;Часті запитання&lt;/h3&gt;    &lt;p&gt;&lt;strong&gt;Як зрозуміти, що взуття по розміру?&lt;/strong&gt;&lt;br /&gt;  Поставте дитину у взутті: між найдовшим пальцем і носком має лишатися близько пальця дорослого &amp;mdash; це запас для шкарпетки й руху.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Що робити, якщо розмір не підійшов?&lt;/strong&gt;&lt;br /&gt;  Обміняємо або повернемо гроші протягом 14 днів, якщо річ без слідів використання, з бирками й упаковкою.&lt;/p&gt;    &lt;p&gt;Більше моделей бренду &amp;mdash; на сторінці &lt;a href="/apawwa/"&gt;Apawwa&lt;/a&gt;.&lt;/p&gt;  </description>
-<vendor code="79a2acb61e804bc4a163cfd318e435ce">Apawwa</vendor>
-<country_of_origin code="chn">Китай</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">80</param>
-<param name="Глибина" paramcode="length">350</param>
-<param name="Ширина" paramcode="width">250</param>
-<param name="Вага" paramcode="weight">600</param>
-<param name="Розмір" paramcode="12016" valuecode="e0fad356558d65e5acbe9c97a649653e">28</param>
-<param name="Матеріал верху" paramcode="8546" valuecode="gaslt0maz3oaouua">поліестер</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
-<param name="Штрих-код" paramcode="barcodes">6942778802414</param>
 </offer>
 </offers>
 </yml_catalog>
