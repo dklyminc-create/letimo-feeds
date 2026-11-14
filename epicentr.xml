@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 08:08">
+<yml_catalog date="2026-11-14 08:40">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -82257,33 +82257,6 @@
 <param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5121ec">бавовна,еластан,трикотаж</param>
 <param name="Колір виробника" paramcode="78" valuecode="u2rqrf0q">блакитний</param>
-<param name="Розмір" paramcode="2293" valuecode="byss4m3jm85rv5fq">40</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-02576-88278" available="true">
-<price>500</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Комплект в рубчик «Іто», l066 лаванда, 40–44 см</name>
-<name lang="ru">Комплект в рубчик "Ито", l066 лаванда, 40-44 см</name>
-<picture>https://letimo.com.ua/content/images/16/19602668232901_+89f75a40be.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/62589002788316_+074d832f37.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Комплект в рубчик  Іто &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Двошаровий комплект з вушками із трикотажу в рубчик&lt;/li&gt;&lt;li&gt;Відворот на шапці не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю&lt;/li&gt;&lt;li&gt;Для діток 2-6 місяців&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: бавовна 97% , еластан 3%&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 40 44 см, 44 48 см, 48 52 см&lt;/li&gt;&lt;li&gt;Кольори: -4308 Блакитний, L066 Лаванда, -4250 Індиго, -3323 Орхідея, L132 Хакі, Світло-сірий меланж, L160 Індиго, -1746 Корал, -4120 Світлий джинс, L168 Чорний, L035 Малина, L003 Молочний, L002 Білий, KZ050 Світлий беж, L030 Рожевий, L036 Світло-рожевий, L135 Темний беж, Джинс, Чорний, Сірий, Блакитний, Електрик синій, L073 Блакитний&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Іто]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">бавовна 97% , еластан 3%</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Тип" paramcode="50" valuecode="dac76c657f6d7e59d19f22266eea7ce0">набір</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad,59474de5121ec">бавовна,еластан,трикотаж</param>
-<param name="Колір виробника" paramcode="78" valuecode="nnxjopwuibuljxr9">лаванда</param>
 <param name="Розмір" paramcode="2293" valuecode="byss4m3jm85rv5fq">40</param>
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
