@@ -3710,18 +3710,29 @@ function dumpSrcToSheet() {
 //  • власний склад ДоРечі (DR_OWN_PRICE_, рахунок №754) не чіпаємо — його наявність веде SalesDrive.
 // Надсилаються лише зміни відносно минулого запуску (стан у властивості DR_PRES_STATE).
 function drPresenceSync() {
-  const items = hsDrItems_();
-  if (items.length < 50) { Logger.log('ДоРечі: замало товарів у прайсі (' + items.length + '), пропуск'); return; }
+  // 16.11.2026: зіставлення з онлайн-таблицею ДоРечі дає 0 збігів (ДоРечі перейшли на фід SalesDrive) —
+  // тому наявність беремо прямо з фіду ДоРечі: у фіді лише товари в наявності, vendorCode «2119/92» = артикул сайту «DR-2119-92».
+  // Чого немає у фіді — «Немає в наявності» (правило Дмитра 15.11.2026). Власний склад (DR_OWN_PRICE_, рахунок №754) не чіпаємо.
+  const feed = drFeedXml_();
+  const inFeed = {};
+  (feed.match(/<vendorCode>[^<]*/g) || []).forEach(function (s) {
+    inFeed[('DR-' + s.replace('<vendorCode>', '').trim().replace(/[\/\s]+/g, '-')).toUpperCase()] = 1;
+  });
+  const nFeed = Object.keys(inFeed).length;
+  if (nFeed < 50) { Logger.log('ДоРечі: замало товарів у фіді (' + nFeed + '), пропуск'); return; }
   const own = DR_OWN_PRICE_ || {};
-  const want = {};
-  items.forEach(function (it) { if (!own[it.art]) want[it.art] = it.qty > 0 ? 'В наявності' : 'Немає в наявності'; });
-  let gone = 0;
-  const x = srcXml_();
-  x.replace(/<vendorCode>(?:<!\[CDATA\[)?\s*(DR-[^<\]\s]+)/g, function (a, art) { if (!own[art] && !(art in want)) { want[art] = 'Немає в наявності'; gone++; } return a; });
+  const want = {}, site = {};
+  srcXml_().replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) {
+    const m = body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*(DR-[^<\]\s]+)/);
+    if (!m || own[m[1]]) return all;
+    want[m[1]] = inFeed[m[1].toUpperCase()] ? 'В наявності' : 'Немає в наявності';
+    site[m[1]] = /available="true"/.test(attrs) ? 'В наявності' : 'Немає в наявності';
+    return all;
+  });
   const props = PropertiesService.getScriptProperties();
   const prev = JSON.parse(props.getProperty('DR_PRES_STATE') || '{}');
-  const changed = Object.keys(want).filter(function (a) { return prev[a] !== want[a]; });
-  const res = { total: Object.keys(want).length, gone: gone, changed: changed.length, sent: 0, errors: [] };
+  const changed = Object.keys(want).filter(function (a) { return site[a] !== want[a]; });
+  const res = { feed: nFeed, site: Object.keys(want).length, changed: changed.length, sent: 0, errors: [] };
   for (let i = 0; i < changed.length; i += 100) {
     const part = changed.slice(i, i + 100);
     const j = hsCall_('catalog/import', { token: hsToken_(), products: part.map(function (a) { return { article: a, presence: want[a] }; }) });
@@ -3730,7 +3741,7 @@ function drPresenceSync() {
     res.sent += part.length;
   }
   props.setProperty('DR_PRES_STATE', JSON.stringify(prev));
-  Logger.log('ДоРечі наявність: ' + JSON.stringify(res));
+  Logger.log('ДоРечі наявність: ' + JSON.stringify(res) + ' ' + changed.slice(0, 60).map(function (a) { return a + '→' + (want[a] === 'В наявності' ? 'є' : 'немає'); }).join(', '));
   return res;
 }
 function drPresenceInstall() {
