@@ -1560,7 +1560,7 @@ const PF_PORTAL_RULES = [
   { cat: '1163', id: 31014 },     // Чоловічки → Боді та пісочники (так класифікує Prom)
   { cat: '1115', id: 31012 },     // Повзунки → Повзунки і штани для новонароджених
   { cat: '1127', id: 31016 },     // Комплекти → Комплекти для малюків
-  { cat: '1124', id: 3111703 },   // Футболки, лонгсліви → Дитячі футболки та майки
+  { cat: '1150', name: /сукн/i, id: 31110 }, { cat: '1150', name: /костюм|комплект/i, id: 31016 }, /* 13.11.2026: Talvi сукні/комплекти з «Кофти» (Prom ставив Дитячі футболки) */ { cat: '1124', id: 3111703 },   // Футболки, лонгсліви → Дитячі футболки та майки
   { cat: '1141', id: 31110 },     // Сукні та сарафани для дівчаток
   { cat: '1116', id: 30603 },     // Шорти → Дитячі шорти і бриджі
   { cat: '1148', id: 31113 },     // Піжами → Дитячі піжами
@@ -2524,6 +2524,8 @@ const EPI_SHOE_MODELS = [
   [/ABD5521R/i, 'штучна шкіра', ['зима']],   // Selfy: екошкіра (коричневі й чорні)
   [/ABD0166R/i, 'поліестер', ['зима']],      // дутики (Beige — опис; Black — та сама модель)
   [/ABD0176R/i, 'поліестер', ['зима']],      // Selfy: поліестер
+  [/I3603R/i, 'поліестер', ['зима']],        // Дмитро 11.11.2026: плащівка (у довіднику Епіцентру — поліестер)
+  [/ABD0156R/i, 'поліестер', ['зима']],      // Дмитро 11.11.2026: плащівка (у довіднику Епіцентру — поліестер)
   [/ABQ0771R/i, 'штучна шкіра', ['демісезон', 'весна', 'осінь']], // опис: штучна шкіра
   [/ABD0026R/i, 'штучна шкіра', ['зима']],   // Дмитро 16.10.2026: штучна шкіра (kidzone.lv писав «rubber» — помилково)
   [/HA828-3/i, 'штучна шкіра', ['зима']],     // joy-kids.com.ua: шкірозамінник, зимове
@@ -2759,6 +2761,7 @@ function mbPrice_(art, sitePrice) {
 // 04.11.2026 рішення Дмитра: MagBaby дешевше 400 грн на маркетплейсі (закупка ×2) — плюс комісія майданчика
 function mbCom_(p, pct) { return p > 0 && p < 400 ? Math.round(p * (1 + pct / 100)) : p; }
 function mpPrice_(art, name, sitePrice, pct) {
+  if (tvOwnQty_(String(art || '').trim()) > 0) { const sp0 = parseFloat(sitePrice); if (sp0 > 0) return Math.round(sp0 * (1 + pct / 100)); } // 12.11.2026 рішення Дмитра: шапки Talvi з поставки №50582 — ціна сайту (дроп ×2) + комісія майданчика
   { const a_ = String(art || '').trim(), sp_ = parseFloat(sitePrice); if ((drIsArt_(a_) || /^(TV|TALVI)-/.test(a_)) && sp_ > 0 && sp_ < 400) return Math.round(sp_ * (1 + pct / 100)); } // 04.11.2026 рішення Дмитра: Talvi і ДоРечі дешевше 400 грн (MagBaby — mbCom_) — ціна сайту + комісія майданчика (Prom 18, Kasta 22, Rozetka 24,5, Епіцентр 15)
   if (drIsArt_(art) && DR_OWN_.indexOf(String(art).trim()) >= 0) return DR_OWN_PRICE_[String(art).trim()] || Math.round(parseFloat(sitePrice)); // 31.10.2026: ДоРечі з власного складу (рах. №754) — РРЦ без комісії на всіх маркетплейсах (рішення Дмитра)
   if (drIsArt_(art)) return Math.round(parseFloat(sitePrice)); // 01.11.2026 рішення Дмитра: ДоРечі на всіх сайтах = дроп-ціна ×2 (ціна сайту), без надбавки на комісію
@@ -3439,12 +3442,20 @@ function tvDropAvail_(xml) {
   // 04.11.2026: Talvi-дроп не в наявності прибираємо одразу (економія пам'яті на всіх етапах);
   // TV_DROP_MAX_ (якщо задано) — максимум позицій Talvi-дропу, зайве знімаємо цілими моделями (group_id).
   if (!TV_DROP_STATE_) TV_DROP_STATE_ = { g: {}, kept: 0 };
-  const keptGroups = TV_DROP_STATE_.g; let kept = TV_DROP_STATE_.kept, cut = 0, capped = 0;
+  const keptGroups = TV_DROP_STATE_.g; let kept = TV_DROP_STATE_.kept, cut = 0, capped = 0, sdOos = 0;
   const out = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>\s*/g, function (o) {
     const k = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*(TALVI-[^<\]\s]+)/) || [])[1];
-    if (!k) return o;
+    if (!k) {
+      // 12.11.2026 рішення Дмитра: власний склад — якщо в SalesDrive залишок 0, на маркетплейсах «немає в наявності» (не чекаючи синхронізації статусів Хорошопу)
+      const vc_ = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
+      const sd_ = vc_ ? sdStock_() : null;
+      if (sd_ && Object.prototype.hasOwnProperty.call(sd_, vc_) && sd_[vc_] <= 0 && !/available="false"/.test(o)) { sdOos++; return o.replace(/available="[^"]*"/, 'available="false"'); }
+      return o;
+    }
     TV_DROP_IDS_[(o.match(/<offer\b[^>]*\bid="([^"]+)"/) || [])[1]] = 1;
-    const q = map[k] || 0;
+    const own_ = tvOwnQty_(k); // 12.11.2026: власний склад Talvi (накл. №50582) поверх нульового залишку Talvi-дропу
+    const q = Math.max(map[k] || 0, own_);
+    if (own_) o = o.replace(/\s*\((?:під замовлення|под заказ)\)/g, '');
     const price = Number((o.match(/<price>([\d.]+)<\/price>/) || [])[1] || 0);
     if (!(q > 0 && price > 0)) { cut++; return ''; }
     const g = (o.match(/group_id="([^"]+)"/) || [])[1] || k;
@@ -3456,10 +3467,44 @@ function tvDropAvail_(xml) {
     return o.replace(/available="[^"]*"/, 'available="true"'); // 05.11.2026: у Horoshop для дропу буває available="" (порожньо) — раніше такі позиції лишались «не в наявності»
   });
   TV_DROP_STATE_.kept = kept;
+  if (sdOos) Logger.log('SalesDrive: власний склад із залишком 0 → немає в наявності: ' + sdOos);
   Logger.log('Talvi-дроп: лишено ' + kept + ', не в наявності прибрано ' + cut + (capped ? ', понад ліміт ' + TV_DROP_MAX_ + ' знято ' + capped : ''));
   return out;
 }
 var TV_DROP_MAX_ = 0;
+// 12.11.2026: шапки Talvi власного складу (накл. №50582 від 02.11.2026), яких немає в залишках Talvi-дропу — артикул TALVI- картки на сайті → кількість у нас
+var TV_OWN_EXTRA_ = {"TALVI-03187-82075":2,"TALVI-03253-82420":3,"TALVI-03476-89682":3,"TALVI-03601-91237":4,"TALVI-03603-91227":3,"TALVI-03628-91330":5,"TALVI-03645-91490":5,"TALVI-03645-91493":5,"TALVI-03644-91503":2,"TALVI-03644-91506":5,"TALVI-03647-91531":4,"TALVI-04209-95931":3,"TALVI-04209-95924":5,"TALVI-04955-102030":4,"TALVI-04969-102184":4,"TALVI-04969-102182":4,"TALVI-04969-102187":4,
+  // ті самі поставки, що вже були в залишках Talvi-дропу (рішення Дмитра 12.11.2026: теж ×2 + комісія)
+  "TALVI-03253-82972":4,"TALVI-04209-95927":5,"TALVI-03287-83147":5,"TALVI-03628-91333":3,"TALVI-04473-98183":5,"TALVI-04473-98192":3,"TALVI-04473-98186":3,"TALVI-04955-102034":5};
+// 12.11.2026: живі залишки власного складу з YML-експорту SalesDrive (секрет SD_YML_URL). Продане в CRM зникає з маркетплейсів автоматично.
+// Якщо SalesDrive недоступний — беремо кількості з TV_OWN_EXTRA_ (запасний варіант).
+function sdStock_() {
+  if (sdStock_.m !== undefined) return sdStock_.m;
+  sdStock_.m = null;
+  const url = PropertiesService.getScriptProperties().getProperty('SD_YML_URL');
+  if (!url) { Logger.log('SalesDrive YML: SD_YML_URL не задано — залишки з TV_OWN_EXTRA_'); return null; }
+  try {
+    const r = UrlFetchApp.fetch(url, { muteHttpExceptions: true, followRedirects: true });
+    if (r.getResponseCode() !== 200) { Logger.log('SalesDrive YML: HTTP ' + r.getResponseCode()); return null; }
+    const x = r.getContentText('UTF-8');
+    if (x.indexOf('</offers>') < 0) { Logger.log('SalesDrive YML: неповний файл'); return null; }
+    const m = {}; let n = 0;
+    x.replace(/<offer\b[^>]*>([\s\S]*?)<\/offer>/g, function (a, b) {
+      const vc = (b.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
+      const q = (b.match(/<quantity_in_stock>\s*(-?[\d.]+)/) || [])[1];
+      if (vc && q !== undefined) { m[vc] = (m[vc] || 0) + Math.max(0, Math.floor(Number(q) || 0)); n++; }
+      return '';
+    });
+    if (n < 50) { Logger.log('SalesDrive YML: замало позицій (' + n + ')'); return null; }
+    sdStock_.m = m; Logger.log('SalesDrive YML: залишки ' + n + ' позицій');
+  } catch (e) { Logger.log('SalesDrive YML недоступний: ' + e.message); }
+  return sdStock_.m;
+}
+function tvOwnQty_(k) {
+  if (!Object.prototype.hasOwnProperty.call(TV_OWN_EXTRA_, k)) return 0;
+  const m = sdStock_();
+  return m && Object.prototype.hasOwnProperty.call(m, k) ? m[k] : TV_OWN_EXTRA_[k];
+}
 function tvDropAvailTest() {
   const xml = UrlFetchApp.fetch(SRC, { muteHttpExceptions: true }).getContentText('UTF-8');
   const cnt = function (x) { let all = 0, av = 0; (x.match(/<offer\b[^>]*>[\s\S]*?<\/offer>/g) || []).forEach(function (o) { if (/<vendorCode>(?:<!\[CDATA\[)?\s*TALVI-/.test(o)) { all++; if (/available="true"/.test(o)) av++; } }); return all + ' TALVI, в наявності ' + av; };
