@@ -2019,10 +2019,38 @@ function promOwnSale_(xml) {
   return xml;
 }
 
+// 15.11.2026: правило Дмитра від 13.11 — іграшки Kiddisvit на маркетплейсах = дроп-ціна × 2 + комісія майданчика.
+// Дроп-ціну беремо з _data/kd-prices.json (його кладе kdSync із дилерського прайсу в пошті). Нема в прайсі — старе правило нижче.
+let KD_P_ = null;
+function kdPrices_() {
+  if (KD_P_) return KD_P_;
+  KD_P_ = {};
+  try {
+    const p = PropertiesService.getScriptProperties();
+    const r = UrlFetchApp.fetch('https://api.github.com/repos/' + p.getProperty('GH_REPO') + '/contents/_data/kd-prices.json?ref=' + GH_BRANCH,
+      { muteHttpExceptions: true, headers: { Authorization: 'Bearer ' + p.getProperty('GH_TOKEN'), Accept: 'application/vnd.github.raw' } });
+    if (r.getResponseCode() === 200) { const j = JSON.parse(r.getContentText()); KD_P_ = j.p || {}; Logger.log('kd-prices: ' + (j.src || '?') + ' — ' + Object.keys(KD_P_).length); }
+    else Logger.log('kd-prices: HTTP ' + r.getResponseCode() + ' — іграшки за старим правилом');
+  } catch (e) { Logger.log('kd-prices: ' + e.message); }
+  return KD_P_;
+}
+function kdMpPrice_(art, pct) {
+  const v = kdPrices_()[String(art || '').trim()];
+  return v && v[1] > 0 ? Math.round(v[1] * 2 * (1 + pct / 100)) : null;
+}
+function kdToyBody_(body, pct) {
+  const art = ((body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]]+?)\s*(?:\]\]>)?<\/vendorCode>/) || [])[1] || '').trim();
+  const np = kdMpPrice_(art, pct);
+  if (!np) return null;
+  return body.replace(/<price>[^<]*<\/price>/, '<price>' + np + '</price>').replace(/\s*<oldprice>[^<]*<\/oldprice>/, '');
+}
+
 function toysPromPrice_(xml) {
   return xml.replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) {
     const c = (body.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1];
     if (TOY_CATS.indexOf(c) < 0) return all;
+    const kb = kdToyBody_(body, MP_MARKUP.prom);
+    if (kb) return '<offer' + attrs + '>' + kb + '</offer>';
     const p0 = parseFloat((body.match(/<price>([\d.]+)<\/price>/) || [])[1]);
     const k = 1 + (p0 < TOY_CHEAP_LT ? MP_MARKUP.prom : TOY_PROM_PCT) / 100; // 31.10.2026: дешевше 400 — комісія Prom
     body = body
@@ -2036,6 +2064,8 @@ function toysPrice_(xml) {
   return xml.replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) {
     const c = (body.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1];
     if (TOY_CATS.indexOf(c) < 0) return all;
+    const kb = kdToyBody_(body, MP_PCT_);
+    if (kb) return '<offer' + attrs + '>' + kb + '</offer>';
     const p0 = parseFloat((body.match(/<price>([\d.]+)<\/price>/) || [])[1]);
     const k = 1 + (p0 < TOY_CHEAP_LT ? MP_PCT_ : TOY_RZ_KASTA_PCT) / 100; // 31.10.2026: дешевше 400 — повна комісія майданчика
     body = body
@@ -2570,7 +2600,7 @@ function buildEpicentr_(mode, from) {
     const art = epiTag_(body, 'vendorCode').text.trim();
     if (!art) { skip('немає артикула'); return all; }
     const sp = epiTag_(body, 'price').text.trim();
-    const price = mpPrice_(art, nameUa, sp, MP_MARKUP.epicentr);
+    const price = (TOY_CATS.indexOf(cat) >= 0 && kdMpPrice_(art, MP_MARKUP.epicentr)) || mpPrice_(art, nameUa, sp, MP_MARKUP.epicentr); // 15.11.2026: іграшки Kiddisvit = дроп × 2 + 15%
     if (!price) { rep.noPrice++; skip('немає ціни 1'); return all; }
     const P = epiParams_(body);
     const descText = epiTag_(body, 'description_ua').text || epiTag_(body, 'description').text;
