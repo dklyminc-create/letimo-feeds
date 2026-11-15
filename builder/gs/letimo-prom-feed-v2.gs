@@ -2038,6 +2038,16 @@ function kdMpPrice_(art, pct) {
   const v = kdPrices_()[String(art || '').trim()];
   return v && v[1] > 0 ? Math.round(v[1] * 2 * (1 + pct / 100)) : null;
 }
+// 15.11.2026 правило Дмитра: чого немає у фіді постачальника — того немає в наявності.
+// Іграшка, якої немає в дилерському прайсі Kiddisvit, іде у фід як «немає в наявності» (лише коли прайс завантажився повністю).
+function kdOos_(attrs, body) {
+  if (Object.keys(kdPrices_()).length < 500) return null;
+  const art = ((body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]]+?)\s*(?:\]\]>)?<\/vendorCode>/) || [])[1] || '').trim();
+  if (!art || kdPrices_()[art]) return null;
+  attrs = attrs.replace(/\savailable="[^"]*"/, '') + ' available="false"';
+  body = body.replace(/<(stock_quantity|quantity_in_stock|quantity|count|stock)>[^<]*<\/\1>/g, '<$1>0</$1>');
+  return '<offer' + attrs + '>' + body + '</offer>';
+}
 function kdToyBody_(body, pct) {
   const art = ((body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]]+?)\s*(?:\]\]>)?<\/vendorCode>/) || [])[1] || '').trim();
   const np = kdMpPrice_(art, pct);
@@ -2051,6 +2061,7 @@ function toysPromPrice_(xml) {
     if (TOY_CATS.indexOf(c) < 0) return all;
     const kb = kdToyBody_(body, MP_MARKUP.prom);
     if (kb) return '<offer' + attrs + '>' + kb + '</offer>';
+    { const oos = kdOos_(attrs, body); if (oos) return oos; }
     const p0 = parseFloat((body.match(/<price>([\d.]+)<\/price>/) || [])[1]);
     const k = 1 + (p0 < TOY_CHEAP_LT ? MP_MARKUP.prom : TOY_PROM_PCT) / 100; // 31.10.2026: дешевше 400 — комісія Prom
     body = body
@@ -2066,6 +2077,7 @@ function toysPrice_(xml) {
     if (TOY_CATS.indexOf(c) < 0) return all;
     const kb = kdToyBody_(body, MP_PCT_);
     if (kb) return '<offer' + attrs + '>' + kb + '</offer>';
+    { const oos = kdOos_(attrs, body); if (oos) return oos; }
     const p0 = parseFloat((body.match(/<price>([\d.]+)<\/price>/) || [])[1]);
     const k = 1 + (p0 < TOY_CHEAP_LT ? MP_PCT_ : TOY_RZ_KASTA_PCT) / 100; // 31.10.2026: дешевше 400 — повна комісія майданчика
     body = body
