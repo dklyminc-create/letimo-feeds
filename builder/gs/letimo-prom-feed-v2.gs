@@ -2832,7 +2832,7 @@ function hsToken_() {
 function hsExisting_(arts) {
   const have = {};
   for (let i = 0; i < arts.length; i += 100) {
-    const j = hsCall_('catalog/export', { token: hsToken_(), article: arts.slice(i, i + 100), limit: 500 });
+    const j = hsCall_('catalog/export', { token: hsToken_(), expr: { article: arts.slice(i, i + 100) }, limit: 500 }); // 16.11.2026: фільтр працює лише через expr (параметр article Horoshop ігнорує)
     if (j.status === 'OK') (j.response.products || []).forEach(function (p) { if (p.article) have[p.article] = 1; });
     else if (j.status !== 'EMPTY') throw new Error('Horoshop export: ' + j.status + ' ' + JSON.stringify(j.response || {}).slice(0, 200));
   }
@@ -2885,9 +2885,10 @@ function hsSyncDorechi(maxNew) {
       const j = hsCall_('catalog/import', { token: hsToken_(), products: list.slice(i, i + 25) });
       if (j.status !== 'OK' && j.status !== 'WARNING') { res.errors.push(kind + ': ' + j.status + ' ' + JSON.stringify(j.response || {}).slice(0, 200)); continue; }
       ((j.response && j.response.log) || []).forEach(function (l) {
-        const bad = (l.info || []).filter(function (x) { return [0, 3, 4, 9, 15, 22, 28].indexOf(Number(x.code)) < 0; });
+        // 23 = посилання на фото відхилено (напр. дублікат уже завантаженого) — товар при цьому зберігається, рахуємо як попередження
+        const bad = (l.info || []).filter(function (x) { return [0, 3, 4, 9, 15, 22, 23, 28].indexOf(Number(x.code)) < 0; });
         if (bad.length) res.errors.push(l.article + ': ' + bad.map(function (x) { return x.code + ' ' + x.message; }).join('; ').slice(0, 200));
-        else res[kind]++;
+        else { res[kind]++; if ((l.info || []).some(function (x) { return Number(x.code) === 23; })) res.imgWarn = (res.imgWarn || 0) + 1; }
       });
     }
   };
