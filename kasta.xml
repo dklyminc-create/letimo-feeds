@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-15 16:11">
+<yml_catalog date="2026-11-15 16:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -138482,23 +138482,6 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7849" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3139451-1988j</article>
-<name_ua><![CDATA[Пухнаста манішка для дівчат «Луна»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Пухнаста манішка для дівчат  Луна </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Пухнаста однотонна манішка для дівчаток віком 1-3 роки</li><li>Виготовлена з дуже приємної на дотик пряжі, що не "кусається"</li><li>Горловина еластична</li><li>Cклад: 100% нейлон</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 роки</li><li>Розміри: 1 3роки см</li><li>Кольори: Коричневий, Молочний, Світла пудра, Бежевий, Світлий беж, Світло-рожевий, Білий</li></ul>]]></description_ua>
-<price>439</price>
-<price_old>439</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/50/36020988150797_%2B92b789acc0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/50/34336246067555_%2B555c3c737a.jpg</picture>
-<param name="Колір">світлий</param>
-<param name="Розмір">1–3роки см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="7852" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -172755,23 +172738,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/34/51131707302047_%2Bfc2cb047bf.jpg</picture>
 <param name="Колір">комбінований</param>
 <param name="Розмір">36–38 см</param>
-<param name="Склад">95% бавовна, 5% еластан</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="11337" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3326451-1t1j2</article>
-<name_ua><![CDATA[Одношарова бавовняна шапка «Фіфа»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Одношарова бавовняна шапка  Фіфа </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила одношарова шапочка з бавовни в рубчик для дівчаток</li><li>Декорована наліпками у вигляді квіточок по основі шапки, а також незвичним бантиком зверху</li><li>Підійде на теплу весну-осінь, або прохолодне літо</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 3-6 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см</li><li>Кольори: L030 Рожевий, Темна фріза, L012 Світлий беж, L003 Молочний, L036 Світло-рожевий, Світлий беж</li></ul>]]></description_ua>
-<price>220</price>
-<price_old>220</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/38/60343104713919_%2B994ddf14fa.jpg</picture>
-<picture>https://letimo.com.ua/content/images/38/84280287858327_%2B80ed66f13f.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">40–42 см</param>
 <param name="Склад">95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
