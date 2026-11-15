@@ -1194,8 +1194,10 @@ function drOffers_() {
   xml.replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) {
     rep.feed++;
     const fid = (attrs.match(/\bid="([^"]+)"/) || [])[1] || '';
-    const key = drMatch_(fid, pr);
-    if (!key) { rep.noMatch.push(fid); return all; }
+    // 16.11.2026: у фіді SalesDrive ДоРечі id = внутрішній номер, артикул — у <vendorCode> (зіставляємо за ним, id — запасний варіант)
+    const vc = ((body.match(/<vendorCode>(?:<!\[CDATA\[)?([^<\]]*)/) || [])[1] || '').trim();
+    const key = (vc && drMatch_(vc, pr)) || drMatch_(fid, pr);
+    if (!key) { rep.noMatch.push(vc || fid); return all; }
     const p = pr[key];
     const name = ((body.match(/<name>([\s\S]*?)<\/name>/) || [])[1] || p.name).replace(/^\s*<!\[CDATA\[|\]\]>\s*$/g, '').trim();
     const fcat = (body.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1] || '';
