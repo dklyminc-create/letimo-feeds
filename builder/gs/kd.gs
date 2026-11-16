@@ -43,6 +43,7 @@ function kdSync(force) {
   Logger.log('kdSync: ' + best.a.getName() + ' — ' + arts.length + ' позицій');
 
   try { kdPresenceSync(p); } catch (e) { Logger.log('kdPresenceSync: ' + e.message); }
+  try { kdSitePrices(p); } catch (e) { Logger.log('kdSitePrices: ' + e.message); }
 }
 function kdSyncInstall() {
   ScriptApp.getProjectTriggers().forEach(function (t) { if (t.getHandlerFunction() === 'kdSync') ScriptApp.deleteTrigger(t); });
@@ -101,3 +102,37 @@ function kdPresenceRun() {
   if (!best) { Logger.log('kdPresenceRun: прайсу в пошті немає'); return; }
   return kdPresenceSync(kdParse_(best.a.getDataAsString('UTF-8')));
 }
+// 16.11.2026 (Дмитро, «так»): ціна іграшок Kiddisvit на САЙТІ = дроп-ціна × 2 (правило від 13.11).
+// Запускається з kdSync після кожного нового прайсу; змінює лише ціну і лише там, де вона відрізняється.
+// Перед змінами зберігає старі ціни в _data/kd-site-snapshot-<дата>.json (для відкату).
+function kdSitePrices(p) {
+  if (!p || Object.keys(p).length < 500) { Logger.log('kdSitePrices: прайс неповний — пропуск'); return; }
+  const arts = Object.keys(p), cur = {};
+  for (let i = 0; i < arts.length; i += 100) {
+    const j = hsCall_('catalog/export', { token: hsToken_(), expr: { article: arts.slice(i, i + 100) }, limit: 500 });
+    if (j.status === 'OK') (j.response.products || []).forEach(function (x) { if (x.article) cur[x.article] = Number(x.price); });
+    else if (j.status !== 'EMPTY') throw new Error('Horoshop export: ' + j.status);
+  }
+  const upd = [], snap = {};
+  Object.keys(cur).forEach(function (a) {
+    const want = Math.round(p[a][1] * 2);
+    if (want > 0 && Math.abs(cur[a] - want) >= 1) { snap[a] = cur[a]; upd.push({ article: a, price: want }); }
+  });
+  const res = { onSite: Object.keys(cur).length, toChange: upd.length, sent: 0, errors: [] };
+  if (upd.length) {
+    const day = Utilities.formatDate(new Date(), 'Europe/Kyiv', 'yyyy-MM-dd');
+    ghPublish_({ ['_data/kd-site-snapshot-' + day + '.json']: JSON.stringify({ at: new Date().toISOString(), old: snap }) }, 'kiddisvit: знімок цін сайту перед ×2 (' + upd.length + ')');
+  }
+  for (let i = 0; i < upd.length; i += 100) {
+    const part = upd.slice(i, i + 100);
+    const j = hsCall_('catalog/import', { token: hsToken_(), products: part });
+    if (j.status !== 'OK' && j.status !== 'WARNING') { res.errors.push(j.status + ' ' + JSON.stringify(j.response || {}).slice(0, 200)); continue; }
+    res.sent += part.length;
+  }
+  res.errors = res.errors.slice(0, 10);
+  Logger.log('Kiddisvit ціни сайту (дроп × 2): ' + JSON.stringify(res));
+  return res;
+}
+// Ручний запуск: ціни сайту за прайсом, який уже лежить у _data/kd-prices.json.
+function kdSitePricesRun() { KD_P_ = null; return kdSitePrices(kdPrices_()); }
+
