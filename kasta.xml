@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 22:33">
+<yml_catalog date="2026-11-16 22:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -203987,23 +203987,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14790" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3542451-148lq</article>
-<name_ua><![CDATA[В'язаний жіночий бактус «Моллі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язаний жіночий бактус  Моллі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Трикутний жіночий бактус - це елегантний та зручний аксесуар</li><li>Виготовлений з м'якої та приємної на дотик віскозної пряжі, він має форму трикутника, яка дозволяє легко зав'язувати його на шиї в різних стилях, або використовувати замість шапки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: віскоза 52%, еластан 26%, нейлон 22%</li><li>Розміри: Універсальний</li><li>Кольори: Хакі, Гірчичний, Персикова пудра, Світлий жовтий, Лавандовий, Світла пудра, Світло-рожевий</li></ul>]]></description_ua>
-<price>390</price>
-<price_old>390</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/41/65431436764960_%2B085be9d8da.jpg</picture>
-<picture>https://letimo.com.ua/content/images/41/36315614859106_%2B451cad0d72.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14791" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -212908,23 +212891,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/14/27729946989729_%2Ba1f8cd49cf.jpg</picture>
 <picture>https://letimo.com.ua/content/images/14/87275630341638_%2B38219a9b52.jpg</picture>
 <param name="Колір">світлий</param>
-<param name="Розмір">46 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15715" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451</article>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/16/66492690810694_%2B3c5b7b401e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/72345283834501_%2Ba5e60e2d8f.jpg</picture>
-<param name="Колір">молочний</param>
 <param name="Розмір">46 см</param>
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="страна-производитель">Україна</param>
