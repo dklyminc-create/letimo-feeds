@@ -1102,6 +1102,7 @@ const DR_CATS = {
   '1074': '1091', // 16.11.2026: нова категорія у фіді SalesDrive — Куртки та вітровки -> Верхній одяг
   '1093': '1140' // 16.11.2026: нова категорія у фіді SalesDrive — Аксесуари для колясок
 };
+const DR_EST_ = {}; // 16.11.2026: артикули ДоРечі з дроп-ціною, оціненою з РРЦ (немає в прайс-таблиці) — на маркетплейсах ×2 + комісія
 const DR_COLORS = [[/м'ят|мят/, "м'ятний"], [/біл/, 'білий'], [/молочн/, 'молочний'], [/графіт/, 'графітовий'], [/сір/, 'сірий'], [/чорн/, 'чорний'],
   [/беж/, 'бежевий'], [/лат(т)?е/, 'кавовий'], [/карамел/, 'карамельний'], [/пудр/, 'пудровий'], [/рожев/, 'рожевий'],
   [/блакит/, 'блакитний'], [/син(ій|я|ього|і|е)(?![а-яіїєґ])/, 'синій'], [/зелен/, 'зелений'], [/оливк/, 'оливковий'], [/хакі/, 'хакі'],
@@ -1198,9 +1199,18 @@ function drOffers_() {
     const fid = (attrs.match(/\bid="([^"]+)"/) || [])[1] || '';
     // 16.11.2026: у фіді SalesDrive ДоРечі id = внутрішній номер, артикул — у <vendorCode> (зіставляємо за ним, id — запасний варіант)
     const vc = ((body.match(/<vendorCode>(?:<!\[CDATA\[)?([^<\]]*)/) || [])[1] || '').trim();
-    const key = (vc && drMatch_(vc, pr)) || drMatch_(fid, pr);
-    if (!key) { rep.noMatch.push(vc || fid); return all; }
-    const p = pr[key];
+    let key = (vc && drMatch_(vc, pr)) || drMatch_(fid, pr), p;
+    if (!key) {
+      // 16.11.2026 (Дмитро): нових позицій немає в прайс-таблиці ДоРечі — дроп = РРЦ із фіду / 1,4 (так співвідносяться всі 147 зіставлених товарів).
+      // Сайт = дроп × 2; маркетплейси = дроп × 2 + комісія (DR_EST_ → mpPrice_).
+      const rrcF = parseFloat((body.match(/<price>([\d.]+)/) || [])[1]);
+      if (!vc || !(rrcF > 0)) { rep.noMatch.push(vc || fid); return all; }
+      key = drNorm_(vc);
+      const nm0 = ((body.match(/<name>([\s\S]*?)<\/name>/) || [])[1] || '').replace(/^\s*<!\[CDATA\[|\]\]>\s*$/g, '').trim();
+      const szp = (key.split('/')[1] || '').trim();
+      p = { name: nm0 + (szp ? ' ' + szp : ''), drop: Math.round(rrcF / 1.4), rrc: rrcF, av: '', st: 0 };
+      DR_EST_['DR-' + key.replace(/[\s\/]+/g, '-')] = 1; rep.est = (rep.est || 0) + 1;
+    } else p = pr[key];
     const name = ((body.match(/<name>([\s\S]*?)<\/name>/) || [])[1] || p.name).replace(/^\s*<!\[CDATA\[|\]\]>\s*$/g, '').trim();
     const fcat = (body.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1] || '';
     const cat = drSiteCat_(fcat, name);
@@ -2766,6 +2776,7 @@ function mbPrice_(art, sitePrice) {
 function mbCom_(p, pct) { return p > 0 && p < 400 ? Math.round(p * (1 + pct / 100)) : p; }
 function mpPrice_(art, name, sitePrice, pct) {
   if (tvOwnQty_(String(art || '').trim()) > 0) { const sp0 = parseFloat(sitePrice); if (sp0 > 0) return Math.round(sp0 * (1 + pct / 100)); } // 12.11.2026 рішення Дмитра: шапки Talvi з поставки №50582 — ціна сайту (дроп ×2) + комісія майданчика
+  if (DR_EST_[String(art || '').trim()] && parseFloat(sitePrice) > 0) return Math.round(parseFloat(sitePrice) * (1 + pct / 100)); // 16.11.2026 рішення Дмитра: нові позиції ДоРечі — сайт ×2, маркетплейси ×2 + комісія
   { const a_ = String(art || '').trim(), sp_ = parseFloat(sitePrice); if ((drIsArt_(a_) || /^(TV|TALVI)-/.test(a_)) && sp_ > 0 && sp_ < 400) return Math.round(sp_ * (1 + pct / 100)); } // 04.11.2026 рішення Дмитра: Talvi і ДоРечі дешевше 400 грн (MagBaby — mbCom_) — ціна сайту + комісія майданчика (Prom 18, Kasta 22, Rozetka 24,5, Епіцентр 15)
   if (drIsArt_(art) && DR_OWN_.indexOf(String(art).trim()) >= 0) return DR_OWN_PRICE_[String(art).trim()] || Math.round(parseFloat(sitePrice)); // 31.10.2026: ДоРечі з власного складу (рах. №754) — РРЦ без комісії на всіх маркетплейсах (рішення Дмитра)
   if (drIsArt_(art)) return Math.round(parseFloat(sitePrice)); // 01.11.2026 рішення Дмитра: ДоРечі на всіх сайтах = дроп-ціна ×2 (ціна сайту), без надбавки на комісію
