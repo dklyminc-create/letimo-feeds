@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 20:09">
+<yml_catalog date="2026-11-16 20:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -213687,25 +213687,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
 <param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
 </offer>
-   <offer id="12756" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3421451</article>
-<name><![CDATA[Шапка с тедди-ушками «Падди» Talvi черный 42–44 см]]></name>
-<name_ua><![CDATA[Шапка з тедді-вушками «Падді» Talvi чорний 42–44 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з тедді-вушками  Падді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька в'язана шапочка з вушками з хутра тедді, виготовлена з пряжі преміальної якості</li><li>Додатково декорована фірмовою тканинною нашивкою збоку</li><li>Оснащена зав'язками</li><li>Щільна в'язка + підклад бавовна</li><li>З відворотом, що закріплений (додає в зоні вушок третій шар)</li><li>UNISEX</li><li>Для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю голівки, підійде тим, в кого окружність 34-36 см)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</li><li>Розміри (обхват голови): 34 36 см, 36 38 см, 38 40 см, 42 44 см, 46 48 см, 50 52 см</li><li>Кольори: Коричневий, Джинс, Світла пудра, Малиновий, Світлий хакі, Чорний, Сірий, Персикова пудра, Бежевий, Білий, Світлий беж, Молочний, Рожевий, Бежевый</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Шапка с тедди-ушками Падди</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Тепленькая вязаная шапочка с ушками из меха тедди, изготовленная из пряжи премиального качества</li><li> Дополнительно декорирована фирменной тканевой нашивкой сбоку.</li><li> Оснащена завязками</li><li> Плотная вязка + подклад хлопок</li><li> С закрепленным отворотом (добавляет в зоне ушек третий слой)</li><li> UNISEX</li><li> Для малышей 0-1 мес (обратите внимание – детки могут рождаться сразу с большей окружностью головки, подойдет тем, у кого окружность 34-36 см)</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: основа – 52% вискоза, 26% эластан, 22% нейлон; подклад – 95% хлопок, 5% эластан</li><li> Размеры (обхват головы): 34 36 см, 36 38 см, 38 40 см, 42 44 см, 46 48 см, 50 52 см.</li><li> Цвета: Коричневый, Джинс, Светлая пудра, Малиновый, Светлый хаки, Черный, Серый, Персиковая пудра, Бежевый, Белый, Светлый беж, Молочный, Розовый, Бежевый</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на границе берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/7/67498444836963_%2Be8c17d0a90.jpg</picture>
-<picture>https://letimo.com.ua/content/images/7/92731452882888_%2Bf381523dfb.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
-<param name="Розмір">42–44 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад - 95% бавовна, 5% еластан</param>
-<param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
-</offer>
    <offer id="12765" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -214884,25 +214865,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518575, 3518587">36, 38</param>
 </offer>
-   <offer id="12943" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3429451-beac1</article>
-<name><![CDATA[Шапка с ушками «Никки» + флис Talvi темно-серый 36–38 см]]></name>
-<name_ua><![CDATA[Шапка з вушками «Ніккі» + фліс Talvi темно-сірий 36–38 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з вушками  Ніккі  + фліс</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила шапочка з ніжної бавовняної пряжі для найменших малючків</li><li>З вушками ведмедика та на зав'язках</li><li>Утеплена флісом зсередини</li><li>Орієнтовно на 0-2 міс</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 36 38 см, 40 42 см</li><li>Кольори: Чорний, Гірчиця, Темно-сірий меланж, Темно-синій, Світлий хакі, Світлий джинс, Рожевий, Кавовий, Пудра, Джинс, Небесний, Блакитний, Світло-бежевий, Світло-рожевий, Світла пудра</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Шапка с ушками Никки+флис</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Милая шапочка из нежной хлопковой пряжи для самых маленьких малышей</li><li> С ушками мишки и на завязках</li><li> Утепленная флисом изнутри</li><li> Ориентировочно на 0-2 мес</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: основа – 50% хлопок, 50% акрил; подклад – 100% полиэстер (флис)</li><li> Размеры (обхват головы): 36 38 см, 40 42 см</li><li> Цвета: Черный, Горчица, Темно-серый меланж, Темно-синий, Светлый хаки, Светлый джинс, Розовый, Кофейный, Пудра, Джинс, Небесный, Голубой, Светло-бежевый, Светло-розовый, Светлая пудра</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на границе берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>324</price>
-<price_old>324</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/44/30876745294026_%2B489b757f4d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/44/39481405939822_%2Bb45699d60f.jpg</picture>
-<param name="Колір">темно-сірий</param>
-<param name="Розмір">36–38 см</param>
-<param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518575, 3518587">36, 38</param>
-</offer>
    <offer id="12944" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -214994,25 +214956,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/4/98875744249606_%2Ba33d86c38c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/4/87887465343774_%2B36442b4d1f.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">40–42 см</param>
-<param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518599, 3518611">40, 42</param>
-</offer>
-   <offer id="12954" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3429451-f1olw</article>
-<name><![CDATA[Шапка с ушками «Никки» + флис Talvi голубой 40–42 см]]></name>
-<name_ua><![CDATA[Шапка з вушками «Ніккі» + фліс Talvi блакитний 40–42 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з вушками  Ніккі  + фліс</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила шапочка з ніжної бавовняної пряжі для найменших малючків</li><li>З вушками ведмедика та на зав'язках</li><li>Утеплена флісом зсередини</li><li>Орієнтовно на 0-2 міс</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 36 38 см, 40 42 см</li><li>Кольори: Чорний, Гірчиця, Темно-сірий меланж, Темно-синій, Світлий хакі, Світлий джинс, Рожевий, Кавовий, Пудра, Джинс, Небесний, Блакитний, Світло-бежевий, Світло-рожевий, Світла пудра</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Шапка с ушками Никки+флис</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Милая шапочка из нежной хлопковой пряжи для самых маленьких малышей</li><li> С ушками мишки и на завязках</li><li> Утепленная флисом изнутри</li><li> Ориентировочно на 0-2 мес</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: основа – 50% хлопок, 50% акрил; подклад – 100% полиэстер (флис)</li><li> Размеры (обхват головы): 36 38 см, 40 42 см</li><li> Цвета: Черный, Горчица, Темно-серый меланж, Темно-синий, Светлый хаки, Светлый джинс, Розовый, Кофейный, Пудра, Джинс, Небесный, Голубой, Светло-бежевый, Светло-розовый, Светлая пудра</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на границе берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>324</price>
-<price_old>324</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/5/37167867079206_%2B28119f5036.jpg</picture>
-<picture>https://letimo.com.ua/content/images/5/13258185127884_%2B8bd546b734.jpg</picture>
-<param name="Колір">блакитний</param>
 <param name="Розмір">40–42 см</param>
 <param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518599, 3518611">40, 42</param>
@@ -217764,25 +217707,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">верх - бавовна 50%, акрил 50%, низ - поліестер 100%</param>
 <param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
 </offer>
-   <offer id="13153" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3446451-1gika</article>
-<name><![CDATA[Шапка зимняя «Чонси» Talvi светлый 46–48 см]]></name>
-<name_ua><![CDATA[Шапка зимова «Чонсі» Talvi світлий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова  Чонсі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Дитяча, зимова шапочка на зав'язках</li><li>Щільна в'язка + утеплювач фліс по всій площині шапки всередені</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон на кнопці</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - бавовна 50%, акрил 50%, низ - поліестер 100%</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Гірчиця, Світлий хакі, Темно-синій, Антрацит, Світло-сірий, Рожевий, Блакитний, Бежевий, Світла пудра, Світлий джинс, Темно-сірий меланж, Джинс, Лаванда, Темно-бежевий, Світло-бежевий, Чорний, Кава, Пудра, Світло-рожевий</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Зимняя шапка Чонси</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Детская зимняя шапочка на завязках</li><li> Плотная вязка + утеплитель флис по всей плоскости шапки внутри</li><li> Помпон изготовлен из высококачественного искусственного меха.</li><li> Помпон на кнопке</li><li> UNISEX</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: верх - хлопок 50%, акрил 50%, низ - полиэстер 100%</li><li> Размеры (обхват головы): 46 48 см</li><li> Цвета: Горчица, Светлый хаки, Темно-синий, Антрацит, Светло-серый, Розовый, Голубой, Бежевый, Светлая пудра, Светлый джинс, Темно-серый меланж, Джинс, Лаванда, Темно-бежевый, Светло-бежевый, Черный</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на грани берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>473</price>
-<price_old>473</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/4/26645798190704_%2B93436e9971.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/75045774328633_%2B7e15eaf2f8.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008757">Хакі</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">верх - бавовна 50%, акрил 50%, низ - поліестер 100%</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
    <offer id="13172" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -219196,24 +219120,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/15/13908741172078_%2B1111526ae5.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/20898617661765_%2B63d769b3b5.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008407">Сірий</param>
-<param name="Розмір">52–56 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518671">52</param>
-</offer>
-   <offer id="13315" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3455451</article>
-<name><![CDATA[Теплая зимняя шапка на флисе «Крафт» Talvi черный 52–56 см]]></name>
-<name_ua><![CDATA[Тепла зимова шапка на флісі «Крафт» Talvi чорний 52–56 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тепла зимова шапка на флісі  Крафт </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Дуже тепла зимова шапочка для хлопчиків</li><li>Декорована нашивкою з Minecraft</li><li>Двошарова, з відворотом, утеплена флісом по всій площині зсередини</li><li>Відворот не закріплений, можна регулювати до межі початку флісової підкладки</li><li>Підійде орієнтовно від 6 років та для підлітків</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 52 56 см</li><li>Кольори: Світло-сірий, Чорний, Темно-синій, Сірий меланж, (517) Білий</li></ul>]]></description_ua>
-<price>720</price>
-<price_old>720</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/16/80454654037616_%2B07bce1ac79.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/16040640133621_%2B63ae250895.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
 <param name="Розмір">52–56 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518671">52</param>
@@ -230398,23 +230304,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">Універсальний</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 </offer>
-   <offer id="14311" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3518451</article>
-<name><![CDATA[Зимняя шапка «Рубчик+флис» Talvi черный Универсальный]]></name>
-<name_ua><![CDATA[Зимова шапка «Рубчик+фліс» Talvi чорний Універсальний]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка  Рубчик+фліс </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова в'язана шапочка з відворотом</li><li>Нічого зайвого, підійде під будь-який одяг</li><li>Відворот не закріплений, можна регулювати до межі початку флісової підкладки</li><li>Шапка утеплена флісом по лінії вух</li><li>Підійде діткам від 2-х рочків (від 48см окружності голівки), а також підліткам та дорослим (з окружністю голови до 56 см)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): Універсальний</li><li>Кольори: Джинсовий меланж, Темна пудра, Світло-рожевий, Малина, Хакі, Світло-сірий, Чорний, Бежевий, Світлий хакі, Зелений, Блакитний, Рожевий, Темно-синій, Темно-сірий меланж, Помаранчевий, Світло-коричневий, Світлий джинс, Світло-сірий меланж, Світло-бежевий меланж, Персик, Молочний, Білий, Кавовий, Пудра, Гірчиця, Лаванда, Коричневий, Теракот, (MLN) Бордовий меланж, Червоний, Індиго, М'ята, Жовтий</li></ul>]]></description_ua>
-<price>398</price>
-<price_old>398</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/49764760773840_%2B48b0a2efcd.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/87332884126232_%2Bbe5a78c058.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-</offer>
    <offer id="14312" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -231584,24 +231473,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">52–54 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518671, 3518683">52, 54</param>
-</offer>
-   <offer id="14418" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3522451</article>
-<name><![CDATA[Зимняя шапка с помпоном «Амиго» Talvi оранжевый 48–50 см]]></name>
-<name_ua><![CDATA[Зимова шапка з помпоном «Аміго» Talvi помаранчевий 48–50 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з помпоном  Аміго </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна зимова трикотажна шапочка для хлопчиків та дівчаток 2-3 рочків</li><li>Низ - 100% фліс</li><li>Колір бубону може відрізнятись, від тих, що на фото</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 50% вовна, 50% акрил</li><li>Розміри (обхват голови): 48 50 см</li><li>Кольори: Помаранчевий, М'ята, Білий, Пудра, Світло-рожевий, Темна пудра, Гірчиця</li></ul>]]></description_ua>
-<price>398</price>
-<price_old>398</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/19/65655983161432_%2B179ad91f17.jpg</picture>
-<picture>https://letimo.com.ua/content/images/19/44638457249957_%2B588ae93e7d.jpg</picture>
-<param name="Колір">помаранчевий</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">верх - 50% вовна, 50% акрил</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
 </offer>
    <offer id="14419" available="true">
 <currencyId>UAH</currencyId>
@@ -233280,23 +233151,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">48–56 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер(фліс)</param>
 </offer>
-   <offer id="14615" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3533451</article>
-<name><![CDATA[Теплый хомут с флисом «Карл» Talvi светло-серый 48–56 см]]></name>
-<name_ua><![CDATA[Теплий хомут з флісом «Карл» Talvi світло-сірий 48–56 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий хомут з флісом  Карл </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний хомут з теплої, приємної на дотик пряжі</li><li>Двошаровий + підклад фліс</li><li>UNISEX</li><li>Чудово підійде на холодну осінь-теплу зиму</li><li>Підійде як для діток від 3-х рочків, так і для підлітків та дорослих</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер(фліс)</li><li>Розміри: 48 56 см</li><li>Кольори: Світлий беж, (108) Блакитний, Чорний, Бежевий, (568) Лаванда, Світла пудра, Коричневий, (591) Молочний, (527) Персикова пудра, Білий, Молочний, Кавовий, Марсала, Світло-сірий, Темна пудра, Темно-синій</li></ul>]]></description_ua>
-<price>324</price>
-<price_old>324</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/16/85281686667825_%2B842ad98870.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/26008542893394_%2B085fad5601.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008407">Сірий</param>
-<param name="Розмір">48–56 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер(фліс)</param>
-</offer>
    <offer id="14619" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -234678,6 +234532,24 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/44779036519985_%2B329e2eecdc.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/99411437552697_%2Bac4963a13e.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
+<param name="Розмір">46–48 см</param>
+<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
+<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
+</offer>
+   <offer id="14909" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3546451-1gika</article>
+<name><![CDATA[Шлем с ушками «Герман» Talvi светлый 46–48 см]]></name>
+<name_ua><![CDATA[Шолом з вушками «Герман» Talvi світлий 46–48 см]]></name_ua>
+<description_ua><![CDATA[<p><strong>Шолом з вушками  Герман </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий шолом із кумедними вушками</li><li>Декорований фірмовою нашивкою talvi</li><li>Утеплений по всій площині зсередини</li><li>Підійде на холодну осінь-зиму</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: Джинсовий меланж, Темна пудра, Малина, Хакі, Світло-сірий, Червоний, Помаранчевий, (MLN) Бордовий меланж, Блакитний, Рожевий, Лаванда, Світлий джинс, Світло-сірий меланж, Персик, Білий, Пудра, Гірчиця, Світлий хакі, Молочний, Темно-сірий меланж, BORDO Темно-бордовий, Світло-рожевий, Зелений, Темно-синій, Коричневий, Світло-бежевий меланж, Чорний, Бежевий, Кавовий, Хаки</li></ul>]]></description_ua>
+<price>620</price>
+<price_old>620</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/10/20517794426913_%2Bc9ac342636.jpg</picture>
+<picture>https://letimo.com.ua/content/images/10/35497065684319_%2B712744480f.jpg</picture>
+<param name="Колір" paramid="131559" valueid="1008757">Хакі</param>
 <param name="Розмір">46–48 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
@@ -236158,24 +236030,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
 </offer>
-   <offer id="15060" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3551451</article>
-<name><![CDATA[Зимняя шапка с меховым помпоном «Лате» Talvi светло-серый 46–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Лате» Talvi світло-сірий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Лате </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/11/45353667420020_%2B57cb98fd4a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/11/90556914681335_%2Bdcefe8a3be.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008407">Сірий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
    <offer id="15061" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -236212,78 +236066,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
 </offer>
-   <offer id="15065" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3551451-1ilsm</article>
-<name><![CDATA[Зимняя шапка с меховым помпоном «Лате» Talvi серый 46–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Лате» Talvi сірий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Лате </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/16/91783911208487_%2B2e45ad9a3f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/16/96693325812268_%2Bc320ca3473.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008407">Сірий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
-   <offer id="15066" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3551451</article>
-<name><![CDATA[Зимняя шапка с меховым помпоном «Лате» Talvi темно-синий 46–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Лате» Talvi темно-синій 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Лате </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/17/66780737829743_%2B13b2be5822.jpg</picture>
-<picture>https://letimo.com.ua/content/images/17/56929822916463_%2B76763769aa.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008190">Синій</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
-   <offer id="15067" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3551451</article>
-<name><![CDATA[Зимняя шапка с меховым помпоном «Лате» Talvi бежевый 46–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Лате» Talvi бежевий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Лате </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/18/68795234990402_%2B509491d18b.jpg</picture>
-<picture>https://letimo.com.ua/content/images/18/86174282154827_%2B64791aaa09.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008148">Бежевий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
-   <offer id="15068" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3551451</article>
-<name><![CDATA[Зимняя шапка с меховым помпоном «Лате» Talvi белый 46–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Лате» Talvi білий 46–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Лате </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/19/79202639030519_%2B22baec3b88.jpg</picture>
-<picture>https://letimo.com.ua/content/images/19/16733219278344_%2B8696854329.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008176">Білий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518635, 3518647">46, 48</param>
-</offer>
    <offer id="15071" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -236316,24 +236098,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/23/61509164905164_%2Be42e092fec.jpg</picture>
 <picture>https://letimo.com.ua/content/images/23/74397680079736_%2B481f4c5d4c.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1010395">Молочний</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
-</offer>
-   <offer id="15075" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3552451-1ilsm</article>
-<name><![CDATA[Зимняя шапка с меховым помпоном «Тун Тун» Talvi серый 48–50 см]]></name>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Тун Тун» Talvi сірий 48–50 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Тун Тун </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 48 50 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>700</price>
-<price_old>700</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/26/88079946961968_%2B5edf5fa671.jpg</picture>
-<picture>https://letimo.com.ua/content/images/26/23778258018914_%2Bb10bf735c9.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008407">Сірий</param>
 <param name="Розмір">48–50 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
@@ -236507,23 +236271,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/37/57740589941698_%2B1fe50c33bd.jpg</picture>
 <picture>https://letimo.com.ua/content/images/37/25470607675835_%2B6d1e60cd29.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008757">Хакі</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-</offer>
-   <offer id="15087" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3555451</article>
-<name><![CDATA[Теплая манишка «Тедди» Talvi молочный Универсальный]]></name>
-<name_ua><![CDATA[Тепла манішка «Тедді» Talvi молочний Універсальний]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тепла манішка  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила двошарова манішка з хутром тедді</li><li>Горловина вив'язана з м'якої пряжі преміальної якості, що не "кусається"</li><li>Додатково утеплена шаром флісу по всій грудині зсередини</li><li>UNISEX</li><li>Може служити як додатковим утепленням для малюків, так і доповненням для стильних образів підлітків та дорослих</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри: Універсальний</li><li>Кольори: Коричневий, Білий, Світлий беж, Малиновий, Джинс, Світла пудра, Світлий хакі, Молочний, Чорний, Сірий, Персикова пудра, Бежевий</li></ul>]]></description_ua>
-<price>473</price>
-<price_old>473</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/38/50492976245681_%2B7f45a28fa1.jpg</picture>
-<picture>https://letimo.com.ua/content/images/38/27755323770983_%2Be63c3d9993.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1010395">Молочний</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 </offer>
@@ -245665,6 +245412,24 @@ SYSTEM "shops.dtd">
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="Окружність голови" paramid="232291" valueid="3518635">46</param>
 </offer>
+   <offer id="15715" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3577451</article>
+<name><![CDATA[Милый шлем с флисом «Тедди» Talvi молочный 46 см]]></name>
+<name_ua><![CDATA[Милий шолом з флісом «Тедді» Talvi молочний 46 см]]></name_ua>
+<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
+<price>600</price>
+<price_old>600</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/16/66492690810694_%2B3c5b7b401e.jpg</picture>
+<picture>https://letimo.com.ua/content/images/16/72345283834501_%2Ba5e60e2d8f.jpg</picture>
+<param name="Колір" paramid="131559" valueid="1010395">Молочний</param>
+<param name="Розмір">46 см</param>
+<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
+<param name="Окружність голови" paramid="232291" valueid="3518635">46</param>
+</offer>
    <offer id="15718" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -245679,6 +245444,24 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/19/68837395693601_%2B6eca0cd2ab.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/31496126967234_%2B5f77754e4b.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
+<param name="Розмір">46 см</param>
+<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
+<param name="Окружність голови" paramid="232291" valueid="3518635">46</param>
+</offer>
+   <offer id="15720" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3577451-gzdxy</article>
+<name><![CDATA[Милый шлем с флисом «Тедди» Talvi синий 46 см]]></name>
+<name_ua><![CDATA[Милий шолом з флісом «Тедді» Talvi синій 46 см]]></name_ua>
+<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
+<price>600</price>
+<price_old>600</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/21/56320591703407_%2Bd040cc9f4b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/21/92123042520702_%2B97697d19e4.jpg</picture>
+<param name="Колір" paramid="131559" valueid="1008190">Синій</param>
 <param name="Розмір">46 см</param>
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="Окружність голови" paramid="232291" valueid="3518635">46</param>
@@ -246129,24 +245912,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/22/93969864188481_%2B4509a32e94.jpg</picture>
 <picture>https://letimo.com.ua/content/images/22/54114663614790_%2B77750ffcb8.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
-</offer>
-   <offer id="15872" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3580451-jjlom</article>
-<name><![CDATA[Теплый зимний шлем с помпонами «Финн» Talvi белый 50-52 см]]></name>
-<name_ua><![CDATA[Теплий зимовий шолом з помпонами «Фінн» Talvi білий 50–52 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий зимовий шолом з помпонами  Фінн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний зимовий шолом для діток</li><li>Виготовлений з теплої, приємної на дотик пряжі</li><li>Утеплений флісом по всій площині зсередини</li><li>Однотонний, базовий, декорований двома пухнастими помпонами</li><li>Помпони виготовлені з високоякісного штучного хутра</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 48 50 см, 50 52 см</li><li>Кольори: Марсала, (568) Лаванда, Світла пудра, Бежевий, (517) Білий, (542) Сірий меланж, Пудра, (591) Молочний, Чорний, (108) Блакитний</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/23/83276872642671_%2Bc48e4d4292.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/83294849365177_%2B1214a331ed.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008176">Білий</param>
 <param name="Розмір">50–52 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
@@ -249983,12 +249748,12 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/30/47503126451076_%2B2e848690e1.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/38145366666709_%2Ba9d9d95220.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/15177275817053_%2B378fe9df50.jpg</picture>
-<picture>https://dorechi.ua/content/images/39/15221019233059_%2Bb9112782a5.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/74964067325944_%2Bd0b259a6c9.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-26491996887612_%2B25ba4fe7e5.jpg</picture>
+<picture>https://dorechi.ua/content/images/39/15221019233059_%2Bb9112782a5.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/32118430794701_%2B710daeddd0.jpg</picture>
-<picture>https://dorechi.ua/content/images/39/69547989207691_%2Bcd535da415.jpeg</picture>
 <picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
+<picture>https://dorechi.ua/content/images/39/69547989207691_%2Bcd535da415.jpeg</picture>
 <picture>https://dorechi.ua/content/images/39/37979516328004_%2Be9ab7de596.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/82341236044127_%2Bc0931b2a02.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/zefir_white_56-62-59363805317524_%2Bab3e97a660.jpg</picture>
@@ -250834,6 +250599,109 @@ SYSTEM "shops.dtd">
 <param name="Розмір">56/62</param>
 <param name="Країна виробник">Україна</param>
 </offer>
+<offer id="94543544" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT81546648</article>
+<name><![CDATA[Комбінезон демісезонний Еклер Лате ДоРечі кавовий 56 см (94543544)]]></name>
+<name_ua><![CDATA[Комбінезон демісезонний Еклер Лате ДоРечі кавовий 56 см (94543544)]]></name_ua>
+<description_ua><![CDATA[<p>Демісезонний комбінезон Еклер (колір: Лате) - для новонароджених і малюків зростом 56-74 см, для прогулянок навесні й восени при температурі від +5 до +20 &deg;C. Не продувається і швидко одягається. Шиємо в Миколаєві з 2011 року.</p>
+
+<h2>Переваги</h2>
+
+<h3>Легкий і просторий</h3>
+
+<p>Тримає тепло і не робить комбінезон важким, а крій дає новонародженому свободу рухів.</p>
+
+<h3>Захищає від вітру</h3>
+
+<p>Вітрозахисна плащова тканина відштовхує воду, а манжети-відвороти захищають ручки від вітру та холоду.</p>
+
+<h3>Бавовна до тіла</h3>
+
+<p>Внутрішній шар - м&#39;який бавовняний трикотаж українського виробництва.</p>
+
+<h3>Зручна застібка</h3>
+
+<p>Блискавка закрита внутрішньою вітрозахисною планкою, а зверху захищена від закушування підборіддя.</p>
+
+<h3>Капюшон з вушками</h3>
+
+<p>Просторий капюшон прикрашений милими вушками.</p>
+
+<h2>Розміри та характеристики</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Орієнтовний вік</strong></td>
+			<td>56-62 см - 0-3 міс, 62-68 см - 3-6 міс, 68-74 см - 6-9 міс</td>
+		</tr>
+		<tr>
+			<td><strong>Сезон</strong></td>
+			<td>весна, осінь</td>
+		</tr>
+		<tr>
+			<td><strong>Температура</strong></td>
+			<td>від +5 до +20 &deg;C</td>
+		</tr>
+		<tr>
+			<td><strong>Верх</strong></td>
+			<td>вітрозахисна і водовідштовхувальна плащова тканина</td>
+		</tr>
+		<tr>
+			<td><strong>Утеплювач</strong></td>
+			<td>силіконізований синтепон 150 г/м&sup2;</td>
+		</tr>
+		<tr>
+			<td><strong>Підкладка</strong></td>
+			<td>трикотаж українського виробництва, 100% бавовна</td>
+		</tr>
+		<tr>
+			<td><strong>Деталі</strong></td>
+			<td>капюшон з вушками, манжети-відвороти, внутрішня вітрозахисна планка, захист підборіддя</td>
+		</tr>
+		<tr>
+			<td><strong>Догляд</strong></td>
+			<td>делікатне прання при 30 &deg;C рідкими засобами для мембранних тканин, без відбілювачів і кондиціонерів, не сушити на батареї</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Обирайте розмір за зростом, а не за віком: кожна дитина росте у своєму темпі. Ми врахували запас 6 см на ріст протягом сезону - докладніше в розмірній сітці. Що вдягати при різній температурі - у температурному гіді. Інші моделі - у розділі демісезонні комбінезони, усі моделі - у розділі дитячі комбінезони.</p>
+
+<p>Як прати, сушити і зберігати між сезонами - у статті догляд за дитячими зимовими речами.</p>
+
+<h2>Часті запитання</h2>
+
+<h3>Для якої погоди підходить Еклер?</h3>
+
+<p>Для весни та осені - при температурі від +5 до +20 &deg;C. Для морозу дивіться дитячі комбінезони на зиму - вони розраховані до -20 &deg;C.</p>
+
+<h3>Чи зручно одягати новонародженого?</h3>
+
+<p>Так, застібку спроєктовано саме для зручного одягання немовляти.</p>
+
+<h3>Еклер чи Зефір?</h3>
+
+<p>Обидва комбінезони розраховані на +5...+20 &deg;C і зріст 56-74 см. Еклер має верх з вітрозахисної і водовідштовхувальної плащової тканини - для вітряної погоди. Зефір - велюровий, зі 100% бавовни, його часто обирають на виписку.</p>]]></description_ua>
+<price>3015</price>
+<price_old>3015</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-93212639825490_%2Bbf9953ae07.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-84205844625788_%2B7f8b130632.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-96013157492895_%2B90837a5ce8.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-51881871158945_%2B36a8eecd5f.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-40195302446817_%2Ba5de49b3a9.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-99498027128271_%2Bbd9579bd5d.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-93680757559231_%2Bfbc9dbfa98.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-41239688047917_%2Bd3dbbb2088.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/eclair_beige_62-66403446940462_%2Ba2479d9704.jpg</picture>
+<param name="Колір">кавовий</param>
+<param name="Розмір">56см</param>
+<param name="Країна виробник">Україна</param>
+</offer>
 <offer id="93769005" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
@@ -250924,12 +250792,12 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/30/47503126451076_%2B2e848690e1.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/38145366666709_%2Ba9d9d95220.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/15177275817053_%2B378fe9df50.jpg</picture>
+<picture>https://dorechi.ua/content/images/39/15221019233059_%2Bb9112782a5.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/74964067325944_%2Bd0b259a6c9.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-26491996887612_%2B25ba4fe7e5.jpg</picture>
-<picture>https://dorechi.ua/content/images/39/15221019233059_%2Bb9112782a5.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/32118430794701_%2B710daeddd0.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/69547989207691_%2Bcd535da415.jpeg</picture>
+<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
 <picture>https://dorechi.ua/content/images/39/37979516328004_%2Be9ab7de596.jpeg</picture>
 <picture>https://dorechi.ua/content/images/30/82341236044127_%2Bc0931b2a02.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/zefir_white_56-62-59363805317524_%2Bab3e97a660.jpg</picture>
@@ -250937,6 +250805,111 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/38/zefir_white_56-62-93111924154082_%2Be2d9ea5221.jpg</picture>
 <param name="Колір">білий</param>
 <param name="Розмір">56/62</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="93768978" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1135</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT88961998</article>
+<name><![CDATA[Комбінезон велюровий Зефір Білий ДоРечі білий 56 см (93768978)]]></name>
+<name_ua><![CDATA[Комбінезон велюровий Зефір Білий ДоРечі білий 56 см (93768978)]]></name_ua>
+<description_ua><![CDATA[<p>Велюровий комбінезон Зефір (колір: Білий) - для новонароджених і малюків зростом 56-74 см: на виписку з пологового будинку та для прогулянок навесні й восени при температурі від +5 до +20 &deg;C. Шиємо в Миколаєві з 2011 року.</p>
+
+<h2>Переваги</h2>
+
+<h3>Ніжний велюр зі 100% бавовни</h3>
+
+<p>Велюр преміум якості - стильний, зручний і майже невагомий.</p>
+
+<h3>Тепло без ваги</h3>
+
+<p>Велюр простьобаний легким силіконізованим синтепоном.</p>
+
+<h3>Бавовна і всередині</h3>
+
+<p>Внутрішній шар - м&#39;який бавовняний трикотаж.</p>
+
+<h3>Зручна застібка</h3>
+
+<p>Блискавка закрита внутрішньою планкою від вітру, а зверху захищена від закушування підборіддя. Продуманий крій дає малюку свободу рухів, а мамі - швидке одягання.</p>
+
+<h3>Капюшон з вушками</h3>
+
+<p>Просторий капюшон прикрашений милими вушками.</p>
+
+<h2>Розміри та характеристики</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Орієнтовний вік</strong></td>
+			<td>56-62 см - 0-3 міс, 62-68 см - 3-6 міс, 68-74 см - 6-9 міс</td>
+		</tr>
+		<tr>
+			<td><strong>Сезон</strong></td>
+			<td>весна, осінь</td>
+		</tr>
+		<tr>
+			<td><strong>Температура</strong></td>
+			<td>від +5 до +20 &deg;C</td>
+		</tr>
+		<tr>
+			<td><strong>Верх</strong></td>
+			<td>велюр, 100% бавовна</td>
+		</tr>
+		<tr>
+			<td><strong>Утеплювач</strong></td>
+			<td>силіконізований синтепон 150 г/м&sup2;</td>
+		</tr>
+		<tr>
+			<td><strong>Підкладка</strong></td>
+			<td>трикотаж, 100% бавовна</td>
+		</tr>
+		<tr>
+			<td><strong>Догляд</strong></td>
+			<td>делікатне прання 30 &deg;C, не віджимати, не прасувати - можна обдати паром</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Обирайте розмір за зростом, а не за віком: кожна дитина росте у своєму темпі - докладніше в розмірній сітці. Що вдягати при різній температурі - у температурному гіді. Інші моделі - у розділі демісезонні комбінезони, усі моделі - у розділі дитячі комбінезони.</p>
+
+<p>Як прати, сушити і зберігати між сезонами - у статті догляд за дитячими зимовими речами.</p>
+
+<h2>Часті запитання</h2>
+
+<h3>Чи підходить Зефір на виписку?</h3>
+
+<p>Так, від найменшого розміру 56-62 см.</p>
+
+<h3>На яку температуру розрахований комбінезон?</h3>
+
+<p>Від +5 до +20 &deg;C. Для холодної погоди дивіться дитячі комбінезони на зиму - вони розраховані до -20 &deg;C.</p>
+
+<h3>Зефір чи Еклер?</h3>
+
+<p>Обидва розраховані на +5...+20 &deg;C і зріст 56-74 см. Зефір - велюровий, зі 100% бавовни. Еклер має верх з вітрозахисної і водовідштовхувальної плащової тканини - для вітряної погоди.</p>]]></description_ua>
+<price>3015</price>
+<price_old>3015</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-70323123531512_%2Bcf165901bc.jpg</picture>
+<picture>https://dorechi.ua/content/images/30/47503126451076_%2B2e848690e1.jpg</picture>
+<picture>https://dorechi.ua/content/images/39/38145366666709_%2Ba9d9d95220.jpeg</picture>
+<picture>https://dorechi.ua/content/images/30/15177275817053_%2B378fe9df50.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-26491996887612_%2B25ba4fe7e5.jpg</picture>
+<picture>https://dorechi.ua/content/images/39/15221019233059_%2Bb9112782a5.jpeg</picture>
+<picture>https://dorechi.ua/content/images/30/74964067325944_%2Bd0b259a6c9.jpg</picture>
+<picture>https://dorechi.ua/content/images/30/32118430794701_%2B710daeddd0.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/copy_copy_kombinezon-demisezonnyi-basic-bezhevyi-74-58644438046914_%2B8619246e28.jpg</picture>
+<picture>https://dorechi.ua/content/images/39/69547989207691_%2Bcd535da415.jpeg</picture>
+<picture>https://dorechi.ua/content/images/39/37979516328004_%2Be9ab7de596.jpeg</picture>
+<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-59363805317524_%2Bab3e97a660.jpg</picture>
+<picture>https://dorechi.ua/content/images/30/82341236044127_%2Bc0931b2a02.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-26659584471628_%2B4c024296d4.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/zefir_white_56-62-93111924154082_%2Be2d9ea5221.jpg</picture>
+<param name="Колір">білий</param>
+<param name="Розмір">56см</param>
 <param name="Країна виробник">Україна</param>
 </offer>
 <offer id="98180667" available="true">
@@ -251683,6 +251656,116 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/10/winter_pants_black_92-59926369859671_%2Bb3da512538.jpg</picture>
 <param name="Колір">чорний</param>
 <param name="Розмір">92см</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98235321" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT81813739</article>
+<name><![CDATA[Сумка-рюкзак для мами Чорна ДоРечі чорний (98235321)]]></name>
+<name_ua><![CDATA[Сумка-рюкзак для мами Чорна ДоРечі чорний (98235321)]]></name_ua>
+<description_ua><![CDATA[<p>Сумка-рюкзак для мами ДоРечі (колір: Чорна) - усе для малюка в одному місці: на прогулянках з коляскою, у поїздках, в офісі чи спортзалі. Змінний килимок - у комплекті.</p>
+
+<h2>Переваги</h2>
+
+<h3>14 продуманих кишень</h3>
+
+<p>Відділення для підгузків, вологих серветок, ключів, телефону, пляшечок із сумішшю та інших речей, а також 2 водонепроникні кишені для вологого одягу. Бічна кишеня дає швидкий доступ до серветок.</p>
+
+<h3>3 термокишені</h3>
+
+<p>Тримають дитячу пляшечку вертикально і зберігають її температуру або тримають ваш напій прохолодним.</p>
+
+<h3>Відкривається як кошик</h3>
+
+<p>Широкий металевий каркас тримає сумку відкритою і дає миттєвий доступ до всього всередині - особливо цінно під час поспішної зміни підгузка.</p>
+
+<h3>Кріпиться до коляски</h3>
+
+<p>Вбудовані фастекси кріплять рюкзак до ручки візочка, а всі застібки відкриваються однією рукою.</p>
+
+<h3>Зручно носити</h3>
+
+<p>Широкі м&#39;які лямки з дихаючим наповнювачем легко регулюються - рюкзак зручно носити навіть повністю заповненим.</p>
+
+<h3>Захист від вологи і помітність</h3>
+
+<p>Водовідштовхувальне покриття захищає речі і легко очищується вологою серветкою, а великий світлоповертаючий шеврон робить вас помітними для водіїв.</p>
+
+<h2>Розміри та характеристики</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Розмір</strong></td>
+			<td>31 х 16,5 х 37,5 см</td>
+		</tr>
+		<tr>
+			<td><strong>Кишені</strong></td>
+			<td>14, з них 2 водонепроникні та 3 термокишені</td>
+		</tr>
+		<tr>
+			<td><strong>У комплекті</strong></td>
+			<td>м&#39;який змінний килимок, можна прати в машинці</td>
+		</tr>
+		<tr>
+			<td><strong>Кріплення до коляски</strong></td>
+			<td>вбудовані фастекси для ручки візочка</td>
+		</tr>
+		<tr>
+			<td><strong>Покриття</strong></td>
+			<td>водовідштовхувальне</td>
+		</tr>
+		<tr>
+			<td><strong>Безпека</strong></td>
+			<td>світлоповертаючий шеврон</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Інші аксесуари, зокрема підсклянники для коляски, - у розділі аксесуари для колясок.</p>
+
+<p>Що ще взяти на прогулянку з малюком взимку - у нашому чеклісті зимової прогулянки.</p>
+
+<p>Шукаєте подарунок? Ідеї для малюків від 0 до 3 років і на Миколая - у статті що подарувати малюку взимку.</p>
+
+<h2>Часті запитання</h2>
+
+<h3>Чи можна повісити рюкзак на коляску?</h3>
+
+<p>Так, за допомогою вбудованих фастексів.</p>
+
+<h3>Що входить у комплект?</h3>
+
+<p>М&#39;який змінний килимок для переодягання поза домом. Він легко очищується і переться в машинці.</p>
+
+<h3>Скільки в рюкзаку кишень?</h3>
+
+<p>14, з них 2 водонепроникні та 3 термокишені.</p>
+
+<h3>Рюкзак чи сумка на коляску?</h3>
+
+<p>Рюкзак можна і повісити на ручку коляски фастексами, і носити на плечах на м&#39;яких регульованих лямках, а металевий каркас тримає його відкритим, як сумку-кошик.</p>]]></description_ua>
+<price>1957</price>
+<price_old>1957</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/6/diaper_bag_black-17696843644994_%2B0781bf78b4.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/diaper_bag_black-76752216213469_%2B1b114f4b70.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/diaper_bag_black-59459538913759_%2Badf2c10d23.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-82864915870949_%2Bce77130b10.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-65899854006752_%2Bb7068e12b0.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-39845172501403_%2Bd24031ffc8.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-74917987711614_%2Be6a273e3e9.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-77001694446453_%2B2499c64602.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-27239521851958_%2Bb4603be9d4.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-30965858969060_%2Bd5788805fb.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-75199589135124_%2B65a1ed7590.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-97972209548365_%2Ba632e4080b.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-22232553884760_%2B1ccf1d08ee.jpg</picture>
+<picture>https://dorechi.ua/content/images/6/sumka-riukzak-dlia-mamy-chorna-29276174611395_%2B5ad1df702d.jpg</picture>
+<param name="Колір">чорний</param>
+<param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
 <offer id="98236125" available="true">
@@ -256323,17 +256406,17 @@ SYSTEM "shops.dtd">
 <price_old>930</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/23/76934183391705_%2B1ae254383e.jpeg</picture>
-<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-22521970709752_%2Baba7b7588f.jpg</picture>
+<picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-79812426917002_%2B8c22b557be.jpeg</picture>
+<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
-<picture>https://dorechi.ua/content/images/18/merino-grey-40-34889038278459_%2B97559c29a3.jpg</picture>
+<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
-<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
-<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-beanie-grey-40-92410925243183_%2Ba5f9857286.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/77117939501054_%2B33425dcfbd.jpeg</picture>
@@ -256440,9 +256523,9 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/22/merino-beanie-grey-46-1-48448902274856_%2Bce5478397d.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/98060163136544_%2B97da9f7ca7.jpeg</picture>
 <picture>https://dorechi.ua/content/images/21/59635856145357_%2Bb929ba663f.jpeg</picture>
-<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/80354234637715_%2Bf1ab064723.jpeg</picture>
 <picture>https://dorechi.ua/content/images/23/54021973174559_%2Bd852d8648d.jpeg</picture>
+<picture>https://dorechi.ua/content/images/21/85729160105286_%2Bd2b9512bbb.jpeg</picture>
 <picture>https://dorechi.ua/content/images/18/merino-grey-40-88931416549043_%2Bae0a70ff11.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/merino-beanie-grey-44-37531632381681_%2Beeee2b5598.jpeg</picture>
 <picture>https://dorechi.ua/content/images/22/23320956501435_%2B17dc73f0ce.jpeg</picture>
@@ -257125,6 +257208,102 @@ SYSTEM "shops.dtd">
 <param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 </offer>
+<offer id="91871952" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1103</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT86664771</article>
+<name><![CDATA[Пінетки зимові Білі ДоРечі білий 15 (91871952)]]></name>
+<name_ua><![CDATA[Пінетки зимові Білі ДоРечі білий 15 (91871952)]]></name_ua>
+<description_ua><![CDATA[<p>Зимові пінетки (колір: Білі) - для малюків від народження до 18 місяців, для прогулянок у колясці орієнтовно від +5 до -10 &deg;C. У комплект - зимовий комбінезон або конверт. Шиємо в Миколаєві з 2011 року.</p>
+
+<h2>Переваги</h2>
+
+<h3>Тепло ніжкам</h3>
+
+<p>Утеплювач Hollowsoft 200 чудово зберігає тепло, а всередині - м&#39;який фліс Polar.</p>
+
+<h3>Мембранний верх</h3>
+
+<p>Верхній матеріал - мембранна тканина.</p>
+
+<h3>Не спадають з ніжки</h3>
+
+<p>Завдяки еластичній тасьмі пінетки легко одягаються та добре тримаються на ніжці.</p>
+
+<h3>Помітні в темряві</h3>
+
+<p>Світловідбивні елементи допомагають малюкові бути помітним у темну пору доби під час переходу дороги.</p>
+
+<h2>Розміри та характеристики</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Вік дитини</strong></td>
+			<td>від народження до 18 місяців</td>
+		</tr>
+		<tr>
+			<td><strong>Довжина підошви</strong></td>
+			<td>14 см</td>
+		</tr>
+		<tr>
+			<td><strong>Температура</strong></td>
+			<td>орієнтовно від +5 до -10 &deg;C</td>
+		</tr>
+		<tr>
+			<td><strong>Верх</strong></td>
+			<td>мембранна тканина</td>
+		</tr>
+		<tr>
+			<td><strong>Утеплювач</strong></td>
+			<td>Hollowsoft 200</td>
+		</tr>
+		<tr>
+			<td><strong>Підкладка</strong></td>
+			<td>фліс Polar</td>
+		</tr>
+		<tr>
+			<td><strong>Деталі</strong></td>
+			<td>еластична тасьма, світловідбивні елементи</td>
+		</tr>
+		<tr>
+			<td><strong>Догляд</strong></td>
+			<td>делікатне машинне прання 40 &deg;C, сушіння в машині на низькій температурі; не відбілювати, не віддавати в хімчистку, не прасувати</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Що вдягати при різній температурі - у температурному гіді. Інші кольори - у розділі пінетки та рукавички, а теплий комплект доповнить зимова шапка.</p>
+
+<p>Як прати, сушити і зберігати між сезонами - у статті догляд за дитячими зимовими речами.</p>
+
+<p>Шукаєте подарунок? Ідеї для малюків від 0 до 3 років і на Миколая - у статті що подарувати малюку взимку.</p>
+
+<h2>Часті запитання</h2>
+
+<h3>Чи не спадають пінетки з ніжки?</h3>
+
+<p>Ні, еластична тасьма надійно тримає їх на ніжці.</p>
+
+<h3>Наскільки теплі ці пінетки?</h3>
+
+<p>Орієнтовно від +5 до -10 &deg;C.</p>
+
+<h3>Зимові чи демісезонні пінетки?</h3>
+
+<p>Зимові пінетки утеплені Hollowsoft 200 і розраховані до 18 місяців. Демісезонні пінетки - для весни та осені (+5...+25 &deg;C), до 12 місяців, з підошвою 13 см.</p>]]></description_ua>
+<price>819</price>
+<price_old>819</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/27/pinetky_white_15-39159020615321_%2B1bb2346bff.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/pinetky_white_15-45398626750411_%2Bf75930098b.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/pinetky_white_15-59875035256184_%2B08a5cdf0d7.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/pinetky_white_15-33305410668646_%2B74060448a1.jpg</picture>
+<param name="Колір">білий</param>
+<param name="Розмір">15</param>
+<param name="Країна виробник">Україна</param>
+</offer>
 <offer id="93957507" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
@@ -257638,14 +257817,14 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/29/92141410277842_%2Bb18c9d2eed.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/53169088647306_%2Bd78f36e5ca.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/beanie_white_42-75950283827443_%2B149496370f.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/37607164481608_%2B4097892b9e.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/27157205262459_%2B747203de53.jpg</picture>
@@ -257819,15 +257998,15 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/27/53564474513081_%2B819f657c23.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-52193249132773_%2Bc617630c26.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/99445863522602_%2B1a41d8a4bc.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/47371171487969_%2B9de78283fb.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/86060594751488_%2B14892d7c13.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/29131762612200_%2B5a25dff1e0.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/67215941160519_%2B53d924042e.jpg</picture>
@@ -258183,18 +258362,18 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/23/61941796904827_%2B2232d4eef2.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-86241906799997_%2Bf57d1e792f.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/47557266512200_%2Baa6c8c120f.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/30047524480825_%2Baf08fd9ab6.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
-<picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
-<picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-75110277890210_%2Be5a33bc9d9.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31436908535905_%2B5856e52f82.jpg</picture>
+<picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
+<picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
-<picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-49403405019880_%2B44c9e9869d.jpg</picture>
 <param name="Колір">блакитний</param>
 <param name="Розмір">40-42см</param>
@@ -258273,9 +258452,9 @@ SYSTEM "shops.dtd">
 <price_old>460</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/22/64607618348193_%2B3db176b0db.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/80208806942662_%2B558400a670.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/44054384007210_%2B8d251e1306.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-37980343073689_%2Bd108bedfa0.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/16766077587003_%2B9a8f39008a.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-57114170193192_%2B210e8ce1aa.jpg</picture>
@@ -258444,14 +258623,14 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/20/84990000127678_%2B6202fc2315.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
-<picture>https://dorechi.ua/content/images/19/53169088647306_%2Bd78f36e5ca.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/53169088647306_%2Bd78f36e5ca.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/beanie_white_42-75950283827443_%2B149496370f.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/37607164481608_%2B4097892b9e.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/27157205262459_%2B747203de53.jpg</picture>
@@ -258534,14 +258713,14 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/19/50564179777108_%2B55d133a788.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
+<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
-<picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
-<picture>https://dorechi.ua/content/images/19/53169088647306_%2Bd78f36e5ca.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-18770265733797_%2Be706c04b10.jpg</picture>
+<picture>https://dorechi.ua/content/images/19/53169088647306_%2Bd78f36e5ca.jpg</picture>
 <picture>https://dorechi.ua/content/images/35/beanie_white_42-75950283827443_%2B149496370f.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/37607164481608_%2B4097892b9e.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/27157205262459_%2B747203de53.jpg</picture>
@@ -258801,17 +258980,17 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/26/beanie_black_38-40666655279625_%2B3b0613635a.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-52193249132773_%2Bc617630c26.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/99445863522602_%2B1a41d8a4bc.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/47371171487969_%2B9de78283fb.jpg</picture>
-<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-33378499101465_%2Bc4681449bd.jpg</picture>
 <picture>https://dorechi.ua/content/images/25/86060594751488_%2B14892d7c13.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/29131762612200_%2B5a25dff1e0.jpg</picture>
+<picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-30411158344671_%2Bd4e5c14348.jpg</picture>
+<picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/74773093448817_%2B2e35cf12c8.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-12663421954071_%2B8a253e9ffa.jpg</picture>
-<picture>https://dorechi.ua/content/images/25/91341553359514_%2B49f856a771.jpg</picture>
-<picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
 <picture>https://dorechi.ua/content/images/26/shapka-demisezonna-z-vushkamy-chorna-72371075765869_%2B91f4d514df.jpg</picture>
+<picture>https://dorechi.ua/content/images/27/91797267351359_%2B1321a72f6a.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/67215941160519_%2B53d924042e.jpg</picture>
 <picture>https://dorechi.ua/content/images/27/71331503435185_%2B58364bc49f.jpg</picture>
 <param name="Колір">чорний</param>
@@ -258983,18 +259162,18 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-24419362816547_%2B30103ac3fa.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-86241906799997_%2Bf57d1e792f.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/47557266512200_%2Baa6c8c120f.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/30047524480825_%2Baf08fd9ab6.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-72090234516333_%2Bc0cfeda921.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/73989810282338_%2Bb44916f454.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/78293804340496_%2B9dbc35c745.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-74335052817765_%2Bca934e22c2.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-75110277890210_%2Be5a33bc9d9.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31436908535905_%2B5856e52f82.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/59560428261865_%2Bb25f078754.jpg</picture>
+<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/23/31732840612056_%2Ba5b523867a.jpg</picture>
 <picture>https://dorechi.ua/content/images/28/87782374612645_%2Bb90dfea953.jpg</picture>
-<picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-73385548181052_%2B1acec8a692.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/shapka-demisezonna-z-vushkamy-blakytna-49403405019880_%2B44c9e9869d.jpg</picture>
 <param name="Колір">блакитний</param>
 <param name="Розмір">38-40см</param>
@@ -259073,9 +259252,9 @@ SYSTEM "shops.dtd">
 <price_old>460</price_old>
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/39/beanie_pink_42-25999460584578_%2B4f3ae28648.jpg</picture>
-<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/80208806942662_%2B558400a670.jpg</picture>
 <picture>https://dorechi.ua/content/images/30/44054384007210_%2B8d251e1306.jpg</picture>
+<picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-79765355664391_%2Bafd53a8511.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-37980343073689_%2Bd108bedfa0.jpg</picture>
 <picture>https://dorechi.ua/content/images/21/16766077587003_%2B9a8f39008a.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/shapka-demisezonna-z-vushkamy-rozheva-57114170193192_%2B210e8ce1aa.jpg</picture>
@@ -259244,9 +259423,9 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://dorechi.ua/content/images/35/beanie_white_42-27036985724118_%2B7fd40452f9.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-75237691352821_%2B2c00047254.jpg</picture>
+<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-60978557751076_%2Bf940efc2a5.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/74776247972772_%2Ba2b46f67a0.jpg</picture>
-<picture>https://dorechi.ua/content/images/29/85227661012054_%2Bfc3a79920f.jpg</picture>
 <picture>https://dorechi.ua/content/images/34/shapka-demisezonna-z-vushkamy-bila-22345972268643_%2Bc8c619e981.jpg</picture>
 <picture>https://dorechi.ua/content/images/19/50561184593994_%2Bd29b739bbd.jpg</picture>
 <picture>https://dorechi.ua/content/images/29/19580535822236_%2B376d126082.jpg</picture>
@@ -259582,6 +259761,172 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/40/merino-snood-milk-48255310372707_%2Bf5e06c7c8c.jpg</picture>
 <picture>https://dorechi.ua/content/images/40/merino-snood-milk-32804517976370_%2Bb9e38a90c3.jpeg</picture>
 <param name="Колір">молочний</param>
+<param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98235320" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT82806469</article>
+<name><![CDATA[Підсклянник для коляски 2 в 1 з тримачем для телефону ДоРечі (98235320)]]></name>
+<name_ua><![CDATA[Підсклянник для коляски 2 в 1 з тримачем для телефону ДоРечі (98235320)]]></name_ua>
+<description_ua><![CDATA[<p>Підсклянник для коляски 2 в 1 з тримачем для телефону: напій і телефон на прогулянці завжди під рукою. Підходить для більшості колясок і прогулянкових візків.</p>
+
+<h2>Переваги</h2>
+
+<h3>Тримач для телефону</h3>
+
+<p>Телефон у чохлі завжди на виду і під рукою.</p>
+
+<h3>Не розливається на вибоїнах</h3>
+
+<p>Гнучкі пелюстки всередині надійно фіксують вміст навіть на вибоїстій дорозі.</p>
+
+<h3>Для чашок з ручками</h3>
+
+<p>Відкритий край дозволяє ставити чашки з ручками, наприклад дитячі пляшечки та термочашки.</p>
+
+<h3>Не зсувається</h3>
+
+<p>Гумові вставки тримають кріплення на ручці, а поворот на 360 градусів дозволяє підлаштувати його під різні ручки.</p>
+
+<h2>Характеристики</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Діаметр пляшки або стакана</strong></td>
+			<td>до 8,5 см</td>
+		</tr>
+		<tr>
+			<td><strong>Тримач для телефону</strong></td>
+			<td>товщина з чохлом до 1,2 см, ширина до 7,8 см</td>
+		</tr>
+		<tr>
+			<td><strong>Кріплення</strong></td>
+			<td>на ручку, з гумовими вставками, поворот на 360 градусів</td>
+		</tr>
+		<tr>
+			<td><strong>Утримання</strong></td>
+			<td>гнучкі пелюстки, відкритий край для чашок з ручками</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Інші підсклянники та все для прогулянок - у розділі аксесуари для колясок.</p>
+
+<p>Що ще взяти на прогулянку з малюком взимку - у нашому чеклісті зимової прогулянки.</p>
+
+<p>Шукаєте подарунок? Ідеї для малюків від 0 до 3 років і на Миколая - у статті що подарувати малюку взимку.</p>
+
+<h2>Часті запитання</h2>
+
+<h3>Який телефон поміститься в тримач?</h3>
+
+<p>Телефон у чохлі товщиною до 1,2 см і шириною до 7,8 см.</p>
+
+<h3>Які пляшечки та чашки підходять?</h3>
+
+<p>Діаметром до 8,5 см, зокрема чашки з ручками.</p>
+
+<h3>Чи не буде кріплення зсуватися?</h3>
+
+<p>Ні, гумові вставки надійно тримають його на ручці.</p>
+
+<h3>Який підсклянник обрати?</h3>
+
+<p>Стандартний тримає пляшки і стакани діаметром менше 85 мм і має 4 пружинячі &laquo;пальчики&raquo;. Універсальний має гнучкі пелюстки для великих термочашок і кріпиться також на велосипед. Модель 2 в 1 додає тримач для телефону. Усі моделі - у розділі аксесуари для колясок.</p>]]></description_ua>
+<price>525</price>
+<price_old>525</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/49/cupholder_2in1-29708582031777_%2B1e5d3df351.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/cupholder_2in1-38977224678527_%2Bfabdf000b8.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/cupholder_2in1-30638369707478_%2B978e5edb63.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/cupholder_2in1-29823801056493_%2B19d7ff5e2f.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/cupholder_2in1-17046273089994_%2Bb74c32df52.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/cupholder_2in1-98540502284227_%2B632f24eac0.jpg</picture>
+<picture>https://dorechi.ua/content/images/49/cupholder_2in1-87877863254989_%2B941c2e1895.jpg</picture>
+<param name="Розмір">-</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98235319" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT83833457</article>
+<name><![CDATA[Підсклянник для коляски універсальний ДоРечі (98235319)]]></name>
+<name_ua><![CDATA[Підсклянник для коляски універсальний ДоРечі (98235319)]]></name_ua>
+<description_ua><![CDATA[<p>Універсальний підсклянник для коляски вміщує великі термочашки, тож кава чи вода на прогулянці завжди під рукою. Кріпиться на ручку коляски або велосипеда.</p>
+
+<h2>Переваги</h2>
+
+<h3>Вміщує великі термочашки</h3>
+
+<p>Гнучкі пелюстки дозволяють вмістити термочашки найбільших розмірів.</p>
+
+<h3>Встановлення без інструментів</h3>
+
+<p>Повністю регульований затискач надійно тримає підсклянник на ручці, тож напій не розливається і не перекидається.</p>
+
+<h3>Легкий і міцний</h3>
+
+<p>Протиковзкий пластик робить підсклянник одночасно легким і міцним.</p>
+
+<h3>Компактний</h3>
+
+<p>Його зручно носити з собою і переставляти з коляски на велосипед.</p>
+
+<h2>Характеристики</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Матеріал</strong></td>
+			<td>пластик, протиковзкий</td>
+		</tr>
+		<tr>
+			<td><strong>Кріплення</strong></td>
+			<td>регульований затискач на ручку коляски або велосипеда, без інструментів</td>
+		</tr>
+		<tr>
+			<td><strong>Утримання</strong></td>
+			<td>гнучкі пелюстки, вміщують великі термочашки</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Інші підсклянники та все для прогулянок - у розділі аксесуари для колясок.</p>
+
+<p>Що ще взяти на прогулянку з малюком взимку - у нашому чеклісті зимової прогулянки.</p>
+
+<p>Шукаєте подарунок? Ідеї для малюків від 0 до 3 років і на Миколая - у статті що подарувати малюку взимку.</p>
+
+<h2>Часті запитання</h2>
+
+<h3>Як встановити тримач для напоїв?</h3>
+
+<p>Закріпіть затискач на ручці коляски або велосипеда - інструменти не потрібні.</p>
+
+<h3>Чи вміститься термочашка?</h3>
+
+<p>Так, навіть найбільших розмірів.</p>
+
+<h3>Чи підійде до моєї коляски?</h3>
+
+<p>Підсклянник сумісний з більшістю дитячих колясок, його можна закріпити і на велосипеді.</p>
+
+<h3>Який підсклянник обрати?</h3>
+
+<p>Стандартний тримає пляшки і стакани діаметром менше 85 мм і має 4 пружинячі &laquo;пальчики&raquo;. Універсальний має гнучкі пелюстки для великих термочашок і кріпиться також на велосипед. Модель 2 в 1 додає тримач для телефону. Усі моделі - у розділі аксесуари для колясок.</p>]]></description_ua>
+<price>436</price>
+<price_old>436</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/48/cupholder_universal-35812292140434_%2B0aceb9dfbc.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/cupholder_universal-39320732724763_%2B6ae8f28877.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/cupholder_universal-58049047530794_%2B25ac8c4770.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/cupholder_universal-53785681847863_%2B6a1c9135c8.jpg</picture>
+<picture>https://dorechi.ua/content/images/48/cupholder_universal-88147367946623_%2Bfbb4f8f6f0.jpg</picture>
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
@@ -260395,6 +260740,86 @@ SYSTEM "shops.dtd">
 <picture>https://dorechi.ua/content/images/15/beanie_yellow_44-15918749176807_%2B4b01b6ef8a.jpg</picture>
 <param name="Колір">жовтий</param>
 <param name="Розмір">44-48см</param>
+<param name="Країна виробник">Україна</param>
+</offer>
+<offer id="98235318" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1140</categoryId>
+<vendor>ДоРечі</vendor>
+<article>LT81334470</article>
+<name><![CDATA[Підсклянник для коляски стандартний ДоРечі (98235318)]]></name>
+<name_ua><![CDATA[Підсклянник для коляски стандартний ДоРечі (98235318)]]></name_ua>
+<description_ua><![CDATA[<p>Стандартний підсклянник для коляски - надійний тримач для пляшок, пляшечок і стаканів, щоб напій на прогулянці завжди був під рукою. Підходить для більшості дитячих колясок.</p>
+
+<h2>Переваги</h2>
+
+<h3>Тримає надійно</h3>
+
+<p>Пружинячі &laquo;пальчики&raquo; в каркасі фіксують пляшку, тому напій не розливається і не падає.</p>
+
+<h3>Встановлюється під різним кутом</h3>
+
+<p>Кріплення регулюється за шириною й обертається, тож підсклянник можна поставити на раму під будь-яким кутом.</p>
+
+<h3>Простий у монтажі</h3>
+
+<p>Його легко встановити і зручно використовувати.</p>
+
+<h2>Характеристики</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Діаметр пляшки або стакана</strong></td>
+			<td>менше 85 мм</td>
+		</tr>
+		<tr>
+			<td><strong>Ширина кріплення</strong></td>
+			<td>від 1,4 до 4,5 см</td>
+		</tr>
+		<tr>
+			<td><strong>Поворот</strong></td>
+			<td>360 градусів</td>
+		</tr>
+		<tr>
+			<td><strong>Фіксація</strong></td>
+			<td>4 пружинячі &laquo;пальчики&raquo; в каркасі</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Інші підсклянники та все для прогулянок - у розділі аксесуари для колясок.</p>
+
+<p>Що ще взяти на прогулянку з малюком взимку - у нашому чеклісті зимової прогулянки.</p>
+
+<p>Шукаєте подарунок? Ідеї для малюків від 0 до 3 років і на Миколая - у статті що подарувати малюку взимку.</p>
+
+<h2>Часті запитання</h2>
+
+<h3>Чи підійде підсклянник до моєї коляски?</h3>
+
+<p>Так, якщо трубка рами або ручки має від 1,4 до 4,5 см - це більшість дитячих колясок.</p>
+
+<h3>Які пляшки та стакани вміщуються?</h3>
+
+<p>Пляшки, пляшечки та стакани діаметром менше 85 мм.</p>
+
+<h3>Чи можна встановити його під кутом?</h3>
+
+<p>Так, кріплення обертається на 360 градусів.</p>
+
+<h3>Який підсклянник обрати?</h3>
+
+<p>Стандартний тримає пляшки і стакани діаметром менше 85 мм і має 4 пружинячі &laquo;пальчики&raquo;. Універсальний має гнучкі пелюстки для великих термочашок і кріпиться також на велосипед. Модель 2 в 1 додає тримач для телефону. Усі моделі - у розділі аксесуари для колясок.</p>]]></description_ua>
+<price>401</price>
+<price_old>401</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://dorechi.ua/content/images/35/cupholder-76596101230235_%2Becec2cea18.jpg</picture>
+<picture>https://dorechi.ua/content/images/35/cupholder-88363050601824_%2Bad74ddb8e2.jpg</picture>
+<picture>https://dorechi.ua/content/images/35/cupholder-23415272109385_%2B5a80142a12.jpg</picture>
+<picture>https://dorechi.ua/content/images/35/cupholder-66606359217532_%2B41c04ec672.jpg</picture>
+<picture>https://dorechi.ua/content/images/35/cupholder-88009569291739_%2Ba8edd48590.jpg</picture>
+<param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
 <offer id="93291035" available="true">
