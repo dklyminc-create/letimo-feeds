@@ -135,4 +135,3 @@ function kdSitePrices(p) {
 }
 // Ручний запуск: ціни сайту за прайсом, який уже лежить у _data/kd-prices.json.
 function kdSitePricesRun() { KD_P_ = null; return kdSitePrices(kdPrices_()); }
-
