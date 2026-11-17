@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 02:08">
+<yml_catalog date="2026-11-17 02:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -189520,23 +189520,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="13288" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3452451-1uebf</article>
-<name_ua><![CDATA[Тепла шапка «Лілу»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тепла шапка  Лілу </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька в'язана шапочка, дуже приємна на дотик</li><li>Двошарова в'язка + утеплення флісом по кругу у зоні вух + відворот</li><li>Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): Універсальний</li><li>Кольори: Марсала, Бузок, (517) Білий, (568) Лаванда, (527) Персикова пудра, (108) Блакитний, Бежевий, Темна пудра, Чорний, Світла пудра</li></ul>]]></description_ua>
-<price>415</price>
-<price_old>415</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/39/60064562477146_%2Bbb926c5df6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/39/82695152469549_%2B467ff378e0.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="13293" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -195569,40 +195552,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/7/18862069758139_%2B5f8c95148b.jpg</picture>
 <param name="Колір">комбінований</param>
 <param name="Розмір">36–38 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="13863" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3493451</article>
-<name_ua><![CDATA[В'язана шапка з бантиком «Лялечка (фліс)»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана шапка з бантиком  Лялечка (фліс) </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна в'язана шапка для дівачаток виготовлена з пряжі преміальної якості</li><li>Декорована в'язаним бантиком в тон шапки</li><li>Всередені флісовий підклад</li><li>Підійде орієнтовно для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю, орієнтуйтесь по розміру голівки, вказаний вік є орієнтовним)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Вік: 0-1 міс</li><li>Розміри (обхват голови): 36 38 см, 38 40 см, 42 44 см, 46 48 см</li><li>Кольори: Пудра, Білий, Світла пудра, Коричневий, Молочний, Чорний, Сірий, Рожевий, Світло-рожевий, Світлий беж, Світло-сірий</li></ul>]]></description_ua>
-<price>500</price>
-<price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/14/17370953245258_%2B8fcdbaeff9.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/56038888656566_%2Be073220e52.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">36–38 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="13866" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3493451-ms2nx</article>
-<name_ua><![CDATA[В'язана шапка з бантиком «Лялечка (фліс)»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана шапка з бантиком  Лялечка (фліс) </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна в'язана шапка для дівачаток виготовлена з пряжі преміальної якості</li><li>Декорована в'язаним бантиком в тон шапки</li><li>Всередені флісовий підклад</li><li>Підійде орієнтовно для малюків 0-1 міс (зверніть увагу - дітки можуть народжуватися одразу з більшою окружністю, орієнтуйтесь по розміру голівки, вказаний вік є орієнтовним)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Вік: 0-1 міс</li><li>Розміри (обхват голови): 36 38 см, 38 40 см, 42 44 см, 46 48 см</li><li>Кольори: Пудра, Білий, Світла пудра, Коричневий, Молочний, Чорний, Сірий, Рожевий, Світло-рожевий, Світлий беж, Світло-сірий</li></ul>]]></description_ua>
-<price>500</price>
-<price_old>500</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/17/81713310209982_%2Bf02bc051b6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/17/73190308026464_%2B84776cc10d.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">38–40 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
