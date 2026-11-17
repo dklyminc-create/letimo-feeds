@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-18 00:19">
+<yml_catalog date="2026-11-18 00:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -212981,25 +212981,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">52% віскоза, 26% еластан, 22% нейлон</param>
 <param name="Окружність голови" paramid="232291" valueid="3518599, 3518623">40, 44</param>
 </offer>
-   <offer id="12678" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3420451</article>
-<name><![CDATA[Шапка с тедди-ушками «Балу» Talvi черный 42–44 см]]></name>
-<name_ua><![CDATA[Шапка з тедді-вушками «Балу» Talvi чорний 42–44 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з тедді-вушками  Балу </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила в'язана шапочка з акцентними вушками та шевроном тедді</li><li>Відворот закріплений</li><li>Шапка по всій площині всередені утеплена флісом</li><li>Орієнтовно для діток 6-9 міс</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 42 44 см, 46 48 см, 50 52 см</li><li>Кольори: Чорний, Бузок, Темна пудра, Пудра, Світло-сірий, Білий, (568) Лаванда, Світла пудра, Бежевий, (591) Молочний, Сірий меланж, Молочний, Коричневий, (517) Білий, (527) Персикова пудра, (542) Сірий меланж</li></ul>]]></description_ua>
-<description><![CDATA[<p><strong>Шапка с тедди-ушками Балу</strong> от украинского бренда Talvi.</p><h3> Что важно</h3><ul><li> Милая вязаная шапочка с акцентными ушками и шевроном тедди</li><li> Отворот закреплен</li><li> Шапка по всей плоскости внутри утеплена флисом.</li><li> Ориентировочно для детей 6-9 мес</li></ul><h3> Характеристики</h3><ul><li> Бренд: Talvi (Украина)</li><li> Состав: основа – 50% акрил, 28% ПБТ, 22% нейлон, подклад – 100% полиэстер (флис)</li><li> Размеры (обхват головы): 42 44 см, 46 48 см, 50 52 см</li><li> Цвета: Черный, Сирень, Темная пудра, Пудра, Светло-серый, Белый, (568) Лаванда, Светлая пудра, Бежевый, (591) Молочный, Серый меланж, Молочный, Коричневый, (517) Белый, (527) Персиковая пудра, (542)</li></ul><h3> Как выбрать размер</h3><p> Измерьте обхват головы ребенка сантиметровой лентой по линии над бровями и над ушами. Выберите размер, в диапазон которого попадает мерка; если мерка на границе берите больший размер. Сомневаетесь напишите нам, подскажем.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками.</p>]]></description>
-<price>580</price>
-<price_old>580</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/29/51304150101348_%2B129107ddd6.jpg</picture>
-<picture>https://letimo.com.ua/content/images/29/54889038985273_%2B05458cbb84.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008470">Чорний</param>
-<param name="Розмір">42–44 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518611, 3518623">42, 44</param>
-</offer>
    <offer id="12679" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -227725,24 +227706,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518647">44, 48</param>
 </offer>
-   <offer id="14104" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3507451</article>
-<name><![CDATA[Зимняя шапка для девочек «Капи» Talvi коричневый 44–48 см]]></name>
-<name_ua><![CDATA[Зимова шапка для дівчат «Капі» Talvi коричневий 44–48 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для дівчат  Капі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для дівчаток на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та милою нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон на кнопці, можна знімати для зручності прання</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см</li><li>Кольори: Білий, Бежевий, Чорний, Молочний, Персикова пудра, Сірий, Коричневий, Кава, Світла пудра, Світлий беж</li></ul>]]></description_ua>
-<price>640</price>
-<price_old>640</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/5/62976244258687_%2B4a288b93eb.jpg</picture>
-<picture>https://letimo.com.ua/content/images/5/63873987005387_%2B11df3a069e.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008435">Коричневий</param>
-<param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518623, 3518647">44, 48</param>
-</offer>
    <offer id="14108" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -235845,24 +235808,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/22/17839930543993_%2B47b49aaa27.jpg</picture>
 <picture>https://letimo.com.ua/content/images/22/12822330399924_%2B06f0598f46.jpg</picture>
 <param name="Колір">бордовий</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
-</offer>
-   <offer id="15072" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3552451</article>
-<name><![CDATA[Зимняя шапка с меховым помпоном «Тун Тун» Talvi молочный 48-50 см]]></name>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Тун Тун» Talvi молочний 48–50 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Тун Тун </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 48 50 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>700</price>
-<price_old>700</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/23/61509164905164_%2Be42e092fec.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/74397680079736_%2B481f4c5d4c.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1010395">Молочний</param>
 <param name="Розмір">48–50 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
