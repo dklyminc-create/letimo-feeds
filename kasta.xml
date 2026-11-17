@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 20:36">
+<yml_catalog date="2026-11-17 20:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -199227,23 +199227,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">Основа - 50% вовна, 50% акрил; підклад - 100% поліестер (термофліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14220" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3513451-gxyu9</article>
-<name_ua><![CDATA[Зимова шапка «Кейсі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка  Кейсі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка з трикотажним помпоном</li><li>Основа - фактурна в'язка, а відворот вив'язаний в рубчик; утеплена всередені флісом по всій площині</li><li>UNISEX</li><li>Для діток 4-8 рочків</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Бузок, Темна пудра, Капучіно, /09 Бордовий, SM Пудра, Світло-сірий меланж</li></ul>]]></description_ua>
-<price>293</price>
-<price_old>293</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/21/17687534105869_%2B0f66a8d6f0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/21/56360538209439_%2B8626566a92.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">52–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14221" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -199682,23 +199665,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/21/54535175955045_%2Bff3e78e670.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/98584812630941_%2Bbcfc0e3772.jpg</picture>
 <param name="Колір">світло-рожевий</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14271" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3515451</article>
-<name_ua><![CDATA[Зимова шапка на флісі «Джем»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка на флісі  Джем </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька базова шапка для діток</li><li>Бавовняна в'язка + підклад фліс по всій площині всередині</li><li>Чудово поєднується з нашим светриком Монно, повторено те саме переплетення та пряжа</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 9-12 міс</li><li>Розміри (обхват голови): 44 46 см, 48 50 см, 50 52 см</li><li>Кольори: Темно-синій, Коричневий, Пудра, Темно-бежевий, Світла пудра, Світло-сірий, Світло-бежевий, Чорний, Світлий джинс, Молочний, Кавовий, Світло-рожевий</li></ul>]]></description_ua>
-<price>480</price>
-<price_old>480</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/22/16092107537754_%2Baa59bb3984.jpg</picture>
-<picture>https://letimo.com.ua/content/images/22/80715656637074_%2Bd37f92d367.jpg</picture>
-<param name="Колір">чорний</param>
 <param name="Розмір">50–52 см</param>
 <param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -202538,23 +202504,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/30/89431757883713_%2Beec556c8d3.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/36995309547982_%2B8d4f12b8ff.jpg</picture>
 <param name="Колір">рожевий</param>
-<param name="Розмір">120*20см см</param>
-<param name="Склад">100% нейлон</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14580" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3531451</article>
-<name_ua><![CDATA[Шарф «Пухнастик» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шарф  Пухнастик  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний пухнастий шарфик для діток, легенький, дуже добре тягнеться</li><li>Зручний, можна зав'язувати/замотувати як зручно під верхній одяг або поверх нього</li><li>Підійде дівчаткам орієнтовно від 1 рочку, а також підліткам</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 100% нейлон</li><li>Розміри: 120*20см см</li><li>Кольори: Чорний, Рожевий, Білий, Світлий беж, Бежевий, Молочний, Коричневий</li></ul>]]></description_ua>
-<price>415</price>
-<price_old>415</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/31/22687985853895_%2B9fe0830c2a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/31/75634857692793_%2Ba251830e17.jpg</picture>
-<param name="Колір">білий</param>
 <param name="Розмір">120*20см см</param>
 <param name="Склад">100% нейлон</param>
 <param name="страна-производитель">Україна</param>
