@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 10:08">
+<yml_catalog date="2026-11-18 10:38">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -91071,37 +91071,6 @@
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
 </offer>
-<offer id="TALVI-03914-94232" available="true">
-<price>660</price>
-<category code="797">Плаття дитячі</category>
-<attribute_set code="797">Плаття дитячі</attribute_set>
-<name lang="ua">Сукня на довгий рукав «Афіна», мокко, 104–110</name>
-<name lang="ru">Платье на длинный рукав «Афина», мокко, 104–110</name>
-<picture>https://letimo.com.ua/content/images/21/35494393388010_+cb4d25337a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/21/57578393479454_+f665989a0b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Сукня на довгий рукав  Афіна &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Базова сукня для щоденного носіння, створена з урахуванням комфорту та практичності&lt;/li&gt;&lt;li&gt;Виготовлена з м якого та приємного до тіла еластичного трикотажу в рубчик&lt;/li&gt;&lt;li&gt;Модель має вільний крій зі злегка заниженою лінією талії, що не сковує рухів і добре сідає по фігурі&lt;/li&gt;&lt;li&gt;Підійде як для прогулянок на вулиці, так і для садочку чи дому&lt;/li&gt;&lt;li&gt;Розрахована на зріст 74-86 см, що зазвичай відповідає віку 9-12 міс&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 95% бавовна, 5% еластан&lt;/li&gt;&lt;li&gt;Вік: 9-12 міс&lt;/li&gt;&lt;li&gt;Розміри: 80 86, 86 92, 92 98, 98 104, 104 110, 110 116, 116 122&lt;/li&gt;&lt;li&gt;Кольори: Крем, Таш, Пудра, Мокко, Рожевий, Бежевий, Темна гірчиця&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Афіна]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">200</param>
-<param name="Ширина" paramcode="width">150</param>
-<param name="Вага" paramcode="weight">120</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">95% бавовна, 5% еластан</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Зріст" paramcode="11972" valuecode="4924,4926">104,110</param>
-<param name="Вид" paramcode="51" valuecode="491074a8e09c86b02134d1da4165fc48">з довгим рукавом</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5129e0,59474de5130ad">бавовна,вовна,еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="dbmsjb9hl3vsvafm">мокко</param>
-<param name="Стиль" paramcode="1625" valuecode="2ef9a003a15c0036703042a0ad74d5b2">повсякденний</param>
-<param name="Візерунок" paramcode="2075" valuecode="7b1efea9db4ebf0af8e4e6031d2116ca">без візерунка (однотонний)</param>
-<param name="Розмір виробника" paramcode="2200" valuecode="9cd722b7d83daaca885eeee864ccd2f9">104-110</param>
-<param name="Вік дитини" paramcode="2289" valuecode="b49d80b6a23e7f40412c632c5bc1110a">від 6 місяців</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96">для дівчаток</param>
-</offer>
 <offer id="TALVI-03914-94234" available="true">
 <price>660</price>
 <category code="797">Плаття дитячі</category>
@@ -177868,84 +177837,6 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
 </offer>
-<offer id="TALVI-02030-86494" available="true">
-<price>184</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Теплий в'язаний шарф «Марс» дитячий, /09 бордовий, 115см см</name>
-<picture>https://letimo.com.ua/content/images/48/89125681881566_+1f043654ca.jpg</picture>
-<picture>https://letimo.com.ua/content/images/48/14116417653555_+f6af702b66.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий в'язаний шарф  Марс  дитячий&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий, м'який дитячий шарф із напіввовняної пряжі&lt;/li&gt;&lt;li&gt;Не "кусається"&lt;/li&gt;&lt;li&gt;Довжина 115 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% вовна, 50% акрил&lt;/li&gt;&lt;li&gt;Розміри: 115см см&lt;/li&gt;&lt;li&gt;Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Марс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% вовна, 50% акрил</param>
-<param name="Базовий колір" paramcode="12097" valuecode="c0ac579117df213cfe2a942ace8f1eca">червоний</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="5uooq3p5">червоний</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
-<offer id="TALVI-02030-83250" available="true">
-<price>184</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Теплий в'язаний шарф «Марс» дитячий, гірчиця, 115см см</name>
-<picture>https://letimo.com.ua/content/images/49/75201790617737_+d0d1e4143c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/49/45850319305739_+d172113327.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий в'язаний шарф  Марс  дитячий&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий, м'який дитячий шарф із напіввовняної пряжі&lt;/li&gt;&lt;li&gt;Не "кусається"&lt;/li&gt;&lt;li&gt;Довжина 115 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% вовна, 50% акрил&lt;/li&gt;&lt;li&gt;Розміри: 115см см&lt;/li&gt;&lt;li&gt;Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Марс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% вовна, 50% акрил</param>
-<param name="Базовий колір" paramcode="12097" valuecode="bb2cdbcc657af3ddad8c2eed3c72859c">жовтий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
-<offer id="TALVI-02030-88078" available="true">
-<price>184</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Теплий в'язаний шарф «Марс» дитячий, зелений, 115см см</name>
-<picture>https://letimo.com.ua/content/images/50/73242496106214_+311ac27731.jpg</picture>
-<picture>https://letimo.com.ua/content/images/50/64634754820594_+f46d83777b.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий в'язаний шарф  Марс  дитячий&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий, м'який дитячий шарф із напіввовняної пряжі&lt;/li&gt;&lt;li&gt;Не "кусається"&lt;/li&gt;&lt;li&gt;Довжина 115 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% вовна, 50% акрил&lt;/li&gt;&lt;li&gt;Розміри: 115см см&lt;/li&gt;&lt;li&gt;Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Марс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% вовна, 50% акрил</param>
-<param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
 <offer id="TALVI-02030-86907" available="true">
 <price>184</price>
 <category code="2418">Шарфи і снуди дитячі</category>
@@ -177972,84 +177863,6 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
 </offer>
-<offer id="TALVI-02030-86347" available="true">
-<price>184</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Теплий в'язаний шарф «Марс» дитячий, антрацит, 115см см</name>
-<picture>https://letimo.com.ua/content/images/2/22254756822077_+72b72e20cd.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/82442141877873_+4d76352041.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий в'язаний шарф  Марс  дитячий&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий, м'який дитячий шарф із напіввовняної пряжі&lt;/li&gt;&lt;li&gt;Не "кусається"&lt;/li&gt;&lt;li&gt;Довжина 115 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% вовна, 50% акрил&lt;/li&gt;&lt;li&gt;Розміри: 115см см&lt;/li&gt;&lt;li&gt;Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Марс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% вовна, 50% акрил</param>
-<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="668">антрацит</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
-<offer id="TALVI-02030-81892" available="true">
-<price>184</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Теплий в'язаний шарф «Марс» дитячий, бежевий меланж темніше, 115см см</name>
-<picture>https://letimo.com.ua/content/images/3/51192703598255_+cd4a32915c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/60927319204415_+a985caf2ab.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий в'язаний шарф  Марс  дитячий&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий, м'який дитячий шарф із напіввовняної пряжі&lt;/li&gt;&lt;li&gt;Не "кусається"&lt;/li&gt;&lt;li&gt;Довжина 115 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% вовна, 50% акрил&lt;/li&gt;&lt;li&gt;Розміри: 115см см&lt;/li&gt;&lt;li&gt;Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Марс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% вовна, 50% акрил</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
-<offer id="TALVI-02030-84961" available="true">
-<price>184</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Теплий в'язаний шарф «Марс» дитячий, кава, 115см см</name>
-<picture>https://letimo.com.ua/content/images/4/61865612315633_+5c24c5b6a0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/87859198682947_+5d6e51ec54.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий в'язаний шарф  Марс  дитячий&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий, м'який дитячий шарф із напіввовняної пряжі&lt;/li&gt;&lt;li&gt;Не "кусається"&lt;/li&gt;&lt;li&gt;Довжина 115 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% вовна, 50% акрил&lt;/li&gt;&lt;li&gt;Розміри: 115см см&lt;/li&gt;&lt;li&gt;Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Марс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% вовна, 50% акрил</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="592042665c837">кава</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
 <offer id="TALVI-02030-87590" available="true">
 <price>184</price>
 <category code="2418">Шарфи і снуди дитячі</category>
@@ -178073,32 +177886,6 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
 <param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
 <param name="Колір виробника" paramcode="78" valuecode="5uooq3p5">червоний</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
-<offer id="TALVI-02030-82287" available="true">
-<price>184</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Теплий в'язаний шарф «Марс» дитячий, капучіно, 115см см</name>
-<picture>https://letimo.com.ua/content/images/6/35363682196672_+6549abb357.jpg</picture>
-<picture>https://letimo.com.ua/content/images/6/84019734681024_+0a4dd10db2.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Теплий в'язаний шарф  Марс  дитячий&lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Теплий, м'який дитячий шарф із напіввовняної пряжі&lt;/li&gt;&lt;li&gt;Не "кусається"&lt;/li&gt;&lt;li&gt;Довжина 115 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50% вовна, 50% акрил&lt;/li&gt;&lt;li&gt;Розміри: 115см см&lt;/li&gt;&lt;li&gt;Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Марс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50% вовна, 50% акрил</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0">акрил,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="odnw2a8buj3icotq">капучино</param>
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
 </offer>
