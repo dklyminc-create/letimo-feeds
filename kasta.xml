@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-18 10:10">
+<yml_catalog date="2026-11-18 10:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -149175,23 +149175,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="9020" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1150</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3201451-h3xfz</article>
-<name_ua><![CDATA[Сукня на довгий рукав «Афіна»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Сукня на довгий рукав  Афіна </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова сукня для щоденного носіння, створена з урахуванням комфорту та практичності</li><li>Виготовлена з м якого та приємного до тіла еластичного трикотажу в рубчик</li><li>Модель має вільний крій зі злегка заниженою лінією талії, що не сковує рухів і добре сідає по фігурі</li><li>Підійде як для прогулянок на вулиці, так і для садочку чи дому</li><li>Розрахована на зріст 74-86 см, що зазвичай відповідає віку 9-12 міс</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-12 міс</li><li>Розміри: 80 86, 86 92, 92 98, 98 104, 104 110, 110 116, 116 122</li><li>Кольори: Крем, Таш, Пудра, Мокко, Рожевий, Бежевий, Темна гірчиця</li></ul>]]></description_ua>
-<price>660</price>
-<price_old>660</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/21/35494393388010_%2Bcb4d25337a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/21/57578393479454_%2Bf665989a0b.jpg</picture>
-<param name="Колір">кавовий</param>
-<param name="Розмір">104–110</param>
-<param name="Склад">95% бавовна, 5% еластан</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="9021" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1150</categoryId>
@@ -202865,57 +202848,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% вовна, 50% акрил</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14647" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3535451-13lg8</article>
-<name_ua><![CDATA[Теплий в'язаний шарф «Марс» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий в'язаний шарф  Марс  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий, м'який дитячий шарф із напіввовняної пряжі</li><li>Не "кусається"</li><li>Довжина 115 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: 115см см</li><li>Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок</li></ul>]]></description_ua>
-<price>195</price>
-<price_old>195</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/48/89125681881566_%2B1f043654ca.jpg</picture>
-<picture>https://letimo.com.ua/content/images/48/14116417653555_%2Bf6af702b66.jpg</picture>
-<param name="Колір">бордовий</param>
-<param name="Розмір">115см см</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14648" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3535451-1j61j</article>
-<name_ua><![CDATA[Теплий в'язаний шарф «Марс» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий в'язаний шарф  Марс  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий, м'який дитячий шарф із напіввовняної пряжі</li><li>Не "кусається"</li><li>Довжина 115 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: 115см см</li><li>Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок</li></ul>]]></description_ua>
-<price>195</price>
-<price_old>195</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/49/75201790617737_%2Bd0d1e4143c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/49/45850319305739_%2Bd172113327.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">115см см</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14649" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3535451</article>
-<name_ua><![CDATA[Теплий в'язаний шарф «Марс» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий в'язаний шарф  Марс  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий, м'який дитячий шарф із напіввовняної пряжі</li><li>Не "кусається"</li><li>Довжина 115 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: 115см см</li><li>Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок</li></ul>]]></description_ua>
-<price>195</price>
-<price_old>195</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/50/73242496106214_%2B311ac27731.jpg</picture>
-<picture>https://letimo.com.ua/content/images/50/64634754820594_%2Bf46d83777b.jpg</picture>
-<param name="Колір">зелений</param>
-<param name="Розмір">115см см</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14650" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -202933,57 +202865,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% вовна, 50% акрил</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14651" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3535451-1e3pk</article>
-<name_ua><![CDATA[Теплий в'язаний шарф «Марс» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий в'язаний шарф  Марс  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий, м'який дитячий шарф із напіввовняної пряжі</li><li>Не "кусається"</li><li>Довжина 115 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: 115см см</li><li>Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок</li></ul>]]></description_ua>
-<price>195</price>
-<price_old>195</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/2/22254756822077_%2B72b72e20cd.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/82442141877873_%2B4d76352041.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">115см см</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14652" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3535451-r9box</article>
-<name_ua><![CDATA[Теплий в'язаний шарф «Марс» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий в'язаний шарф  Марс  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий, м'який дитячий шарф із напіввовняної пряжі</li><li>Не "кусається"</li><li>Довжина 115 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: 115см см</li><li>Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок</li></ul>]]></description_ua>
-<price>195</price>
-<price_old>195</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/3/51192703598255_%2Bcd4a32915c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/3/60927319204415_%2Ba985caf2ab.jpg</picture>
-<param name="Колір">бежевий</param>
-<param name="Розмір">115см см</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14653" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3535451-jtp84</article>
-<name_ua><![CDATA[Теплий в'язаний шарф «Марс» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий в'язаний шарф  Марс  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий, м'який дитячий шарф із напіввовняної пряжі</li><li>Не "кусається"</li><li>Довжина 115 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: 115см см</li><li>Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок</li></ul>]]></description_ua>
-<price>195</price>
-<price_old>195</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/4/61865612315633_%2B5c24c5b6a0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/87859198682947_%2B5d6e51ec54.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">115см см</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14654" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -202997,23 +202878,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/5/81980108208164_%2B1615d01f23.jpg</picture>
 <picture>https://letimo.com.ua/content/images/5/58445089301987_%2Bff56937ce1.jpg</picture>
 <param name="Колір">червоний</param>
-<param name="Розмір">115см см</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14655" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3535451-43i1y</article>
-<name_ua><![CDATA[Теплий в'язаний шарф «Марс» дитячий]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий в'язаний шарф  Марс  дитячий</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий, м'який дитячий шарф із напіввовняної пряжі</li><li>Не "кусається"</li><li>Довжина 115 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: 115см см</li><li>Кольори: /09 Бордовий, Гірчиця, Зелений, BORDO Темно-бордовий, Антрацит, Бежевий меланж темніше, Кава, Червоний, Капучіно, Блакитний, Пудра, Бежевий, SM Пудра, Чорний, /03 Сірий меланж, Темно-синій, Темна пудра, /09 Кава, SM Темно-сірий, Бузок, Помаранчевий, VEZ Світло-сірий, Джинс, Світло-сірий меланж, Фіолетовий, Тёмно-синий, VEZ Персикова пудра, Димок</li></ul>]]></description_ua>
-<price>195</price>
-<price_old>195</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/6/35363682196672_%2B6549abb357.jpg</picture>
-<picture>https://letimo.com.ua/content/images/6/84019734681024_%2B0a4dd10db2.jpg</picture>
-<param name="Колір">комбінований</param>
 <param name="Розмір">115см см</param>
 <param name="Склад">50% вовна, 50% акрил</param>
 <param name="страна-производитель">Україна</param>
