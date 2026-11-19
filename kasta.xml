@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-19 08:11">
+<yml_catalog date="2026-11-19 08:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -138801,23 +138801,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/45/54436633140684_%2B591ee72567.jpg</picture>
 <picture>https://letimo.com.ua/content/images/45/89753148581333_%2B5816805ae0.jpg</picture>
 <param name="Колір">світлий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">50%-бавовна, 50%-ПАН.</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="7945" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3146451</article>
-<name_ua><![CDATA[В'язана бавовняна манішка «Айріс»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана бавовняна манішка  Айріс </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язана манішка з м'якої бавовняної пряжі, не кусається, в універсальному розмірі. Підійде дітям від 2-х років та дорослим.</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50%-бавовна, 50%-ПАН.</li><li>Розміри: Універсальний</li><li>Кольори: Червоний, Джинс, Антрацит, Лаванда, Хакі, Темно-синій, Блакитний, Кава, Салатовий, Пудра, Небесний, Темний беж, Бежевий, Корал, Лимонний, Світло-сірий, Світло-рожевий, Світлий хакі, Чорний, Світла пудра, Гірчиця, Світлий джинс, Білий, Рожевий, Молочний, Світло-бежевий, Фісташковий, Темно-сірий меланж</li></ul>]]></description_ua>
-<price>460</price>
-<price_old>460</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/46/25692256881801_%2Bf64af2fcff.jpg</picture>
-<picture>https://letimo.com.ua/content/images/46/21446790635922_%2B79b096e198.jpg</picture>
-<param name="Колір">чорний</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">50%-бавовна, 50%-ПАН.</param>
 <param name="страна-производитель">Україна</param>
