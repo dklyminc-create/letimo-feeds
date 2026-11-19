@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-19 08:40">
+<yml_catalog date="2026-11-19 09:10">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -127278,7 +127278,7 @@ SYSTEM "shops.dtd">
 <barcode>2000000401737</barcode>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
 </offer>
-   <offer id="6090" available="true">
+   <offer id="6090" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -127289,7 +127289,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Мягкий шлем-медвежонок Talvi «Тедди» из искусственного меха с забавными ушками и фирменной нашивкой Talvi. Двойной, с флисовой подкладкой – для морозных прогулок. Закрывает голову и шею.</p><ul><li> Состав: верх - 20% вискоза, 80% полиэстер; подкладка - 100% полиэстер</li><li> Сезон: зима</li><li> Размеры (обхват головы): 48 см, 50 см – ориентировочно на 3-5 лет</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/49851e91-a4b7-453f-9ebf-79e71f72a06d.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p><h3> Как выбрать размер</h3><p> Размер шапки – это обхват головы в сантиметрах. Измерьте голову сантиметровой лентой по линии над бровями и через самую выступающую точку затылка. Если результат на границе двух размеров берите больше.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Как измерить голову малыша?</strong><br> Сантиметровой лентой по кругу: спереди над бровями, сзади из-за самой выступающей точки затылка. Лентку не затягивайте.</p><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками и упаковкой.</p>]]></description>
 <price>450</price>
 <price_old>450</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/41/pliushevyi-sholom-vedmedyk-talvi-teddi-na-flisi-persyk-48-sm-92002439580599_%2B65a351ecd2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/41/pliushevyi-sholom-vedmedyk-talvi-teddi-na-flisi-persyk-48-sm-52459644679513_%2B1da490cc67.jpg</picture>
 <picture>https://letimo.com.ua/content/images/41/pliushevyi-sholom-vedmedyk-talvi-teddi-na-flisi-persyk-48-sm-51215298638364_%2Bf5b2f8a4d0.jpg</picture>
