@@ -1322,6 +1322,16 @@ function oosPatch_(xml) {
     return o;
   });
   Logger.log('oosPatch_: ' + n + ' offers → not available');
+  // 19.11.2026 (Дмитро): Prom бере наявність з кількості — оффер available="false" з <quantity_in_stock>1</quantity_in_stock>
+  // показувався «В наявності» (так продали відсутній шолом «Мімі» бежевий). Для всіх «немає в наявності» кількість = 0.
+  var z = 0;
+  out = out.replace(/<offer\b[^>]*\bavailable="false"[^>]*>[\s\S]*?<\/offer>/g, function (o) {
+    var o2 = o.replace(/^(<offer\b[^>]*?)\sin_stock="true"/, '$1 in_stock="false"')
+      .replace(/<(stock_quantity|quantity_in_stock|quantity|count|stock)>\s*[1-9][^<]*<\/\1>/g, '<$1>0</$1>');
+    if (o2 !== o) z++;
+    return o2;
+  });
+  Logger.log('oosPatch_: ' + z + ' «немає в наявності» з кількістю > 0 → кількість 0');
   return out;
 }
 function publishKastaProm() {
