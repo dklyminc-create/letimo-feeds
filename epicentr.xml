@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-19 08:09">
+<yml_catalog date="2026-11-19 08:39">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -73931,33 +73931,6 @@
 <param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5129e0">бавовна,вовна</param>
 <param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
 <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
-<offer id="TALVI-01443-87111" available="true">
-<price>460</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">В'язана бавовняна манішка «Айріс», чорний, Універсальний</name>
-<name lang="ru">Вязаная хлопчатобумажная манишка «Айрис», черный, Универсальный.</name>
-<picture>https://letimo.com.ua/content/images/46/25692256881801_+f64af2fcff.jpg</picture>
-<picture>https://letimo.com.ua/content/images/46/21446790635922_+79b096e198.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;В'язана бавовняна манішка  Айріс &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;В'язана манішка з м'якої бавовняної пряжі, не кусається, в універсальному розмірі. Підійде дітям від 2-х років та дорослим.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 50%-бавовна, 50%-ПАН.&lt;/li&gt;&lt;li&gt;Розміри: Універсальний&lt;/li&gt;&lt;li&gt;Кольори: Червоний, Джинс, Антрацит, Лаванда, Хакі, Темно-синій, Блакитний, Кава, Салатовий, Пудра, Небесний, Темний беж, Бежевий, Корал, Лимонний, Світло-сірий, Світло-рожевий, Світлий хакі, Чорний, Світла пудра, Гірчиця, Світлий джинс, Білий, Рожевий, Молочний, Світло-бежевий, Фісташковий, Темно-сірий меланж&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Айріс]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">50%-бавовна, 50%-ПАН.</param>
-<param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
-<param name="Вид" paramcode="51" valuecode="7605de52577c595cca63e90605f81848">манишка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5129e0">бавовна,вовна</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,осінь</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
 </offer>
