@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-21 08:08">
+<yml_catalog date="2026-11-21 08:57">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -224596,24 +224596,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">56–58 см</param>
 <param name="Склад">50% бавовна, 50% акрил</param>
 </offer>
-   <offer id="14047" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3500451-1t1r2</article>
-<name><![CDATA[Яркая теплая шапка «Лабу-Монстрик» Talvi комбинированный 52-54 см, разноцветный (14047)]]></name>
-<name_ua><![CDATA[Яскрава тепла шапка «Лабу-Монстрик» Talvi комбінований 52–54 см (14047)]]></name_ua>
-<description_ua><![CDATA[<p><strong>Яскрава тепла шапка  Лабу-Монстрик </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила шапка для діток з трендовою Лабубу</li><li>Декорована трикотажним помпоном, з відворотом, що закріплений</li><li>Утеплена флісом по всій площині зсередини</li><li>Підійде для діток орієнтовно 6-9 рочків</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Світлий джинс, Світло-рожевий, Бежевий, Блакитний, Пудра, Світлий хакі, Гірчиця, Зелений, Малина, Лаванда, Світло-сірий меланж, Світло-сірий, Кавовий</li></ul>]]></description_ua>
-<price>299</price>
-<price_old>299</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/48/97226619555731_%2B3ccb154fba.jpg</picture>
-<picture>https://letimo.com.ua/content/images/48/64556509785049_%2Bdde418fac7.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">52–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518671, 3518683">52, 54</param>
-</offer>
    <offer id="14048" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -224673,8 +224655,8 @@ SYSTEM "shops.dtd">
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
 <article>LT3500451-h5nwe</article>
-<name><![CDATA[Яркая теплая шапка «Лабу-Монстрик» Talvi комбинированный 52-54 см, разноцветный (14051)]]></name>
-<name_ua><![CDATA[Яскрава тепла шапка «Лабу-Монстрик» Talvi комбінований 52–54 см (14051)]]></name_ua>
+<name><![CDATA[Яркая теплая шапка «Лабу-Монстрик» Talvi комбинированный 52-54 см]]></name>
+<name_ua><![CDATA[Яскрава тепла шапка «Лабу-Монстрик» Talvi комбінований 52–54 см]]></name_ua>
 <description_ua><![CDATA[<p><strong>Яскрава тепла шапка  Лабу-Монстрик </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила шапка для діток з трендовою Лабубу</li><li>Декорована трикотажним помпоном, з відворотом, що закріплений</li><li>Утеплена флісом по всій площині зсередини</li><li>Підійде для діток орієнтовно 6-9 рочків</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 52 54 см</li><li>Кольори: Світлий джинс, Світло-рожевий, Бежевий, Блакитний, Пудра, Світлий хакі, Гірчиця, Зелений, Малина, Лаванда, Світло-сірий меланж, Світло-сірий, Кавовий</li></ul>]]></description_ua>
 <price>299</price>
 <price_old>299</price_old>
@@ -230869,24 +230851,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">44–46 см</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
-</offer>
-   <offer id="14879" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3545451-wqlpf</article>
-<name><![CDATA[Шлем из фактурной вязки «Медок» Talvi белый 48-50 см]]></name>
-<name_ua><![CDATA[Шолом з фактурної в'язки «Медок» Talvi білий 48–50 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шолом з фактурної в'язки  Медок </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>В'язаний тепленький шолом для малюків</li><li>Декорований вушками та фірмовою нашивкою</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 6-12 міс</li><li>Розміри (обхват голови): 44 46 см, 48 50 см</li><li>Кольори: Бузок, (517) Білий, (591) Молочний, Бежевий, Чорний, (108) Блакитний, Світла пудра, (541) Світло-сірий, (542) Сірий меланж, (527) Персикова пудра, Темно-синій, Кавовий, Пудра, Марсала, (568) Лаванда</li></ul>]]></description_ua>
-<price>460</price>
-<price_old>460</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/30/94461750815246_%2B6a6ce43eee.jpg</picture>
-<picture>https://letimo.com.ua/content/images/30/84440260907193_%2B131839f381.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008176">Білий</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
 </offer>
    <offer id="14894" available="true">
 <currencyId>UAH</currencyId>
