@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-22 04:10">
+<yml_catalog date="2026-11-22 04:40">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -134005,34 +134005,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="c18eda4bf20ea4e9c70ce456463d5b4d">42-44</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-02312-88450" available="true">
-<price>230</price>
-<category code="166">Головні убори для новонароджених</category>
-<attribute_set code="166">Головні убори для новонароджених</attribute_set>
-<name lang="ua">Шапка «Холлі одинарна», l036 світло-рожевий, 44–46 см</name>
-<name lang="ru">Шапка «Холли одинарная», l036 светло-розовый, 44–46 см.</name>
-<picture>https://letimo.com.ua/content/images/34/62766466692859_+b7c256a8ee.jpg</picture>
-<picture>https://letimo.com.ua/content/images/34/37274905791362_+38b6c21a4f.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Шапка  Холлі одинарна &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Одинарна шапочка із преміального бавовняного трикотажу&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: бавовна 97%, лайкра 3%&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): 42 44 см, 44 46 см&lt;/li&gt;&lt;li&gt;Кольори: L035 Малина, Темна пудра, Бордовий, Червоний, L002 Білий, Сірий меланж, Коричневий, L168 Чорний, L155 Світлий джинс, L163 Темно-синій, L003 Молочний, L135 Темний беж, L160 Індиго, Яскравий рожевий, -3620 Лаванда, L152 Сірий, L073 Блакитний, L030 Рожевий, L036 Світло-рожевий, М2046 Кораловий, Салатовий, Корал&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Холлі одинарна]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">бавовна 97%, лайкра 3%</param>
-<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
-<param name="Тип" paramcode="50" valuecode="db9oeqbriulmyyiq">шапочка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511c70,59474de5130ad">бавовна,еластан</param>
-<param name="Колір виробника" paramcode="78" valuecode="b599060b4e53a1c756485836a337b06d">світло-рожевий</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
-<param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
-<param name="Розмір" paramcode="2293" valuecode="wd72nnziafnyawun">42-46</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
 </offer>
 <offer id="TALVI-03242-81869" available="true">
