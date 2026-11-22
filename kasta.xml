@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-22 04:08">
+<yml_catalog date="2026-11-22 04:38">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -175544,23 +175544,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/18/29151262008251_%2Bd6b189fa30.jpg</picture>
 <param name="Колір">червоний</param>
 <param name="Розмір">42–44 см</param>
-<param name="Склад">бавовна 97%, лайкра 3%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="11933" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3368451-ibc05</article>
-<name_ua><![CDATA[Шапка «Холлі одинарна»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка  Холлі одинарна </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Одинарна шапочка із преміального бавовняного трикотажу</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: бавовна 97%, лайкра 3%</li><li>Розміри (обхват голови): 42 44 см, 44 46 см</li><li>Кольори: L035 Малина, Темна пудра, Бордовий, Червоний, L002 Білий, Сірий меланж, Коричневий, L168 Чорний, L155 Світлий джинс, L163 Темно-синій, L003 Молочний, L135 Темний беж, L160 Індиго, Яскравий рожевий, -3620 Лаванда, L152 Сірий, L073 Блакитний, L030 Рожевий, L036 Світло-рожевий, М2046 Кораловий, Салатовий, Корал</li></ul>]]></description_ua>
-<price>244</price>
-<price_old>244</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/34/62766466692859_%2Bb7c256a8ee.jpg</picture>
-<picture>https://letimo.com.ua/content/images/34/37274905791362_%2B38b6c21a4f.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">44–46 см</param>
 <param name="Склад">бавовна 97%, лайкра 3%</param>
 <param name="страна-производитель">Україна</param>
 </offer>
