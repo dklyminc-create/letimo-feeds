@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-22 22:09">
+<yml_catalog date="2026-11-22 22:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -187192,23 +187192,6 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="13360" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3458451-1m83b</article>
-<name_ua><![CDATA[Тоненька базова шапка «Мерін»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тоненька базова шапка  Мерін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Наші базові шапочки Мерін виготовлені з м'якої, приємної тканини, яка має чудові експлуатаційні характеристики. Головні убори виконані в мінімалістичному стилі та мають подовжену форму. Подвійний трикотаж. Склад: 97%-бавовна, 3%-лайкра.</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Розміри (обхват голови): 48 52 см, 52 54 см, 54 58 см</li><li>Кольори: Темна пудра, L035 Малина, L114 Ментол, L003 Молочний, L073 Блакитний, Корал, -3620 Лаванда, L002 Білий, Original 9 Салатовий, L168 Чорний, Рожевий, Кава, Фріза, Крем, Мокко, Сірий меланж, Сірий, Світлий джинс, L155 Світлий джинс, L030 Рожевий, L036 Світло-рожевий, L152 Сірий, L135 Темний беж, Джинс, L160 Індиго, L132 Хакі, L163 Темно-синій</li></ul>]]></description_ua>
-<price>342</price>
-<price_old>342</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/11/15382257880903_%2Bcef5c25eb0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/11/37950226326586_%2Bbd0ee03311.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">52–54 см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="13361" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -199464,23 +199447,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">комбінований</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">віскоза-52%, еластан-26%, нейлон-22%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14572" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3530451</article>
-<name_ua><![CDATA[Пухнастий хомут з флісом «Флаффі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Пухнастий хомут з флісом  Флаффі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'який теплий в'язаний хомут виготовлений з пухнастої пряжі</li><li>Всередені утеплений флісом</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 100% нейлон; підклад - 100% поліестер (фліс)</li><li>Розміри: Універсальний</li><li>Кольори: Чорний, Рожевий, Білий, Світлий беж, Коричневий, Молочний, Бежевий</li></ul>]]></description_ua>
-<price>400</price>
-<price_old>400</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/23/22074782833607_%2B71290be719.jpg</picture>
-<picture>https://letimo.com.ua/content/images/23/73565547800359_%2Bce868b5d2b.jpg</picture>
-<param name="Колір">рожевий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 100% нейлон; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
    <offer id="14579" available="true">
