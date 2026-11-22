@@ -1102,6 +1102,18 @@ const DR_CATS = {
   '1074': '1091', // 16.11.2026: нова категорія у фіді SalesDrive — Куртки та вітровки -> Верхній одяг
   '1093': '1140' // 16.11.2026: нова категорія у фіді SalesDrive — Аксесуари для колясок
 };
+// 22.11.2026 (Дмитро): у фіді постачальника такі товари available="true", а в онлайн-прайсі — «очікується» + строк пошиття.
+// На маркетплейсах позначаємо їх «(під замовлення)» у назві + строк в описі (як Talvi-дроп). Якщо товар є в нас (SalesDrive > 0) — не позначаємо.
+const DR_MTO_ = {};
+function drMtoMark_(o) {
+  const art = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*(DR-[^<\]\s]+)/) || [])[1];
+  if (!art || !Object.prototype.hasOwnProperty.call(DR_MTO_, art) || !/available="true"/.test(o.slice(0, 300))) return o;
+  const sd = sdStock_(); if (sd && sd[art] > 0) return o;
+  const lt = DR_MTO_[art];
+  const note = '<p><strong>Під замовлення</strong>: товар шиє виробник, відправка орієнтовно через ' + (lt || '5–15 робочих днів') + ' після оформлення замовлення.</p>';
+  return o.replace(/(<name(?:_ua)?><!\[CDATA\[)([\s\S]*?)(\]\]>)/g, function (a, x, n, y) { return /під замовлення/i.test(n) ? a : x + n.trim() + ' (під замовлення)' + y; })
+    .replace(/(<description(?:_ua)?><!\[CDATA\[)/g, '$1' + note);
+}
 const DR_EST_ = {}; // 16.11.2026: артикули ДоРечі з дроп-ціною, оціненою з РРЦ (немає в прайс-таблиці) — на маркетплейсах ×2 + комісія
 const DR_COLORS = [[/м'ят|мят/, "м'ятний"], [/біл/, 'білий'], [/молочн/, 'молочний'], [/графіт/, 'графітовий'], [/сір/, 'сірий'], [/чорн/, 'чорний'],
   [/беж/, 'бежевий'], [/лат(т)?е/, 'кавовий'], [/карамел/, 'карамельний'], [/пудр/, 'пудровий'], [/рожев/, 'рожевий'],
@@ -1127,7 +1139,7 @@ function drPrices_() {
     drCsv_(r.getContentText('UTF-8')).forEach(function (c) {
       const art = drNorm_(c[0]); const drop = parseFloat(c[2]); const rrc = parseFloat(c[3]);
       if (!art || !(drop > 0) || !(rrc > 0)) return;
-      map[art] = { name: String(c[1] || '').trim(), drop: drop, rrc: rrc, av: String(c[4] || '').trim().toLowerCase(), st: parseInt(c[7], 10) || 0 };
+      map[art] = { name: String(c[1] || '').trim(), drop: drop, rrc: rrc, av: String(c[4] || '').trim().toLowerCase(), st: parseInt(c[7], 10) || 0, lt: String(c[8] || '').trim() };
     });
   });
   return map;
@@ -1224,6 +1236,7 @@ function drOffers_() {
     const gid = drGroup_(p.name, size);
     groupsSeen[gid] = 1;
     const drArt = 'DR-' + key.replace(/[\s\/]+/g, '-');
+    if (/очіку/.test(p.av || '')) DR_MTO_[drArt] = p.lt || ''; // 22.11.2026: у прайсі ДоРечі «очікується» = шиють під замовлення
     let id = 90000000 + drHash_(drArt); while (ids[id]) id++; ids[id] = 1;
     const sizeTxt = /^\d{2,3}([\/\-]\d{2,3})?$/.test(size) ? size + ' см' : size;
     const fullName = (name + (sizeTxt ? ' ' + sizeTxt : '')).replace(/\]\]>/g, '');
@@ -2921,7 +2934,7 @@ function hsSetupTrigger() {
 // прибираємо, щоб не було дублів. Ця версія drAdd_ замінює попередню (у скрипті діє останнє оголошення функції).
 function drAdd_(xml) {
   xml = xml.replace(/<offer\b[\s\S]*?<\/offer>\s*/g, function (o) { return /<vendorCode>(?:<!\[CDATA\[)?\s*DR-/.test(o) ? '' : o; });
-  try { return xml.replace('</offers>', drOffers_().offers.join('\n') + '\n</offers>'); }
+  try { const dr = drOffers_().offers.map(drMtoMark_); Logger.log('ДоРечі під замовлення: ' + dr.filter(function (o) { return /\(під замовлення\)/.test(o); }).length); return xml.replace('</offers>', dr.join('\n') + '\n</offers>'); }
   catch (e) { Logger.log('ДоРечі пропущено: ' + e.message); return xml; }
 }
 // ===== /ДОРЕЧІ → САЙТ =====
