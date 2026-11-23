@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-23 04:08">
+<yml_catalog date="2026-11-23 04:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -222989,24 +222989,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/48/12522631779786_%2B24cd841f8d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/62541524233981_%2B2560bc1294.jpg</picture>
 <param name="Колір" paramid="131559" valueid="1008190">Синій</param>
-<param name="Розмір">44–46 см</param>
-<param name="Склад">основа – 50% бавовна, 50% акрил. Підкалад - 100% бавовна</param>
-<param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
-</offer>
-   <offer id="13948" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3496451</article>
-<name><![CDATA[Вязаная шапка с ушками «Йокко» Talvi голубой 44–46 см]]></name>
-<name_ua><![CDATA[В'язана шапка з вушками «Йоко» Talvi блакитний 44–46 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана шапка з вушками  Йоко </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Шапочка в рубчик з м'якої пряжі та бавовняним підкладом</li><li>До 4-х місяців</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа   50% бавовна, 50% акрил. Підкалад - 100% бавовна</li><li>Розміри (обхват голови): 40 42 см, 44 46 см, 48 50 см, 52 54 см</li><li>Кольори: Темно-сірий меланж, Чорний, Джинс, Пастельний хакі, Хакі, Світло-рожевий, Кава, М'ята, Пудра, Небесний, Блакитний, Темно-синій, Фісташковий, Світло-сірий, Світло-бежевий, Темний беж, Бежевий, Світла пудра, Світлий джинс, Білий, Рожевий, Молочний, Гірчиця, Світлий хакі, Кавовий, М'ятний, Темно-бежевий</li></ul>]]></description_ua>
-<price>473</price>
-<price_old>473</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/49/52025916771718_%2Ba538cfa32f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/49/18492377597298_%2B2e1cc66d9e.jpg</picture>
-<param name="Колір">блакитний</param>
 <param name="Розмір">44–46 см</param>
 <param name="Склад">основа – 50% бавовна, 50% акрил. Підкалад - 100% бавовна</param>
 <param name="Окружність голови" paramid="232291" valueid="3518623, 3518635">44, 46</param>
