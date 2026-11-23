@@ -2722,6 +2722,7 @@ function buildEpicentr_(mode, from) {
 const MP_MARKUP = { prom: 18, kasta: 22, epicentr: 15, rozetka: 24.5 };
 let MP_PCT_ = 18;
 let P1_BY_ART_ = null;
+let MB_AV_ = null; // наявність з фіду MagBaby: g:id → g:availability (заповнює p1ByArt_ при свіжому завантаженні)
 
 // Захист: фід MagBaby має містити щонайменше MB_MIN_ITEMS позицій. Якщо завантаження зірвалось —
 // беремо останню успішну копію з кешу (до 6 год). Якщо й її немає — помилка: фід маркетплейсу НЕ віддається
@@ -2737,17 +2738,18 @@ function p1ByArt_() {
       const r = UrlFetchApp.fetch(url, { muteHttpExceptions: true, followRedirects: true });
       const t = r.getContentText('UTF-8');
       if (r.getResponseCode() === 200) {
-        const map = {}; let n = 0;
+        const map = {}, avMap = {}; let n = 0;
         t.split('<item>').slice(1).forEach(function (s) {
           const id = (s.match(/<g:id>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
           const p = (s.match(/<g:price>(?:<!\[CDATA\[)?\s*([\d.,]+)/) || [])[1];
+          if (id) { const av = (s.match(/<g:availability>(?:<!\[CDATA\[)?\s*([^<\]]+)/) || [])[1]; avMap[id] = av ? av.trim().toLowerCase() : ''; }
           if (id && p) { map[id] = parseFloat(p.replace(',', '.')); n++; }
         });
         if (n >= MB_MIN_ITEMS) {
           try { const keys = Object.keys(map), half = Math.ceil(keys.length / 2), c1 = {}, c2 = {};
             keys.forEach(function (k, i) { (i < half ? c1 : c2)[k] = map[k]; });
             cache.putAll({ mbp1_a: JSON.stringify(c1), mbp1_b: JSON.stringify(c2) }, 21600); } catch (e) {}
-          P1_BY_ART_ = map; return map;
+          P1_BY_ART_ = map; MB_AV_ = avMap; return map;
         }
       }
     } catch (e) {}
@@ -3712,7 +3714,42 @@ function srcXml_() {
   Logger.log('Експорт прочитано шматками: ' + parts.length + ', ' + Math.round(total / 1048576) + ' МБ → ' + Math.round(out.length / 1048576) + 'M символів');
   return out;
 }
-function srcRes_() { return { getResponseCode: function () { return 200; }, getContentText: function () { return srcXml_(); } }; }
+function srcRes_() { return { getResponseCode: function () { return 200; }, getContentText: function () { return mbAvail_(srcXml_()); } }; }
+
+// 23.11.2026 (Дмитро): на маркетплейсах висіли товари MagBaby, які постачальник давно не шиє —
+// синхронізація сайту з MagBaby не знімає їх з наявності. Тепер для маркетплейсів (Prom, Kasta, Rozetka, Епіцентр):
+// товар MagBaby в наявності лише якщо його артикул (vendorCode = g:id) є у свіжому фіді MagBaby і там не «out of stock».
+// Захист: якщо фід MagBaby взято з кешу (без наявності) або правило зняло б > MB_AV_MAX_OFF_ товарів MagBaby — нічого не змінюємо.
+const MB_AV_MAX_OFF_ = 0.5;
+function mbAvail_(xml) {
+  try { p1ByArt_(); } catch (e) { Logger.log('MagBaby наявність: фід недоступний — пропуск'); return xml; }
+  const av = MB_AV_;
+  if (!av || Object.keys(av).length < MB_MIN_ITEMS) { Logger.log('MagBaby наявність: немає свіжого фіду — пропуск'); return xml; }
+  const re = /<offer\b([^>]*)>([\s\S]*?)<\/offer>/g;
+  let mbOn = 0, off = 0; const ex = []; const kill = {};
+  xml.replace(re, function (all, attrs, body) {
+    if (!/available="true"/.test(attrs)) return all;
+    const vend = (body.match(/<vendor>(?:<!\[CDATA\[)?\s*([^<\]]*)/) || [])[1];
+    if (vend != null && vend.trim() !== '' && !/^magbaby$/i.test(vend.trim())) return all;
+    const art = (body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
+    if (!art || !/^\d{5,12}$/.test(art)) return all;
+    mbOn++;
+    const a = av[art];
+    if (a === undefined || /out|discontinued|немає|нет/.test(a)) { off++; kill[art] = 1; if (ex.length < 15) ex.push(art + (a === undefined ? ' (нема у фіді)' : ' (' + a + ')')); }
+    return all;
+  });
+  if (!mbOn || off > mbOn * MB_AV_MAX_OFF_) { Logger.log('MagBaby наявність: підозріло багато на зняття (' + off + ' з ' + mbOn + ') — пропуск'); return xml; }
+  Logger.log('MagBaby наявність: знято ' + off + ' з ' + mbOn + ' (приклади: ' + ex.join(', ') + ')');
+  if (!off) return xml;
+  return xml.replace(re, function (all, attrs, body) {
+    if (!/available="true"/.test(attrs)) return all;
+    const art = (body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
+    if (!art || !kill[art]) return all;
+    const vend = (body.match(/<vendor>(?:<!\[CDATA\[)?\s*([^<\]]*)/) || [])[1];
+    if (vend != null && vend.trim() !== '' && !/^magbaby$/i.test(vend.trim())) return all;
+    return '<offer' + attrs.replace(/available="true"/, 'available="false"').replace(/\sin_stock="[^"]*"/, '') + '>' + body.replace(/<quantity_in_stock>[^<]*<\/quantity_in_stock>/, '<quantity_in_stock>0</quantity_in_stock>') + '</offer>';
+  });
+}
 function srcTest() { const x = srcXml_(); Logger.log('офферів ' + (x.match(/<offer\b/g) || []).length + ', Talvi ' + (x.match(/<vendorCode>(?:<!\[CDATA\[)?\s*TALVI-/g) || []).length + ', кінець OK ' + /<\/yml_catalog>\s*$/.test(x)); }
 
 // 04.11.2026: службове — вивантажити код цього проєкту в приватну таблицю Talvi (аркуш SRC_dump) для перенесення на GitHub Actions.
@@ -3772,6 +3809,41 @@ function drPresenceSync() {
   props.setProperty('DR_PRES_STATE', JSON.stringify(prev));
   Logger.log('ДоРечі наявність: ' + JSON.stringify(res) + ' ' + changed.slice(0, 60).map(function (a) { return a + '→' + (want[a] === 'В наявності' ? 'є' : 'немає'); }).join(', '));
   return res;
+}
+// ===== 23.11.2026 (рішення Дмитра): MagBaby, яких постачальник більше не шиє, — «Немає в наявності» на сайті =====
+// Синхронізація Хорошопу з MagBaby лишає «В наявності» товари, яких уже немає у фіді MagBaby (або вони там «out of stock»).
+// mbPresenceSync() щогодини: товари MagBaby на сайті «В наявності», чий артикул відсутній у фіді MagBaby або там не в наявності,
+// → «Немає в наявності» через API Хорошопу. Лише в один бік (нічого не вмикає). Захист: не більше половини товарів MagBaby за раз.
+function mbPresenceSync() {
+  p1ByArt_();
+  const av = MB_AV_;
+  if (!av || Object.keys(av).length < MB_MIN_ITEMS) { Logger.log('MagBaby сайт: немає свіжого фіду MagBaby — пропуск'); return; }
+  let mbOn = 0; const off = [];
+  srcXml_().replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) {
+    if (!/available="true"/.test(attrs)) return all;
+    const vend = (body.match(/<vendor>(?:<!\[CDATA\[)?\s*([^<\]]*)/) || [])[1];
+    if (vend != null && vend.trim() !== '' && !/^magbaby$/i.test(vend.trim())) return all;
+    const art = (body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
+    if (!art || !/^\d{5,12}$/.test(art)) return all;
+    mbOn++;
+    const a = av[art];
+    if ((a === undefined || /out|discontinued|немає|нет/.test(a)) && off.indexOf(art) < 0) off.push(art);
+    return all;
+  });
+  const res = { mbOnSite: mbOn, toOff: off.length, sent: 0, errors: [] };
+  if (!mbOn || off.length > mbOn * MB_AV_MAX_OFF_) { Logger.log('MagBaby сайт: підозріло багато на зняття ' + JSON.stringify(res) + ' — пропуск'); return res; }
+  for (let i = 0; i < off.length; i += 100) {
+    const part = off.slice(i, i + 100);
+    const j = hsCall_('catalog/import', { token: hsToken_(), products: part.map(function (a) { return { article: a, presence: 'Немає в наявності' }; }) });
+    if (j.status !== 'OK' && j.status !== 'WARNING') { res.errors.push(j.status + ' ' + JSON.stringify(j.response || {}).slice(0, 200)); continue; }
+    res.sent += part.length;
+  }
+  Logger.log('MagBaby сайт: ' + JSON.stringify(res) + ' ' + off.slice(0, 60).join(', '));
+  return res;
+}
+function mbPresenceInstall() {
+  ScriptApp.getProjectTriggers().filter(function (t) { return t.getHandlerFunction() === 'mbPresenceSync'; }).forEach(function (t) { ScriptApp.deleteTrigger(t); });
+  ScriptApp.newTrigger('mbPresenceSync').timeBased().everyHours(1).create();
 }
 function drPresenceInstall() {
   ScriptApp.getProjectTriggers().filter(function (t) { return t.getHandlerFunction() === 'drPresenceSync'; }).forEach(function (t) { ScriptApp.deleteTrigger(t); });
