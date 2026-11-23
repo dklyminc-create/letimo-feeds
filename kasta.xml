@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 00:22">
+<yml_catalog date="2026-11-24 00:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -202526,23 +202526,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="15068" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3551451</article>
-<name_ua><![CDATA[Зимова шапка з хутряним помпоном «Лате»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з хутряним помпоном  Лате </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Зимова шапочка для діток</li><li>Виготовлена з теплої, м'якої пряжі, на дотик як "кашемір"</li><li>Відворот закріплний</li><li>Помпон виготовлений з високоякісного штучного хутра</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см</li><li>Кольори: Світло-сірий, Марсала, Молочний, Світла пудра, Чорний, Сірий меланж, Темно-синій, Бежевий, Білий, Коричневий</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/19/79202639030519_%2B22baec3b88.jpg</picture>
-<picture>https://letimo.com.ua/content/images/19/16733219278344_%2B8696854329.jpg</picture>
-<param name="Колір">білий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="15071" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -207333,23 +207316,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/40/88124411769627_%2Bcdb01a237f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/84065357514407_%2Ba96e9fb28b.jpg</picture>
 <param name="Колір">світлий</param>
-<param name="Розмір">0–12міс см</param>
-<param name="Склад">основа- 20% віскоза, 80% поліестер, підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15440" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1088</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3568451</article>
-<name_ua><![CDATA[Милі рукавички «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милі рукавички  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Милі рукавички для найменших малюків</li><li>Зовні - м'яке хутро тедді</li><li>Всередині - тепленький фліс</li><li>Декоровані мінімалістичним фірмовим шевроном</li><li>Є зручний шнурочок-з єднувач - рукавички легко тримаються разом, їх зручно протягнути через рукав курточки, щоб не загубити</li><li>UNISEX</li><li>Підійде на холодну осінь-зиму</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа- 20% віскоза, 80% поліестер, підклад- 100% поліестер (фліс)</li><li>Розміри: 0 12міс см</li><li>Кольори: Бежевий, Персикова пудра, Коричневий, Джинс, Світлий беж, Пудра, Світла пудра, Малиновий, Світлий хакі, Сірий, Чорний, Білий</li></ul>]]></description_ua>
-<price>317</price>
-<price_old>317</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/41/88616768200562_%2B0e822fc058.jpg</picture>
-<picture>https://letimo.com.ua/content/images/41/78560378754744_%2B2a9b830759.jpg</picture>
-<param name="Колір">сірий</param>
 <param name="Розмір">0–12міс см</param>
 <param name="Склад">основа- 20% віскоза, 80% поліестер, підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
