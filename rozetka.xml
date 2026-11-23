@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-23 19:12">
+<yml_catalog date="2026-11-23 19:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -29844,7 +29844,7 @@ SYSTEM "shops.dtd">
 <param name="Капюшон">Вшитий</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="1710" available="true">
+   <offer id="1710" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
 <vendor>MagBaby</vendor>
@@ -29855,7 +29855,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Ветровка-дождевик Basil водоотталкивающая куртка с апреля по сентябрь.</p><h3> Что важно</h3><ul><li> Водоотталкивающая ткань.</li><li> Защищает от ветра и дождя.</li><li> Летом на прохладный вечер.</li><li> Яркие цвета.</li></ul><h3> Уход</h3><p> Протирайте влажной губкой; стирать при 30 C.</p><p> <strong>Совет:</strong> под ветровку надевайте лонгслив или свитшот.</p>]]></description>
 <price>1685</price>
 <price_old>2808</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/11/14561433412349_%2B16c5f1eddc.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/vitrovka-doshchovyk-basil-biriuzova-98-2-3-roky-54765074975204_%2B7fa51d4881.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/vitrovka-doshchovyk-basil-biriuzova-98-2-3-roky-63022255593304_%2Bbb4a6a4a3e.jpg</picture>
@@ -108325,7 +108325,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон, нержавіюча сталь</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="5023" available="true">
+   <offer id="5023" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1133</categoryId>
 <vendor>MagBaby</vendor>
@@ -108336,7 +108336,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Ложка и вилка Panda первые приборы для я сам.</p><h3> Что важно</h3><ul><li> Миниатюрные и лёгкие.</li><li> Удобны для крошечных ладошек.</li><li> Безопасные.</li><li> Для первых попыток есть самостоятельно.</li></ul><h3> Уход</h3><p> Перед первым использованием и после каждого промывайте теплой водой с мягким средством, сушите на воздухе.</p><p> <strong>Совет:</strong> дайте малышу держать прибор, даже если еда падает, так формируется навык.</p>]]></description>
 <price>299</price>
 <price_old>299</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/24/84501292198769_%2B52739b6a77.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/23918661483925_%2Bb1f1e3bc7f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/44060399888283_%2B04e91d2c51.jpg</picture>

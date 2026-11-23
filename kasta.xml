@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-23 19:12">
+<yml_catalog date="2026-11-23 19:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -24734,7 +24734,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Вологовідштовхуюча плащова тканина: 100% поліестер; підкладка: Стрейтч-кулірний трикотаж: 95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="1710" available="true">
+   <offer id="1710" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
 <vendor>MagBaby</vendor>
@@ -24743,7 +24743,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Вітровка-дощовик  Basil    водовідштовхувальна куртка з квітня по вересень.</p><h3>Що важливо</h3><ul><li>Водовідштовхувальна тканина.</li><li>Захищає від вітру й дощу.</li><li>Влітку   на прохолодні вечори.</li><li>Яскраві кольори.</li></ul><h3>Догляд</h3><p>Протирайте вологою губкою; прати при 30  C.</p><p><strong>Порада LETIMO:</strong> під вітровку вдягайте лонгслів або світшот.</p>]]></description_ua>
 <price>1685</price>
 <price_old>2808</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/11/14561433412349_%2B16c5f1eddc.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/vitrovka-doshchovyk-basil-biriuzova-98-2-3-roky-54765074975204_%2B7fa51d4881.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/vitrovka-doshchovyk-basil-biriuzova-98-2-3-roky-63022255593304_%2Bbb4a6a4a3e.jpg</picture>
@@ -88421,7 +88421,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон, нержавіюча сталь</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="5023" available="true">
+   <offer id="5023" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1133</categoryId>
 <vendor>MagBaby</vendor>
@@ -88430,7 +88430,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Ложка й виделка  Panda    перші прибори для  я сам .</p><h3>Що важливо</h3><ul><li>Мініатюрні й легкі.</li><li>Зручні для крихітних долоньок.</li><li>Безпечні.</li><li>Для перших спроб їсти самостійно.</li></ul><h3>Догляд</h3><p>Перед першим використанням і після кожного промивайте теплою водою з м'яким засобом, сушіть на повітрі.</p><p><strong>Порада LETIMO:</strong> дайте малюку тримати прибор, навіть якщо їжа падає,   так формується навичка.</p>]]></description_ua>
 <price>293</price>
 <price_old>293</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/24/84501292198769_%2B52739b6a77.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/23918661483925_%2Bb1f1e3bc7f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/44060399888283_%2B04e91d2c51.jpg</picture>
