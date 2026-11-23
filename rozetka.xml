@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-23 17:39">
+<yml_catalog date="2026-11-23 18:09">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -125738,7 +125738,7 @@ SYSTEM "shops.dtd">
 <param name="Окружність голови" paramid="232291" valueid="3518659, 3518671">50, 52</param>
 </offer>
    
-   <offer id="6098" available="true">
+   <offer id="6098" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
 <vendor>Talvi</vendor>
@@ -125749,7 +125749,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Комплект Talvi «Освин»: шапка с трикотажным помпоном и хомутом. Шапка гладкой вязки с отворотом в рубчик, внутри – флис по всей плоскости. Хомут плотной вязки в рубчике, без флиса. Унисекс.</p><ul><li> Состав: верх – 50% шерсть, 50% акрил; подкладка шапки - 100% полиэстер (флис)</li><li> Сезон: от холодной осени до теплой зимы</li><li> Размер (обхват головы): 50-52 см – ориентировочно на 3-4 года.</li><li> Производитель: Talvi, Украина </li></ul><p><video src="https://d2ol7oe51mr4n9.cloudfront.net/user_3L25UGJgYE0Ow5V3oAWDkwqiEds/90eda2fb-877f-4b0f-ac94-6df23942fb1f.mp4" width="315" height="560" controls playsinline muted loop preload="metadata" style="max-width:100%;height:auto"></video></p><h3> Как выбрать размер</h3><p> Размер шапки – это обхват головы в сантиметрах. Измерьте голову сантиметровой лентой по линии над бровями и через самую выступающую точку затылка. Если результат на границе двух размеров берите больше.</p><h3> Часто задаваемые вопросы</h3><p> <strong>Как измерить голову малыша?</strong><br> Сантиметровой лентой по кругу: спереди над бровями, сзади из-за самой выступающей точки затылка. Лентку не затягивайте.</p><p> <strong>Что делать, если размер не подошел?</strong><br> Обменяем или вернем деньги в течение 14 дней, если вещь без следов использования, с бирками и упаковкой.</p>]]></description>
 <price>650</price>
 <price_old>650</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-60074390633950_%2B4ad4a39dc4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-74731073745200_%2Ba1fe7108df.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/komplekt-talvi-osvin-shapka-z-pomponom-na-flisi-i-khomut-korychnevyi-50-52-sm-46376352403396_%2B14945ce731.jpg</picture>
