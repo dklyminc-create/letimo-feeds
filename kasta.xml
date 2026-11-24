@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 10:08">
+<yml_catalog date="2026-11-24 10:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -34563,7 +34563,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Триниточний трикотаж з начосом: 70% бавовна, 30% поліестер Оздоблення - стрейтч-кулірний трикотаж: 95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="2174" available="true">
+   <offer id="2174" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1109</categoryId>
 <vendor>MagBaby</vendor>
@@ -34572,7 +34572,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Костюм &laquo;Brave&raquo; на флісі &mdash; теплий комплект для похмурої погоди.</p>    <h3>Що важливо</h3>    <ul>   <li>Тринитка з начосом &mdash; міцна й тепла.</li>   <li>Подовжена спинка кофти, кишені на кофті й штанах.</li>   <li>Подвійний капюшон на бавовняній підкладці.</li>   <li>Утяжка по низу кофти.</li>  </ul>    <h3>Догляд</h3>    <p>Прати навиворіт при 30 &deg;C, сушити природним способом.</p>    <p><strong>Порада LETIMO:</strong> штанці з приспущеною матнею зручні для активних ігор.</p>  ]]></description_ua>
 <price>1990</price>
 <price_old>2488</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/25/48826957110996_%2B2a329bf3c9.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/kostium-na-flisi-brave-fistashkovyi-110-4-5-roky-82261466664097_%2B8142aa9593.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/kostium-na-flisi-brave-fistashkovyi-110-4-5-roky-91620029597112_%2Bc9d8be06d2.jpg</picture>
@@ -136256,23 +136256,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7762" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3131451</article>
-<name_ua><![CDATA[Манішка з флісом «Кріпер»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Манішка з флісом  Кріпер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла манішка з тематичним дизайном Minecraft</li><li>Щільна в'язка + додатково утеплена шаром флісу по всій грудині</li><li>Горловина вив'язана в щільний рубчик, що забезпечує її еластичність</li><li>Підійде на холодну осінь-зиму</li><li>Орієнтовно на вік від 3-х років, а також підліткам з окружністю голівки до 54 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри: 48 54 см</li><li>Кольори: Світлий хакі, Гірчиця, Бежевий, Світло-сірий меланж, Кавовий, Світло-сірий, Світлий джинс, Індиго, Темно-сірий меланж</li></ul>]]></description_ua>
-<price>464</price>
-<price_old>464</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/13/52447881019374_%2Bc7c34c57b0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/71243507042258_%2Bc7b5823314.jpg</picture>
-<param name="Колір">кавовий</param>
-<param name="Розмір">48–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="7763" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -141080,23 +141063,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/38/51776541047130_%2B39f10e5617.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/92556142635026_%2B95708b562d.jpg</picture>
 <param name="Колір">червоний</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="8288" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3163451-h5nwe</article>
-<name_ua><![CDATA[Комплект демісезонний «Фейт»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Комплект демісезонний  Фейт </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Подвійний комплект з м'якої пряжі в універсальному розмірі</li><li>Відворот на шапці не пришитий, тож висоту (глибину) шапки можна регулювати за зручністю</li><li>Підійде діткам від 2-х рочків, а також підліткам та дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: віскоза 52%, еластан 26%, нейлон 22%</li><li>Розміри (обхват голови): Універсальний</li><li>Кольори: М'ята, Лавандовий, Світлий жовтий, Світло-рожевий, Темна пудра, Червоний, Пудра, Бордовий, Темно-сірий, Білий, Молочний, Блакитний, Чорний, Капучіно, Сірий, Помаранчевий, Індиго, Світлий беж, Світло-сірий, Бежевий, Гірчичний, Джинс, Світлий хакі, Кава, Персикова пудра, Темно-синій, Хакі, Світла пудра, Рожевий, Малиновий, Коричневий</li></ul>]]></description_ua>
-<price>420</price>
-<price_old>420</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/39/38861269268526_%2B0374b10b23.jpg</picture>
-<picture>https://letimo.com.ua/content/images/39/25113377509880_%2B9183401ff5.jpg</picture>
-<param name="Колір">комбінований</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
 <param name="страна-производитель">Україна</param>
@@ -200125,23 +200091,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/11/26224608179683_%2Bb3f3ad742e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/61258881387942_%2B5c727ef674.jpg</picture>
 <param name="Колір">світлий</param>
-<param name="Розмір">Універсальний</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14711" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3537451</article>
-<name_ua><![CDATA[В'язана бандана-шарф «Чойсі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана бандана-шарф  Чойсі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна та м яка бандана для малюків, виготовлена з пряжі преміальної якості</li><li>Завдяки спеціальному отвору для фіксації вона легко одягається, надійно тримається і не здавлює шию</li><li>Розміри: 60*28 см (допустима розбіжність +-3 см)</li><li>60 см   це довжина верхнього краю (що обгортає шию),</li><li>28 см   висота трикутника від горла до нижнього краю (вниз на грудях)</li><li>UNISEX</li><li>Буде чудовим аксесуаром на будь яку прохолодну пору року</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Розміри: Універсальний</li><li>Кольори: Білий, Світла пудра, Чорний, Коричневий, Молочний, Світло-сірий, Світлий беж, Сірий, Рожевий, Бежевий, Світлий хакі, Світло-рожевий, Кава, Темна пудра, Лавандовий, Пудра</li></ul>]]></description_ua>
-<price>415</price>
-<price_old>415</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/76663481536014_%2B1af3b8ea08.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/38259647069705_%2B34c26a4e56.jpg</picture>
-<param name="Колір">сірий</param>
 <param name="Розмір">Універсальний</param>
 
 <param name="страна-производитель">Україна</param>
