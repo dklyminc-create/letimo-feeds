@@ -1,0 +1,28 @@
+name: Діагностика довідників Епіцентру (разова)
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ['_diag/run-diag.txt']
+permissions:
+  contents: write
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Довідники
+        env:
+          EPICENTR_TOKEN: ${{ secrets.EPICENTR_TOKEN }}
+        run: node builder/epi-diag.js
+      - name: Зберегти
+        run: |
+          git config user.name "letimo-feeds-bot"
+          git config user.email "feeds-bot@users.noreply.github.com"
+          git add _diag/epi-allsets.json _diag/epi-toysets.json _data/epi-brands.json _data/epi-countries.json
+          git commit -m "diag: довідники Епіцентру для іграшок" || exit 0
+          for i in 1 2 3 4 5; do git push && exit 0; git pull --rebase --autostash -X theirs || true; sleep $((i*5)); done
