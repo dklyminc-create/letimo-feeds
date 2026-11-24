@@ -1836,6 +1836,11 @@ function buildRozetka_() {
     if (sz === '-') sz = ''; // товар без розміру — без «-» у назві (09.10.2026)
     sz = sz.replace(/^(\d+)см$/, '$1 см');
     const full = [name, vendor, col, sz].filter(Boolean).join(' ').replace(/\s+/g, ' ').trim() + ' (' + id + ')';
+    // 24.11.2026 (Дмитро): ДоРечі «під замовлення» на Rozetka не продаємо — там лише «є/немає», а затримку відправки Rozetka штрафує.
+    if (/\(під замовлення\)/.test(name) && /<vendorCode>(?:<!\[CDATA\[)?\s*DR-/.test(o)) {
+      o = o.replace(/available="true"/, 'available="false"').replace(/\sin_stock="[^"]*"/, '')
+        .replace(/<(stock_quantity|quantity_in_stock|quantity|count|stock)>[^<]*<\/\1>/g, '<$1>0</$1>');
+    }
     return o.replace(/<name_ua>[\s\S]*?<\/name_ua>/, '<name><![CDATA[' + full + ']]></name>\n<name_ua><![CDATA[' + full + ']]></name_ua>');
   });
 }
