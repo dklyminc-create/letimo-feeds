@@ -25,6 +25,7 @@ async function opts(set, attr, cap) {
   return m;
 }
 (async () => {
+  if (!process.env.EPI_DIAG_FORCE) { try { if (Date.now() - JSON.parse(fs.readFileSync('_data/epi-brands.json', 'utf8')).t < 7 * 864e5) { console.log('довідники свіжі — пропуск'); return; } } catch (e) {} }
   fs.mkdirSync('_diag', { recursive: true }); fs.mkdirSync('_data', { recursive: true });
   const sets = []; let page = 1, pages = 1;
   do { const j = await get('/v2/pim/attribute-sets?page=' + page); if (j._err) { console.error('sets page', page, j._err); break; }
