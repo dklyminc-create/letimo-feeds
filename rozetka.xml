@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 02:08">
+<yml_catalog date="2026-11-24 02:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -227822,24 +227822,6 @@ SYSTEM "shops.dtd">
 <param name="Розмір">52–54 см</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="Окружність голови" paramid="232291" valueid="3518671, 3518683">52, 54</param>
-</offer>
-   <offer id="14419" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3522451-gldch</article>
-<name><![CDATA[Зимняя шапка с помпоном «Амиго» Talvi комбинированный 48-50 см]]></name>
-<name_ua><![CDATA[Зимова шапка з помпоном «Аміго» Talvi комбінований 48–50 см]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка з помпоном  Аміго </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна зимова трикотажна шапочка для хлопчиків та дівчаток 2-3 рочків</li><li>Низ - 100% фліс</li><li>Колір бубону може відрізнятись, від тих, що на фото</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 50% вовна, 50% акрил</li><li>Розміри (обхват голови): 48 50 см</li><li>Кольори: Помаранчевий, М'ята, Білий, Пудра, Світло-рожевий, Темна пудра, Гірчиця</li></ul>]]></description_ua>
-<price>398</price>
-<price_old>398</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/20/65292917813551_%2B62bf557492.jpg</picture>
-<picture>https://letimo.com.ua/content/images/20/56665254610259_%2B2f002b6e22.jpg</picture>
-<param name="Колір" paramid="131559" valueid="1008519">Різнобарвний</param>
-<param name="Розмір">48–50 см</param>
-<param name="Склад">верх - 50% вовна, 50% акрил</param>
-<param name="Окружність голови" paramid="232291" valueid="3518647, 3518659">48, 50</param>
 </offer>
    <offer id="14425" available="true">
 <currencyId>UAH</currencyId>
