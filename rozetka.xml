@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 05:39">
+<yml_catalog date="2026-11-24 06:10">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -25034,7 +25034,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Трикотаж з утепленням капітоне; утеплювач: Силіконізований синтепон</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="1399" available="true">
+   <offer id="1399" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1105</categoryId>
 <vendor>MagBaby</vendor>
@@ -25045,7 +25045,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Евро пеленка Kappi светло-розовая на молнии теплая пеленка-кокон из капитана для прохладной поры.</p><h3> Что важно</h3><ul><li> Капитон: два слоя стеганного трикотажа с тонким слоем синтепона.</li><li> Застежка: молния.</li><li> Шапочка в комплекте.</li><li> Греет, не перегревая.</li></ul><h3> Уход</h3><p> Стирать при 30 40 C, сушить естественным способом.</p><p> <strong>Совет:</strong> утепленный кокон удобен осенью и зимой.</p>]]></description>
 <price>893</price>
 <price_old>893</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/50/59313350801006_%2B1c6d6a482a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/yevro-peliushka-na-blyskavtsi-z-shapochkoiu-kappi-svitlo-rozheva-3-6-mis-56700644312806_%2Bc08e6bf547.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/yevro-peliushka-na-blyskavtsi-z-shapochkoiu-kappi-svitlo-rozheva-3-6-mis-31740941810319_%2Bcc68115f65.jpg</picture>
@@ -42491,7 +42491,7 @@ SYSTEM "shops.dtd">
 <param name="Тип тканини">Тринитка</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="2192" available="true">
+   <offer id="2192" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1109</categoryId>
 <vendor>MagBaby</vendor>
@@ -42502,7 +42502,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Костюм «Brave» на флисе – теплый комплект для пасмурной погоды.</p><h3> Что важно</h3><ul><li> Тринитка с начесом — крепкая и теплая.</li><li> Удлиненная спинка кофты, карманы на кофте и брюках.</li><li> Двойной капюшон на хлопковой подкладке.</li><li> Утяжка по низу кофты.</li></ul><h3> Уход</h3><p> Стирать наизнанку при 30 °C, сушить естественным способом.</p><p> <strong>Совет:</strong> штанишки с приспущенной матней удобны для активных игр.</p>]]></description>
 <price>1990</price>
 <price_old>2488</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/43/42105406131863_%2Ba17e85b929.jpg</picture>
 <picture>https://letimo.com.ua/content/images/43/kostium-na-flisi-brave-temnyi-tash-110-4-5-roky-57730990146242_%2Bd1ea7a5255.jpg</picture>
 <picture>https://letimo.com.ua/content/images/43/kostium-na-flisi-brave-temnyi-tash-110-4-5-roky-84602387490906_%2B968bc8912c.jpg</picture>
@@ -47331,7 +47331,7 @@ SYSTEM "shops.dtd">
 <param name="Сезон">Зима</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="2447" available="true">
+   <offer id="2447" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
 <vendor>MagBaby</vendor>
@@ -47342,7 +47342,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Термокомбинезон Nord зимний комбинезон из водонепроницаемой плащевки.</p><h3> Что важно</h3><ul><li> Водонепроницаемая плащевка, грязь вытирается тряпкой.</li><li> Усиленные колени и ягодицы для горок и снега.</li><li> Для активных зимних прогулок.</li><li> Утепленный для холодного времени.</li></ul><h3> Уход</h3><p> Протирайте влажной губкой; стирать при необходимости при 30 C средством для мембранных тканей.</p><p> <strong>Совет:</strong> под термокомбинезон надевайте хлопковый нижний слой и флис.</p>]]></description>
 <price>4950</price>
 <price_old>6601</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/48/18817232329324_%2B7e5b22733f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/termokombinezon-nord-malynovyi-104-3-4-roky-17149873675105_%2B7ef03a831d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/termokombinezon-nord-malynovyi-104-3-4-roky-87273718832470_%2Bc6e7419f7d.jpg</picture>
@@ -62160,7 +62160,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">100% бавовна, еластан</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="3055" available="true">
+   <offer id="3055" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1100</categoryId>
 <vendor>MagBaby</vendor>
@@ -62171,7 +62171,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Тройной сет трусиков Marco для мальчиков три пары трусиков-боксеров из мягкого стрейч-кулира.</p><h3> Что важно</h3><ul><li> Стрейч-кулир: 95% хлопок, 5% эластан.</li><li> Кожа дышит, без раздражений и перегрева.</li><li> Эластичные и износостойкие.</li><li> Яркие цвета.</li></ul><h3> Уход</h3><p> Стирать при 30 40 C, сушить естественным способом.</p><p> <strong>Совет:</strong> трусиков лучше иметь несколько пар в смену.</p>]]></description>
 <price>1020</price>
 <price_old>1020</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/6/37984574543893_%2Bfed17292eb.jpg</picture>
 <picture>https://letimo.com.ua/content/images/6/potriinyi-set-trusykiv-marco-syzyi-98-2-3-roky-27627624440705_%2Bdf634879bd.jpg</picture>
 <param name="Колір">сіро-голубий</param>
@@ -84650,7 +84650,7 @@ SYSTEM "shops.dtd">
 <param name="Вид виробу">Комбинезон</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="3979" available="true">
+   <offer id="3979" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>MagBaby</vendor>
@@ -84661,7 +84661,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Зимний комбинезон Baloo с ушками похож на комплект куртки и брюк.</p><h3> Что важно</h3><ul><li> Верх из мягкого меха тедди.</li><li> Низ из плащевки, защищает от снега и влаги.</li><li> Утепленный для зимы.</li><li> Капюшон с ушками.</li></ul><h3> Уход</h3><p> Плащевку протирайте влажной губкой; стирать при 30 C в щекотливом режиме.</p><p> <strong>Совет:</strong> подходит к меховой шапке Baloo.</p>]]></description>
 <price>5676</price>
 <price_old>5676</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/30/30156561137308_%2Bf6c9bbc0eb.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/kombinezon-baloo-chornyi-74-6-9-mis.-35880105846711_%2B2c540a009e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/kombinezon-baloo-chornyi-74-6-9-mis.-33132140950093_%2B644d8f27f9.jpg</picture>
@@ -99524,7 +99524,7 @@ SYSTEM "shops.dtd">
 <param name="Тип тканини">Трикотаж</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="4625" available="true">
+   <offer id="4625" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1110</categoryId>
 <vendor>MagBaby</vendor>
@@ -99535,7 +99535,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Утепленный комплект в роддоме Cozy с боди мягкий теплый комплект на первые дни после рождения.</p><h3> Что важно</h3><ul><li> Состав: 100% хлопок.</li><li> Боди и другие вещи первого гардероба.</li><li> Легкий доступ к пупочному ранку ткань ее не касается.</li><li> Рассчитан на первые дни малыша.</li></ul><h3> Уход</h3><p> Стирать при 30 40 C, сушить естественным способом.</p><p> <strong>Совет:</strong> положите комплект в сумку в родильный.</p>]]></description>
 <price>1342</price>
 <price_old>1342</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/26/67268068373957_%2Bec3f2e0b47.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/50682978267393_%2B5f0ab6de03.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/66510694224989_%2Bc503e9ca52.jpg</picture>
@@ -110842,7 +110842,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон, пластик</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="5139" available="true">
+   <offer id="5139" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1144</categoryId>
 <vendor>MagBaby</vendor>
@@ -110853,7 +110853,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Держатель для пустышки и грызуна Simply пустышка всегда под рукой.</p><h3> Что важно</h3><ul><li> Клипса крепится к одежде.</li><li> Пустышка не падает на пол.</li><li> Подходит и для грызунца.</li><li> Удобно дома и в пути.</li></ul><h3> Уход</h3><p> Промывайте теплой водой с мягким средством.</p><p> <strong>Совет:</strong> регулярно проверяйте крепеж и используйте только под наблюдением взрослых.</p>]]></description>
 <price>418</price>
 <price_old>418</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/40/51090580297244_%2Bdab8f188ea.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/52603727657761_%2B3e7ade61fe.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/18108564106123_%2B1f1ef2a69b.jpg</picture>
@@ -243813,7 +243813,7 @@ SYSTEM "shops.dtd">
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
 <article>LT82951221</article>
-<name><![CDATA[Конверт Тренд на флісі Перший сніг (під замовлення) ДоРечі (98236118)]]></name>
+<name><![CDATA[Конверт Тренд на флисе Первый снег (под заказ) ДоРечі (98236118)]]></name>
 <name_ua><![CDATA[Конверт Тренд на флісі Перший сніг (під замовлення) ДоРечі (98236118)]]></name_ua>
 <description_ua><![CDATA[<p><strong>Під замовлення</strong>: товар шиє виробник, відправка орієнтовно через 15 робочих днів після оформлення замовлення.</p><p>Зимовий конверт у коляску Тренд на флісі (колір: Перший сніг) - для дітей від 6 місяців до 3 років, для прогулянок від +5 до -20 &deg;C: у прогулянкову коляску, сидіння типу &laquo;кокон&raquo; і на санки. Переться в пральній машині. Шиємо в Миколаєві з 2011 року.</p>
 
@@ -244649,7 +244649,7 @@ SYSTEM "shops.dtd">
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
 <article>LT84146990</article>
-<name><![CDATA[Конверт Тренд на овчині Чорний (під замовлення) ДоРечі чорний (98213149)]]></name>
+<name><![CDATA[Конверт Тренд на овчине Черный (под заказ) ДоРечі черный (98213149)]]></name>
 <name_ua><![CDATA[Конверт Тренд на овчині Чорний (під замовлення) ДоРечі чорний (98213149)]]></name_ua>
 <description_ua><![CDATA[<p><strong>Під замовлення</strong>: товар шиє виробник, відправка орієнтовно через 15 робочих днів після оформлення замовлення.</p><p>Зимовий конверт у коляску Тренд на натуральній овчині (колір: Чорний) - для дітей від 6 місяців до 3 років, для прогулянок від +5 до -20 &deg;C: у прогулянкову коляску, сидіння типу &laquo;кокон&raquo;, люльку та на санки. Шиємо в Миколаєві з 2011 року.</p>
 

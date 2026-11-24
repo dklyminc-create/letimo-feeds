@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 05:38">
+<yml_catalog date="2026-11-24 06:10">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -20763,7 +20763,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Трикотаж з утепленням капітоне; утеплювач: Силіконізований синтепон</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="1399" available="true">
+   <offer id="1399" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1105</categoryId>
 <vendor>MagBaby</vendor>
@@ -20772,7 +20772,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Євро пелюшка  Kappi  світло-рожева на блискавці   тепла пелюшка-кокон із капітону для прохолодної пори.</p><h3>Що важливо</h3><ul><li>Капітон: два шари стьобаного трикотажу з тонким шаром синтепону.</li><li>Застібка: блискавка.</li><li>Шапочка в комплекті.</li><li>Гріє, не перегріваючи.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> утеплений кокон зручний восени й узимку.</p>]]></description_ua>
 <price>893</price>
 <price_old>893</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/50/59313350801006_%2B1c6d6a482a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/yevro-peliushka-na-blyskavtsi-z-shapochkoiu-kappi-svitlo-rozheva-3-6-mis-56700644312806_%2Bc08e6bf547.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/yevro-peliushka-na-blyskavtsi-z-shapochkoiu-kappi-svitlo-rozheva-3-6-mis-31740941810319_%2Bcc68115f65.jpg</picture>
@@ -34954,7 +34954,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Триниточний трикотаж з начосом: 70% бавовна, 30% поліестер Оздоблення - стрейтч-кулірний трикотаж: 95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="2192" available="true">
+   <offer id="2192" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1109</categoryId>
 <vendor>MagBaby</vendor>
@@ -34963,7 +34963,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Костюм &laquo;Brave&raquo; на флісі &mdash; теплий комплект для похмурої погоди.</p>    <h3>Що важливо</h3>    <ul>   <li>Тринитка з начосом &mdash; міцна й тепла.</li>   <li>Подовжена спинка кофти, кишені на кофті й штанах.</li>   <li>Подвійний капюшон на бавовняній підкладці.</li>   <li>Утяжка по низу кофти.</li>  </ul>    <h3>Догляд</h3>    <p>Прати навиворіт при 30 &deg;C, сушити природним способом.</p>    <p><strong>Порада LETIMO:</strong> штанці з приспущеною матнею зручні для активних ігор.</p>  ]]></description_ua>
 <price>1990</price>
 <price_old>2488</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/43/42105406131863_%2Ba17e85b929.jpg</picture>
 <picture>https://letimo.com.ua/content/images/43/kostium-na-flisi-brave-temnyi-tash-110-4-5-roky-57730990146242_%2Bd1ea7a5255.jpg</picture>
 <picture>https://letimo.com.ua/content/images/43/kostium-na-flisi-brave-temnyi-tash-110-4-5-roky-84602387490906_%2B968bc8912c.jpg</picture>
@@ -39023,7 +39023,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Водонепроникна плащівка: 100% поліестер; підкладка: Фліс та плащова тканина: 100% поліестер; утеплювач: Холософт</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="2447" available="true">
+   <offer id="2447" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
 <vendor>MagBaby</vendor>
@@ -39032,7 +39032,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Термокомбінезон  Nord    зимовий комбінезон із водонепроникної плащової тканини.</p><h3>Що важливо</h3><ul><li>Водонепроникна плащівка, бруд витирається ганчіркою.</li><li>Посилені коліна й сідниці   для гірок і снігу.</li><li>Для активних зимових прогулянок.</li><li>Утеплений для холодної пори.</li></ul><h3>Догляд</h3><p>Протирайте вологою губкою; прати за потреби при 30  C засобом для мембранних тканин.</p><p><strong>Порада LETIMO:</strong> під термокомбінезон вдягайте бавовняний нижній шар і фліс.</p>]]></description_ua>
 <price>4950</price>
 <price_old>6601</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/48/18817232329324_%2B7e5b22733f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/termokombinezon-nord-malynovyi-104-3-4-roky-17149873675105_%2B7ef03a831d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/termokombinezon-nord-malynovyi-104-3-4-roky-87273718832470_%2Bc6e7419f7d.jpg</picture>
@@ -51002,7 +51002,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">100% бавовна, еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="3055" available="true">
+   <offer id="3055" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11001</categoryId>
 <vendor>MagBaby</vendor>
@@ -51011,7 +51011,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Потрійний сет трусиків  Marco  для хлопчиків   три пари трусиків-боксерів з м'якого стрейч-куліру.</p><h3>Що важливо</h3><ul><li>Стрейч-кулір: 95% бавовна, 5% еластан.</li><li>Шкіра дихає, без подразнень і перегріву.</li><li>Еластичні й зносостійкі.</li><li>Яскраві кольори.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> трусиків краще мати кілька пар на зміну.</p>]]></description_ua>
 <price>1020</price>
 <price_old>1020</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/6/37984574543893_%2Bfed17292eb.jpg</picture>
 <picture>https://letimo.com.ua/content/images/6/potriinyi-set-trusykiv-marco-syzyi-98-2-3-roky-27627624440705_%2Bdf634879bd.jpg</picture>
 <param name="Колір">сіро-голубий</param>
@@ -69141,7 +69141,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Плащова тканина та штучне хутро; підкладка: Фліс та підкладочна тканина; утеплювач: G-loft (штучний пух)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="3979" available="true">
+   <offer id="3979" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1135</categoryId>
 <vendor>MagBaby</vendor>
@@ -69150,7 +69150,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Зимовий комбінезон  Baloo  з вушками   схожий на комплект куртки й штанів.</p><h3>Що важливо</h3><ul><li>Верх із м'якого хутра тедді.</li><li>Низ із плащової тканини, захищає від снігу й вологи.</li><li>Утеплений для зими.</li><li>Капюшон із вушками.</li></ul><h3>Догляд</h3><p>Плащівку протирайте вологою губкою; прати при 30  C у делікатному режимі.</p><p><strong>Порада LETIMO:</strong> пасує до хутряної шапки  Baloo .</p>]]></description_ua>
 <price>5676</price>
 <price_old>5676</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/30/30156561137308_%2Bf6c9bbc0eb.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/kombinezon-baloo-chornyi-74-6-9-mis.-35880105846711_%2B2c540a009e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/kombinezon-baloo-chornyi-74-6-9-mis.-33132140950093_%2B644d8f27f9.jpg</picture>
@@ -81247,7 +81247,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">100% бавовна з начосом</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="4625" available="true">
+   <offer id="4625" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1110</categoryId>
 <vendor>MagBaby</vendor>
@@ -81256,7 +81256,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Утеплений комплект у пологовий  Cozy  з боді   м'який теплий комплект на перші дні після народження.</p><h3>Що важливо</h3><ul><li>Склад: 100% бавовна.</li><li>Боді та інші речі першого гардеробу.</li><li>Легкий доступ до пупкової ранки   тканина її не торкається.</li><li>Розрахований на перші дні малюка.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> покладіть комплект у сумку в пологовий.</p>]]></description_ua>
 <price>1342</price>
 <price_old>1342</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/26/67268068373957_%2Bec3f2e0b47.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/50682978267393_%2B5f0ab6de03.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/66510694224989_%2Bc503e9ca52.jpg</picture>
@@ -90585,7 +90585,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон, пластик</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="5139" available="true">
+   <offer id="5139" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1144</categoryId>
 <vendor>MagBaby</vendor>
@@ -90594,7 +90594,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Тримач для пустушки та гризуна  Simply    пустушка завжди під рукою.</p><h3>Що важливо</h3><ul><li>Кліпса кріпиться до одягу.</li><li>Пустушка не падає на підлогу.</li><li>Підходить і для гризунця.</li><li>Зручно вдома й у дорозі.</li></ul><h3>Догляд</h3><p>Промивайте теплою водою з м'яким засобом.</p><p><strong>Порада LETIMO:</strong> регулярно перевіряйте кріплення і використовуйте лише під наглядом дорослих.</p>]]></description_ua>
 <price>410</price>
 <price_old>410</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/40/51090580297244_%2Bdab8f188ea.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/52603727657761_%2B3e7ade61fe.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/18108564106123_%2B1f1ef2a69b.jpg</picture>
