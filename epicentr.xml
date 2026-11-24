@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 10:11">
+<yml_catalog date="2026-11-24 10:39">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -69950,33 +69950,6 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
 </offer>
-<offer id="TALVI-03383-89307" available="true">
-<price>437</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">Манішка з флісом «Кріпер», кавовий, 48–54 см</name>
-<name lang="ru">Монишка с флисом «Крипер», кофейный, 48–54 см</name>
-<picture>https://letimo.com.ua/content/images/13/52447881019374_+c7c34c57b0.jpg</picture>
-<picture>https://letimo.com.ua/content/images/13/71243507042258_+c7b5823314.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Манішка з флісом  Кріпер &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Тепла манішка з тематичним дизайном Minecraft&lt;/li&gt;&lt;li&gt;Щільна в'язка + додатково утеплена шаром флісу по всій грудині&lt;/li&gt;&lt;li&gt;Горловина вив'язана в щільний рубчик, що забезпечує її еластичність&lt;/li&gt;&lt;li&gt;Підійде на холодну осінь-зиму&lt;/li&gt;&lt;li&gt;Орієнтовно на вік від 3-х років, а також підліткам з окружністю голівки до 54 см&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)&lt;/li&gt;&lt;li&gt;Розміри: 48 54 см&lt;/li&gt;&lt;li&gt;Кольори: Світлий хакі, Гірчиця, Бежевий, Світло-сірий меланж, Кавовий, Світло-сірий, Світлий джинс, Індиго, Темно-сірий меланж&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Кріпер]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
-<param name="Вид" paramcode="51" valuecode="7605de52577c595cca63e90605f81848">манишка</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de5129e0,gaslt0maz3oaouua">акрил,вовна,поліестер</param>
-<param name="Розмір" paramcode="2293" valuecode="5ab93a3fffbac7a75f7a7b32ba31f11b">48-50</param>
-<param name="Колір виробника" paramcode="78" valuecode="zkpqfywqduirb8ow">кавовий</param>
-<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
 <offer id="TALVI-03383-84603" available="true">
 <price>437</price>
 <category code="2418">Шарфи і снуди дитячі</category>
@@ -77712,30 +77685,6 @@
 <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd,59518e603789c">унісекс,дитячі</param>
 <param lang="ua" paramcode="7286" name="Розмір виробника">Універсальний</param>
 <param name="Колір виробника" paramcode="78" valuecode="5uooq3p5">червоний</param>
-</offer>
-<offer id="TALVI-02527-81145" available="true">
-<price>420</price>
-<category code="5399">Головні убори</category>
-<attribute_set code="5399">Головні убори</attribute_set>
-<name lang="ua">Комплект демісезонний «Фейт», пудра, Універсальний</name>
-<name lang="ru">Комплект демисезонный «Фейт», пудра, Универсальный</name>
-<picture>https://letimo.com.ua/content/images/39/38861269268526_+0374b10b23.jpg</picture>
-<picture>https://letimo.com.ua/content/images/39/25113377509880_+9183401ff5.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Комплект демісезонний  Фейт &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Подвійний комплект з м'якої пряжі в універсальному розмірі&lt;/li&gt;&lt;li&gt;Відворот на шапці не пришитий, тож висоту (глибину) шапки можна регулювати за зручністю&lt;/li&gt;&lt;li&gt;Підійде діткам від 2-х рочків, а також підліткам та дорослим&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: віскоза 52%, еластан 26%, нейлон 22%&lt;/li&gt;&lt;li&gt;Розміри (обхват голови): Універсальний&lt;/li&gt;&lt;li&gt;Кольори: М'ята, Лавандовий, Світлий жовтий, Світло-рожевий, Темна пудра, Червоний, Пудра, Бордовий, Темно-сірий, Білий, Молочний, Блакитний, Чорний, Капучіно, Сірий, Помаранчевий, Індиго, Світлий беж, Світло-сірий, Бежевий, Гірчичний, Джинс, Світлий хакі, Кава, Персикова пудра, Темно-синій, Хакі, Світла пудра, Рожевий, Малиновий, Коричневий&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Фейт]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">віскоза 52%, еластан 26%, нейлон 22%</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511b68,59474de512e74,59474de5130ad">нейлон,віскоза,еластан</param>
-<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd,59518e603789c">унісекс,дитячі</param>
-<param lang="ua" paramcode="7286" name="Розмір виробника">Універсальний</param>
-<param name="Колір виробника" paramcode="78" valuecode="g20kusvhgpe2qitv">пудра</param>
 </offer>
 <offer id="TALVI-01758-81743" available="true">
 <price>218</price>
@@ -173543,30 +173492,6 @@
 <param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
 <param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
 <param name="Колір виробника" paramcode="78" valuecode="596687299a86c">світлий беж</param>
-<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,осінь</param>
-<param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
-</offer>
-<offer id="TALVI-03315-87566" available="true">
-<price>391</price>
-<category code="2418">Шарфи і снуди дитячі</category>
-<attribute_set code="2418">Шарфи і снуди дитячі</attribute_set>
-<name lang="ua">В'язана бандана-шарф «Чойсі», сірий, Універсальний</name>
-<picture>https://letimo.com.ua/content/images/12/76663481536014_+1af3b8ea08.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/38259647069705_+34c26a4e56.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;В'язана бандана-шарф  Чойсі &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Стильна та м яка бандана для малюків, виготовлена з пряжі преміальної якості&lt;/li&gt;&lt;li&gt;Завдяки спеціальному отвору для фіксації вона легко одягається, надійно тримається і не здавлює шию&lt;/li&gt;&lt;li&gt;Розміри: 60*28 см (допустима розбіжність +-3 см)&lt;/li&gt;&lt;li&gt;60 см   це довжина верхнього краю (що обгортає шию),&lt;/li&gt;&lt;li&gt;28 см   висота трикутника від горла до нижнього краю (вниз на грудях)&lt;/li&gt;&lt;li&gt;UNISEX&lt;/li&gt;&lt;li&gt;Буде чудовим аксесуаром на будь яку прохолодну пору року&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Розміри: Універсальний&lt;/li&gt;&lt;li&gt;Кольори: Білий, Світла пудра, Чорний, Коричневий, Молочний, Світло-сірий, Світлий беж, Сірий, Рожевий, Бежевий, Світлий хакі, Світло-рожевий, Кава, Темна пудра, Лавандовий, Пудра&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Чойсі]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50bcb8">шарф</param>
-<param name="Розмір" paramcode="2293" valuecode="kjz9ox5mxb3c8z0y">one size</param>
-<param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,осінь</param>
 <param name="Стать" paramcode="2469" valuecode="59474de517e96,59474de517f3e">для дівчаток,для хлопчиків</param>
 </offer>
