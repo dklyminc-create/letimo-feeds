@@ -1105,10 +1105,17 @@ const DR_CATS = {
 // 22.11.2026 (Дмитро): у фіді постачальника такі товари available="true", а в онлайн-прайсі — «очікується» + строк пошиття.
 // На маркетплейсах позначаємо їх «(під замовлення)» у назві + строк в описі (як Talvi-дроп). Якщо товар є в нас (SalesDrive > 0) — не позначаємо.
 const DR_MTO_ = {};
+// 24.11.2026 (Дмитро): конверти «Тренд», у яких у таблиці ДоРечі залишок 0 (або менше), — теж «під замовлення»,
+// навіть якщо фід постачальника каже «немає»: такі вмикаємо в наявність на маркетплейсах (к-сть 1) з позначкою.
+const DR_MTO_ON_ = {};
 function drMtoMark_(o) {
   const art = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*(DR-[^<\]\s]+)/) || [])[1];
-  if (!art || !Object.prototype.hasOwnProperty.call(DR_MTO_, art) || !/available="true"/.test(o.slice(0, 300))) return o;
+  if (!art || !Object.prototype.hasOwnProperty.call(DR_MTO_, art)) return o;
   const sd = sdStock_(); if (sd && sd[art] > 0) return o;
+  if (!/available="true"/.test(o.slice(0, 300))) {
+    if (!DR_MTO_ON_[art]) return o;
+    o = o.replace(/available="false"/, 'available="true"').replace(/<quantity_in_stock>[^<]*<\/quantity_in_stock>/, '<quantity_in_stock>1</quantity_in_stock>');
+  }
   const lt = DR_MTO_[art];
   const note = '<p><strong>Під замовлення</strong>: товар шиє виробник, відправка орієнтовно через ' + (lt || '5–15 робочих днів') + ' після оформлення замовлення.</p>';
   return o.replace(/(<name(?:_ua)?><!\[CDATA\[)([\s\S]*?)(\]\]>)/g, function (a, x, n, y) { return /під замовлення/i.test(n) ? a : x + n.trim() + ' (під замовлення)' + y; })
@@ -1237,6 +1244,7 @@ function drOffers_() {
     groupsSeen[gid] = 1;
     const drArt = 'DR-' + key.replace(/[\s\/]+/g, '-');
     if (/очіку/.test(p.av || '')) DR_MTO_[drArt] = p.lt || ''; // 22.11.2026: у прайсі ДоРечі «очікується» = шиють під замовлення
+    if (/^\s*Тренд/i.test(p.name || '') && !(p.st > 0)) { if (!DR_MTO_[drArt]) DR_MTO_[drArt] = p.lt || '15 робочих днів'; DR_MTO_ON_[drArt] = 1; } // 24.11.2026: «Тренд» з нулем у таблиці — під замовлення
     let id = 90000000 + drHash_(drArt); while (ids[id]) id++; ids[id] = 1;
     const sizeTxt = /^\d{2,3}([\/\-]\d{2,3})?$/.test(size) ? size + ' см' : size;
     const fullName = (name + (sizeTxt ? ' ' + sizeTxt : '')).replace(/\]\]>/g, '');
