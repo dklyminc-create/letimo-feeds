@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 19:11">
+<yml_catalog date="2026-11-24 19:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -35368,7 +35368,7 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="2215" available="true">
+   <offer id="2215" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1124</categoryId>
 <vendor>MagBaby</vendor>
@@ -35377,7 +35377,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Лонгслів  Pictures  з принтом   базова річ на цілий рік.</p><h3>Що важливо</h3><ul><li>Кулір із натуральної бавовни.</li><li>Пропускає повітря, не парить.</li><li>Тонкий, але не просвічується.</li><li>Підходить для садочка й прогулянок.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> лонгслів зручно вдягати як перший шар.</p>]]></description_ua>
 <price>460</price>
 <price_old>613</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/16/25112973625051_%2B4eea7266c7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/lonhsliv-pictures-slonova-kistka2215-17576919891848_%2Be989f88651.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/lonhsliv-pictures-slonova-kistka2215-38661128427662_%2B16f4cc2d04.jpg</picture>
@@ -38787,7 +38787,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">поліестер 100%</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="2437" available="true">
+   <offer id="2437" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
 <vendor>MagBaby</vendor>
@@ -38796,7 +38796,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Термокомбінезон  Nord    зимовий комбінезон із водонепроникної плащової тканини.</p><h3>Що важливо</h3><ul><li>Водонепроникна плащівка, бруд витирається ганчіркою.</li><li>Посилені коліна й сідниці   для гірок і снігу.</li><li>Для активних зимових прогулянок.</li><li>Утеплений для холодної пори.</li></ul><h3>Догляд</h3><p>Протирайте вологою губкою; прати за потреби при 30  C засобом для мембранних тканин.</p><p><strong>Порада LETIMO:</strong> під термокомбінезон вдягайте бавовняний нижній шар і фліс.</p>]]></description_ua>
 <price>4950</price>
 <price_old>6601</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/38/51038679611066_%2B87fa73627d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/termokombinezon-nord-mokko-80-9-12-mis.-57740716223046_%2Bd0cf3a1fa7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/termokombinezon-nord-mokko-80-9-12-mis.-87157497256246_%2B738d45720d.jpg</picture>
@@ -88457,7 +88457,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="5025" available="true">
+   <offer id="5025" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1133</categoryId>
 <vendor>MagBaby</vendor>
@@ -88466,7 +88466,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Набір столових приборів  Metal  для дітей, які вже їдять самостійно.</p><h3>Що важливо</h3><ul><li>Легкі, зручно лежать у руці.</li><li>Не ковзають.</li><li>Ніж адаптований для дітей.</li><li>Як у дорослих.</li></ul><h3>Догляд</h3><p>Перед першим використанням і після кожного промивайте теплою водою з м'яким засобом, сушіть на повітрі.</p><p><strong>Порада LETIMO:</strong> використовуйте ніж під наглядом дорослих.</p>]]></description_ua>
 <price>726</price>
 <price_old>726</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/26/70601519053824_%2B59c610ab4d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/49794471415862_%2Bd91fcebb3a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/18824976606387_%2Bdb3c26e8c5.jpg</picture>

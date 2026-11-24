@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 19:11">
+<yml_catalog date="2026-11-24 19:40">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -42966,7 +42966,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">104см</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="2215" available="true">
+   <offer id="2215" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1124</categoryId>
 <vendor>MagBaby</vendor>
@@ -42977,7 +42977,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Лонгслив Pictures с принтом базовая вещь на круглый год.</p><h3> Что важно</h3><ul><li> Кулир из натурального хлопка.</li><li> Пропускает воздух, не парит.</li><li> Тонкий, но не просвечивающийся.</li><li> Подходит для садика и прогулок.</li></ul><h3> Уход</h3><p> Стирать при 30 40 C, сушить естественным способом.</p><p> <strong>Совет:</strong> лонгслив удобно одевать как первый слой.</p>]]></description>
 <price>460</price>
 <price_old>613</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/16/25112973625051_%2B4eea7266c7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/lonhsliv-pictures-slonova-kistka2215-17576919891848_%2Be989f88651.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/lonhsliv-pictures-slonova-kistka2215-38661128427662_%2B16f4cc2d04.jpg</picture>
@@ -47065,7 +47065,7 @@ SYSTEM "shops.dtd">
 <param name="Хутряна обробка">True</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="2437" available="true">
+   <offer id="2437" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
 <vendor>MagBaby</vendor>
@@ -47076,7 +47076,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Термокомбинезон Nord зимний комбинезон из водонепроницаемой плащевки.</p><h3> Что важно</h3><ul><li> Водонепроницаемая плащевка, грязь вытирается тряпкой.</li><li> Усиленные колени и ягодицы для горок и снега.</li><li> Для активных зимних прогулок.</li><li> Утепленный для холодного времени.</li></ul><h3> Уход</h3><p> Протирайте влажной губкой; стирать при необходимости при 30 C средством для мембранных тканей.</p><p> <strong>Совет:</strong> под термокомбинезон надевайте хлопковый нижний слой и флис.</p>]]></description>
 <price>4950</price>
 <price_old>6601</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/38/51038679611066_%2B87fa73627d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/termokombinezon-nord-mokko-80-9-12-mis.-57740716223046_%2Bd0cf3a1fa7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/termokombinezon-nord-mokko-80-9-12-mis.-87157497256246_%2B738d45720d.jpg</picture>
@@ -108365,7 +108365,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="5025" available="true">
+   <offer id="5025" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1133</categoryId>
 <vendor>MagBaby</vendor>
@@ -108376,7 +108376,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Набор столовых приборов Metal для детей, которые едят самостоятельно.</p><h3> Что важно</h3><ul><li> Легкие, удобно лежащие в руке.</li><li> Не скользят.</li><li> Нож адаптирован для детей.</li><li> Как у взрослых.</li></ul><h3> Уход</h3><p> Перед первым использованием и после каждого промывайте теплой водой с мягким средством, сушите на воздухе.</p><p> <strong>Совет:</strong> используйте нож под наблюдением взрослых.</p>]]></description>
 <price>726</price>
 <price_old>726</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/26/70601519053824_%2B59c610ab4d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/49794471415862_%2Bd91fcebb3a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/18824976606387_%2Bdb3c26e8c5.jpg</picture>
