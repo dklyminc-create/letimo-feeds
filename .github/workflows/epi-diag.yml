@@ -1,5 +1,7 @@
-name: Діагностика довідників Епіцентру (разова)
+name: Довідники Епіцентру й характеристики іграшок Kiddisvit
 on:
+  schedule:
+    - cron: '17 1 * * *'   # щоночі: дочитати нові картки Kiddisvit (довідники Епіцентру — раз на 7 днів)
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -9,7 +11,7 @@ permissions:
 jobs:
   diag:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 58
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 1 }
@@ -28,5 +30,5 @@ jobs:
           git config user.name "letimo-feeds-bot"
           git config user.email "feeds-bot@users.noreply.github.com"
           for f in _diag/epi-allsets.json _diag/epi-toysets.json _data/epi-brands.json _data/epi-countries.json _data/kd-chars.json; do [ -f "$f" ] && git add -- "$f"; done
-          git commit -m "diag: довідники Епіцентру для іграшок" || exit 0
+          git commit -m "kd-chars / довідники Епіцентру $(TZ=Europe/Kyiv date '+%Y-%m-%d %H:%M')" || exit 0
           for i in 1 2 3 4 5; do git push && exit 0; git pull --rebase --autostash -X theirs || true; sleep $((i*5)); done

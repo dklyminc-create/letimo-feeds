@@ -2646,6 +2646,14 @@ function buildEpicentr_(mode, from) {
     const tvArt_ = (epiTag_(body, 'vendorCode').text || '').trim();
     const tvR_ = /^TALVI-/.test(tvArt_) ? tvDropEpiRule_(cat, nl, (body.match(/<param name="Розмір">([^<]*)</) || [])[1] || '') : undefined; // 04.11.2026 Talvi-дроп
     if (tvR_ === false) { const kk = 'Talvi ' + cat + ' (немає відповідника в Епіцентрі)'; rep.noRule[kk] = (rep.noRule[kk] || 0) + 1; return all; }
+    if (TOY_CATS.indexOf(cat) >= 0) { // 24.11.2026: іграшки Kiddisvit — окремі правила (epiToyOffer_)
+      const tArt = epiTag_(body, 'vendorCode').text.trim(), tPrice = tArt && kdMpPrice_(tArt, MP_MARKUP.epicentr);
+      const tr = tArt && tPrice ? epiToyOffer_(cat, nameUa, body, attrs, tArt, tPrice, countryUkr) : null;
+      if (!tr) { const k = cat + ' ' + (!tArt ? 'немає артикула' : !tPrice ? 'немає в дилерському прайсі Kiddisvit' : nameUa.split(/\s+/).slice(0, 2).join(' ')); rep.noRule[k] = (rep.noRule[k] || 0) + 1; return all; }
+      const TR = rep.bySet[tr.set[2]] = rep.bySet[tr.set[2]] || { title: tr.set[3], ok: 0, skip: {} };
+      if (tr.skip) { const why = tr.skip.length > 120 ? tr.skip.slice(0, 120) : tr.skip; TR.skip[why] = (TR.skip[why] || 0) + 1; rep.samples = rep.samples || {}; const sk = tr.set[3] + ' / ' + why; rep.samples[sk] = rep.samples[sk] || []; if (rep.samples[sk].length < 3) rep.samples[sk].push(tArt + ' ' + nameUa.slice(0, 60)); return all; }
+      out.push(tr.offer); TR.ok++; rep.ok++; return all;
+    }
     const rule = tvR_ || EPI_RULES.filter(function (r) { return r[0] === cat && r[1].test(nl); })[0];
     if (!rule || !rule[2]) { const k = cat + ' ' + nameUa.split(/\s+/).slice(0, 2).join(' '); rep.noRule[k] = (rep.noRule[k] || 0) + 1; return all; }
     const S = rule[2];
@@ -3861,4 +3869,191 @@ function mbPresenceInstall() {
 function drPresenceInstall() {
   ScriptApp.getProjectTriggers().filter(function (t) { return t.getHandlerFunction() === 'drPresenceSync'; }).forEach(function (t) { ScriptApp.deleteTrigger(t); });
   ScriptApp.newTrigger('drPresenceSync').timeBased().everyHours(1).create();
+}
+
+// ================== 24.11.2026: ІГРАШКИ KIDDISVIT (розділ сайту 1170–1181) → Епіцентр ==================
+// Раніше для 1170–1181 не було правил у EPI_RULES, і фід пропускав усі іграшки. Ціна — як і була: дроп Kiddisvit × 2 + 15% (kdMpPrice_).
+// Дані для обов'язкових полів: _data/kd-chars.json (характеристики з карток kiddisvit.ua: країна, матеріал, вік, стать, габарити),
+// назва й опис товару. Бренд — код з довідника Епіцентру (_data/epi-brands.json). Країна — лише з картки Kiddisvit (без вгадування).
+// Якщо обов'язкове поле нічим підтвердити — товар пропускається, причина йде у звіт (як і для одягу).
+// Колір виробника: у Kiddisvit його майже ніде немає → беремо з картки/назви, інакше «різнокольоровий» (рішення 24.11.2026).
+// [категорія сайту, регулярка за назвою (нижній регістр), набір Епіцентру, назва набору, пакування]
+const EPI_TOY_RULES = [
+  ['1171', /./, '768', 'Іграшки для малюків', 'mid'],
+  ['1172', /одяг|взуття|сумк|візоч|візок|столик|ванночк|пляшечк|посуд|аксесуар|меблі|ліжечк|велосипед/, '783', 'Аксесуари для ляльок і пупсів', 'mid'],
+  ['1172', /пупс/, '781', 'Пупси', 'mid'],
+  ['1172', /./, '773', 'Ляльки', 'mid'],
+  ['1173', /./, '779', 'Дитячі ігрові фігурки', 'mid'],
+  ['1174', /р\/к|радіокер|на пульт|gesture|ks drive|off-road|bigfoot|spray|speed|metal/, '784', 'Радіокеровані іграшки', 'big'],
+  ['1174', /автомодел|модель|\b1:\d+/, '782', 'Масштабні моделі', 'mid'],
+  ['1174', /./, '778', 'Іграшкові машинки та техніка', 'mid'],
+  ['1175', /./, '775', "М'які іграшки", 'mid'],
+  ['1176', /./, '771', 'Інтерактивні іграшки', 'mid'],
+  ['1177', /./, '772', 'Конструктори', 'mid'],
+  ['1178', /пластилін|незасихаюч|маса для ліплення|тісто для/, '4904', 'Пластилін', 'mid'],
+  ['1178', /ігровий набір/, '777', 'Дитячі ігрові набори', 'mid'],
+  ['1179', /головоломк|rubik|кубик/, '6469', 'Головоломки', 'small'],
+  ['1179', /гра/, '770', 'Настільні ігри', 'mid'],
+  ['1181', /скарбничк|копилк/, '777', 'Дитячі ігрові набори', 'mid'],
+  ['1181', /фігурк|колекційна іграшка/, '779', 'Дитячі ігрові фігурки', 'mid'],
+  ['1181', /ігровий набір/, '777', 'Дитячі ігрові набори', 'mid'],
+  ['1180', /ігровий набір/, '777', 'Дитячі ігрові набори', 'mid']
+];
+const EPI_TOY_COUNTRY = { 'кнр': 'китай', 'китай': 'китай', "в'єтнам": "в'єтнам", 'вʼєтнам': "в'єтнам", 'японія': 'японія', 'італія': 'італія', 'швеція': 'швеція', 'індонезія': 'індонезія', 'таїланд': 'таїланд', 'тайвань': 'тайвань', 'бангладеш': 'бангладеш', 'україна': 'україна', 'німеччина': 'німеччина', 'польща': 'польща', 'індія': 'індія', 'малайзія': 'малайзія', 'туреччина': 'туреччина', 'іспанія': 'іспанія', 'франція': 'франція', 'чехія': 'чехія', 'данія': 'данія' };
+// Матеріал з картки Kiddisvit → значення довідника (беремо лише ті, що є в довіднику набору)
+const EPI_TOY_MAT = [[/вініл/, ['вініл']], [/полівінілхлорид|пвх|pvc/, ['пвх', 'pvc']], [/abs/, ['abs-пластик']], [/полімер/, ['полімерні матеріали', 'полімер']], [/пластик/, ['пластик']], [/метал|сплав цинку|zinc/, ['метал']], [/поліестер/, ['поліестер']], [/плюш/, ['плюш']], [/текстил|тканин/, ['текстиль', 'тканина']], [/дерев/, ['дерево']], [/картон/, ['картон']], [/папір/, ['папір']], [/силікон/, ['силікон']], [/гум(а|ов)/, ['гума']], [/бавовн/, ['бавовна']], [/комбінов/, ['комбінований']]];
+const EPI_TOY_COLOR = [[/різнокол|мульти|мульті|асорт/, 'різнокольоровий'], [/біл|белый/, 'білий'], [/чорн|черн/, 'чорний'], [/сір|сер(ый|ебр)/, 'сірий'], [/червон|красн/, 'червоний'], [/рожев|розов/, 'рожевий'], [/жовт|желт/, 'жовтий'], [/помаранч|оранж/, 'помаранчевий'], [/зелен/, 'зелений'], [/блакит|голуб/, 'блакитний'], [/син/, 'синій'], [/фіолет|фиолет|бузк/, 'фіолетовий'], [/корич/, 'коричневий'], [/беж/, 'бежевий'], [/срібл|серебр/, 'срібний']];
+
+let KD_CH_ = null, EPI_BR_ = null, EPI_CO_ = null;
+function epiToyGh_(file) { // файли цього ж репозиторію (у run.js читаються з диска)
+  try {
+    const p = PropertiesService.getScriptProperties();
+    const r = UrlFetchApp.fetch('https://api.github.com/repos/' + p.getProperty('GH_REPO') + '/contents/' + file + '?ref=' + GH_BRANCH,
+      { muteHttpExceptions: true, headers: { Authorization: 'Bearer ' + p.getProperty('GH_TOKEN'), Accept: 'application/vnd.github.raw' } });
+    if (r.getResponseCode() === 200) return JSON.parse(r.getContentText());
+    Logger.log('epiToy: ' + file + ' HTTP ' + r.getResponseCode());
+  } catch (e) { Logger.log('epiToy: ' + file + ' ' + e.message); }
+  return null;
+}
+function kdChars_() { if (!KD_CH_) KD_CH_ = ((epiToyGh_('_data/kd-chars.json') || {}).m) || {}; return KD_CH_; }
+function epiBrands_() { if (!EPI_BR_) EPI_BR_ = ((epiToyGh_('_data/epi-brands.json') || {}).m) || {}; return EPI_BR_; }
+function epiCountries_() { if (!EPI_CO_) EPI_CO_ = epiToyGh_('_data/epi-countries.json') || {}; return EPI_CO_; }
+// Бренди Kiddisvit, яких немає в довіднику Епіцентру під цією назвою (24.11.2026): назва в довіднику
+const EPI_TOY_BRAND_ALIAS = { 'qt bunnies': 'qt pets', 'qt puppies': 'qt pets', 'furreal': 'just play' }; // FurReal випускає Just Play
+function epiToyBrand_(v, nameUa) {
+  const b = epiBrands_(), s = String(v || '').replace(/&amp;/g, '&').toLowerCase().trim();
+  if (s === 'pets & robo alive') return b[/pets alive/i.test(nameUa || '') ? 'pets alive' : 'robo alive'] || null;
+  const cands = [s, s.replace(/[!.]+$/, ''), s.replace(/\s+/g, ' '), s.replace(/'/g, '’'), s.replace(/’/g, "'"), EPI_TOY_BRAND_ALIAS[s] || ''];
+  for (let i = 0; i < cands.length; i++) if (b[cands[i]]) return b[cands[i]];
+  return null;
+}
+function epiToyNum_(s) { const m = String(s || '').replace(',', '.').match(/\d+(\.\d+)?/); return m ? Number(m[0]) : 0; }
+// Висота іграшки, см: габарити іграшки з картки Kiddisvit (останнє число Ш×Д×В), або «(20 см)» у назві, або «розмір фігурки/іграшки … N см» в описі
+function epiToyHeight_(kd, nameUa, descText) {
+  const g = String((kd && kd['Габарити іграшки, см (Ш х Д х В)']) || '');
+  const gm = g.replace(/,/g, '.').match(/[\d.]+/g); if (gm && gm.length >= 3 && Number(gm[2]) > 0) return Math.round(Number(gm[2]) * 10) / 10;
+  const n = nameUa.match(/\((?:[^)]*?,\s*)?(\d+(?:[.,]\d+)?)\s*(?:см|cm)\)/i); if (n) return epiToyNum_(n[1]);
+  const d = String(descText || '').replace(/<[^>]+>/g, ' ').match(/(?:розмір|висота|зріст)[^.;]{0,40}?(\d+(?:[.,]\d+)?)\s*(?:см|cm)/i);
+  return d ? epiToyNum_(d[1]) : 0;
+}
+// Вік: «3 років - 16 років» (картка) або «від N років / місяців» (опис) → значення «від N років»
+function epiToyAge_(kd, descText, opts) {
+  let n = null, mon = false;
+  const k = String((kd && kd['Вік']) || '');
+  let m = k.match(/(\d+)\s*(міс|рок|рік|років)/i);
+  if (!m) m = String(descText || '').replace(/<[^>]+>/g, ' ').match(/від\s+(\d+(?:[,.]5)?)\s*(міс|рок|рік|років)/i);
+  if (!m) return [];
+  n = m[1].replace('.', ','); mon = /міс/i.test(m[2]);
+  const want = mon ? (n === '0' ? ['від народження'] : ['від ' + n + ' місяців', 'від ' + n + ' місяця', 'від ' + n + ' міс.']) : (n === '1' ? ['від 1 року'] : n === '1,5' ? ['від 1,5 року'] : ['від ' + n + ' років', 'від ' + n + ' року']);
+  if (!mon && Number(n) >= 1) want.push('від ' + (Number(n) * 12) + ' місяців');
+  const got = want.filter(function (w) { return opts[w]; }).slice(0, 1);
+  if (got.length) return got;
+  // немає точного значення — найближче менше «від N років» з довідника (ніколи не завищуємо вік)
+  const yrs = Number(mon ? Number(n) / 12 : Number(n.replace(',', '.')));
+  let best = null, bestV = -1;
+  Object.keys(opts).forEach(function (o) { const mm = o.match(/^від\s+(\d+(?:,5)?)\s*(рок|рік|рок|років|місяц)/); if (!mm) return; const v = /місяц/.test(mm[2]) ? Number(mm[1]) / 12 : Number(mm[1].replace(',', '.')); if (v <= yrs && v > bestV) { bestV = v; best = o; } if (o === 'від народження' && bestV < 0) { best = o; bestV = 0; } });
+  return best ? [best] : [];
+}
+function epiToySex_(kd, t) {
+  const s = String((kd && kd['Стать']) || '').toLowerCase();
+  if (/дівч/.test(s)) return 'g'; if (/хлопч/.test(s)) return 'b'; if (/обидв/.test(s)) return 'u';
+  return /для дівчат/.test(t) && !/хлопч/.test(t) ? 'g' : /для хлопч/.test(t) && !/дівч/.test(t) ? 'b' : 'u';
+}
+function epiToyColor_(kd, nl) {
+  const src = String((kd && kd['Колір']) || '').toLowerCase() + ' ' + ((nl.match(/\(([^)]*)\)/g) || []).join(' '));
+  const out = []; EPI_TOY_COLOR.forEach(function (r) { if (r[0].test(src) && out.indexOf(r[1]) < 0) out.push(r[1]); });
+  return out.length > 1 ? ['різнокольоровий'] : out.length ? out : ['різнокольоровий'];
+}
+function epiToyPick_(opts, list) { return list.filter(function (v) { return opts[v]; }); }
+// Значення за ключовими словами назви: [[регулярка, значення довідника], ...] — перше, що є в довіднику
+function epiToyKw_(t, opts, table) { for (let i = 0; i < table.length; i++) if (table[i][0].test(t) && opts[table[i][1]]) return [table[i][1]]; return []; }
+const EPI_TOY_KW = {
+  '11848': [[/сортер/, 'сортери'], [/пірамід/, 'пірамідки'], [/брязкальц/, 'брязкальця'], [/каталк/, 'каталки'], [/стрибун/, 'стрибуни'], [/кубик/, 'кубики'], [/музичн|піаніно/, 'музичні іграшки'], [/інтерактивн/, 'інтерактивні'], [/машинк|баттатомоб/, 'транспорт'], [/картк/, 'навчальні картки'], [/лабіринт/, 'лабіринти'], [/для купання|для ванн/, 'для купання'], [/бізікуб/, 'бізікуб'], [/пазл/, 'пазли'], [/неваляйк/, 'неваляйки'], [/./, 'розвиваючі']],
+  '11927': [[/аніме|anime/, 'аніме'], [/трансформер|screechers/, 'трансформери'], [/dinoster|динозавр|jurassic|dino\b/, 'динозаври'], [/godzilla|kong|монстр/, 'монстри'], [/ігровий набір|набір фігурок|набір ігрових|набір іграшк/, 'набори'], [/funko|tmnt|черепашк|peppa|пеппа|miraculous|леді баг|stitch|стіч|marvel|disney|гаррі поттер|harry potter|star wars|зоряні війни|бетмен|batman|людина-павук|spider|супергеро|minions|міньйон|sonic|соник|shrek|шрек/, 'герої мультфільмів і кіно'], [/fortnite|minecraft|roblox|pokemon|покемон|mario|маріо|game/, 'герої ігор']],
+  '4342': [[/колекційн|pop top|funko|mighty jaxx|monogram|hi toy/, 'колекційні'], [/./, 'ігрові']],
+  '11867': [[/набір/, 'лялькові набори'], [/./, 'ляльки']],
+  '4075': [[/набір|з аксесуар/, 'пупс з аксесуарами'], [/інтерактивн/, 'лялька інтерактивна'], [/./, 'пупс']],
+  '11454': [[/вантажівк|фур/, 'вантажівки'], [/мотоцикл/, 'мотоцикли'], [/автобус/, 'автобуси'], [/пожежн/, 'пожежні машини'], [/поліц/, 'поліцейські машини'], [/трактор/, 'трактори'], [/літак/, 'літаки'], [/позашлях|джип/, 'позашляховик'], [/автомодел|автомоб|модель/, 'автомобілі']],
+  '11949': [[/мотоцикл/, 'мотоцикли'], [/робот/, 'роботи'], [/танк/, 'танки'], [/літак/, 'літаки'], [/квадрокоптер|дрон/, 'квадрокоптери'], [/гелікоптер|вертоліт/, 'гелікоптери'], [/динозавр/, 'динозаври'], [/всюдихід|off-road|bigfoot|позашлях/, 'всюдиходи'], [/./, 'автомобілі']],
+  '11979': [[/bluetooth/, 'bluetooth'], [/wi-?fi/, 'wi-fi'], [/./, 'радіокерування']],
+  '11923': [[/трек/, 'автомобільні треки'], [/паркінг|гараж/, 'паркінги'], [/набір/, 'набори'], [/вантажівк/, 'вантажівки'], [/пожежн/, 'пожежні машини'], [/поліц/, 'поліцейські машини'], [/трансформер/, 'трансформери'], [/./, 'машинки']],
+  '11486': [[/брелок|на підвісі|з кільцем|ланцюжк/, 'брелоки'], [/сумк|рюкзак/, "м'які рюкзачки та сумочки"], [/подушк/, 'подушки'], [/./, 'тварини']],
+  '11485': [[/музичн|співа|звук/, 'з музичним супроводом'], [/./, 'без музичного супроводу']],
+  '11862': [[/електронн/, 'електронні конструктори'], [/румбокс|в капсул/, 'конструктори-румбокси'], [/магнітн/, 'магнітні конструктори'], [/дерев/, "дерев'яні конструктори"], [/сенсорн|м'як/, "м'які конструктори"], [/./, 'пластмасові конструктори']],
+  '4608': [[/космос|космічн|зорян|міжзорян/, 'космос'], [/електрон|схем/, 'наука'], [/робот/, 'роботи'], [/машин|авто/, 'машини'], [/динозавр/, 'динозаври'], [/тварин/, 'тварини'], [/будин|кімнат|румбокс|інтер/, "інтер'єри"], [/поліц/, 'поліція'], [/військ|армі|танк/, 'військові'], [/лицар|замок/, 'лицарі'], [/корабл|пірат/, 'кораблі'], [/комп'ютер|макінтош|retro/, "комп'ютери"], [/рослин|сад|природ/, 'природа']],
+  '50': [[/кубик|rubik/, 'кубик рубік'], [/куля|шар/, 'головоломка-шар'], [/лабіринт/, 'куля-лабіринт'], [/пластилін/, 'пластилін класичний'], [/незасихаюч|повітрян/, 'пластилін повітряний'], [/тісто/, 'тісто для ліплення'], [/слайм|лизун/, 'лизуни (слайми)']],
+  '11900': [[/скарбничк|копилк/, 'скарбнички'], [/сюрприз/, 'фігурки-сюрпризи'], [/слайм/, 'набори для прибирання'], [/кухн/, 'кухонні набори'], [/лікар/, 'набори лікаря'], [/інструмент/, 'набори інструментів'], [/бульбашк/, 'мильні бульбашки'], [/будиночок|будинок/, 'іграшкові будинки'], [/супермаркет|магазин|shopping/, 'супермаркет']],
+  '2479': [[/спорт|м'яч|бій|laser/, 'спортивні набори'], [/навчальн|пізнавальн/, 'навчальні набори'], [/антистрес/, 'антистрес'], [/./, 'розваги']]
+};
+// Обов'язкові поля набору → значення
+function epiToyVals_(a, S, opts, c) {
+  const n = String(a.n).toLowerCase(), code = a.c;
+  if (/^стать/.test(n)) return c.sex === 'b' ? epiToyPick_(opts, ['для хлопчика', 'для хлопчиків']) : c.sex === 'g' ? epiToyPick_(opts, ['для дівчинки', 'для дівчаток']) : epiToyPick_(opts, ['унісекс']);
+  if (/^вік дитини/.test(n)) return epiToyAge_(c.kd, c.desc, opts);
+  if (/^вікова група/.test(n)) return epiToyPick_(opts, ['для дітей']);
+  if (/^вікова категорія/.test(n)) return epiToyPick_(opts, ['діти']);
+  if (code === '78') return epiToyPick_(opts, c.colors).concat(epiToyPick_(opts, ['різнокольоровий', 'мульті', 'мультиколор'])).slice(0, 1);
+  if (code === '12097') return epiToyPick_(opts, c.colors).concat(epiToyPick_(opts, ['різнокольоровий'])).slice(0, 1);
+  if (code === '2481' || code === '52') { const out = []; EPI_TOY_MAT.forEach(function (r) { if (r[0].test(c.mat)) epiToyPick_(opts, r[1]).slice(0, 1).forEach(function (v) { if (out.indexOf(v) < 0) out.push(v); }); }); return out.length > 2 ? epiToyPick_(opts, ['комбінований']).concat(out.slice(0, 2)) : out; }
+  if (code === '11446') { const m = c.nl.match(/1:(\d+)/); return m && opts['1:' + m[1]] ? ['1:' + m[1]] : []; }
+  if (code === '2263') { const h = c.height; if (!h) return []; return epiToyPick_(opts, [h <= 20 ? 'до 20 см' : h <= 30 ? 'від 21 до 30 см' : h <= 50 ? 'від 31 до 50 см' : h <= 100 ? 'від 51 до 100 см' : 'від 100 см і більше']); }
+  if (code === '2450') { return Object.keys(opts).filter(function (o) { return o.length >= 3 && epiWordRx_(o).test(c.nl); }).slice(0, 1); }
+  if (code === '2479' && S === '770') return epiToyKw_(c.t, opts, [[/наук|science/, 'наука'], [/тварин/, 'тварини'], [/космос/, 'космос'], [/./, 'розваги']]);
+  if (code === '11781') return epiToyKw_(c.t, opts, [[/пізнавальн|brainbox|наук/, 'пізнавальні ігри'], [/стратег/, 'стратегічні ігри'], [/./, 'розважальні ігри']]);
+  if (code === '4845') return epiToyKw_(c.t, opts, [[/для одного|1 гравц/, 'для одного'], [/для двох|2 гравц/, 'для двох'], [/./, 'для компанії']]);
+  if (EPI_TOY_KW[code]) return epiToyKw_(c.nl + ' ' + c.vendor, opts, EPI_TOY_KW[code]);
+  // інше: значення, яке дослівно є в назві
+  return Object.keys(opts).filter(function (o) { return o.length >= 4 && c.nl.indexOf(o) > -1 && epiWordRx_(o).test(c.nl); }).slice(0, 2);
+}
+// Повертає { offer } або { skip: причина } або null (немає правила)
+function epiToyOffer_(cat, nameUa, body, attrs, art, price, countryUkr) {
+  const nl = nameUa.toLowerCase();
+  const rule = EPI_TOY_RULES.filter(function (r) { return r[0] === cat && r[1].test(nl); })[0];
+  if (!rule) return null;
+  const S = rule[2], kd = kdChars_()[art] || null;
+  const vendor = epiTag_(body, 'vendor').text.replace(/&amp;/g, '&').trim();
+  const bcode = epiToyBrand_(vendor, nameUa); if (!bcode) return { set: rule, skip: 'бренду немає в довіднику Епіцентру: ' + vendor };
+  if (!kd) return { set: rule, skip: 'немає характеристик з картки Kiddisvit' };
+  const cKey = EPI_TOY_COUNTRY[String(kd['Страна происхождения'] || '').toLowerCase().replace(/[’ʼ]/g, "'").trim()];
+  const cCode = cKey && epiCountries_()[cKey]; if (!cCode) return { set: rule, skip: 'країна: ' + (kd['Страна происхождения'] || 'немає') };
+  const descText = epiTag_(body, 'description_ua').text || epiTag_(body, 'description').text;
+  const t = (nameUa + ' ' + descText.replace(/<[^>]+>/g, ' ')).toLowerCase();
+  const c = { kd: kd, nl: nl, t: t, desc: descText, vendor: vendor.toLowerCase(), sex: epiToySex_(kd, t), colors: epiToyColor_(kd, nl), mat: String(kd['Материал'] || '').toLowerCase(), height: epiToyHeight_(kd, nameUa, descText) };
+  const parts = [], miss = [];
+  let list; try { list = epiSetAttrs_(S); } catch (e) { return { set: rule, skip: 'API: ' + e.message }; }
+  list.forEach(function (a) {
+    if (EPI_SYS.indexOf(a.c) > -1 || !a.r) return;
+    if (a.t === 'float') {
+      let v = 0;
+      if (a.c === '110') v = c.height;
+      else if (a.c === '2271' || a.c === '11447') v = epiToyNum_((nl.match(/(\d+)\s*(?:дет|елемент)/) || [])[1] || (t.match(/(\d+)\s*(?:деталей|детал|елемент)/) || [])[1]);
+      if (v > 0) parts.push('<param name="' + xmlEsc_(a.n) + '" paramcode="' + a.c + '">' + v + '</param>'); else miss.push(a.n);
+      return;
+    }
+    if (a.t !== 'select' && a.t !== 'multiselect') { miss.push(a.n); return; }
+    let opts; try { opts = epiOptions_(S, a.c); } catch (e) { miss.push(a.n + ' (API)'); return; }
+    if (a.c === '7313') { const k = epiToyNum_((t.match(/(\d+)\s*(?:деталей|детал|елемент)/) || [])[1]); const v = !k ? '' : k <= 50 ? 'до 50' : k <= 100 ? 'від 51 до 100' : k <= 200 ? 'від 101 до 200' : k <= 400 ? 'від 201 до 400' : k <= 600 ? 'від 401 до 600' : k <= 1000 ? 'від 601 до 1000' : 'від 1001 і більше'; const p = v && epiParam_(a.n, a.c, opts, [v]); if (p) parts.push(p); else miss.push(a.n); return; }
+    const vals = epiToyVals_(a, S, opts, c);
+    const p = vals && vals.length ? epiParam_(a.n, a.c, opts, vals) : null;
+    if (p) parts.push(p); else miss.push(a.n);
+  });
+  if (miss.length) return { set: rule, skip: 'немає даних: ' + miss.join(', '), miss: miss };
+  // габарити упаковки з картки (см → мм); вага — за типом пакування
+  const pk = Object.assign({}, EPI_PACK[rule[4]] || EPI_PACK.mid);
+  const g = String(kd['Габарити упаковки, см (Ш х Д х В)'] || '').replace(/,/g, '.').match(/[\d.]+/g);
+  if (g && g.length >= 3 && g.every(function (x) { return Number(x) > 0; })) { pk.width = Math.round(g[0] * 10); pk.length = Math.round(g[1] * 10); pk.height = Math.round(g[2] * 10); }
+  let measure = ''; try { const mo = epiOptions_(S, 'measure'); const k = Object.keys(mo).filter(function (x) { return /^шт/.test(x); })[0]; if (k) measure = '<param name="Міра виміру" paramcode="measure" valuecode="' + mo[k] + '">' + xmlEsc_(k) + '</param>\n'; } catch (e) {}
+  const pics = (body.match(/<picture>[\s\S]*?<\/picture>/g) || []).slice(0, 15).join('\n');
+  const avail = /available="true"/.test(attrs) ? 'true' : 'false';
+  const desc = epiTag_(body, 'description_ua').raw || epiTag_(body, 'description').raw;
+  const ruN = epiTag_(body, 'name').text.trim();
+  const offer = '<offer id="' + xmlEsc_(art) + '" available="' + avail + '">\n<price>' + price + '</price>\n' +
+    '<category code="' + S + '">' + rule[3] + '</category>\n<attribute_set code="' + S + '">' + rule[3] + '</attribute_set>\n' +
+    '<name lang="ua">' + xmlEsc_(nameUa) + '</name>\n' + (ruN && ruN !== nameUa && !/[іїєґ]/i.test(ruN) ? '<name lang="ru">' + xmlEsc_(ruN) + '</name>\n' : '') + pics + '\n<description lang="ua">' + desc + '</description>\n' +
+    '<vendor code="' + bcode + '">' + xmlEsc_(vendor) + '</vendor>\n<country_of_origin code="' + cCode + '">' + xmlEsc_(cKey.charAt(0).toUpperCase() + cKey.slice(1)) + '</country_of_origin>\n' + measure +
+    '<param name="Мінімальна кратність товару" paramcode="ratio">1</param>\n' +
+    '<param name="Висота" paramcode="height">' + pk.height + '</param>\n<param name="Глибина" paramcode="length">' + pk.length + '</param>\n' +
+    '<param name="Ширина" paramcode="width">' + pk.width + '</param>\n<param name="Вага" paramcode="weight">' + pk.weight + '</param>\n' +
+    parts.join('\n') + '\n</offer>';
+  return { set: rule, offer: offer };
 }
