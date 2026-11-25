@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 13:40">
+<yml_catalog date="2026-11-25 14:12">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -41859,7 +41859,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Тринитка : 70% бавовна, 30% поліестер</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="2612" available="true">
+   <offer id="2612" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1109</categoryId>
 <vendor>MagBaby</vendor>
@@ -41868,7 +41868,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Костюм  Allar  з тринитки   для міжсезоння і під комбінезон узимку.</p><h3>Що важливо</h3><ul><li>Тринитка: 70% бавовна, 30% поліестер.</li><li>Кофта нестандартного крою з подовженою спинкою.</li><li>Свобода рухів.</li><li>Сучасні штани.</li></ul><h3>Догляд</h3><p>Прати навиворіт при 30  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> у холод вдягайте костюм під комбінезон.</p>]]></description_ua>
 <price>1484</price>
 <price_old>1484</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/13/72895084537608_%2B5bcc7d3568.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/kostium-allar-temnyi-tash-68-3-6-mis.-45862179219625_%2B625060e4f0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/kostium-allar-temnyi-tash-68-3-6-mis.-37235430305031_%2B1171926ae6.jpg</picture>
@@ -75910,7 +75910,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Полар-фліс</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="4370" available="true">
+   <offer id="4370" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1088</categoryId>
 <vendor>MagBaby</vendor>
@@ -75919,7 +75919,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Рукавиці  Mitten    зимові рукавиці, які не промокають і не продувають.</p><h3>Що важливо</h3><ul><li>Плащова тканина на мембрані зовні.</li><li>Усередині   полар-фліс.</li><li>Утеплювач   силіконізований синтепон.</li><li>Підходять для сніжних ігор.</li></ul><h3>Догляд</h3><p>Плащівку протирайте вологою губкою; прати при 30  C у делікатному режимі.</p><p><strong>Порада LETIMO:</strong> візьміть запасну пару на тривалі зимові прогулянки.</p>]]></description_ua>
 <price>1026</price>
 <price_old>1026</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/21/86476586858110_%2Bb4ea089b3d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/rukavytsi-mitten-chorni-3-4-roky-44997403100759_%2B03991ae6ff.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/rukavytsi-mitten-chorni-3-4-roky-49432616305927_%2Ba7c96095b4.jpg</picture>
@@ -77928,7 +77928,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">100% Бавовна - Кашкорсе</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="4468" available="true">
+   <offer id="4468" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>MagBaby</vendor>
@@ -77937,7 +77937,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>В'язані пінетки  Scales  зі шнурочками   демісезонні.</p><h3>Що важливо</h3><ul><li>Склад: 50% акрил, 50% бавовна.</li><li>Теплі й м'які.</li><li>Шнурочки фіксують на ніжці.</li><li>Кілька кольорів.</li></ul><h3>Догляд</h3><p>Делікатне прання при 30  C.</p><p><strong>Порада LETIMO:</strong> пінетки зручні з комбінезоном з відкритою стопою.</p>  <p><strong>Кольори:</strong> бежевий, молочний, сірий.<br><strong>Матеріал:</strong> 50% акрил, 50% бавовна.</p>]]></description_ua>
 <price>666</price>
 <price_old>666</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/19/55880337883186_%2B0a3fecaa20.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/pinetky-scales-bezhevi-0-6-mis.-37867871167977_%2Bf2a3d24e96.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/pinetky-scales-bezhevi-0-6-mis.-92516483270517_%2B8ead9cd83b.jpg</picture>
@@ -88254,7 +88254,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="5014" available="true">
+   <offer id="5014" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1133</categoryId>
 <vendor>MagBaby</vendor>
@@ -88263,7 +88263,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Силіконовий килимок  Simply  на стіл   для годування без безладу.</p><h3>Що важливо</h3><ul><li>Харчовий силікон.</li><li>Малюк може досліджувати їжу.</li><li>Швидко прибирається після їди.</li><li>Тримається на столі.</li></ul><h3>Догляд</h3><p>Перед першим використанням і після кожного промивайте теплою водою з м'яким засобом, сушіть на повітрі.</p><p><strong>Порада LETIMO:</strong> килимок зручний на час прикорму.</p>]]></description_ua>
 <price>652</price>
 <price_old>652</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/15/32446803199635_%2Bb4b4424e6c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/40412987200262_%2B93dd101f7e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/13372012218340_%2Bece9a4aca9.jpg</picture>

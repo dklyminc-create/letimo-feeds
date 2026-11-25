@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 13:40">
+<yml_catalog date="2026-11-25 14:13">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -50884,7 +50884,7 @@ SYSTEM "shops.dtd">
 <param name="Вид виробу">Костюм</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="2612" available="true">
+   <offer id="2612" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1109</categoryId>
 <vendor>MagBaby</vendor>
@@ -50895,7 +50895,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Костюм Allar из тринитки для межсезонья и под комбинезон зимой.</p><h3> Что важно</h3><ul><li> Тринитка: 70% хлопок, 30% полиэстер.</li><li> Кофта нестандартного кроя с удлиненной спинкой.</li><li> Свобода движений.</li><li> Современные брюки.</li></ul><h3> Уход</h3><p> Стирать наизнанку при 30 C, сушить естественным способом.</p><p> <strong>Совет:</strong> в холод надевайте костюм под комбинезон.</p>]]></description>
 <price>1484</price>
 <price_old>1484</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/13/72895084537608_%2B5bcc7d3568.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/kostium-allar-temnyi-tash-68-3-6-mis.-45862179219625_%2B625060e4f0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/kostium-allar-temnyi-tash-68-3-6-mis.-37235430305031_%2B1171926ae6.jpg</picture>
@@ -93201,7 +93201,7 @@ SYSTEM "shops.dtd">
 <param name="Матеріал підкладки">Фліс</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="4370" available="true">
+   <offer id="4370" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1088</categoryId>
 <vendor>MagBaby</vendor>
@@ -93212,7 +93212,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Перчатки Mitten зимние варежки, которые не промокают и не продувают.</p><h3> Что важно</h3><ul><li> Плащевая ткань на мембране снаружи.</li><li> Внутри полар-флис.</li><li> Утеплитель силиконизированный синтепон.</li><li> Подходят для снежных игр.</li></ul><h3> Уход</h3><p> Плащевку протирайте влажной губкой; стирать при 30 C в щекотливом режиме.</p><p> <strong>Совет:</strong> возьмите запасную пару на длительные зимние прогулки.</p>]]></description>
 <price>1026</price>
 <price_old>1026</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/21/86476586858110_%2Bb4ea089b3d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/rukavytsi-mitten-chorni-3-4-roky-44997403100759_%2B03991ae6ff.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/rukavytsi-mitten-chorni-3-4-roky-49432616305927_%2Ba7c96095b4.jpg</picture>
@@ -95704,7 +95704,7 @@ SYSTEM "shops.dtd">
 <param name="Стать">Унисекс</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="4468" available="true">
+   <offer id="4468" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>MagBaby</vendor>
@@ -95715,7 +95715,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Вязаные пинетки Scales со шнурочками демисезонные.</p><h3> Что важно</h3><ul><li> Состав: 50% акрил, 50% хлопок.</li><li> Теплые и мягкие.</li><li> Шнурочки фиксируют на ножке.</li><li> Несколько цветов.</li></ul><h3> Уход</h3><p> Деликатная стирка при 30 °C.</p><p> <strong>Совет:</strong> пинетки удобны с комбинезоном с открытой стопой.</p><p> <strong>Цвета:</strong> бежевый, молочный, серый.<br> <strong>Материал:</strong> 50% акрил, 50% хлопок.</p>]]></description>
 <price>666</price>
 <price_old>666</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/19/55880337883186_%2B0a3fecaa20.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/pinetky-scales-bezhevi-0-6-mis.-37867871167977_%2Bf2a3d24e96.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/pinetky-scales-bezhevi-0-6-mis.-92516483270517_%2B8ead9cd83b.jpg</picture>
@@ -108140,7 +108140,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Харчовий силікон</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="5014" available="true">
+   <offer id="5014" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1133</categoryId>
 <vendor>MagBaby</vendor>
@@ -108151,7 +108151,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Силиконовый коврик Simply на столе для кормления без беспорядка.</p><h3> Что важно</h3><ul><li> Пищевый силикон.</li><li> Малыш может исследовать еду.</li><li> Быстро убирается после еды.</li><li> Держится на столе.</li></ul><h3> Уход</h3><p> Перед первым использованием и после каждого промывайте теплой водой с мягким средством, сушите на воздухе.</p><p> <strong>Совет:</strong> коврик удобен на время прикорма.</p>]]></description>
 <price>652</price>
 <price_old>652</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/15/32446803199635_%2Bb4b4424e6c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/40412987200262_%2B93dd101f7e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/13372012218340_%2Bece9a4aca9.jpg</picture>
@@ -240812,7 +240812,7 @@ SYSTEM "shops.dtd">
 <categoryId>1095</categoryId>
 <vendor>MagBaby</vendor>
 <article>LT3639451-1ynmi</article>
-<name><![CDATA[Накидка для кормления с чехлом сумочкой, Цветы на синем. MagBaby (2616)]]></name>
+<name><![CDATA[Накидка для кормления с сумочкой чехлом MagBaby комбинированный (2616)]]></name>
 <name_ua><![CDATA[Накидка для годування із сумочкою чохлом MagBaby комбінований (2616)]]></name_ua>
 <description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
 <description><![CDATA[<p>Накидка для кормления с сумочкой-чехлом накидка, позволяющая спокойно кормить грудью на улице или в людном месте.</p><h3> Что важно</h3><ul><li> Легкая ткань, сквозь которую малыш дышит.</li><li> Чехол-сумочка удобно носить с собой.</li><li> Занимает мало места.</li><li> Можно использовать как легкое покрывало.</li></ul><h3> Уход</h3><p> Стирать при 30 40 C, сушить естественным способом.</p><p> <strong>Совет:</strong> накидка практичный подарок молодой маме.</p>]]></description>
@@ -240832,7 +240832,7 @@ SYSTEM "shops.dtd">
 <categoryId>1095</categoryId>
 <vendor>MagBaby</vendor>
 <article>LT3640451-ytf1j</article>
-<name><![CDATA[Накидка для кормления с чехлом сумочкой, Цветы на сером MagBaby (2617)]]></name>
+<name><![CDATA[Накидка для кормления с сумочкой чехлом MagBaby комбинированный (2617)]]></name>
 <name_ua><![CDATA[Накидка для годування із сумочкою чохлом MagBaby комбінований (2617)]]></name_ua>
 <description_ua><![CDATA[<p>Накидка для годування з сумочкою-чохлом   накидка, яка дає змогу спокійно годувати груддю на вулиці чи в людному місці.</p><h3>Що важливо</h3><ul><li>Легка тканина, крізь яку малюк дихає.</li><li>Чохол-сумочка   зручно носити з собою.</li><li>Займає мало місця.</li><li>Можна використовувати як легке покривальце.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада:</strong> накидка   практичний подарунок молодій мамі.</p>]]></description_ua>
 <description><![CDATA[<p>Накидка для кормления с сумочкой-чехлом накидка, позволяющая спокойно кормить грудью на улице или в людном месте.</p><h3> Что важно</h3><ul><li> Легкая ткань, сквозь которую малыш дышит.</li><li> Чехол-сумочка удобно носить с собой.</li><li> Занимает мало места.</li><li> Можно использовать как легкое покрывало.</li></ul><h3> Уход</h3><p> Стирать при 30 40 C, сушить естественным способом.</p><p> <strong>Совет:</strong> накидка практичный подарок молодой маме.</p>]]></description>
