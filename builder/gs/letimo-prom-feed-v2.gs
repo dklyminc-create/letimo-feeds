@@ -1496,7 +1496,33 @@ function buildFeed_() {
   const conv = xml.replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) {
     return convertOffer_(attrs, body);
   });
-  return mainInStock_(conv);
+  return mainInStock_(ownStockProm_(conv));
+}
+
+// 25.11.2026: Prom — наявність і кількість власного складу беремо прямо з залишків CRM (KeyCRM, раніше SalesDrive),
+// а не зі статусу на сайті: продане/зарезервоване одразу «немає в наявності», решта — з реальною кількістю.
+function ownStockProm_(xml) {
+  const sd = sdStock_(); if (!sd) return xml;
+  let off = 0, on = 0;
+  const out = xml.replace(/<offer\b([^>]*)>([\s\S]*?)<\/offer>/g, function (all, attrs, body) {
+    const vc = (body.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1];
+    if (!vc || !Object.prototype.hasOwnProperty.call(sd, vc)) return all;
+    const q = sd[vc];
+    if (q <= 0) {
+      if (/available="false"/.test(attrs) && /<quantity_in_stock>0</.test(body)) return all;
+      off++;
+      attrs = attrs.replace(/available="[^"]*"/, 'available="false"').replace(/\sin_stock="[^"]*"/, '');
+      body = /<quantity_in_stock>/.test(body) ? body.replace(/<quantity_in_stock>[^<]*<\/quantity_in_stock>/, '<quantity_in_stock>0</quantity_in_stock>') : body + '<quantity_in_stock>0</quantity_in_stock>\n';
+    } else {
+      on++;
+      attrs = /available="/.test(attrs) ? attrs.replace(/available="[^"]*"/, 'available="true"') : attrs + ' available="true"';
+      if (!/in_stock=/.test(attrs)) attrs += ' in_stock="true"';
+      body = /<quantity_in_stock>/.test(body) ? body.replace(/<quantity_in_stock>[^<]*<\/quantity_in_stock>/, '<quantity_in_stock>' + q + '</quantity_in_stock>') : body + '<quantity_in_stock>' + q + '</quantity_in_stock>\n';
+    }
+    return '<offer' + attrs + '>' + body + '</offer>';
+  });
+  Logger.log('Prom: власний склад за CRM — немає в наявності ' + off + ', в наявності з кількістю ' + on);
+  return out;
 }
 
 // Prom вважає основним товаром групи ПЕРШИЙ різновид у файлі. Якщо він не в наявності —
@@ -3571,6 +3597,9 @@ function tvPromDropFilter_(xml) {
   const out = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>\s*/g, function (o) {
     if (!/<vendorCode>(?:<!\[CDATA\[)?\s*TALVI-/.test(o)) return o;
     if (/available="true"/.test(o)) return o;
+    // 25.11.2026: власний склад Talvi (є в залишках CRM) не прибираємо — нехай Prom отримає «немає в наявності»
+    const vcOwn = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1], sdOwn = sdStock_();
+    if (vcOwn && sdOwn && Object.prototype.hasOwnProperty.call(sdOwn, vcOwn)) return o;
     cut++; return '';
   });
   Logger.log('Prom: прибрано Talvi-дроп не в наявності: ' + cut);
