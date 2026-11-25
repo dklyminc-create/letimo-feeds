@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 05:38">
+<yml_catalog date="2026-11-25 06:08">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -21212,7 +21212,7 @@ SYSTEM "shops.dtd">
 <param name="Тип тканини">Флис</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="4291" available="true">
+   <offer id="4291" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1088</categoryId>
 <vendor>MagBaby</vendor>
@@ -21223,7 +21223,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Флисовые перчатки Diego греют ручки в прохладную погоду и удобны для малышей с рождения до 4 лет.</p><h3> Что важно</h3><ul><li> Мягкий флис, теплый и лёгкий.</li><li> Размер 1: 0 6 мес (мальчик), 0 12 мес (девочка).</li><li> Размер 2: до 2 лет.</li><li> Размер 3: до 4 лет.</li></ul><h3> Уход</h3><p> Стирать при 30 °C, сушить без батареи.</p><p> <strong>Совет:</strong> возьмите запасную пару на прогулку перчатки быстро намокайте в снегу и лужах.</p>]]></description>
 <price>456</price>
 <price_old>456</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/42/11762742995736_%2Bf6fba5265b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/42/flisovi-rukavychky-diego-siryi-melanzh-4-96005120648676_%2B31f1c43744.jpg</picture>
 <param name="Колір">сірий</param>
@@ -76591,7 +76591,7 @@ SYSTEM "shops.dtd">
 <param name="Вид виробу">Комплект</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="3699" available="true">
+   <offer id="3699" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1148</categoryId>
 <vendor>MagBaby</vendor>
@@ -76602,7 +76602,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Пижама Lizzie для девочек с рюшами и вышивкой love.</p><h3> Что важно</h3><ul><li> Состав: 100% хлопок.</li><li> Рюши на ячейке и манжетах.</li><li> Легкая вышивка.</li><li> Нежные цвета.</li></ul><h3> Уход</h3><p> Стирать наизнанку при 30 C, сушить естественным способом.</p><p> <strong>Совет:</strong> пижама должна сидеть по фигуре, берите свой размер.</p>]]></description>
 <price>1334</price>
 <price_old>1334</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/50/45256287413062_%2Bb4ba8a2964.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/pizhama-lizzie-rozheva-98-2-3-roky-14919109612674_%2B665d6f311f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/pizhama-lizzie-rozheva-98-2-3-roky-82176474784377_%2B9e8643c78e.jpg</picture>
