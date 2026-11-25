@@ -1,0 +1,52 @@
+name: Сайт — наявність власного складу з KeyCRM
+
+on:
+  schedule:
+    - cron: '5,20,35,50 * * * *'   # кожні 15 хв
+  workflow_dispatch: {}
+
+concurrency:
+  group: site-own-presence
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Залишки з KeyCRM
+        env:
+          KEYCRM_API_KEY: ${{ secrets.KEYCRM_API_KEY }}
+        run: node builder/keycrm-stock.js
+
+      - name: Наявність на сайті letimo.com.ua
+        env:
+          HS_LOGIN: ${{ secrets.HS_LOGIN }}
+          HS_PASSWORD: ${{ secrets.HS_PASSWORD }}
+        run: node builder/site-own-presence.js
+
+      - name: Зберегти журнал змін
+        if: always()
+        run: |
+          git config user.name "letimo-feeds-bot"
+          git config user.email "feeds-bot@users.noreply.github.com"
+          git add -- _data/site-presence-log.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Без змін"; exit 0; fi
+          git commit -m "actions: site presence $(TZ=Europe/Kyiv date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
+            sleep $((i*5))
+          done
+          exit 1
