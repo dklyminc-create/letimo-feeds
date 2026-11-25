@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 22:41">
+<yml_catalog date="2026-11-25 22:48">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -243377,7 +243377,7 @@ SYSTEM "shops.dtd">
 <param name="страна-производитель">Китай</param>
 <barcode>6942778802414</barcode>
 </offer>
-   <offer id="98236118" available="true">
+   <offer id="98236118" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -243478,7 +243478,7 @@ SYSTEM "shops.dtd">
 <p>Обидва розраховані на від +5 до -20 &deg;C. Флісовий має синтепон 400 г/м&sup2; і переться в машинці; на овчині - натуральна вовна, хімчистка, нижня половинка стає матрациком у люльку. Усі кольори - у розділі конверти Тренд.</p>]]></description_ua>
 <price>4140</price>
 <price_old>4140</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/10/trend_first_snow-37181250136230_%2Bc1a9728f71.jpg</picture>
 <picture>https://dorechi.ua/content/images/10/19103859474356_%2B511208c9b9.jpg</picture>
 <picture>https://dorechi.ua/content/images/10/trend_first_snow-16313073512601_%2B3568afcb60.jpg</picture>
@@ -243869,7 +243869,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">74/80</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98236094" available="true">
+<offer id="98236094" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -243970,7 +243970,7 @@ SYSTEM "shops.dtd">
 <p>Обидва розраховані на від +5 до -20 &deg;C. Флісовий має синтепон 400 г/м&sup2; і переться в машинці; на овчині - натуральна вовна, хімчистка, нижня половинка стає матрациком у люльку. Усі кольори - у розділі конверти Тренд.</p>]]></description_ua>
 <price>3640</price>
 <price_old>3640</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-29906283710983_%2B8435485843.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-54736789615834_%2Bd09e648447.jpg</picture>
 <picture>https://dorechi.ua/content/images/7/trend_chocolade-21958791286369_%2Bb4b8c82f98.jpg</picture>
@@ -244097,7 +244097,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98748281" available="true">
+<offer id="98748281" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -244202,7 +244202,7 @@ SYSTEM "shops.dtd">
 <p>Baby XS (75 x 40 см) - для новонароджених до 9-10 місяців у люльці, Тренд (100 x 48 см) - для прогулянкового блоку від 6 місяців. Детальніше - як обрати зимовий конверт.</p>]]></description_ua>
 <price>3640</price>
 <price_old>3640</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-89222637300535_%2B084ac5938c.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-86625784326900_%2B300638d4c9.jpg</picture>
 <picture>https://dorechi.ua/content/images/24/trend_beige_fleece-23883036995017_%2B58ed4c1b54.jpg</picture>
@@ -244213,7 +244213,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213149" available="true">
+<offer id="98213149" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -244318,7 +244318,7 @@ SYSTEM "shops.dtd">
 <p>Baby XS (75 x 40 см) - для новонароджених до 9-10 місяців у люльці, Тренд (100 x 48 см) - для прогулянкового блоку від 6 місяців. Детальніше - як обрати зимовий конверт.</p>]]></description_ua>
 <price>3640</price>
 <price_old>3640</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-99554161458887_%2Bccb7c59393.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-38031561049309_%2B94e7e27e31.jpg</picture>
 <picture>https://dorechi.ua/content/images/38/trend-dorechitrend-dorechi-black-19494603421965_%2Ba74a40241c.jpg</picture>
@@ -245279,7 +245279,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="93166088" available="true">
+<offer id="93166088" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
@@ -245382,7 +245382,7 @@ SYSTEM "shops.dtd">
 <p>Протягніть ремені безпеки через 5 вертикальних отворів. Як підібрати правильний - у статті отвори для ременів безпеки.</p>]]></description_ua>
 <price>2850</price>
 <price_old>2850</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/31/baby_xs_milk-fleece-72576260318833_%2Ba3f9e5bc59.jpg</picture>
 <picture>https://dorechi.ua/content/images/31/baby_xs_milk-fleece-23659233112872_%2B5b9aa82328.jpg</picture>
 <picture>https://dorechi.ua/content/images/31/baby_xs_milk-fleece-73497285767960_%2Bae55f6af18.jpg</picture>
@@ -248874,7 +248874,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98236122" available="true">
+<offer id="98236122" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -248961,13 +248961,13 @@ SYSTEM "shops.dtd">
 <p>Обидві розраховані на від +5 до -20 &deg;C. У флісовій - чотиришаровий утеплювач і прання в машинці, у муфті на овчині - натуральна вовна. Детальніше - як обрати муфту на коляску.</p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/13/handmuff_chocolate-26512225055808_%2B6655f6b02b.jpg</picture>
 <param name="Колір">коричневий</param>
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98235376" available="true">
+<offer id="98235376" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -249054,7 +249054,7 @@ SYSTEM "shops.dtd">
 <p>Обидві розраховані на від +5 до -20 &deg;C. У флісовій - чотиришаровий утеплювач і прання в машинці, у муфті на овчині - натуральна вовна. Детальніше - як обрати муфту на коляску.</p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/48/handmuff_milk-25315856277722_%2B807b340dd6.jpg</picture>
 <picture>https://dorechi.ua/content/images/48/handmuff_milk-12008034559895_%2Be0cc91e63a.jpg</picture>
 <picture>https://dorechi.ua/content/images/48/handmuff_milk-90258742564900_%2Bf8ad83260c.jpg</picture>
@@ -249353,7 +249353,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">-</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="98213060" available="true">
+<offer id="98213060" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1140</categoryId>
 <vendor>ДоРечі</vendor>
@@ -249440,7 +249440,7 @@ SYSTEM "shops.dtd">
 <p>Обидві розраховані на від +5 до -20 &deg;C. У флісовій - чотиришаровий утеплювач і прання в машинці, у муфті на овчині - натуральна вовна. Детальніше - як обрати муфту на коляску.</p>]]></description_ua>
 <price>1420</price>
 <price_old>1420</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://dorechi.ua/content/images/2/mufta_fleece_beige-83353632948030_%2B941774f715.jpg</picture>
 <param name="Колір">бежевий</param>
 <param name="Розмір">-</param>
