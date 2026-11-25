@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-25 13:09">
+<yml_catalog date="2026-11-25 13:37">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -65422,7 +65422,7 @@
 <param name="Розмір" paramcode="2293" valuecode="ybdic9we4osyjubx">46-48</param>
 <param name="Сезон" paramcode="2295" valuecode="34599b6fc5a568ddbc6f1f0386aa00e3,de6d5cc818b5178c70e98676a7225c34">осінь,зима</param>
 </offer>
-<offer id="TV-03634-PUDRA-4648" available="true">
+<offer id="TV-03634-PUDRA-4648" available="false">
 <price>580</price>
 <category code="166">Головні убори для новонароджених</category>
 <attribute_set code="166">Головні убори для новонароджених</attribute_set>
@@ -220141,7 +220141,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6942778822238</param>
 </offer>
-<offer id="ABD5521R-BROWN-27" available="true">
+<offer id="ABD5521R-BROWN-27" available="false">
 <price>1590</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -220543,7 +220543,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6979215727900</param>
 </offer>
-<offer id="ABD0026R-BLACK-24" available="true">
+<offer id="ABD0026R-BLACK-24" available="false">
 <price>1360</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -221017,7 +221017,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6980026258729</param>
 </offer>
-<offer id="HA828-3-PINK-28" available="true">
+<offer id="HA828-3-PINK-28" available="false">
 <price>1570</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
@@ -221083,7 +221083,7 @@
 <param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34">зима</param>
 <param name="Штрих-код" paramcode="barcodes">6980026250679</param>
 </offer>
-<offer id="KA799-4-PINK-24" available="true">
+<offer id="KA799-4-PINK-24" available="false">
 <price>1400</price>
 <category code="819">Черевики дитячі</category>
 <attribute_set code="819">Черевики дитячі</attribute_set>
