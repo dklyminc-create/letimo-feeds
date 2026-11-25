@@ -28,13 +28,20 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Залишки з KeyCRM
+        env:
+          KEYCRM_API_KEY: ${{ secrets.KEYCRM_API_KEY }}
+        run: node builder/keycrm-stock.js
+
       - name: Зібрати фіди
         env:
           MB_FEED_URL: ${{ secrets.MB_FEED_URL }}
           DR_FEED_URL: ${{ secrets.DR_FEED_URL }}
           SD_YML_URL: ${{ secrets.SD_YML_URL }}
           FEEDS_LIVE: ${{ vars.FEEDS_LIVE }}
-        run: node --max-old-space-size=6144 builder/run.js prom kasta rozetka
+        run: |
+          if [ -s _data/keycrm-stock.yml ]; then export SD_YML_URL="file://$GITHUB_WORKSPACE/_data/keycrm-stock.yml"; echo "Залишки власного складу: KeyCRM"; else echo "Залишки власного складу: SalesDrive (запасне)"; fi
+          node --max-old-space-size=6144 builder/run.js prom kasta rozetka
 
       - name: Опублікувати
         run: |

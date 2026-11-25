@@ -132,6 +132,15 @@ function fetchOne(url, opt) {
     if (code >= 400 && !opt.muteHttpExceptions) throw new Error('Request failed for ' + url.replace(/\?.*/, '') + ' returned code ' + code);
     return { getResponseCode: () => code, getContentText: () => body.toString('utf8'), getContent: () => bytesOut(body), getBlob: () => new Blob(body, 'application/octet-stream'), getHeaders: () => ({}), getAllHeaders: () => ({}) };
   }
+  // 25.11.2026: локальний файл (file://...) — напр. залишки KeyCRM з _data/keycrm-stock.yml, які пише builder/keycrm-stock.js.
+  if (/^file:\/\//.test(String(url))) {
+    const lf = decodeURIComponent(String(url).replace(/^file:\/\//, ''));
+    const ok = fs.existsSync(lf);
+    const body = ok ? fs.readFileSync(lf) : Buffer.from('');
+    const code = ok ? 200 : 404;
+    if (code >= 400 && !opt.muteHttpExceptions) throw new Error('File not found: ' + lf);
+    return { getResponseCode: () => code, getContentText: () => body.toString('utf8'), getContent: () => bytesOut(body), getBlob: () => new Blob(body, 'text/xml'), getHeaders: () => ({}), getAllHeaders: () => ({}) };
+  }
   const n = ++fetchN;
   const bodyF = path.join(TMP, 'b' + n), hdrF = path.join(TMP, 'h' + n);
   const args = ['-sS', '--compressed', '-o', bodyF, '-D', hdrF, '-w', '%{http_code}', '--max-time', '600', '-X', String(opt.method || 'get').toUpperCase()];

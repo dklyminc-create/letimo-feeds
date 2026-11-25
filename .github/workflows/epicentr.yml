@@ -32,6 +32,11 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Залишки з KeyCRM
+        env:
+          KEYCRM_API_KEY: ${{ secrets.KEYCRM_API_KEY }}
+        run: node builder/keycrm-stock.js
+
       - name: Зібрати фід Епіцентру
         env:
           MB_FEED_URL: ${{ secrets.MB_FEED_URL }}
@@ -39,7 +44,9 @@ jobs:
           SD_YML_URL: ${{ secrets.SD_YML_URL }}
           EPICENTR_TOKEN: ${{ secrets.EPICENTR_TOKEN }}
           FEEDS_LIVE: ${{ vars.EPI_LIVE }}
-        run: node --max-old-space-size=6144 builder/run.js epicentr
+        run: |
+          if [ -s _data/keycrm-stock.yml ]; then export SD_YML_URL="file://$GITHUB_WORKSPACE/_data/keycrm-stock.yml"; echo "Залишки власного складу: KeyCRM"; else echo "Залишки власного складу: SalesDrive (запасне)"; fi
+          node --max-old-space-size=6144 builder/run.js epicentr
 
       - name: Опублікувати
         run: |
