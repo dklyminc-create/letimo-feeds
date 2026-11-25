@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 20:11">
+<yml_catalog date="2026-11-25 20:49">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -181595,23 +181595,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/46/94926204757561_%2Be75c7935d1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/46/64046404038168_%2B055edc1570.jpg</picture>
 <param name="Колір">комбінований</param>
-<param name="Розмір">50–58 см</param>
-<param name="Склад">50%-вовна, 50%-ПАН</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="12646" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3416451</article>
-<name_ua><![CDATA[Шапка з об'ємної в'язки «Черрі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка з об'ємної в'язки  Черрі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Найтрендовіша універсальна шапочка. Хочеш Фемелі Лук? -Легко!</li><li>Подвійна, м'яка, об'ємна тепла в'язка - зігріє і дитину від 5 рочків, і дорослого</li><li>Відворот не пришитий, тож висоту (глибину) шапки можна регулювати за зручністю</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50%-вовна, 50%-ПАН</li><li>Розміри (обхват голови): 50 58 см</li><li>Кольори: Гірчиця, Помаранчевий, Блакитний, Темно-синій, (MLN) Бордовий меланж, Жовтий, Червоний, Темна м'ята, Рожевий, Лаванда, Джинсовий меланж, Зелений, Чорний, Кавовий, Світлий хакі, Темна пудра, Пудра, Хакі, Світлий джинс, Світло-рожевий, Персик</li></ul>]]></description_ua>
-<price>317</price>
-<price_old>317</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/47/53552958680911_%2Bf71db9ab13.jpg</picture>
-<picture>https://letimo.com.ua/content/images/47/60811393042900_%2Bdfec6e5b3a.jpg</picture>
-<param name="Колір">помаранчевий</param>
 <param name="Розмір">50–58 см</param>
 <param name="Склад">50%-вовна, 50%-ПАН</param>
 <param name="страна-производитель">Україна</param>
