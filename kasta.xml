@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 18:09">
+<yml_catalog date="2026-11-25 18:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -2437,7 +2437,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">50% акрил, 50% вовна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="662" available="true">
+   <offer id="662" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>MagBaby</vendor>
@@ -2446,7 +2446,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>В'язані пінетки з напіввовни   тепло для ніжок малюка з перших днів.</p><h3>Що важливо</h3><ul><li>Склад: 50% акрил, 50% вовна.</li><li>Теплі й м'які.</li><li>Для прохолодної погоди.</li><li>Гарні для фото й подарунка.</li></ul><h3>Догляд</h3><p>Делікатне ручне прання при 30  C, сушити розкладеними.</p><p><strong>Порада LETIMO:</strong> довжину стопи міряйте від п'ятки до пальців і додавайте 1 см.</p>  <p><strong>Кольори:</strong> бежевий, молочний, рожевий, сірий.<br><strong>Матеріал:</strong> 50% акрил, 50% вовна.</p>]]></description_ua>
 <price>840</price>
 <price_old>840</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/13/30024939463697_%2Ba23aaa85bf.jpg</picture>
 <param name="Колір">молочний</param>
 <param name="Розмір">0-6 міс</param>
@@ -85740,7 +85740,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">90% бавовна 8% поліамід 2% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="4862" available="true">
+   <offer id="4862" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>11002</categoryId>
 <vendor>MagBaby</vendor>
@@ -85749,7 +85749,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Набір шкарпеток  Rubber    легкі бавовняні шкарпетки на кожен день.</p><h3>Що важливо</h3><ul><li>Склад: 90% бавовна, 8% поліамід, 2% еластан.</li><li>Для дому й прогулянок у теплу пору та міжсезоння.</li><li>М'які, не перетискають ніжку.</li><li>Підходять новонародженим.</li></ul><h3>Догляд</h3><p>Прати навиворіт при 30  C.</p><p><strong>Порада LETIMO:</strong> новонароджені часто мерзнуть, тож шкарпетки знадобляться навіть удома.</p>]]></description_ua>
 <price>476</price>
 <price_old>476</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/13/63375126072290_%2B93bf58083b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/nabir-shkarpetok-rubber-blakytno-molochnyi-6-12-mis.-79243951519306_%2B1f56b93bee.jpg</picture>
 <param name="Колір">комбінований</param>
@@ -116787,8 +116787,8 @@ SYSTEM "shops.dtd">
 <article>LT2256451</article>
 <name_ua><![CDATA[Ігровий набір L.O.L. Surprise! серії Eye Spy – Улюбленець]]></name_ua>
 <description_ua><![CDATA[<p>Розкрийте секрети разом з улюбленцями! Ця серія   справжня шпигунська пригода у світі L.O.L. SURPRISE! Кожний герой   це не просто улюбленець, а персонаж з власною історією, стилем і місією. Починайте захопливу гру та розкрийте таємниці!</p><ul> <li>В серії 8 милих шпигунів-улюбленців з індивідуальним стилем.</li> <li>Шпигунські підказки: використовуйте спеціальну лупу, щоб знайти секретні повідомлення від улюбленців.</li> <li>Механізм відкриття: капсула відкривається поетапно, розкриваючи нові сюрпризи.</li> <li>Один герой змінює колір у холодній воді! Для цього потрібно занурити іграшку у воду, температура якої має бути нижче 15 градусів Цельсія.</li> <li>Кольоровий пісок в кульці: для розвитку дрібної моторики та нових відчуттів під час гри.</li></ul><p>У набір входить:</p><ul> <li>1 улюбленець,</li> <li>2-3 аксесуари,</li> <li>0-2 пари взуття,</li> <li>1 кулька з піском,</li> <li>1 м'яч,</li> <li>1 секретне повідомлення,</li> <li>1 шпигунська лупа,</li> <li>інструкція.</li></ul><p>Зберіть усю колекцію L.O.L. SURPRISE!</p><p>Рекомендовано для дітей віком від 3 років.</p>]]></description_ua>
-<price>1030</price>
-<price_old>1030</price_old>
+<price>1257</price>
+<price_old>1257</price_old>
 <stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/19/78882434711602_%2B0626f2f30b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/11356486829407_%2B584ce9b7a5.jpg</picture>
@@ -124394,16 +124394,16 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7138" available="true">
+   <offer id="7138" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1174</categoryId>
 <vendor>KS Drive</vendor>
 <article>LT2626451</article>
 <name_ua><![CDATA[Автомобіль Speed racing drift з р/к – Sword (сірий]]></name_ua>
 <description_ua><![CDATA[<p>Автомобіль SPEED RACING DRIFT з р/к - SWORD доставить Вашій дитині багато незабутніх вражень від динамічної, захоплюючої гри!</p><ul><li>Завдяки гумовим шинам автомобіль може долати асфальт, тротуарну плитку та цементне покриття.</li><li>Потужний магнітний двигун розроблений для забезпечення більшої потужності автомобіля.</li><li>Суперсильна система антизіткнення спроектована відповідно до конструкції моделі.</li></ul><p>Такі характеристики дозволяють автомобілю SPEED RACING DRIFT з р/к - SWORD імітувати маневри справжньої машини, забезпечувати стійкість і краще зчеплення автомобіля з дорогою.</p><p>Модель відповідає 'Технічному регламенту обмеження використання деяких небезпечних речовин в електричному та електронному обладнанні (затвердженому Постановою Кабінету Міністрів України від 10 березня 2017р.,  139)'.</p><p>Під дію вищевказаного техрегламенту потрапляють іграшки, які відповідають міжнародній директиві RoHS (англ. Restriction of Hazardous Substances), що обмежує вміст шкідливих речовин. Ці іграшки є більш безпечними для дітей та довкілля.</p><p>Особливості:</p><ul><li>масштаб - 1:24,</li><li>матеріал корпусу - пластик,</li><li>радіус дії пульта - 45 м,</li><li>тип приводу - задній,</li><li>час роботи - 15 хвилин (залежить від стилю управління),</li><li>живлення - 2 батарейки типу АА для пульта керування (в комплект не входять), 3 батарейки типу АА для машинки (в комплект не входять).</li></ul><p>Машинки на радіокеруванні Sulong Toys дозволяють розвинути у дитини:</p><ul><li>вміння грати,</li><li>сприйняття простору.</li></ul><p>Рекомендовано для дітей віком від 8 років.</p>]]></description_ua>
-<price>1174</price>
-<price_old>1174</price_old>
-<stock_quantity>1</stock_quantity>
+<price>962</price>
+<price_old>962</price_old>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/39/42737408157976_%2Bf52b6b3a87.jpg</picture>
 <picture>https://letimo.com.ua/content/images/39/74273385990898_%2B6d176f58b2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/39/23665768937286_%2B599fcec00f.jpg</picture>
@@ -130122,16 +130122,16 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7417" available="true">
+   <offer id="7417" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1178</categoryId>
 <vendor>Lipaka</vendor>
 <article>LT2905451</article>
 <name_ua><![CDATA[Меганабір пластиліну]]></name_ua>
 <description_ua><![CDATA[<p>Меганабір пластиліну, що самостійно твердіє, ЛІПАКА   ПТАХИ   розважить і малюків і дорослих. За допомогою анімаційних інструкцій в додатку HEY CLAY, Ви зможете зліпити 6 унікальних персонажів: Пінгвіна, Папугу Ара, Голуба, Фазана, Павича та Тукана. Пластилін твердіє на повітрі протягом 24 годин, після чого можна гратися створеними фігурками.</p><ul> <li>До меганабору входить 15 баночок пластиліну різного кольору.</li> <li>В набір може входити до 11 різних кольорів (баночка може містити пластилін двох різних кольорів).</li> <li>Розімніть пластилін перед ліпкою!</li> <li>З пластиліну, що входить до набору, можна створити 6 персонажів, зображених на упаковці та описаних в інструкції (додатку).</li> <li>У кожному наборі Ви знайдете код для доступу до відповідних героїв у додатку ЛІПАКА HEY CLAY з анімаційними інструкціями.</li></ul><p>Пластилін ЛІПАКА   це не просто набори пластиліну. Це інтерактивні розвиваючі набори з кодом доступу до додатку ЛІПАКА HEY CLAY, що в ігровій формі навчить малюків ліпити улюблених героїв. HEY CLAY   це унікальний додаток, з інтуїтивно-зрозумілим інтерфейсом, кумедною пластиліновою анімацією та інструкціями для малюків. Починаючи з простих форм та рухів, дитина з легкістю створить обраного героя, освоїть основні прийоми та техніки ліплення. Що, своєю чергою, сприятиме розвитку креативності та спонукатиме до створення власних шедеврів!</p><p>Пластилін ЛІПАКА   це більш ніж просто ліплення! Разом з пластиліном ЛІПАКА малюки розвивають дрібну моторику, вчаться концентрувати увагу, розвивають креативність та світогляд.</p><p>Пластилін абсолютно безпечний для дітей, має приємну щільну структуру, не липне до рук, не має запаху та не залишає плям. Крім того, пластилін ЛІПАКА самостійно твердіє на повітрі протягом 24 годин, що дозволяє гратися створеними фігурками.</p><p>Рекомендовано для дітей від 3 років.</p>]]></description_ua>
-<price>954</price>
-<price_old>954</price_old>
-<stock_quantity>1</stock_quantity>
+<price>782</price>
+<price_old>782</price_old>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/18/59582454581135_%2Be63cb97685.jpg</picture>
 <picture>https://letimo.com.ua/content/images/18/69455392714749_%2B72aef1e91f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/18/13932896995678_%2Bf95e286f31.jpg</picture>
@@ -167506,23 +167506,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="11050" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3306451-h5nwe</article>
-<name_ua><![CDATA[Демісезонна шапка «Олімп»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонна шапка  Олімп </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якенька шапка виготовлена з пряжі преміальної якості</li><li>Однотонна, базова</li><li>Двошарова щільна в'язка+відворот</li><li>Відворот не пришитий, завдяки чому висоту (глибину) шапки можна регулювати за зручністю</li><li>Підійде на вік від 8-9 років, підліткам та дорослим</li><li>Зверніть увагу: фото на моделі створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: віскоза 52%, еластан 26%, нейлон 22%</li><li>Вік: 8-9 років</li><li>Розміри (обхват голови): 54 58 см</li><li>Кольори: Бежевий, Помаранчевий, Світла пудра, Темно-синій, Рожевий, Пудра, Бордовий, Сірий, Світлий беж, Коричневий, Темно-сірий, Кава, Чорний, Молочний</li></ul>]]></description_ua>
-<price>520</price>
-<price_old>520</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/1/54602164282225_%2B505d8ac90a.jpg</picture>
-<picture>https://letimo.com.ua/content/images/1/43870037554954_%2B5caf5b0ce0.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">54–58 см</param>
-<param name="Склад">віскоза 52%, еластан 26%, нейлон 22%</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="11059" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -195828,23 +195811,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14161" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3510451</article>
-<name_ua><![CDATA[Зимова шапка для хлопчиків «Норд»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка для хлопчиків  Норд </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла зимова шапочка для хлопчиків на флісі</li><li>Виготовлена з пряжі преміальної якості</li><li>Декорована хутряним помпоном та стильною нашивкою</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>Помпон пришитий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри (обхват голови): 44 48 см, 48 52 см</li><li>Кольори: Хакі, Чорний, Темно-синій, Світло-сірий, Кава, Коричневий, Сірий, Бежевий, Темно-сірий, Джинс</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/47975808350787_%2B5808f336da.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/40453782331286_%2B34e090c2fb.jpg</picture>
-<param name="Колір">бежевий</param>
-<param name="Розмір">44–48 см</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14164" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -196044,23 +196010,6 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/3/92143971647126_%2B067b19d02c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/3/33402603178090_%2B6d90e44b50.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">54–58 см</param>
-<param name="Склад">Основа - 50% вовна, 50% акрил; підклад - 100% поліестер (термофліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14203" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3512451-h5nwe</article>
-<name_ua><![CDATA[Зимова шапка «Джулія»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимова шапка  Джулія </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла в'язана шапочка з подвійним відворотом</li><li>Базова, нічого зайвого</li><li>Підійде дівчаткам від 6 рочків до 9 (орієнтовно)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: Основа - 50% вовна, 50% акрил; підклад - 100% поліестер (термофліс)</li><li>Розміри (обхват голови): 50 54 см, 54 58 см</li><li>Кольори: Помаранчевий, Червоний, Темно-синій, Антрацит, Пудра, С М'ята, Кава, Зелений, Бузок, Капучіно, Фіолетовий, SM Темно-сірий, Світло-рожевий, /09 Бордовий, Світло-сірий меланж, Гірчиця, SM Пудра, Темна пудра, Дымок</li></ul>]]></description_ua>
-<price>268</price>
-<price_old>268</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/4/96746371933478_%2Bd5ae312ea1.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/70916126311259_%2B119f4170bb.jpg</picture>
 <param name="Колір">комбінований</param>
 <param name="Розмір">54–58 см</param>
 <param name="Склад">Основа - 50% вовна, 50% акрил; підклад - 100% поліестер (термофліс)</param>
@@ -200771,6 +200720,23 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/2/63640370427394_%2B91ba14ba5d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/2/60557128527497_%2B40ca656f4b.jpg</picture>
 <param name="Колір">рожевий</param>
+<param name="Розмір">46–48 см</param>
+<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="14904" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3546451-1gjc4</article>
+<name_ua><![CDATA[Шолом з вушками «Герман»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Шолом з вушками  Герман </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий шолом із кумедними вушками</li><li>Декорований фірмовою нашивкою talvi</li><li>Утеплений по всій площині зсередини</li><li>Підійде на холодну осінь-зиму</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: Джинсовий меланж, Темна пудра, Малина, Хакі, Світло-сірий, Червоний, Помаранчевий, (MLN) Бордовий меланж, Блакитний, Рожевий, Лаванда, Світлий джинс, Світло-сірий меланж, Персик, Білий, Пудра, Гірчиця, Світлий хакі, Молочний, Темно-сірий меланж, BORDO Темно-бордовий, Світло-рожевий, Зелений, Темно-синій, Коричневий, Світло-бежевий меланж, Чорний, Бежевий, Кавовий, Хаки</li></ul>]]></description_ua>
+<price>620</price>
+<price_old>620</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/5/36729151221130_%2B1136d41b65.jpg</picture>
+<picture>https://letimo.com.ua/content/images/5/93145965001429_%2Bbfcc375250.jpg</picture>
+<param name="Колір">світло-сірий</param>
 <param name="Розмір">46–48 см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
@@ -210103,40 +210069,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/34/21320009162841_%2B009cae1004.jpg</picture>
 <picture>https://letimo.com.ua/content/images/34/95475147558575_%2B30eacff3b1.jpg</picture>
 <param name="Колір">білий</param>
-<param name="Розмір">50 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15689" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451-gzdxy</article>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/40/13027058004762_%2B2696876d0f.jpg</picture>
-<picture>https://letimo.com.ua/content/images/40/71648079194871_%2Bd09a329d3c.jpg</picture>
-<param name="Колір">синій</param>
-<param name="Розмір">50 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15694" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451</article>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/45/29729898728023_%2B40b590802c.jpg</picture>
-<picture>https://letimo.com.ua/content/images/45/16448379356763_%2Bbbaf019a0e.jpg</picture>
-<param name="Колір">чорний</param>
 <param name="Розмір">50 см</param>
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="страна-производитель">Україна</param>
