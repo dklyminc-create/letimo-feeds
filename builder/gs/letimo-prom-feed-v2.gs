@@ -1863,7 +1863,7 @@ function buildRozetka_() {
     sz = sz.replace(/^(\d+)см$/, '$1 см');
     const full = [name, vendor, col, sz].filter(Boolean).join(' ').replace(/\s+/g, ' ').trim() + ' (' + id + ')';
     // 24.11.2026 (Дмитро): ДоРечі «під замовлення» на Rozetka не продаємо — там лише «є/немає», а затримку відправки Rozetka штрафує.
-    if (/\(під замовлення\)/.test(name) && /<vendorCode>(?:<!\[CDATA\[)?\s*DR-/.test(o)) {
+    if (/\(під замовлення\)/.test(name) && (/<vendorCode>(?:<!\[CDATA\[)?\s*DR-/.test(o) || vendor.trim() === 'ДоРечі')) { // 25.11.2026: у фіді Rozetka ДоРечі мають <article>, не vendorCode DR- — перевіряємо й бренд
       o = o.replace(/available="true"/, 'available="false"').replace(/\sin_stock="[^"]*"/, '')
         .replace(/<(stock_quantity|quantity_in_stock|quantity|count|stock)>[^<]*<\/\1>/g, '<$1>0</$1>');
     }
