@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 20:12">
+<yml_catalog date="2026-11-26 20:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -136324,23 +136324,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="7763" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3131451</article>
-<name_ua><![CDATA[Манішка з флісом «Кріпер»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Манішка з флісом  Кріпер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепла манішка з тематичним дизайном Minecraft</li><li>Щільна в'язка + додатково утеплена шаром флісу по всій грудині</li><li>Горловина вив'язана в щільний рубчик, що забезпечує її еластичність</li><li>Підійде на холодну осінь-зиму</li><li>Орієнтовно на вік від 3-х років, а також підліткам з окружністю голівки до 54 см</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри: 48 54 см</li><li>Кольори: Світлий хакі, Гірчиця, Бежевий, Світло-сірий меланж, Кавовий, Світло-сірий, Світлий джинс, Індиго, Темно-сірий меланж</li></ul>]]></description_ua>
-<price>464</price>
-<price_old>464</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/14/74927016255063_%2Ba659c9128d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/14/41229936873025_%2Bd702fad74a.jpg</picture>
-<param name="Колір">світло-сірий</param>
-<param name="Розмір">48–54 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="7767" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -136966,23 +136949,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/37/78125870408161_%2Bfaeb6f2cc4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/37/96437497941845_%2Ba87bd64ad3.jpg</picture>
 <param name="Колір">комбінований</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">50% вовна, 50% акрил</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="7837" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3138451-beac1</article>
-<name_ua><![CDATA[Однотонна в'язана манішка «Терін»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Однотонна в'язана манішка  Терін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Одношарова м'якенька манішка вив'язана стильною фактурною в'язкою</li><li>Подовжена, закриває не лише шию, а й грудну клітину</li><li>Горловина еластична</li><li>UNISEX</li><li>За розміром підійде діткам від 3-х років, підліткам, та дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% вовна, 50% акрил</li><li>Розміри: Універсальний</li><li>Кольори: Джинсовий меланж, Пудра, Світло-сірий, Бежевий, Світло-рожевий, Персик, Темно-сірий меланж, Кавовий, Хакі, Лаванда, Білий, Блакитний, Молочний, Світлий хакі</li></ul>]]></description_ua>
-<price>580</price>
-<price_old>580</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/38/39954102255964_%2B7b662c811e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/38/18535142093589_%2B9e8de116db.jpg</picture>
-<param name="Колір">темно-сірий</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">50% вовна, 50% акрил</param>
 <param name="страна-производитель">Україна</param>
