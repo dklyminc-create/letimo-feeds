@@ -1,6 +1,9 @@
 name: Сайт — наявність власного складу з KeyCRM
 
 on:
+  push:
+    branches: [main]
+    paths: ['_data/tick.txt']   # 26.11.2026: «пульс» Apps Script кожні 30 хв — розклад GitHub пропускав запуски (4 з 72 за добу)
   schedule:
     - cron: '5,20,35,50 * * * *'   # кожні 15 хв
   workflow_dispatch: {}
