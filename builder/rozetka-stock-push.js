@@ -90,6 +90,7 @@ async function resolveIds(token, ids, cache) {
     if (cache[id]) continue;
     const j = await rz("GET", "/goods/all?price_offer_id=" + encodeURIComponent(id), token);
     if (j && j.success === false && j.errors && /token|access/i.test(j.errors.message || "")) throw new Error("Rozetka: " + j.errors.message);
+    if (process.env.DEBUG_RZ === "1" && !global.__dbg) { global.__dbg = 1; console.log("DEBUG /goods/all?price_offer_id=" + id + ": " + JSON.stringify(j).slice(0, 1500)); }
     const c = (j && j.content) || {};
     const list = c.items || c.goods || c.data || [];
     const it = list.find((g) => String(g.price_offer_id) === String(id)) || null;

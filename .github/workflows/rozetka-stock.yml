@@ -43,6 +43,7 @@ jobs:
           ROZETKA_LOGIN: ${{ secrets.ROZETKA_LOGIN }}
           ROZETKA_PASSWORD: ${{ secrets.ROZETKA_PASSWORD }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
+          DEBUG_RZ: ${{ github.event.inputs.dry_run }}
         run: node builder/rozetka-stock-push.js
 
       - name: Зберегти стан і журнал
