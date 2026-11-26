@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 22:09">
+<yml_catalog date="2026-11-26 22:26">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -210539,6 +210539,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/6/12407710204490_%2B2e22864596.jpg</picture>
 <picture>https://letimo.com.ua/content/images/6/76175056430670_%2B662d4abe93.jpg</picture>
 <picture>https://letimo.com.ua/content/images/6/97285520242702_%2B48a8a51bde.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210561,6 +210562,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/7/20433013968160_%2Bea6e0d6a51.jpg</picture>
 <picture>https://letimo.com.ua/content/images/7/94254483371037_%2B940fafc18b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/7/67783827860456_%2Bfcc7c236ca.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210583,6 +210585,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/8/39536372773430_%2Bd7d3e0fc87.jpg</picture>
 <picture>https://letimo.com.ua/content/images/8/34792624821117_%2B11f58a839c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/8/19402531054529_%2B3f46610c6f.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210605,6 +210608,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/16193337694356_%2Bf63ebd2785.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/83483417674161_%2Ba9b870d298.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/31719776158928_%2Bc5ea935a20.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210627,6 +210631,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/10/41612276960642_%2Bd3860f0313.jpg</picture>
 <picture>https://letimo.com.ua/content/images/10/57799977479872_%2Bb29a379c97.jpg</picture>
 <picture>https://letimo.com.ua/content/images/10/24541125352117_%2B54fc9422a5.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210649,6 +210654,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/11/14721236541790_%2Bf388970e7f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/57559299786590_%2Bacd2c80530.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/81236727342821_%2B58954e1010.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210671,6 +210677,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/12/84897690830523_%2B13629f073a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/12/79562983761506_%2Bab11ffa05d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/12/53348639390092_%2Bdca5c9e6da.jpg</picture>
+<param name="Колір">темно-коричневий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210693,6 +210700,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/13/37706390871232_%2Bdc616769b9.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/88631655107137_%2Bdbb8fb4310.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/98324432156541_%2B54539a7452.jpg</picture>
+<param name="Колір">темно-коричневий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210719,6 +210727,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/14/41972839255804_%2B8b555b5001.jpg</picture>
 <picture>https://letimo.com.ua/content/images/14/52660726316399_%2B0bc281422c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/14/26541347876627_%2Bbfa019d150.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210745,6 +210754,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/15/73666146261073_%2B350ac524f1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/81034036903812_%2Bb1412aa92a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/54586566686376_%2B64724f8f3a.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210771,6 +210781,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/16/65350012216063_%2B751ed1011d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/69968378250644_%2B8b736d5f41.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/51020291909127_%2Bbec3bd6e70.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210797,6 +210808,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/17/15959414443533_%2B662f44b5c9.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/91342065903469_%2B3725896bd0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/49601662767424_%2Ba86a54f23c.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210826,6 +210838,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/18/48345198500100_%2Ba2f2d55933.jpg</picture>
 <picture>https://letimo.com.ua/content/images/18/92108066606456_%2B4fd8850846.jpg</picture>
 <picture>https://letimo.com.ua/content/images/18/13298100055523_%2B9460bed888.jpg</picture>
+<param name="Колір">світлий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210855,6 +210868,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/19/99636323173482_%2Bf1fa4c085e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/99053950717454_%2B2970f0b4c4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/36215835208092_%2Ba5674932af.jpg</picture>
+<param name="Колір">світлий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210884,6 +210898,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/20/70500867716491_%2Bbe66642540.jpg</picture>
 <picture>https://letimo.com.ua/content/images/20/71033721842004_%2Bd80b375002.jpg</picture>
 <picture>https://letimo.com.ua/content/images/20/49427388827253_%2B381f63ce72.jpg</picture>
+<param name="Колір">світлий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210913,6 +210928,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/21/48780660972158_%2B0a9016b290.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/89357237587632_%2B576541d136.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/76009028904253_%2B61d68403e0.jpg</picture>
+<param name="Колір">світлий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210942,6 +210958,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/22/98823529113489_%2B9713aa7c10.jpg</picture>
 <picture>https://letimo.com.ua/content/images/22/18336867733903_%2B29a18af111.jpg</picture>
 <picture>https://letimo.com.ua/content/images/22/51984504210461_%2Bf0381f2038.jpg</picture>
+<param name="Колір">світлий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210971,6 +210988,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/23/47371783446347_%2Bee37122515.jpg</picture>
 <picture>https://letimo.com.ua/content/images/23/41184559019493_%2B96be40a7ba.jpg</picture>
 <picture>https://letimo.com.ua/content/images/23/26469991748255_%2B8ce3e62373.jpg</picture>
+<param name="Колір">світлий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -210999,6 +211017,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/24/89227439561049_%2B8f19ca0bd1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/23488778860127_%2Bd988660b09.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/59878793137800_%2B855d17b605.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211027,6 +211046,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/25/12487273476320_%2Bf02d00b416.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/34655569977990_%2B3b7a2eb75f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/48043566316609_%2B3945ee72f8.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211055,6 +211075,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/26/47252108375577_%2Bb3214e492a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/33682695126500_%2B794a561bdb.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/18889649738386_%2Bc551e9c964.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211083,6 +211104,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/27/46702264635903_%2Bfafc5d4a63.jpg</picture>
 <picture>https://letimo.com.ua/content/images/27/52645703948466_%2B9015ece859.jpg</picture>
 <picture>https://letimo.com.ua/content/images/27/76965606433542_%2B6f35f3a53d.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211111,6 +211133,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/28/27987189979607_%2Bc4799c802e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/28/96624753534978_%2Be4ef8dc4ee.jpg</picture>
 <picture>https://letimo.com.ua/content/images/28/91273100364078_%2B80c71083fb.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211139,6 +211162,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/29/79213546129854_%2Bf1db1a2284.jpg</picture>
 <picture>https://letimo.com.ua/content/images/29/62068810210180_%2Ba82c254732.jpg</picture>
 <picture>https://letimo.com.ua/content/images/29/65148664881949_%2B65947e7e64.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211162,6 +211186,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/30/32897866432457_%2Bd9beb4d948.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/21581149521573_%2Ba0e72e23c2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/43641669510507_%2Bcbfcf6d1e6.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211185,6 +211210,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/31/24624004950368_%2Bed21e9946f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/31/83970585540114_%2B57405a5d6e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/31/37528188891757_%2Bd837b0f622.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211208,6 +211234,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/32/86603078245134_%2Bf79785feb2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/86742292905780_%2B34798683c2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/99265836281622_%2Bc3eed50f7b.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211231,6 +211258,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/33/60664991242693_%2B58d2888b7c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/33/61713890110964_%2B3616bc358f.jpg</picture>
 <picture>https://letimo.com.ua/content/images/33/24880116513704_%2Be8f90ef737.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211254,6 +211282,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/34/43845599074846_%2Bfaf3e90375.jpg</picture>
 <picture>https://letimo.com.ua/content/images/34/84594408015399_%2B62c1a3fb2e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/34/56680208490581_%2Bf5b308cfa2.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211277,6 +211306,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/35/47736905123537_%2B9d62502214.jpg</picture>
 <picture>https://letimo.com.ua/content/images/35/51001487671581_%2B2abb848de7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/35/11739919992053_%2Ba4062ca888.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211300,6 +211330,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/36/63359121900537_%2Bdad730fa28.jpg</picture>
 <picture>https://letimo.com.ua/content/images/36/68320211327243_%2B6b1dde8402.jpg</picture>
 <picture>https://letimo.com.ua/content/images/36/14604813847445_%2Bf152441824.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211323,6 +211354,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/37/79896353282744_%2B0f4730ea08.jpg</picture>
 <picture>https://letimo.com.ua/content/images/37/79408428862507_%2Bfc9f26aee7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/37/68369130011004_%2Ba1f4c13bae.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211346,6 +211378,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/38/85992528722672_%2Ba0a2b89dbe.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/31335967941650_%2B71341ff832.jpg</picture>
 <picture>https://letimo.com.ua/content/images/38/13772336325108_%2B4086a0f918.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211369,6 +211402,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/39/86865411877555_%2Bf2d8fe51c3.jpg</picture>
 <picture>https://letimo.com.ua/content/images/39/82797831102933_%2B01a750d5f8.jpg</picture>
 <picture>https://letimo.com.ua/content/images/39/28548108440082_%2B8881357b5d.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211396,6 +211430,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/40/79481582949649_%2B73d562619d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/89449453950489_%2Bc7ce7ae57b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/40/67145951727844_%2Bd9bf0aa2fe.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">62см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211423,6 +211458,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/41/53056768011445_%2B96c4ff996e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/41/76410351682543_%2B0f3ebb1ca3.jpg</picture>
 <picture>https://letimo.com.ua/content/images/41/17289458172856_%2Bccadd04a05.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211450,6 +211486,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/42/18023779355656_%2Bd803a6f91c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/42/11669210262430_%2Be9377c53e9.jpg</picture>
 <picture>https://letimo.com.ua/content/images/42/76368302645461_%2B3fc803a0e1.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211477,6 +211514,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/43/68181458838750_%2B0772226730.jpg</picture>
 <picture>https://letimo.com.ua/content/images/43/59322584384854_%2Bd81a523a87.jpg</picture>
 <picture>https://letimo.com.ua/content/images/43/94576479299835_%2Bc6055a884b.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211502,6 +211540,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/44/12001171673720_%2B7b31de6483.jpg</picture>
 <picture>https://letimo.com.ua/content/images/44/11195620559926_%2Bafe190f850.jpg</picture>
 <picture>https://letimo.com.ua/content/images/44/88647733131705_%2Bfaf92b5906.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211527,6 +211566,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/45/60827936383024_%2B5bbf9c4c4c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/45/74888781070753_%2B7850424303.jpg</picture>
 <picture>https://letimo.com.ua/content/images/45/80718094754765_%2Bd2b26b1286.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211552,6 +211592,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/46/34346723498018_%2B45a7deceb5.jpg</picture>
 <picture>https://letimo.com.ua/content/images/46/73363401013759_%2Ba7c501d433.jpg</picture>
 <picture>https://letimo.com.ua/content/images/46/36236594391974_%2B051b68e9f8.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211577,6 +211618,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/47/60459932524976_%2B7a1b1cb39a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/47/14095698120004_%2B34edfb2661.jpg</picture>
 <picture>https://letimo.com.ua/content/images/47/41684450901459_%2Be0c586a54c.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211601,6 +211643,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/48/80360829025607_%2Bcc9bbf66ce.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/12575477548564_%2B3c7441b082.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/91413566018328_%2B3f1635e154.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211625,6 +211668,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/49/20104208054824_%2Bf907f06bf8.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/27613716017164_%2B92c93a18f0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/60946347224694_%2Be71d2e72cc.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211649,6 +211693,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/50/79388908577688_%2B1d943a2977.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/49961858046102_%2B75ed468758.jpg</picture>
 <picture>https://letimo.com.ua/content/images/50/85831532930840_%2B0c31832dce.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211673,6 +211718,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/1/18244799019194_%2Bade7ba2850.jpg</picture>
 <picture>https://letimo.com.ua/content/images/1/91250604053258_%2B0584f5afa4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/1/93689864602083_%2Be35153d62c.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211696,6 +211742,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/2/90080128035402_%2B078125dd51.jpg</picture>
 <picture>https://letimo.com.ua/content/images/2/41049662030717_%2B758256b5e2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/2/52151049480556_%2B11b928f1fd.jpg</picture>
+<param name="Колір">персиковий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211719,6 +211766,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/3/88879636297217_%2B5362f71e7d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/3/30511132595601_%2B5edfc1f43b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/3/45505782693399_%2B5d0e226be7.jpg</picture>
+<param name="Колір">персиковий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211742,6 +211790,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/4/32363994439551_%2B65c181c020.jpg</picture>
 <picture>https://letimo.com.ua/content/images/4/76179620246922_%2B58a50685da.jpg</picture>
 <picture>https://letimo.com.ua/content/images/4/12515251701588_%2B7d7ade3209.jpg</picture>
+<param name="Колір">персиковий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211765,6 +211814,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/5/92970178960985_%2B0059ab06da.jpg</picture>
 <picture>https://letimo.com.ua/content/images/5/32398014034593_%2B4b9c8f15ab.jpg</picture>
 <picture>https://letimo.com.ua/content/images/5/61999843130232_%2Ba9b2289d84.jpg</picture>
+<param name="Колір">персиковий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211788,6 +211838,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/6/14707771803086_%2Bacb0d4d87d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/6/72871731911697_%2B4105386bc0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/6/83446073583642_%2B12760d636b.jpg</picture>
+<param name="Колір">персиковий</param>
 <param name="Розмір">98см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211811,6 +211862,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/7/27003869882984_%2B0271da10eb.jpg</picture>
 <picture>https://letimo.com.ua/content/images/7/30042090869336_%2Be009a027a1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/7/66716913318652_%2B7c3a70191d.jpg</picture>
+<param name="Колір">персиковий</param>
 <param name="Розмір">110см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211834,6 +211886,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/8/12618928313560_%2B14805e5146.jpg</picture>
 <picture>https://letimo.com.ua/content/images/8/84619949701853_%2B115ef3acf1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/8/52091831111446_%2B203472216a.jpg</picture>
+<param name="Колір">білий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211857,6 +211910,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/9/30716245926504_%2B31b644910e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/67479583469197_%2B0dd3674cb6.jpg</picture>
 <picture>https://letimo.com.ua/content/images/9/64251655524957_%2B78ed5f064a.jpg</picture>
+<param name="Колір">білий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211880,6 +211934,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/10/76187095180843_%2B9ccb6cb6a2.jpg</picture>
 <picture>https://letimo.com.ua/content/images/10/41488033950097_%2Bb2baa78626.jpg</picture>
 <picture>https://letimo.com.ua/content/images/10/23103261070834_%2Bb9552d75a9.jpg</picture>
+<param name="Колір">білий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211903,6 +211958,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/11/35956347316857_%2Bb7c397f024.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/85870080946272_%2B563e610db4.jpg</picture>
 <picture>https://letimo.com.ua/content/images/11/92727642953424_%2B250a91b3b4.jpg</picture>
+<param name="Колір">білий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211926,6 +211982,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/12/31843049981030_%2Ba8660afaae.jpg</picture>
 <picture>https://letimo.com.ua/content/images/12/20711728072941_%2B56cd802d7a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/12/90537225163860_%2B59e8e5f7d9.jpg</picture>
+<param name="Колір">білий</param>
 <param name="Розмір">98см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211949,6 +212006,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/13/39102307875945_%2B7ce0a8e705.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/20833545193806_%2B0da3e10d07.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/20601729024538_%2B0d76205f27.jpg</picture>
+<param name="Колір">білий</param>
 <param name="Розмір">104см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211970,6 +212028,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/14/84853175710362_%2B762e094dc3.jpg</picture>
 <picture>https://letimo.com.ua/content/images/14/43505661713780_%2B95532efa8a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/14/98980711768086_%2B598e79adcf.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -211991,6 +212050,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/15/68348676224604_%2B81404e3eb5.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/74433462098957_%2B4be111f491.jpg</picture>
 <picture>https://letimo.com.ua/content/images/15/66753335496000_%2Beab9427bd8.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212012,6 +212072,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/16/98453036621529_%2Bcd516d7f17.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/74713831176611_%2Bc5171049d7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/41098219445724_%2B2721f958c3.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212033,6 +212094,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/17/94606335335437_%2B5f85bb3769.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/50060926098961_%2B79ccfe79d0.jpg</picture>
 <picture>https://letimo.com.ua/content/images/17/54386349808896_%2B4e2b77803b.jpg</picture>
+<param name="Колір">сірий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212059,6 +212121,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/18/78956917540572_%2B531a1e5f55.jpg</picture>
 <picture>https://letimo.com.ua/content/images/18/24358857912336_%2Bdd6ba4f277.jpg</picture>
 <picture>https://letimo.com.ua/content/images/18/27455135234991_%2B3e4082c700.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212085,6 +212148,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/19/85668220423790_%2Bcd728c8356.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/94637957998901_%2B9516aeba29.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/62678394300409_%2B0b665154a5.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212111,6 +212175,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/20/42589968627076_%2B2ec0e669e1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/20/92181888378632_%2B405b96722d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/20/42394394374428_%2B83693ebd58.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212137,6 +212202,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/21/15443720981677_%2B02135544bc.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/71586782547845_%2Bbdd82a1763.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/64397651856053_%2B289d406a6f.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212160,6 +212226,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/22/81539040023717_%2B57cd845d35.jpg</picture>
 <picture>https://letimo.com.ua/content/images/22/69413629728246_%2B23c4f7e0bf.jpg</picture>
 <picture>https://letimo.com.ua/content/images/22/60029597131723_%2B0eb2790125.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">68см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212183,6 +212250,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/23/93565071293182_%2B4687356bfd.jpg</picture>
 <picture>https://letimo.com.ua/content/images/23/62312800427898_%2Ba168b2a08e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/23/13511479253980_%2B4941b73dd0.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">74см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212206,6 +212274,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/24/91869937471900_%2Beb977094d5.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/37041003053080_%2B2d2bd88235.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/79532656451037_%2B0d004e3c8d.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212229,6 +212298,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/25/13622637546971_%2B072b79f26b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/33391518580677_%2B5a7a8bd0d6.jpg</picture>
 <picture>https://letimo.com.ua/content/images/25/85767855039777_%2Bdb2ee2c4b3.jpg</picture>
+<param name="Колір">бежевий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212251,6 +212321,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/26/42956676780815_%2Bd70a204941.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/87120706294534_%2Bd892cf71d7.jpg</picture>
 <picture>https://letimo.com.ua/content/images/26/47288457191818_%2B6f3af67b72.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">80см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212273,6 +212344,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/27/50704131662828_%2B7c53fafd73.jpg</picture>
 <picture>https://letimo.com.ua/content/images/27/63192557592701_%2B3eb77a09e3.jpg</picture>
 <picture>https://letimo.com.ua/content/images/27/34663432201437_%2B848f454b83.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">86см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212295,6 +212367,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/28/25638015845912_%2B47b91bb31a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/28/47253239080476_%2B39899ba373.jpg</picture>
 <picture>https://letimo.com.ua/content/images/28/72197958368864_%2B848edaf87e.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">92см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212317,6 +212390,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/29/99083495607415_%2B25d16b663b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/29/43627715877682_%2B18a1cc708e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/29/48527025412204_%2Ba75201c39b.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">104см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -212339,6 +212413,7 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/30/38681155310284_%2B761ed79f8a.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/77005242155051_%2Bbfebe82035.jpg</picture>
 <picture>https://letimo.com.ua/content/images/30/45503049566688_%2B1f6ee3f423.jpg</picture>
+<param name="Колір">рожевий</param>
 <param name="Розмір">110см</param>
 
 <param name="страна-производитель">Україна</param>
