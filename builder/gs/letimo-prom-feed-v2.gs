@@ -1861,7 +1861,8 @@ function buildRozetka_() {
     let sz = (o.match(/<param name="Розмір">([^<]*)<\/param>/) || [])[1] || '';
     if (sz === '-') sz = ''; // товар без розміру — без «-» у назві (09.10.2026)
     sz = sz.replace(/^(\d+)см$/, '$1 см');
-    const full = [name, vendor, col, sz].filter(Boolean).join(' ').replace(/\s+/g, ' ').trim() + ' (' + id + ')';
+    const vendorInName = vendor && name.toLowerCase().indexOf(vendor.toLowerCase()) >= 0; // 26.11.2026: LETIMO вже в назві — не дублюємо
+    const full = [name, vendorInName ? '' : vendor, col, sz].filter(Boolean).join(' ').replace(/\s+/g, ' ').trim() + ' (' + id + ')';
     // 24.11.2026 (Дмитро): ДоРечі «під замовлення» на Rozetka не продаємо — там лише «є/немає», а затримку відправки Rozetka штрафує.
     if (/\(під замовлення\)/.test(name) && (/<vendorCode>(?:<!\[CDATA\[)?\s*DR-/.test(o) || vendor.trim() === 'ДоРечі')) { // 25.11.2026: у фіді Rozetka ДоРечі мають <article>, не vendorCode DR- — перевіряємо й бренд
       o = o.replace(/available="true"/, 'available="false"').replace(/\sin_stock="[^"]*"/, '')
@@ -1917,9 +1918,13 @@ function kastaOffer_(attrs, body, nameMap) {
   const group = (attrs.match(/group_id="(\d+)"/) || [])[1];
   const id = (attrs.match(/\bid="(\d+)"/) || [])[1];
   const avail = /available="true"/.test(attrs);
-  const col = (body.match(/<param name="Цвет">([^<]*)<\/param>/) || [])[1];
   const sz = (body.match(/<param name="Розмір">([^<]*)<\/param>/) || [])[1];
   const nameUa = (body.match(/<name_ua>([\s\S]*?)<\/name_ua>/) || body.match(/<name>([\s\S]*?)<\/name>/) || [])[1] || '';
+  // 26.11.2026: власний бренд LETIMO на сайті не має характеристики «Колір» — колір лише в назві («…LETIMO, рожевий, 62 см»).
+  // Без нього на Rozetka/Kasta всі кольори моделі мали однакову назву. Беремо колір з назви (2-й фрагмент через кому).
+  const col0 = (body.match(/<param name="Цвет">([^<]*)<\/param>/) || [])[1]; // для артикула — як було (артикул не змінюємо)
+  const col = col0 ||
+    (/<vendor>LETIMO<\/vendor>/.test(body) ? ((nameUa.replace(/^<!\[CDATA\[|\]\]>$/g, '').split(',')[1] || '').trim() || undefined) : undefined);
   const desc = (body.match(/<description_ua>([\s\S]*?)<\/description_ua>/) || body.match(/<description>([\s\S]*?)<\/description>/) || [])[1] || '';
   const price = (body.match(/<price>([\d.]+)<\/price>/) || [])[1];
   const old = (body.match(/<oldprice>([\d.]+)<\/oldprice>/) || [])[1];
@@ -1931,7 +1936,7 @@ function kastaOffer_(attrs, body, nameMap) {
   const cleanName = nameUa.replace(/^<!\[CDATA\[|\]\]>$/g, '');
   let o = '<offer id="' + id + '" available="' + (avail ? 'true' : 'false') + '">\n';
   o += '<currencyId>UAH</currencyId>\n<categoryId>' + cat + '</categoryId>\n';
-  o += '<vendor>' + xmlEsc_(vendor) + '</vendor>\n<article>LT' + (group || id) + kastaArtSuffix_(col) + '</article>\n';
+  o += '<vendor>' + xmlEsc_(vendor) + '</vendor>\n<article>LT' + (group || id) + kastaArtSuffix_(col0) + '</article>\n';
   o += '<name_ua><![CDATA[' + ((nameMap && nameMap[group]) || kastaName_(cleanName)) + ']]></name_ua>\n';
   o += '<description_ua>' + (desc.indexOf('<![CDATA[') === 0 ? desc : '<![CDATA[' + desc + ']]>') + '</description_ua>\n';
   o += '<price>' + price + '</price>\n';
