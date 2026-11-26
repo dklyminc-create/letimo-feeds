@@ -218,7 +218,7 @@ function loadCode() {
     UrlFetchApp, Utilities, Logger, PropertiesService, CacheService, SpreadsheetApp, ScriptApp, ContentService, DriveApp, LanguageApp, console,
   });
   const dir = path.join(__dirname, 'gs');
-  const order = ['letimo-prom-feed-v2.gs', 'fast.gs'];
+  const order = ['letimo-prom-feed-v2.gs', 'fast.gs', 'kw-market.gs'];
   order.forEach(f => {
     let code = fs.readFileSync(path.join(dir, f), 'utf8');
     code = patchForNode(code);

@@ -653,6 +653,7 @@ function kw3Build_(o, lang, existing) {
   const N = p.noun;
   const ph = [];
   const add = function (x) { if (x) ph.push(String(x).replace(/\s+/g, ' ').trim()); };
+  if (!ru) kwMarket_(o, name).slice(0, 8).forEach(add);
   add(p.base);
   if (p.model && N) add(N + ' ' + p.model);
   if (bl && N) add(N + ' ' + bl);
@@ -692,8 +693,47 @@ function kw3Build_(o, lang, existing) {
   });
   return out.join(', ');
 }
+// 27.11.2026: ринкові фрази (KW_MARKET_ з kw-market.gs) — додаються, лише якщо ВСІ слова фрази є в товарі
+// (назва, категорія, характеристики + стать/сезон/вік за розміром). Тільки keywords_ua, найчастотніші першими.
+var KW3_CATS_ = {};
+const KWM_SYN_ = { 'комбе': 'комбі', 'комби': 'комбі', 'джого': 'джогер', 'штанц': 'штан' };
+function kwmToks_(s, set) {
+  (String(s).toLowerCase().replace(/[ʼ’]/g, "'").match(/[a-zа-яіїєґ'0-9]+/g) || []).forEach(function (w) {
+    const st = w.length > 5 ? w.slice(0, 5) : w; set[KWM_SYN_[st] || st] = 1;
+  });
+  return set;
+}
+const KWM_CLOTH_ = /Головні|Кофти|Футбол|Костюм|Штани|Чоловічки|Шарф|Комбінез|Шорти|Верхній|Боді|Білизна|Сукні|Комплект|Піжам|Пелюш|Пінетк|Рукавич|Повзун|Царапк|Набори в пологовий|Конверт/;
+const KWM_BABY_ = /Царапк|Пелюш|Пінетк|Набори в пологовий|Конверт|Іграшки для малюків/;
+function kwMarket_(o, name) {
+  if (typeof KW_MARKET_ === 'undefined') return [];
+  const cat = KW3_CATS_[(o.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1]] || '';
+  const pr = {}; (o.match(/<param name="[^"]+"[^>]*>[^<]*<\/param>/g) || []).forEach(function (x) {
+    const m = x.match(/<param name="([^"]+)"[^>]*>([^<]*)</); pr[m[1]] = m[2];
+  });
+  let txt = name + ' ' + cat;
+  Object.keys(pr).forEach(function (k) { if (k !== 'Склад' && k !== 'Країна виробник') txt += ' ' + pr[k]; });
+  const t = kwmToks_(txt, {});
+  if (KWM_CLOTH_.test(cat)) t['одяг'] = 1;
+  const sz = +((pr['Розмір дитячого одягу (за зростом)'] || '').match(/^\d+/) || [0])[0];
+  if (sz && sz <= 68) { t['новон'] = t['немов'] = t['малюк'] = 1; } else if (sz && sz <= 86) { t['немов'] = t['малюк'] = 1; }
+  if (KWM_BABY_.test(cat)) { t['новон'] = t['немов'] = t['малюк'] = 1; }
+  const sea = (pr['Сезон'] || '').toLowerCase();
+  if (/зим/.test(sea)) t['зимов'] = 1;
+  if (/демі|осін/.test(sea)) ['деміс', 'осінн', 'весна', 'весня', 'осінь'].forEach(function (k) { t[k] = 1; });
+  const sx = ((pr['Стать'] || '') + ' ' + name).toLowerCase();
+  if (/хлоп/.test(sx)) t['хлопч'] = 1;
+  if (/дівч/.test(sx)) t['дівчи'] = 1;
+  if (/унісекс/.test(sx)) { t['хлопч'] = t['дівчи'] = 1; }
+  const out = [];
+  KW_MARKET_.forEach(function (r) { if (r[2].every(function (k) { return t[k]; })) out.push(r[0]); });
+  return out;
+}
 function kwV3_(xml) {
   let n = 0;
+  KW3_CATS_ = {}; (xml.match(/<category id="\d+"[^>]*>[^<]*<\/category>/g) || []).forEach(function (c) {
+    const m = c.match(/id="(\d+)"[^>]*>([^<]*)</); KW3_CATS_[m[1]] = m[2];
+  });
   const res = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>/g, function (o) {
     const exUa = (kw3Tag_(o, 'keywords_ua') || '').split(/\s*,\s*/).filter(Boolean);
     const exRu = (kw3Tag_(o, 'keywords') || '').split(/\s*,\s*/).filter(Boolean);
