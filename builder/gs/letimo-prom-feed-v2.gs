@@ -2564,6 +2564,17 @@ function epiDerive_(a, ctx, opts) {
 function epiFallback_(a, ctx, opts, setTitle) {
   const n = String(a.n).toLowerCase(), nl = ctx.nl || '', t = ctx.t || '', st = String(setTitle || '').toLowerCase();
   const pick = function (arr) { return arr.filter(function (v) { return !!opts[v]; }).slice(0, 1); };
+  // колір / візерунок з назви, коли в товарі немає характеристики «Колір» («… "Liam", сірий меланж 56»)
+  const nameCol = (String(ctx.nl || '').split(',')[1] || '').replace(/\d.*$/, '').replace(/[«»"]/g, '').trim();
+  if (/^базовий колір/.test(n)) { const b = epiBaseColor_(nameCol) || epiBaseColor_(nl); return b ? pick([b]) : []; }
+  if (/^колір виробника/.test(n) || a.c === '78') { const b = epiBaseColor_(nameCol) || epiBaseColor_(nl); return pick([nameCol, b]); }
+  if (/^візерунок/.test(n)) return epiPattern_(nameCol || nl).filter(function (v) { return !!opts[v]; }).slice(0, 1);
+  if (/^вік дитини/.test(n)) {
+    const h = (ctx.heights && ctx.heights.length) ? +ctx.heights[0] : 0;
+    if (!h) return [];
+    const A = h <= 56 ? ['від народження', '0-1 рік'] : h <= 62 ? ['від 1 місяця', 'від 2 місяців', 'від народження', '0-1 рік'] : h <= 68 ? ['від 3 місяців', '0-1 рік'] : h <= 74 ? ['від 6 місяців', '0-1 рік'] : h <= 80 ? ['від 9 місяців', '0-1 рік'] : h <= 86 ? ['від 1 року', 'від 12 місяців', '1-2 роки'] : h <= 92 ? ['від 1,5 року', 'від 18 місяців', '1-2 роки'] : h <= 98 ? ['від 2 років', '2-3 роки'] : h <= 104 ? ['від 3 років', '3-4 роки', '3-6 років'] : h <= 110 ? ['від 4 років', '4-5 років', '3-6 років'] : h <= 116 ? ['від 5 років', '5-6 років', '3-6 років'] : ['від 6 років', '6-7 років'];
+    return pick(A);
+  }
   if (/головні убори/.test(st) && /^тип/.test(n)) {
     if (/набір|комплект/.test(nl)) return pick(['набір']);
     if (/чепчик/.test(nl)) return pick(['чепчик']);
