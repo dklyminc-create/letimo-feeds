@@ -2558,6 +2558,58 @@ function epiDerive_(a, ctx, opts) {
   // інше: значення, яке дослівно є в назві товару
   return Object.keys(opts).filter(function (o) { return o.length >= 4 && ctx.nl.indexOf(o) > -1 && epiWordRx_(o).test(ctx.nl); });
 }
+// 26.11.2026: резервні значення обов'язкових полів Епіцентру, коли epiDerive_ не знайшов дослівного збігу.
+// Причини з логу EPI_WHY: «Тип» шапок, «Вид» чоловічків/кофт/пісочників/майок/жилетів/трусів, «Склад комплекту» костюмів,
+// «Особливість» комбінезонів, «Тип» пелюшок. Лише значення, які є в довіднику (opts); інакше поле лишається порожнім.
+function epiFallback_(a, ctx, opts, setTitle) {
+  const n = String(a.n).toLowerCase(), nl = ctx.nl || '', t = ctx.t || '', st = String(setTitle || '').toLowerCase();
+  const pick = function (arr) { return arr.filter(function (v) { return !!opts[v]; }).slice(0, 1); };
+  if (/головні убори/.test(st) && /^тип/.test(n)) {
+    if (/набір|комплект/.test(nl)) return pick(['набір']);
+    if (/чепчик/.test(nl)) return pick(['чепчик']);
+    if (/пов'?язк/.test(nl)) return pick(["пов'язка"]);
+    if (/косинк/.test(nl)) return pick(['косинка']);
+    if (/бандан/.test(nl)) return pick(['бандана']);
+    return pick(['шапочка']);
+  }
+  if (/склад комплекту/.test(n)) {
+    const top = /худі|світшот|толстовк/.test(t) ? 'кофта' : /реглан/.test(t) ? 'реглан' : /светр/.test(t) ? 'светр' : /футболк/.test(t) ? 'футболка' : /кофт|кофточ|жакет|бомбер/.test(t) ? 'кофта' : '';
+    const bot = /шорт/.test(nl) ? 'шорти' : /штан|штанц|джогер|брюк/.test(t) ? 'штани' : /спідниц/.test(t) ? 'спідниця' : /лосин|легінс/.test(t) ? (/футболк/.test(t) ? 'лосини' : 'лосини') : '';
+    if (/чоловіч/.test(nl) && /шапоч/.test(t)) return pick(['чоловічок та шапочка']);
+    if (top && bot) return pick([top + ' і ' + bot, top + ' та ' + bot, 'кофта і ' + bot, 'реглан і ' + bot]);
+    if (bot === 'штани') return pick(['кофта і штани', 'реглан і штани']);
+    return [];
+  }
+  if (a.c === '10899' || /^особлив/.test(n)) {
+    if (/напівкомбінезон|бретел/.test(t)) return pick(['з широкою бретелькою']);
+    if (ctx.sleeve === 'короткі') return pick(['з короткими рукавами']);
+    if (ctx.sleeve === 'без рукавів') return pick(['з широкою бретелькою']);
+    return pick(['з довгими рукавами']);
+  }
+  if (/^вид/.test(n)) {
+    if (/чоловічки/.test(st)) {
+      if (ctx.sleeve === 'короткі' || /коротк\S* рукав/.test(t)) return pick(['з коротким рукавом']);
+      if (/відкрит\S* ніж/.test(t)) return pick(['з відкритими ніжками']);
+      if (/закрит\S* ніж/.test(t)) return pick(['із закритими ніжками']);
+      return pick(['з довгим рукавом']);
+    }
+    if (/светри|кофти/.test(st)) {
+      const M = [[/худі/, 'худі'], [/світшот/, 'світшот'], [/толстовк/, 'толстовка'], [/лонгслів/, 'лонгслів'], [/реглан/, 'реглан'], [/гольф/, 'гольф'], [/джемпер/, 'джемпер'], [/кардиган/, 'кардиган'], [/бомбер/, 'бомбер'], [/жакет/, 'жакет'], [/тунік/, 'туніка'], [/жилет/, 'жилет'], [/светр/, 'светр'], [/кофт/, 'кофта']];
+      for (let i = 0; i < M.length; i++) if (M[i][0].test(nl)) return pick([M[i][1]]);
+      return pick(['кофта']);
+    }
+    if (/пісочники/.test(st)) {
+      if (/капюшон/.test(nl)) return pick(['з капюшоном']);
+      if (ctx.sleeve === 'без рукавів' || /бретел|без рукав/.test(t)) return pick(['без рукавів']);
+      return pick(['з коротким рукавом']);
+    }
+    if (/майки/.test(st)) return pick([/вузьк|тонк\S* бретел/.test(t) ? 'з вузькою бретелькою' : 'з широкою бретелькою']);
+    if (/жилети/.test(st)) return pick([/тепл|утеплен|стьоб|пух|синтепон|фліс/.test(t) ? 'теплі' : /в'?язан/.test(t) ? "в'язані" : /трикотаж/.test(t) ? 'трикотажні' : 'класичні']);
+    if (/труси/.test(st)) return pick([/боксер/.test(nl) ? 'боксери' : /плавк/.test(nl) ? 'плавки' : /тренувальн/.test(nl) ? 'тренувальні' : /бікіні/.test(nl) ? 'бікіні' : /набір|сет\b/.test(nl) ? 'набір' : 'труси']);
+  }
+  if (/пелюшки/.test(st) && /^тип/.test(n)) return pick([/кокон/.test(nl) ? 'кокон' : 'тканинні', 'багаторазові']);
+  return [];
+}
 // Значення поля Епіцентру з однойменної характеристики MagBaby — лише точний збіг з довідником
 function epiMbVals_(a, mbP, opts) {
   const n = String(a.n).toLowerCase().trim();
@@ -2730,7 +2782,7 @@ function buildEpicentr_(mode, from) {
     let attrsList; try { attrsList = epiSetAttrs_(S); } catch (e) { skip('API: ' + e.message); return all; }
     attrsList.forEach(function (a) {
       if (EPI_SYS.indexOf(a.c) > -1) return;
-      if (a.t !== 'select' && a.t !== 'multiselect') { if (a.c === '7286' && /^TALVI-/.test(art) && size) { parts.push('<param lang="ua" paramcode="7286" name="' + xmlEsc_(a.n) + '">' + xmlEsc_(/універс/i.test(size) ? 'Універсальний' : String(size).replace(/(\s*см)+$/, ' см')) + '</param>'); return; } if (a.r) miss.push(a.n); return; } // 05.11.2026: «Розмір виробника» (текст) для Talvi
+      if (a.t !== 'select' && a.t !== 'multiselect') { if (a.c === '7286' && /^TALVI-/.test(art) && size) { parts.push('<param lang="ua" paramcode="7286" name="' + xmlEsc_(a.n) + '">' + xmlEsc_(/універс/i.test(size) ? 'Універсальний' : String(size).replace(/(\s*см)+$/, ' см')) + '</param>'); return; } if (a.r && a.c === '2437') { const qn = (nameUa.match(/(\d+)\s*(?:шт|од\.|пелюш)/i) || nameUa.match(/набір\s+з\s+(\d+)/i) || [])[1] || '1'; parts.push('<param name="' + xmlEsc_(a.n) + '" paramcode="2437">' + qn + '</param>'); return; } /* 26.11.2026: Кількість в упаковці */ if (a.r) miss.push(a.n); return; } // 05.11.2026: «Розмір виробника» (текст) для Talvi
       let opts; try { opts = epiOptions_(S, a.c); } catch (e) { if (a.r) miss.push(a.n + ' (API)'); return; }
       if (ctx.dr && a.c === '78') opts = Object.assign({}, opts, DR_EPI_COLOR78); // ДоРечі: базові кольори довідника
     if (/^TALVI-/.test(art)) { const dv = tvDropEpiVals_(a, S, opts, P, nameUa); if (dv && dv.length) { const tp = epiParam_(a.n, a.c, opts, dv); if (tp) { parts.push(tp); return; } } }
@@ -2738,7 +2790,8 @@ function buildEpicentr_(mode, from) {
     let vals = (ctx.dr && drEpiVals_(a, ctx, opts)) || epiDerive_(a, ctx, opts);
       if (!vals || !vals.length) vals = epiMbVals_(a, mbP, opts);
       if (/^(TV-|TALVI-|4820000)/.test(art) && !(vals && vals.length && epiParam_(a.n, a.c, opts, vals))) { const ov = ownEpiVals_(a, ctx, opts); if (ov.length) vals = ov; } // 30.10.2026: власний склад (Talvi, Timi Tex) — заповнення пропусків
-      const prm = vals && vals.length ? epiParam_(a.n, a.c, opts, vals) : null;
+      let prm = vals && vals.length ? epiParam_(a.n, a.c, opts, vals) : null;
+      if (!prm && a.r) { const fb = epiFallback_(a, ctx, opts, rule[3]); if (fb && fb.length) prm = epiParam_(a.n, a.c, opts, fb); } // 26.11.2026: резервні правила (EPI_WHY)
       if (prm) parts.push(prm); else if (a.r) miss.push(a.n);
     });
     EPI_TB_ += Date.now() - tB_;
