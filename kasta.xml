@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 10:15">
+<yml_catalog date="2026-11-26 10:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -30753,7 +30753,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Лакоста- 100% бавовна</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="1965" available="true">
+   <offer id="1965" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1124</categoryId>
 <vendor>MagBaby</vendor>
@@ -30762,7 +30762,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Футболка  Jade  з трикотажу  лакоста    яскрава й зручна, з подовженою спинкою, яка закриває поперек, коли дитина присідає.</p><h3>Що важливо</h3><ul><li>100% бавовна, що дихає.</li><li>Спущений рукав оверсайз.</li><li>Подовжена спинка.</li><li>Охайна обробка горловини та нашивка збоку.</li></ul><h3>Догляд</h3><p>Прати при 30 40  C, сушити природним способом.</p><p><strong>Порада LETIMO:</strong> разом із шортами  Jade  виходить готовий літній комплект.</p>]]></description_ua>
 <price>445</price>
 <price_old>685</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/16/32243733993727_%2B18b8242913.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/futbolka-jade-tsehliana-80-9-12-mis-34831122206328_%2B5dc283555c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/16/futbolka-jade-tsehliana-80-9-12-mis-51927351096637_%2B207a960ae3.jpg</picture>
@@ -141390,23 +141390,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% віскоза, 22% нейлон, 28% ПБТ; підклад - 95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="8356" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3168451-rv8b1</article>
-<name_ua><![CDATA[Демісезонний комплект «Піксельний воїн»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Демісезонний комплект  Піксельний воїн </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Демісезонний в'язаний комплект для хлопчиків</li><li>Декорований вишивкою в стилі популярної гри "ROBLOX"</li><li>Шапка всередині підшита бавовняним підкладом</li><li>Хомут - двошарова в'язка</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% віскоза, 22% нейлон, 28% ПБТ; підклад - 95% бавовна, 5% еластан</li><li>Вік: 3-5 років</li><li>Розміри (обхват голови): 50 52 см, 52 54 см</li><li>Кольори: Зелений, Темний беж, (1044) Коричневий, Сірий, Джинс, Чорний, Сірий меланж</li></ul>]]></description_ua>
-<price>760</price>
-<price_old>760</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/7/78761295880526_%2Bfa9369998d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/7/89994762309977_%2B13c60065b0.jpg</picture>
-<param name="Колір">темний</param>
-<param name="Розмір">52–54 см</param>
-<param name="Склад">основа - 50% віскоза, 22% нейлон, 28% ПБТ; підклад - 95% бавовна, 5% еластан</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="8357" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -151560,23 +151543,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 20% віскоза, 80% поліестер; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="9443" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1108</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3233451-4rexa</article>
-<name_ua><![CDATA[Утеплений флісом плед «Плюшик»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Утеплений флісом плед  Плюшик </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий та м'якенький пледик для найменших діток</li><li>Основа - тканина тедді, а всередині приємний та теплий фліс</li><li>Підійде як для хлопчиків, так і для дівчаток</li><li>Розмір: 100 80 см (допустима розбіжність  4 см)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 20% віскоза, 80% поліестер; підклад - 100% поліестер (фліс)</li><li>Розміри: 100*80см</li><li>Кольори: Світло-сірий, Світла пудра  7, Коричневий  14, Персик, Світлий беж, Темний беж  5, Фріза  8, Світлий хакі  13, Джинс  12, Молочний  2</li></ul>]]></description_ua>
-<price>760</price>
-<price_old>760</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/44/83293472166540_%2Bb11d169d99.jpg</picture>
-<picture>https://letimo.com.ua/content/images/44/55723706348752_%2B48d3c227bc.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">100*80см</param>
-<param name="Склад">основа - 20% віскоза, 80% поліестер; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="9444" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1108</categoryId>
@@ -152240,6 +152206,91 @@ SYSTEM "shops.dtd">
 <param name="Склад">95% бавовна, 5% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="9494" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-h8dne</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/45/11319523290604_%2B601cdef29a.jpg</picture>
+<picture>https://letimo.com.ua/content/images/45/63770291712181_%2B3cc9d982a4.jpg</picture>
+<param name="Колір">комбінований</param>
+<param name="Розмір">48–52 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9495" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-h3xfz</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/46/29815872785235_%2B8cdbce1e8d.jpg</picture>
+<picture>https://letimo.com.ua/content/images/46/33279060135620_%2B6223366626.jpg</picture>
+<param name="Колір">кавовий</param>
+<param name="Розмір">48–52 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9497" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-jtp84</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/48/20910846729380_%2B75b1afce7f.jpg</picture>
+<picture>https://letimo.com.ua/content/images/48/51225534719734_%2B9189cc380f.jpg</picture>
+<param name="Колір">комбінований</param>
+<param name="Розмір">48–52 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9498" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-n6qi</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/49/65314358316049_%2B0d5b85ecd7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/49/88021084688181_%2B4ab8212d69.jpg</picture>
+<param name="Колір">бежевий</param>
+<param name="Розмір">48–52 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9499" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/50/99319294059407_%2B09a0277905.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/86170174523997_%2B3e7dd7dd36.jpg</picture>
+<param name="Колір">світло-рожевий</param>
+<param name="Розмір">48–52 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="9500" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1136</categoryId>
@@ -152286,6 +152337,91 @@ SYSTEM "shops.dtd">
 <stock_quantity>1</stock_quantity>
 <picture>https://letimo.com.ua/content/images/3/92524903600842_%2B0fb4322edb.jpg</picture>
 <picture>https://letimo.com.ua/content/images/3/39834913297082_%2Bb6d8675f82.jpg</picture>
+<param name="Колір">комбінований</param>
+<param name="Розмір">52–56 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9504" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-n6qi</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/5/67416178853111_%2B2f920ff727.jpg</picture>
+<picture>https://letimo.com.ua/content/images/5/40080696256394_%2Ba3a66b53eb.jpg</picture>
+<param name="Колір">бежевий</param>
+<param name="Розмір">52–56 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9505" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/6/28151334467608_%2Bae879650e7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/6/85879777415947_%2B000e7ae6fd.jpg</picture>
+<param name="Колір">світло-рожевий</param>
+<param name="Розмір">52–56 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9506" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-h8dne</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/7/41153891246695_%2B6788a0def3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/7/54026650353277_%2Bea2835e24c.jpg</picture>
+<param name="Колір">комбінований</param>
+<param name="Розмір">52–56 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9507" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-h3xfz</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/8/98517659237238_%2Bfa1b3b78c7.jpg</picture>
+<picture>https://letimo.com.ua/content/images/8/16931316341038_%2Bcb16f43851.jpg</picture>
+<param name="Колір">кавовий</param>
+<param name="Розмір">52–56 см</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9508" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1136</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3236451-jtp84</article>
+<name_ua><![CDATA[Пов'язка-чалма «Елін»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пов'язка-чалма  Елін </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова однотонна пов'язка для дівчат</li><li>Підійде під будь який образ</li><li>Зверніть увагу: фото з дитиною створено за допомогою штучного інтелекту з метою ілюстрації вигляду товару</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 95% бавовна, 5% еластан</li><li>Вік: 9-24 міс</li><li>Розміри (обхват голови): 44 48 см, 48 52 см, 52 56 см</li><li>Кольори: Рожевий, Фріза, Бузок, L035 Малина, L003 Молочний, Таш, Світло-рожевий, Мокко, Кава, L135 Темний беж</li></ul>]]></description_ua>
+<price>220</price>
+<price_old>220</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/9/27041675276429_%2B15a57361a5.jpg</picture>
+<picture>https://letimo.com.ua/content/images/9/96552378183532_%2B263459d3a6.jpg</picture>
 <param name="Колір">комбінований</param>
 <param name="Розмір">52–56 см</param>
 <param name="Склад">95% бавовна, 5% еластан</param>
@@ -157287,6 +157423,23 @@ SYSTEM "shops.dtd">
 <param name="Колір">комбінований</param>
 <param name="Розмір">48–54 см</param>
 <param name="Склад">52% віскоза, 26% еластан, 22% нейлон</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="9999" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1088</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3269451</article>
+<name_ua><![CDATA[Пухнасті зимові мітенки «Флаффі»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Пухнасті зимові мітенки  Флаффі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Пухнасті мітенки для підлітків та дорослих жінок</li><li>Виготовлені з дуже приємною та м'якої на дотик пряжі</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 100% нейлон</li><li>Розміри: Універсальний</li><li>Кольори: Коричневий, Пудра, Рожевий, Світла пудра, Білий, Молочний, Світлий беж, Бежевий, Чорний</li></ul>]]></description_ua>
+<price>390</price>
+<price_old>390</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/50/16225080829802_%2B46e783dfcb.jpg</picture>
+<picture>https://letimo.com.ua/content/images/50/32587977629892_%2Bf6f4ab599a.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">Універсальний</param>
+<param name="Склад">100% нейлон</param>
 <param name="страна-производитель">Україна</param>
 </offer>
    <offer id="10000" available="true">
@@ -200588,23 +200741,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="14904" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3546451-1gjc4</article>
-<name_ua><![CDATA[Шолом з вушками «Герман»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шолом з вушками  Герман </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий шолом із кумедними вушками</li><li>Декорований фірмовою нашивкою talvi</li><li>Утеплений по всій площині зсередини</li><li>Підійде на холодну осінь-зиму</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: Джинсовий меланж, Темна пудра, Малина, Хакі, Світло-сірий, Червоний, Помаранчевий, (MLN) Бордовий меланж, Блакитний, Рожевий, Лаванда, Світлий джинс, Світло-сірий меланж, Персик, Білий, Пудра, Гірчиця, Світлий хакі, Молочний, Темно-сірий меланж, BORDO Темно-бордовий, Світло-рожевий, Зелений, Темно-синій, Коричневий, Світло-бежевий меланж, Чорний, Бежевий, Кавовий, Хаки</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/5/36729151221130_%2B1136d41b65.jpg</picture>
-<picture>https://letimo.com.ua/content/images/5/93145965001429_%2Bbfcc375250.jpg</picture>
-<param name="Колір">світло-сірий</param>
-<param name="Розмір">46–48 см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="14905" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -200907,23 +201043,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/24/34315892820853_%2B941413480e.jpg</picture>
 <picture>https://letimo.com.ua/content/images/24/91902614942493_%2B0d2e5e80e7.jpg</picture>
 <param name="Колір">світлий</param>
-<param name="Розмір">50–52 см</param>
-<param name="Склад">верх - шерсть 50%, акрил 50%, низ - фліс</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14975" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3547451</article>
-<name_ua><![CDATA[Теплий шолом з помпонами «Одді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Теплий шолом з помпонами  Одді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий зимовий шолом із помпонами. Шолом утеплений флісом</li><li>Для малюків 1-2 роки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - шерсть 50%, акрил 50%, низ - фліс</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: Помаранчевий, Лаванда, Джинсовий меланж, Світло-рожевий, Малина, Світло-сірий, Світло-сірий меланж, Блакитний, Рожевий, Бежевий, Кавовий, Світло-бежевий меланж, Світлий джинс, Пудра, Гірчиця, Світлий хакі</li></ul>]]></description_ua>
-<price>640</price>
-<price_old>640</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/26/66779723286032_%2B6a78a9a91d.jpg</picture>
-<picture>https://letimo.com.ua/content/images/26/31910367750743_%2Bb6991fd281.jpg</picture>
-<param name="Колір">кавовий</param>
 <param name="Розмір">50–52 см</param>
 <param name="Склад">верх - шерсть 50%, акрил 50%, низ - фліс</param>
 <param name="страна-производитель">Україна</param>
@@ -209916,23 +210035,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/32/27997089070042_%2B2d64bf445b.jpg</picture>
 <picture>https://letimo.com.ua/content/images/32/69315863760051_%2Ba7997b1640.jpg</picture>
 <param name="Колір">зелений</param>
-<param name="Розмір">50 см</param>
-<param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15683" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3577451</article>
-<name_ua><![CDATA[Милий шолом з флісом «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Милий шолом з флісом  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Неймовірно милий зимовий шолом з хутра. Шолом декорован вушками та фірмовою нашивкою Talvi</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</li><li>Розміри (обхват голови): 46 см, 48 см, 50 см, 52 см</li><li>Кольори: Зелений, Світлий хакі, Білий, Джинс, Рожевий, Персик, Молочний, Коричневий  14, Темна пудра, Бежевий, Світла пудра, Світлий беж, Чорний, Світло-сірий, Білий  1, Малина, Коричневий  35, Хакі, Шоколадний</li></ul>]]></description_ua>
-<price>600</price>
-<price_old>600</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/34/21320009162841_%2B009cae1004.jpg</picture>
-<picture>https://letimo.com.ua/content/images/34/95475147558575_%2B30eacff3b1.jpg</picture>
-<param name="Колір">білий</param>
 <param name="Розмір">50 см</param>
 <param name="Склад">верх - 20% віскоза, 80% поліестер, низ - 100% поліестер</param>
 <param name="страна-производитель">Україна</param>
