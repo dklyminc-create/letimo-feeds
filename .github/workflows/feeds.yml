@@ -64,7 +64,7 @@ jobs:
         env:
           KASTA_API_TOKEN: ${{ secrets.KASTA_API_TOKEN }}
           KASTA_PUSH: ${{ github.event.inputs.kasta_push || vars.KASTA_PUSH }}
-          KASTA_ID_PREFIX: ${{ vars.KASTA_ID_PREFIX }}
+          KASTA_ID_PREFIX: ${{ vars.KASTA_ID_PREFIX || 'rzid_' }}
         run: node builder/kasta-stock-push.js
 
       - name: Опублікувати
