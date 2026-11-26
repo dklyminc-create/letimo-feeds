@@ -104,7 +104,7 @@ function publishRozetka() {
 function publishJob_(job) {
   const stamp = Utilities.formatDate(new Date(), 'Europe/Kyiv', 'yyyy-MM-dd HH:mm');
   if (job === 'kasta') { MP_PCT_ = MP_MARKUP.kasta; ghPublishLean_('kasta.xml', function () { const kx = tvCapChars_(tvDropOnlyAvail_(kastaOwnSale_(kastaSizeFix_(tvBarcode_(kastaSplit_(buildKasta_()))))), 24000000); kastaPriceGuard_(kx); return kx; }, 'kasta ' + stamp); return 'kasta OK'; }
-  if (job === 'prom') { MP_PCT_ = MP_MARKUP.prom; TV_DROP_MAX_ = 2300; ghPublishBig_('prom.xml', tvCapChars_(tvPromDropFilter_(kwV3_(toysKw_(promFix_(promEnrich_(buildFeed_()))))), 28000000), 'prom ' + stamp); return 'prom OK'; }
+  if (job === 'prom') { MP_PCT_ = MP_MARKUP.prom; TV_DROP_MAX_ = 2300; TV_KEEP_OOS_ = true; try { ghPublishBig_('prom.xml', tvCapChars_(tvPromDropFilter_(kwV3_(toysKw_(promFix_(promEnrich_(buildFeed_()))))), 28000000), 'prom ' + stamp); } finally { TV_KEEP_OOS_ = false; } return 'prom OK'; }
   if (job === 'epicentr') return publishEpicentr();
   if (job === 'dorechi') { ghPublish_({ 'dorechi.csv': buildDorechiCsv_(), 'dorechi-test.csv': buildDorechiCsv_(3) }, 'dorechi ' + stamp); return 'dorechi OK'; }
   if (job === 'rozetka') return publishRozetka();

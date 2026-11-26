@@ -3505,6 +3505,7 @@ function ownEpiVals_(a, ctx, opts) {
 // (оновлюється кожні 2 год), не чекаючи нічного файлу експорту Horoshop. Тільки TALVI-; решта фіду не змінюється.
 const TV_DROP_SHEET_ID = '1ZAh8By5KHTX_YDADrLq9kYtFds8yiW_1GLaPp1TAT3I';
 var TV_DROP_IDS_ = {};
+var TV_KEEP_OOS_ = false; // 26.11.2026: true лише під час збирання Prom (див. tvDropAvail_ / tvPromDropFilter_)
 function tvDropMap_() {
   if (tvDropMap_.m !== undefined) return tvDropMap_.m;
   tvDropMap_.m = null;
@@ -3540,7 +3541,7 @@ function tvDropAvail_(xml) {
     const q = Math.max(map[k] || 0, own_);
     if (own_) o = o.replace(/\s*\((?:під замовлення|под заказ)\)/g, '');
     const price = Number((o.match(/<price>([\d.]+)<\/price>/) || [])[1] || 0);
-    if (!(q > 0 && price > 0)) { cut++; return ''; }
+    if (!(q > 0 && price > 0)) { cut++; if (TV_KEEP_OOS_ && price > 0) return o.replace(/available="[^"]*"/, 'available="false"'); return ''; } // 26.11.2026: для Prom не прибираємо — далі tvPromDropFilter_ лишає групи, де є хоч один у наявності
     const g = (o.match(/group_id="([^"]+)"/) || [])[1] || k;
     if (TV_DROP_MAX_ && !keptGroups[g] && kept >= TV_DROP_MAX_) { capped++; return ''; }
     if (TV_DROP_MAX_ && keptGroups[g] === -1) { capped++; return ''; }
