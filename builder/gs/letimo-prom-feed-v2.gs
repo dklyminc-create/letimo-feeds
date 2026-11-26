@@ -2741,6 +2741,7 @@ function buildEpicentr_(mode, from) {
     const nameUa = (epiTag_(body, 'name_ua').text || epiTag_(body, 'name').text).trim();
     const nl = nameUa.toLowerCase();
     const tvArt_ = (epiTag_(body, 'vendorCode').text || '').trim();
+    if (/<vendor>(?:<!\[CDATA\[)?\s*LETIMO\s*(?:\]\]>)?<\/vendor>/.test(body)) { const kL = 'LETIMO (бренду немає в довіднику Епіцентру — запит надіслано 26.11.2026)'; rep.noRule[kL] = (rep.noRule[kL] || 0) + 1; return all; } // 26.11.2026: не підставляти Mag Baby
     const tvR_ = /^TALVI-/.test(tvArt_) ? tvDropEpiRule_(cat, nl, (body.match(/<param name="Розмір">([^<]*)</) || [])[1] || '') : undefined; // 04.11.2026 Talvi-дроп
     if (tvR_ === false) { const kk = 'Talvi ' + cat + ' (немає відповідника в Епіцентрі)'; rep.noRule[kk] = (rep.noRule[kk] || 0) + 1; return all; }
     if (TOY_CATS.indexOf(cat) >= 0) { // 24.11.2026: іграшки Kiddisvit — окремі правила (epiToyOffer_)
