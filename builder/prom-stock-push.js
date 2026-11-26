@@ -81,6 +81,17 @@ async function send(items) {
     (j.products || []).forEach((p) => console.log("Prom probe list: id=" + p.id + " external_id=" + p.external_id + " sku=" + p.sku + " name=" + String(p.name).slice(0, 50)));
     return;
   }
+  if (MODE.startsWith("edit:")) { // edit:<prom_id>:<presence>:<qty> — пряма перевірка /products/edit
+    const [pid, pres, q] = MODE.slice(5).split(":");
+    const H = { Authorization: "Bearer " + TOKEN, Accept: "application/json" };
+    const show = async (tag) => { const g = await fetch(API + "/products/" + pid, { headers: H }); const j = await g.json().catch(() => ({})); const pr = j.product || {}; console.log("Prom " + tag + ": presence=" + pr.presence + " in_stock=" + pr.in_stock + " quantity_in_stock=" + pr.quantity_in_stock + " status=" + pr.status); };
+    await show("до");
+    const body = [{ id: Number(pid), presence: pres, quantity_in_stock: Number(q) }];
+    const r = await fetch(API + "/products/edit", { method: "POST", headers: { ...H, "Content-Type": "application/json" }, body: JSON.stringify(body) });
+    console.log("Prom edit " + JSON.stringify(body) + ": HTTP " + r.status + " " + (await r.text()).slice(0, 400));
+    await show("після");
+    return;
+  }
   if (MODE.startsWith("test:")) {
     const id = MODE.slice(5).trim();
     if (!cur[id]) { console.log("Prom API (тест): " + id + " немає у фіді"); return; }
