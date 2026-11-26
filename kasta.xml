@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-27 00:24">
+<yml_catalog date="2026-11-27 00:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -144790,23 +144790,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="8823" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3194451-1gjc4</article>
-<name_ua><![CDATA[Зимовий комплект «Рубчик+фліс»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимовий комплект  Рубчик+фліс </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базовий комплект для дітей та дорослих в універсальному розмірі</li><li>Шапка утеплена флісом по лінії вух</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): Універсальний</li><li>Кольори: Білий, Пудра, Гірчиця, Коричневий, Темна пудра, Світло-рожевий, Світло-сірий, Чорний, Світло-коричневий, (MLN) Бордовий меланж, Блакитний, Рожевий, Темно-синій, Темно-сірий меланж, М'ята, Світлий джинс, Світло-сірий меланж, Світло-бежевий меланж, Персик, Молочний, Червоний, Теракот, Кавовий, Світлий хакі, Жовтий, Лаванда, Малина, Хакі, Бежевий, Зелений, Помаранчевий</li></ul>]]></description_ua>
-<price>520</price>
-<price_old>520</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/24/85923515205466_%2B7de23602dc.jpg</picture>
-<picture>https://letimo.com.ua/content/images/24/20010145701990_%2Bd78ba243ab.jpg</picture>
-<param name="Колір">світло-сірий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="8824" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -145092,23 +145075,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/19/33994976161533_%2B24e55a4cc3.jpg</picture>
 <picture>https://letimo.com.ua/content/images/19/30990340479459_%2B3740261a52.jpg</picture>
 <param name="Колір">білий</param>
-<param name="Розмір">50-54</param>
-<param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="8869" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3197451-1ilsm</article>
-<name_ua><![CDATA[Зимовий комплект з вишивкою «Хеліцер»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимовий комплект з вишивкою  Хеліцер </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Комплект для хлопчиків, виготовлений з теплої та приємної на дотик пряжі</li><li>Шапка: двошарова в'язка + утеплення флісом по лінії вух</li><li>Відворот не закріплений, можна регулювати до межі початку флісової підкладки</li><li>Хомут двошаровий</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</li><li>Вік: 3-5 років</li><li>Розміри (обхват голови): 50 52 см, 52 54 см</li><li>Кольори: Світло-сірий, Коричневий, Темно-синій, Білий, Сірий меланж</li></ul>]]></description_ua>
-<price>900</price>
-<price_old>900</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/20/94006349630566_%2Bb4a8cbd74e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/20/47270730820515_%2B3394246344.jpg</picture>
-<param name="Колір">сірий</param>
 <param name="Розмір">50-54</param>
 <param name="Склад">основа - 50% акрил, 28% ПБТ, 22% нейлон, підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
