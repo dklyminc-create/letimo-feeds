@@ -57,7 +57,7 @@ jobs:
         continue-on-error: true
         env:
           EPICENTR_TOKEN: ${{ secrets.EPICENTR_TOKEN }}
-          EPI_PUSH: ${{ github.event.inputs.epi_push || vars.EPI_PUSH }}
+          EPI_PUSH: ${{ github.event.inputs.epi_push || vars.EPI_PUSH || 'live' }}
         run: node builder/epi-stock-push.js
 
       - name: Опублікувати
