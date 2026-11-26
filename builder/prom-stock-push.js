@@ -69,6 +69,18 @@ async function send(items) {
   const cur = feedState();
   if (!cur) { console.log("Prom API: немає prom.xml.gz — пропускаю"); return; }
 
+  if (MODE.startsWith("probe:")) {
+    const H = { Authorization: "Bearer " + TOKEN, Accept: "application/json" };
+    for (const id of MODE.slice(6).split(",")) {
+      const r = await fetch(API + "/products/by_external_id/" + encodeURIComponent(id.trim()), { headers: H });
+      const t = await r.text();
+      console.log("Prom probe by_external_id " + id + ": HTTP " + r.status + " " + t.slice(0, 300));
+    }
+    const r = await fetch(API + "/products/list?limit=5", { headers: H });
+    const j = await r.json().catch(() => ({}));
+    (j.products || []).forEach((p) => console.log("Prom probe list: id=" + p.id + " external_id=" + p.external_id + " sku=" + p.sku + " name=" + String(p.name).slice(0, 50)));
+    return;
+  }
   if (MODE.startsWith("test:")) {
     const id = MODE.slice(5).trim();
     if (!cur[id]) { console.log("Prom API (тест): " + id + " немає у фіді"); return; }
