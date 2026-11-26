@@ -10,7 +10,12 @@ on:
     paths: ['_data/tick.txt']   # 05.11.2026: «пульс» від Apps Script кожні 30 хв — розклад GitHub цю збірку не запускав
   schedule:
     - cron: '0,30 * * * *'   # кожні 30 хв (між запусками фідів Prom/Kasta/Rozetka)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      epi_push:
+        description: 'Наявність через API: порожньо = як у змінній EPI_PUSH; test:<sku>; live'
+        required: false
+        default: ''
 
 concurrency:
   group: feeds-build
@@ -48,11 +53,18 @@ jobs:
           if [ -s _data/keycrm-stock.yml ]; then export SD_YML_URL="file://$GITHUB_WORKSPACE/_data/keycrm-stock.yml"; echo "Залишки власного складу: KeyCRM"; else echo "Залишки власного складу: SalesDrive (запасне)"; fi
           node --max-old-space-size=6144 builder/run.js epicentr
 
+      - name: Наявність на Епіцентрі через API (одразу, не чекаючи нічного імпорту)
+        continue-on-error: true
+        env:
+          EPICENTR_TOKEN: ${{ secrets.EPICENTR_TOKEN }}
+          EPI_PUSH: ${{ github.event.inputs.epi_push || vars.EPI_PUSH }}
+        run: node builder/epi-stock-push.js
+
       - name: Опублікувати
         run: |
           git config user.name "letimo-feeds-bot"
           git config user.email "feeds-bot@users.noreply.github.com"
-          for f in epicentr.xml epi-cache.json _test/epicentr.xml _test/epi-cache.json; do
+          for f in epicentr.xml epi-cache.json _test/epicentr.xml _test/epi-cache.json _data/epi-stock-push.json _data/epi-stock-log.json; do
             if [ -f "$f" ]; then git add -- "$f"; fi
           done
           if git diff --cached --quiet; then echo "Без змін"; exit 0; fi
@@ -60,7 +72,7 @@ jobs:
           # 07.11.2026: push відхилявся, коли паралельно писав Apps Script, а pull --rebase падав через незакомічені службові файли
           # (fatal: no rebase in progress → exit 128). Тепер: прибираємо зайве, --autostash і жоден крок повтору не валить задачу.
           git checkout -- . 2>/dev/null || true
-          git clean -fdq -e epicentr.xml -e epi-cache.json -e _test/ 2>/dev/null || true
+          git clean -fdq -e epicentr.xml -e epi-cache.json -e _test/ -e _data/epi-stock-push.json -e _data/epi-stock-log.json 2>/dev/null || true
           for i in 1 2 3 4 5 6; do
             if git push; then exit 0; fi
             git pull --rebase --autostash -X theirs || { git rebase --abort 2>/dev/null || true; git pull --no-rebase --autostash -X ours || true; }
