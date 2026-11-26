@@ -3594,9 +3594,19 @@ function tvDropAvailTest() {
 // 03.11.2026 (рішення Дмитра): на Prom Talvi-дроп (TALVI-) іде тільки «в наявності» — ліміт тарифу 10 000 позицій.
 function tvPromDropFilter_(xml) {
   let cut = 0;
+  // 26.11.2026: якщо в групі (group_id) є хоч один різновид у наявності — лишаємо ВСІ різновиди групи (решта йде «немає в наявності»).
+  // Інакше головний товар групи на Prom (перший у файлі) зникав із файлу, і Prom відкидав усю групу:
+  // «Основний товар групи різновидів … не відповідає основному товару групи із файлу» (~400 позицій Talvi, 52 моделі).
+  const liveGroups = {};
+  (xml.match(/<offer\b[^>]*>[\s\S]*?<\/offer>/g) || []).forEach(function (o) {
+    if (!/<vendorCode>(?:<!\[CDATA\[)?\s*TALVI-/.test(o) || !/available="true"/.test(o)) return;
+    const g = (o.match(/group_id="([^"]+)"/) || [])[1]; if (g) liveGroups[g] = 1;
+  });
   const out = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>\s*/g, function (o) {
     if (!/<vendorCode>(?:<!\[CDATA\[)?\s*TALVI-/.test(o)) return o;
     if (/available="true"/.test(o)) return o;
+    const gOwn = (o.match(/group_id="([^"]+)"/) || [])[1];
+    if (gOwn && liveGroups[gOwn]) return o;
     // 25.11.2026: власний склад Talvi (є в залишках CRM) не прибираємо — нехай Prom отримає «немає в наявності»
     const vcOwn = (o.match(/<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]\s]+)/) || [])[1], sdOwn = sdStock_();
     if (vcOwn && sdOwn && Object.prototype.hasOwnProperty.call(sdOwn, vcOwn)) return o;
