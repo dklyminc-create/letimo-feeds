@@ -2760,6 +2760,14 @@ function buildEpicentr_(mode, from) {
   });
   Logger.log('epi: цикл ' + Math.round((Date.now() - EPI_T0_) / 1000) + 's, API ' + EPI_CALLS_ + ' викл./' + Math.round(EPI_MS_ / 1000) + 's');
   if (mode === 'report') return JSON.stringify(rep, null, 1);
+  // 26.11.2026: причини, чому товари сайту не потрапили у фід Епіцентру (видно в лозі GitHub Actions)
+  try {
+    const skipSum = {}; Object.keys(rep.bySet).forEach(function (s) { const R = rep.bySet[s]; Object.keys(R.skip || {}).forEach(function (w) { const k = R.title + ' | ' + w; skipSum[k] = (skipSum[k] || 0) + R.skip[w]; }); });
+    const top = function (o, n) { return Object.keys(o).sort(function (a, b) { return o[b] - o[a]; }).slice(0, n).map(function (k) { return o[k] + ' × ' + k; }); };
+    Logger.log('EPI_WHY total=' + rep.total + ' ok=' + rep.ok + ' noPrice=' + rep.noPrice);
+    top(rep.noRule, 60).forEach(function (l) { Logger.log('EPI_WHY noRule ' + l); });
+    top(skipSum, 80).forEach(function (l) { Logger.log('EPI_WHY skip ' + l); });
+  } catch (e) { Logger.log('EPI_WHY error ' + e.message); }
   const d = Utilities.formatDate(new Date(), 'Europe/Kyiv', 'yyyy-MM-dd HH:mm');
   return '<?xml version="1.0" encoding="UTF-8"?>\n<yml_catalog date="' + d + '">\n<offers>\n' + (mode === 'xml' ? out.concat(epiShoeOffers_(xml), extraEpiOffers_()) : out).join('\n') + '\n</offers>\n</yml_catalog>';
 }
