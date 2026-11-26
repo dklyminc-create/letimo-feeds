@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 06:11">
+<yml_catalog date="2026-11-26 06:40">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -124048,30 +124048,6 @@
 <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
 <param name="Розмір" paramcode="2293" valuecode="y4fczlvetm3mlihr">48</param>
 <param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
-</offer>
-<offer id="TALVI-03578-92336" available="true">
-<price>368</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
-<name lang="ua">Пухнасті зимові мітенки «Флаффі», коричневий, Універсальний</name>
-<name lang="ru">Пушистые зимние митенки «Флаффи», коричневый, универсальный.</name>
-<picture>https://letimo.com.ua/content/images/50/16225080829802_+46e783dfcb.jpg</picture>
-<picture>https://letimo.com.ua/content/images/50/32587977629892_+f6f4ab599a.jpg</picture>
-<description lang="ua">&lt;p&gt;&lt;strong&gt;Пухнасті зимові мітенки  Флаффі &lt;/strong&gt; від українського бренду Talvi.&lt;/p&gt;&lt;h3&gt;Що важливо&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Пухнасті мітенки для підлітків та дорослих жінок&lt;/li&gt;&lt;li&gt;Виготовлені з дуже приємною та м'якої на дотик пряжі&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Бренд: Talvi (Україна)&lt;/li&gt;&lt;li&gt;Склад: 100% нейлон&lt;/li&gt;&lt;li&gt;Розміри: Універсальний&lt;/li&gt;&lt;li&gt;Кольори: Коричневий, Пудра, Рожевий, Світла пудра, Білий, Молочний, Світлий беж, Бежевий, Чорний&lt;/li&gt;&lt;/ul&gt;</description>
-<param paramcode="producer_code" name="Модель виробника (референцiя)"><![CDATA[Флаффі]]></param>
-<vendor code="ee151abe25104667a4651ca80c043d22">Talvi</vendor>
-<country_of_origin code="ukr">Україна</country_of_origin>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Висота" paramcode="height">20</param>
-<param name="Глибина" paramcode="length">120</param>
-<param name="Ширина" paramcode="width">100</param>
-<param name="Вага" paramcode="weight">50</param>
-<param lang="ua" paramcode="5123" name="Склад тканини">100% нейлон</param>
-<param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8">універсальний</param>
 </offer>
 <offer id="TALVI-03578-91676" available="true">
 <price>368</price>
