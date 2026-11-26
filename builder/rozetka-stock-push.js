@@ -94,7 +94,8 @@ async function resolveIds(token, ids, cache) {
     const c = (j && j.content) || {};
     const list = c.items || c.goods || c.data || [];
     const it = list.find((g) => String(g.price_offer_id) === String(id)) || null;
-    if (it && it.id) { cache[id] = Number(it.id); found++; } else { cache[id] = 0; miss++; }
+    const rzId = it && (it.rz_item_id || it.item_rz_id);
+    if (rzId) { cache[id] = Number(rzId); found++; } else { cache[id] = 0; miss++; }
     await sleep(350);
   }
   return { found, miss };
