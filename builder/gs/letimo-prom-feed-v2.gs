@@ -1896,7 +1896,10 @@ function kastaColor_(c) {
   if (KASTA_COLORS.indexOf(s) >= 0) return s;
   if (KASTA_COLOR_MAP[s]) return KASTA_COLOR_MAP[s];
   if (COLOR_RULES[0][0].test(s)) return 'комбінований';
-  const w = s.split(/\s+/)[0];
+  const ws = s.split(/\s+/);
+  // 26.11.2026: «світлий хакі», «темний шоколад» — Kasta не співставляє «світлий/темний» (CHARACTERISTICS_MATCH_ERROR) → беремо наступне слово
+  if (ws.length > 1 && /^(світлий|темний|світла|темна|світле|темне)$/.test(ws[0])) { const r = kastaColor_(ws.slice(1).join(' ')); if (r && r !== 'не визначено') return r; }
+  const w = ws[0];
   if (KASTA_COLORS.indexOf(w) >= 0) return w;
   const b = baseColor_(s).toLowerCase();
   if (b === 'різні кольори') return 'комбінований';

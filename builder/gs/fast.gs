@@ -942,6 +942,26 @@ function kastaSizeFix_(xml) {
   // 31.10.2026: Kasta не знає розмірів через слеш (74/80, 86/92, 56/62) — SIZE_NOT_FOUND у звіті фіда.
   // Сітка Kasta «по росту» має лише одиничні значення (74см, 80см…), тож даємо верхню межу: 74/80 → 80см.
   xml = xml.replace(/(<param name="Розмір"[^>]*>)(\d{2,3})\/(\d{2,3})(<\/param>)/g, function (a, b, lo, hi, c) { return b + hi + 'см' + c; });
+  // 26.11.2026: Talvi (нові картки) — розміри діапазоном через «–» з пробілом («46–48 см», «110–116»): Kasta SIZE_NOT_FOUND (~3 900 позицій).
+  // Шапки (1128) — нижня межа обхвату, як у старих картках («46-48см» → «46см»; 50–52 → «50-54», як уже приймає Kasta);
+  // одяг за зростом — верхня межа (як для «74/80» → «80см»).
+  xml = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>/g, function (o) {
+    const cat = (o.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1];
+    return o.replace(/(<param name="Розмір"[^>]*>)\s*(\d{2,3})\s*[–—-]\s*(\d{2,3})\s*(?:см)?\s*(<\/param>)/, function (a, b, lo, hi, c) {
+      lo = +lo; hi = +hi;
+      if (cat === '1128' || cat === '1136') return b + (lo >= 50 && lo < 54 ? '50-54' : lo + 'см') + c;
+      if (hi >= 50 && hi <= 176) return b + hi + 'см' + c;
+      return a;
+    });
+  });
+  // 26.11.2026: колір «світлий …» / «темний …» (Talvi: «світлий хакі», «темний шоколад») — Kasta не співставляє «світлий» (CHARACTERISTICS_MATCH_ERROR, ~300 позицій).
+  xml = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>/g, function (o) {
+    if (!/<param name="Колір">(?:світлий|темний)<\/param>/.test(o)) return o;
+    const nm = ((o.match(/<name_ua>(?:<!\[CDATA\[)?([^<\]]*)/) || [])[1] || '').toLowerCase();
+    const m = nm.match(/(?:світл(?:ий|о)|темн(?:ий|о))[\s-]+([а-яіїєґ']+)/);
+    const base = m ? (typeof kastaColor_ === 'function' ? kastaColor_(m[1]) : m[1]) : '';
+    return base && base !== 'не визначено' ? o.replace(/<param name="Колір">(?:світлий|темний)<\/param>/, '<param name="Колір">' + base + '</param>') : o;
+  });
   // 31.10.2026: шапки Talvi «світлий хакі» (6088, 6103) — Kasta не співставляє колір «світлий» → «хакі».
   xml = xml.replace(/(<offer id="(?:6088|6103)"(?:(?!<\/offer>)[\s\S])*?<param name="Колір">)світлий(<\/param>)/g, '$1хакі$2');
   return xml;
