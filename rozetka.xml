@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-27 19:40">
+<yml_catalog date="2026-11-27 20:11">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -81830,7 +81830,7 @@ SYSTEM "shops.dtd">
 <param name="Тип тканини">Трикотаж</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="3900" available="true">
+   <offer id="3900" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1109</categoryId>
 <vendor>MagBaby</vendor>
@@ -81841,7 +81841,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Костюм Rut свитшот и брюки из тринитки с петлей для прохладных вечеров и межсезонья.</p><h3> Что важно</h3><ul><li> Тринитка без начеса: тепло, но не жарко в помещении.</li><li> Вставки в рубчик на рукавах и штанинах.</li><li> Мягкие манжеты фиксируют рукав.</li><li> Мотивационная надпись, которая не трескается.</li></ul><h3> Уход</h3><p> Стирать наизнанку при 30 C, сушить естественным способом.</p><p> <strong>Совет:</strong> костюм удобно надевать под зимний комбинезон.</p>]]></description>
 <price>2234</price>
 <price_old>2234</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/1/40274554342498_%2Bd550c3f45c.jpg</picture>
 <picture>https://letimo.com.ua/content/images/1/kostium-rut-bananovyi-104-3-4-roky-11302871020965_%2B645b9256dd.jpg</picture>
 <picture>https://letimo.com.ua/content/images/1/kostium-rut-bananovyi-104-3-4-roky-20957401307066_%2Ba71fa300f3.jpg</picture>
