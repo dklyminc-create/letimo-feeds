@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-27 16:10">
+<yml_catalog date="2026-11-27 16:42">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -39046,7 +39046,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">Водонепроникна плащівка: 100% поліестер; підкладка: Фліс та плащова тканина: 100% поліестер; утеплювач: Холософт</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="2448" available="true">
+   <offer id="2448" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1091</categoryId>
 <vendor>MagBaby</vendor>
@@ -39055,7 +39055,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Термокомбінезон  Nord    зимовий комбінезон із водонепроникної плащової тканини.</p><h3>Що важливо</h3><ul><li>Водонепроникна плащівка, бруд витирається ганчіркою.</li><li>Посилені коліна й сідниці   для гірок і снігу.</li><li>Для активних зимових прогулянок.</li><li>Утеплений для холодної пори.</li></ul><h3>Догляд</h3><p>Протирайте вологою губкою; прати за потреби при 30  C засобом для мембранних тканин.</p><p><strong>Порада LETIMO:</strong> під термокомбінезон вдягайте бавовняний нижній шар і фліс.</p>]]></description_ua>
 <price>4950</price>
 <price_old>6601</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/49/77527280526900_%2B6bef3ee902.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/termokombinezon-nord-malynovyi-110-4-5-roky-27838490678461_%2B821e2b36e1.jpg</picture>
 <picture>https://letimo.com.ua/content/images/49/termokombinezon-nord-malynovyi-110-4-5-roky-16484556745633_%2B0eb8a40d1e.jpg</picture>
@@ -159703,6 +159703,91 @@ SYSTEM "shops.dtd">
 <param name="Склад">97% бавовна, 3% еластан</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="10271" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3282451-1gjc4</article>
+<name_ua><![CDATA[Базова шапка в рубчик «Бейз»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Базова шапка в рубчик  Бейз </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова, однотонна шапка виготовлена з високоякісної бавовни в рубчик</li><li>Декорована фірмовою нашивкою talvi</li><li>Двошарова</li><li>Для діток 1-2 рочки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 97% бавовна, 3% еластан</li><li>Розміри (обхват голови): 46 48 см, 50 52 см, 52 54 см, 54 56 см</li><li>Кольори: -1746 Корал, L168 Чорний, L165 Темно-синій, Світлий беж, -1419 Персик, Помаранчевий, -4250 Індиго, L073 Блакитний, -1763 Червоний, Гірчиця, L064 Лаванда, L036 Світло-рожевий, L002 Білий, -0110 Світлий хакі, KZ050 Джинс, -0116 М'ята, L035 Малина, Світло-сірий меланж, Сірий меланж, Мокко, KT077 Сірий, Темний беж, Персик, KZ0414 Оливковий, L080 Індиго, Гірчичний, Темна фріза, KZ050 Сірий, Чорний, Бежевий, L110 Зелений, L046 Помаранчевий, L003 Молочний, Темна пудра, Сірий, -4034 Темний джинс, L030 Рожевий</li></ul>]]></description_ua>
+<price>317</price>
+<price_old>317</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/22/84746908158560_%2Bac9c9b6572.jpg</picture>
+<picture>https://letimo.com.ua/content/images/22/83752152783673_%2B52c5b093fa.jpg</picture>
+<param name="Колір">світло-сірий</param>
+<param name="Розмір">50-54</param>
+<param name="Склад">97% бавовна, 3% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="10272" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3282451-niyz7</article>
+<name_ua><![CDATA[Базова шапка в рубчик «Бейз»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Базова шапка в рубчик  Бейз </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова, однотонна шапка виготовлена з високоякісної бавовни в рубчик</li><li>Декорована фірмовою нашивкою talvi</li><li>Двошарова</li><li>Для діток 1-2 рочки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 97% бавовна, 3% еластан</li><li>Розміри (обхват голови): 46 48 см, 50 52 см, 52 54 см, 54 56 см</li><li>Кольори: -1746 Корал, L168 Чорний, L165 Темно-синій, Світлий беж, -1419 Персик, Помаранчевий, -4250 Індиго, L073 Блакитний, -1763 Червоний, Гірчиця, L064 Лаванда, L036 Світло-рожевий, L002 Білий, -0110 Світлий хакі, KZ050 Джинс, -0116 М'ята, L035 Малина, Світло-сірий меланж, Сірий меланж, Мокко, KT077 Сірий, Темний беж, Персик, KZ0414 Оливковий, L080 Індиго, Гірчичний, Темна фріза, KZ050 Сірий, Чорний, Бежевий, L110 Зелений, L046 Помаранчевий, L003 Молочний, Темна пудра, Сірий, -4034 Темний джинс, L030 Рожевий</li></ul>]]></description_ua>
+<price>317</price>
+<price_old>317</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/23/99054830464270_%2B24249f668b.jpg</picture>
+<picture>https://letimo.com.ua/content/images/23/43069658763235_%2B3b5e66a4f2.jpg</picture>
+<param name="Колір">сірий</param>
+<param name="Розмір">50-54</param>
+<param name="Склад">97% бавовна, 3% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="10275" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3282451</article>
+<name_ua><![CDATA[Базова шапка в рубчик «Бейз»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Базова шапка в рубчик  Бейз </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова, однотонна шапка виготовлена з високоякісної бавовни в рубчик</li><li>Декорована фірмовою нашивкою talvi</li><li>Двошарова</li><li>Для діток 1-2 рочки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 97% бавовна, 3% еластан</li><li>Розміри (обхват голови): 46 48 см, 50 52 см, 52 54 см, 54 56 см</li><li>Кольори: -1746 Корал, L168 Чорний, L165 Темно-синій, Світлий беж, -1419 Персик, Помаранчевий, -4250 Індиго, L073 Блакитний, -1763 Червоний, Гірчиця, L064 Лаванда, L036 Світло-рожевий, L002 Білий, -0110 Світлий хакі, KZ050 Джинс, -0116 М'ята, L035 Малина, Світло-сірий меланж, Сірий меланж, Мокко, KT077 Сірий, Темний беж, Персик, KZ0414 Оливковий, L080 Індиго, Гірчичний, Темна фріза, KZ050 Сірий, Чорний, Бежевий, L110 Зелений, L046 Помаранчевий, L003 Молочний, Темна пудра, Сірий, -4034 Темний джинс, L030 Рожевий</li></ul>]]></description_ua>
+<price>317</price>
+<price_old>317</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/26/46254692623630_%2Bb5252f7eb3.jpg</picture>
+<picture>https://letimo.com.ua/content/images/26/76422655215543_%2B56ff0bcf4d.jpg</picture>
+<param name="Колір">чорний</param>
+<param name="Розмір">50-54</param>
+<param name="Склад">97% бавовна, 3% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="10277" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3282451-4yvpj</article>
+<name_ua><![CDATA[Базова шапка в рубчик «Бейз»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Базова шапка в рубчик  Бейз </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова, однотонна шапка виготовлена з високоякісної бавовни в рубчик</li><li>Декорована фірмовою нашивкою talvi</li><li>Двошарова</li><li>Для діток 1-2 рочки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 97% бавовна, 3% еластан</li><li>Розміри (обхват голови): 46 48 см, 50 52 см, 52 54 см, 54 56 см</li><li>Кольори: -1746 Корал, L168 Чорний, L165 Темно-синій, Світлий беж, -1419 Персик, Помаранчевий, -4250 Індиго, L073 Блакитний, -1763 Червоний, Гірчиця, L064 Лаванда, L036 Світло-рожевий, L002 Білий, -0110 Світлий хакі, KZ050 Джинс, -0116 М'ята, L035 Малина, Світло-сірий меланж, Сірий меланж, Мокко, KT077 Сірий, Темний беж, Персик, KZ0414 Оливковий, L080 Індиго, Гірчичний, Темна фріза, KZ050 Сірий, Чорний, Бежевий, L110 Зелений, L046 Помаранчевий, L003 Молочний, Темна пудра, Сірий, -4034 Темний джинс, L030 Рожевий</li></ul>]]></description_ua>
+<price>317</price>
+<price_old>317</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/28/84300482020915_%2B8efeac7906.jpg</picture>
+<picture>https://letimo.com.ua/content/images/28/52281842563463_%2B51e4984ff2.jpg</picture>
+<param name="Колір">синій</param>
+<param name="Розмір">50-54</param>
+<param name="Склад">97% бавовна, 3% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
+   <offer id="10278" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3282451-8iq7c</article>
+<name_ua><![CDATA[Базова шапка в рубчик «Бейз»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Базова шапка в рубчик  Бейз </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базова, однотонна шапка виготовлена з високоякісної бавовни в рубчик</li><li>Декорована фірмовою нашивкою talvi</li><li>Двошарова</li><li>Для діток 1-2 рочки</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 97% бавовна, 3% еластан</li><li>Розміри (обхват голови): 46 48 см, 50 52 см, 52 54 см, 54 56 см</li><li>Кольори: -1746 Корал, L168 Чорний, L165 Темно-синій, Світлий беж, -1419 Персик, Помаранчевий, -4250 Індиго, L073 Блакитний, -1763 Червоний, Гірчиця, L064 Лаванда, L036 Світло-рожевий, L002 Білий, -0110 Світлий хакі, KZ050 Джинс, -0116 М'ята, L035 Малина, Світло-сірий меланж, Сірий меланж, Мокко, KT077 Сірий, Темний беж, Персик, KZ0414 Оливковий, L080 Індиго, Гірчичний, Темна фріза, KZ050 Сірий, Чорний, Бежевий, L110 Зелений, L046 Помаранчевий, L003 Молочний, Темна пудра, Сірий, -4034 Темний джинс, L030 Рожевий</li></ul>]]></description_ua>
+<price>317</price>
+<price_old>317</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/29/86984603073509_%2B377d5f05bd.jpg</picture>
+<picture>https://letimo.com.ua/content/images/29/55909477274823_%2B0c8ba5d2df.jpg</picture>
+<param name="Колір">білий</param>
+<param name="Розмір">50-54</param>
+<param name="Склад">97% бавовна, 3% еластан</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="10279" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -195828,6 +195913,23 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="14267" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1128</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3515451</article>
+<name_ua><![CDATA[Зимова шапка на флісі «Джем»]]></name_ua>
+<description_ua><![CDATA[<p><strong>Зимова шапка на флісі  Джем </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Тепленька базова шапка для діток</li><li>Бавовняна в'язка + підклад фліс по всій площині всередині</li><li>Чудово поєднується з нашим светриком Монно, повторено те саме переплетення та пряжа</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Вік: 9-12 міс</li><li>Розміри (обхват голови): 44 46 см, 48 50 см, 50 52 см</li><li>Кольори: Темно-синій, Коричневий, Пудра, Темно-бежевий, Світла пудра, Світло-сірий, Світло-бежевий, Чорний, Світлий джинс, Молочний, Кавовий, Світло-рожевий</li></ul>]]></description_ua>
+<price>480</price>
+<price_old>480</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/18/67738904967913_%2B635adffe53.jpg</picture>
+<picture>https://letimo.com.ua/content/images/18/36366804152864_%2B25c88e8cf3.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">50-54</param>
+<param name="Склад">основа - 50% бавовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="14268" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -199683,23 +199785,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/48/83081546942587_%2B16da479c30.jpg</picture>
 <picture>https://letimo.com.ua/content/images/48/11787311750422_%2Bd5f4107397.jpg</picture>
 <param name="Колір">червоний</param>
-<param name="Розмір">46см</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14898" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3546451</article>
-<name_ua><![CDATA[Шолом з вушками «Герман»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шолом з вушками  Герман </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Теплий шолом із кумедними вушками</li><li>Декорований фірмовою нашивкою talvi</li><li>Утеплений по всій площині зсередини</li><li>Підійде на холодну осінь-зиму</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): 46 48 см, 50 52 см</li><li>Кольори: Джинсовий меланж, Темна пудра, Малина, Хакі, Світло-сірий, Червоний, Помаранчевий, (MLN) Бордовий меланж, Блакитний, Рожевий, Лаванда, Світлий джинс, Світло-сірий меланж, Персик, Білий, Пудра, Гірчиця, Світлий хакі, Молочний, Темно-сірий меланж, BORDO Темно-бордовий, Світло-рожевий, Зелений, Темно-синій, Коричневий, Світло-бежевий меланж, Чорний, Бежевий, Кавовий, Хаки</li></ul>]]></description_ua>
-<price>620</price>
-<price_old>620</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/49/78727510342148_%2Bd1f554dd93.jpg</picture>
-<picture>https://letimo.com.ua/content/images/49/60670612115325_%2B4a384bdf7e.jpg</picture>
-<param name="Колір">помаранчевий</param>
 <param name="Розмір">46см</param>
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
