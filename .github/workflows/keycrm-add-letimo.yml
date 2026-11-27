@@ -1,0 +1,28 @@
+name: KeyCRM — додати товари LETIMO (разово)
+on:
+  push:
+    branches: [main]
+    paths: ['_diag/keycrm-add-letimo.run']
+permissions:
+  contents: write
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Додати
+        env:
+          KEYCRM_API_KEY: ${{ secrets.KEYCRM_API_KEY }}
+        run: node builder/keycrm-add-letimo.js
+      - name: Зберегти лог
+        if: always()
+        run: |
+          git config user.name "letimo-feeds-bot"
+          git config user.email "feeds-bot@users.noreply.github.com"
+          git add _diag/keycrm-add-letimo.json || true
+          git commit -m "diag: keycrm add letimo" || exit 0
+          for i in 1 2 3 4 5; do git push && exit 0; git pull --rebase --autostash -X theirs || true; sleep $((i*5)); done
