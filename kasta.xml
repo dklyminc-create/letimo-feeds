@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-27 10:09">
+<yml_catalog date="2026-11-27 10:42">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -137548,6 +137548,23 @@ SYSTEM "shops.dtd">
 <param name="Склад">52% віскоза, 26% еластан, 22% нейлон</param>
 <param name="страна-производитель">Україна</param>
 </offer>
+   <offer id="7968" available="true">
+<currencyId>UAH</currencyId>
+<categoryId>1122</categoryId>
+<vendor>Talvi</vendor>
+<article>LT3147451</article>
+<name_ua><![CDATA[В'язана манішка «Райлі»]]></name_ua>
+<description_ua><![CDATA[<p><strong>В'язана манішка  Райлі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Стильна мінімалістична манішка, виготовлена з пряжі преміальної якості</li><li>Пружна, щільна двошарова головина, що буде чудово захищати шию малюка</li><li>Подовження на зону грудей одношарове</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 52% віскоза, 26% еластан, 22% нейлон</li><li>Розміри: 6 12міс см</li><li>Кольори: Білий, Джинс, Кава, Світло-сірий, Світлий хакі, Персикова пудра, Помаранчевий, Сірий, Бежевий, Темно-синій, Світлий беж, Чорний, Молочний, Коричневий, Рожевий</li></ul>]]></description_ua>
+<price>440</price>
+<price_old>440</price_old>
+<stock_quantity>1</stock_quantity>
+<picture>https://letimo.com.ua/content/images/19/52487098923497_%2B3ff587c8de.jpg</picture>
+<picture>https://letimo.com.ua/content/images/19/72151578603076_%2Bf3e8f2ca02.jpg</picture>
+<param name="Колір">коричневий</param>
+<param name="Розмір">6–12міс см</param>
+<param name="Склад">52% віскоза, 26% еластан, 22% нейлон</param>
+<param name="страна-производитель">Україна</param>
+</offer>
    <offer id="7970" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -137561,23 +137578,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/21/90868986598491_%2B837bb51e04.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/66695319590740_%2Bc6e6e8a0a7.jpg</picture>
 <param name="Колір">бежевий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="7979" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3148451-h5nwe</article>
-<name_ua><![CDATA[В'язана манішка «Юта» unisex]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язана манішка  Юта  unisex</strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Одношарова м'якенька манішка</li><li>Подовжена, закриває не лише шию, а й грудну клітину</li><li>Горловина еластична</li><li>UNISEX</li><li>За розміром підійде діткам від 3-х років, підліткам, та дорослим</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: 50% віскоза, 22% нейлон, 28% ПБТ</li><li>Розміри: Універсальний</li><li>Кольори: Темний беж, Світлий хакі, Білий, Джинс, Чорний, (1044) Коричневий, Сірий меланж, Молочний, Світло-рожевий, Пудра, Коричневий, Світлий беж</li></ul>]]></description_ua>
-<price>440</price>
-<price_old>440</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/30/88956617916597_%2Bd5046d189e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/30/38310918399417_%2B843376636a.jpg</picture>
-<param name="Колір">комбінований</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">50% віскоза, 22% нейлон, 28% ПБТ</param>
 <param name="страна-производитель">Україна</param>
@@ -185288,23 +185288,6 @@ SYSTEM "shops.dtd">
 
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="13201" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3447451-ms2nx</article>
-<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>700</price>
-<price_old>700</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/2/14987752910316_%2B4bc153412e.jpg</picture>
-<picture>https://letimo.com.ua/content/images/2/55529466546474_%2B0dc870d52b.jpg</picture>
-<param name="Колір">комбінований</param>
-<param name="Розмір">44см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="13202" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -185318,23 +185301,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/3/31277000395816_%2B76cf7da360.jpg</picture>
 <picture>https://letimo.com.ua/content/images/3/84475181355093_%2Bcea7024885.jpg</picture>
 <param name="Колір">рожевий</param>
-<param name="Розмір">44см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="13203" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3447451-1gika</article>
-<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>700</price>
-<price_old>700</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/4/33719092285333_%2B9937dca293.jpg</picture>
-<picture>https://letimo.com.ua/content/images/4/98489405701671_%2B6876276886.jpg</picture>
-<param name="Колір">хакі</param>
 <param name="Розмір">44см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -185386,23 +185352,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/10/76346198983598_%2B5cb66e4647.jpg</picture>
 <picture>https://letimo.com.ua/content/images/10/15690050349729_%2Bdbf92a197d.jpg</picture>
 <param name="Колір">малиновий</param>
-<param name="Розмір">44см</param>
-
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="13211" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3447451</article>
-<name_ua><![CDATA[Шапка зимова з помпончиком «Сімо»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка зимова з помпончиком  Сімо </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>М'якесенька шапка на зав'язках з пряжі преміальної пряжі для діток</li><li>Щільна в'язка + утеплення флісом по всій площині зсередини</li><li>Декорована трикотажним помпончиком (пришивним) та мінімалістичною фірмовою нашивкою</li><li>Відворот на шапці пришитий</li><li>UNISEX</li><li>Cклад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Вік: 1-3 міс</li><li>Розміри (обхват голови): 40 42 см, 42 44 см, 44 46 см, 46 48 см</li><li>Кольори: Білий, Малиновий, Пудра, Чорний, Світлий хакі, Рожевий, Коричневий, Темно-синій, Світлий беж, Джинс, Кава, Світла пудра, Молочний, Світло-рожевий, Блакитний, Сірий</li></ul>]]></description_ua>
-<price>700</price>
-<price_old>700</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/74011930385720_%2B2a8f6eaa89.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/79633621971803_%2B13b49ae88d.jpg</picture>
-<param name="Колір">світло-рожевий</param>
 <param name="Розмір">44см</param>
 
 <param name="страна-производитель">Україна</param>
@@ -199413,23 +199362,6 @@ SYSTEM "shops.dtd">
 <param name="Колір">комбінований</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">50% бавовна, 25% еластан, 25% нейлон</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="14761" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3540451</article>
-<name_ua><![CDATA[В'язаний хомут з флісом «Берлі»]]></name_ua>
-<description_ua><![CDATA[<p><strong>В'язаний хомут з флісом  Берлі </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базовий тепленький хомут для діток</li><li>Декорований мінімалістичним фірмовим шевроном</li><li>Утеплений флісом по всій площині зсередини</li><li>Підійде для діток орієнтовно від рочку до 12</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри: Універсальний</li><li>Кольори: Малиновий, Лавандовий, Білий, Темна пудра, Хакі, Блакитний, Темно-сірий, Молочний, Світлий беж, Чорний, Коричневий, Темно-синій, Сірий, Світло-сірий, Бежевий, Пудра, Світло-рожевий, Кава, Рожевий, Світлий хакі, Світла пудра</li></ul>]]></description_ua>
-<price>342</price>
-<price_old>342</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/12/16355786556683_%2B3b83a0b9b5.jpg</picture>
-<picture>https://letimo.com.ua/content/images/12/16447545218978_%2Bf1a5549618.jpg</picture>
-<param name="Колір">лавандовий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
    <offer id="14781" available="true">
@@ -214004,8 +213936,8 @@ SYSTEM "shops.dtd">
 <categoryId>1131</categoryId>
 <vendor>ДоРечі</vendor>
 <article>LT88375736</article>
-<name_ua><![CDATA[Конверт-кокон Baby XS на флісі Молочний (під замовлення)]]></name_ua>
-<description_ua><![CDATA[<p><strong>Під замовлення</strong>: товар шиє виробник, відправка орієнтовно через 15 робочих днів після оформлення замовлення.</p><p>Зимовий конверт-кокон Baby XS на флісі (колір: Молочний) - для новонароджених від народження до 9-10 місяців, для прогулянок від +5 до -20 &deg;C: на виписку, у люльці коляски та на санках. Переться в пральній машині. Шиємо в Миколаєві з 2011 року.</p>
+<name_ua><![CDATA[Конверт-кокон Baby XS на флісі Молочний]]></name_ua>
+<description_ua><![CDATA[<p>Зимовий конверт-кокон Baby XS на флісі (колір: Молочний) - для новонароджених від народження до 9-10 місяців, для прогулянок від +5 до -20 &deg;C: на виписку, у люльці коляски та на санках. Переться в пральній машині. Шиємо в Миколаєві з 2011 року.</p>
 
 <h2>Переваги</h2>
 
