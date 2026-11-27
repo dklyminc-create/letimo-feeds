@@ -21,7 +21,7 @@ async function getPage(page) {
   const out = []; let page = 1, last = 1;
   do {
     const j = await getPage(page);
-    (j.data || []).forEach((o) => out.push({ id: o.id, product_id: o.product_id, sku: o.sku || "", barcode: o.barcode || "", name: (o.product && o.product.name) || "" }));
+    (j.data || []).forEach((o) => out.push({ id: o.id, product_id: o.product_id, sku: o.sku || "", barcode: o.barcode || "", name: (o.product && o.product.name) || "", qty: o.quantity, reserve: o.in_reserve, keys: Object.keys(o).join(",") }));
     last = Number(j.last_page) || (j.next_page_url ? page + 1 : page);
     page++; if (page <= last) await sleep(1100);
   } while (page <= last && page <= 80);
