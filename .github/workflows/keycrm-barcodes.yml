@@ -1,0 +1,28 @@
+name: KeyCRM — звірка штрихкодів (діагностика)
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ['_diag/keycrm-barcodes.run']
+permissions:
+  contents: write
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Вивантажити артикули й штрихкоди з KeyCRM
+        env:
+          KEYCRM_API_KEY: ${{ secrets.KEYCRM_API_KEY }}
+        run: node builder/keycrm-barcodes.js
+      - name: Зберегти
+        run: |
+          git config user.name "letimo-feeds-bot"
+          git config user.email "feeds-bot@users.noreply.github.com"
+          git add _diag/keycrm-barcodes.json
+          git commit -m "diag: keycrm barcodes $(TZ=Europe/Kyiv date '+%Y-%m-%d %H:%M')" || exit 0
+          for i in 1 2 3 4 5; do git push && exit 0; git pull --rebase --autostash -X theirs || true; sleep $((i*5)); done
