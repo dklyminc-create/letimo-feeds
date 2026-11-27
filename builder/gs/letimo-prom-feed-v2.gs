@@ -2916,11 +2916,11 @@ function mbPrice_(art, sitePrice) {
 }
 
 // 04.11.2026 рішення Дмитра: MagBaby дешевше 400 грн на маркетплейсі (закупка ×2) — плюс комісія майданчика
-function mbCom_(p, pct) { return p > 0 && p < 400 ? Math.round(p * (1 + pct / 100)) : p; }
+function mbCom_(p, pct) { return p > 0 ? Math.round(p * (1 + pct / 100)) : p; } // 27.11.2026 рішення Дмитра: поріг «до 400» прибрано — весь дроп MagBaby = закупка ×2 + комісія майданчика
 function mpPrice_(art, name, sitePrice, pct) {
   if (tvOwnQty_(String(art || '').trim()) > 0) { const sp0 = parseFloat(sitePrice); if (sp0 > 0) return Math.round(sp0 * (1 + pct / 100)); } // 12.11.2026 рішення Дмитра: шапки Talvi з поставки №50582 — ціна сайту (дроп ×2) + комісія майданчика
   if (DR_EST_[String(art || '').trim()] && parseFloat(sitePrice) > 0) return Math.round(parseFloat(sitePrice) * (1 + pct / 100)); // 16.11.2026 рішення Дмитра: нові позиції ДоРечі — сайт ×2, маркетплейси ×2 + комісія
-  { const a_ = String(art || '').trim(), sp_ = parseFloat(sitePrice); if ((drIsArt_(a_) || /^(TV|TALVI)-/.test(a_)) && sp_ > 0 && sp_ < 400) return Math.round(sp_ * (1 + pct / 100)); } // 04.11.2026 рішення Дмитра: Talvi і ДоРечі дешевше 400 грн (MagBaby — mbCom_) — ціна сайту + комісія майданчика (Prom 18, Kasta 22, Rozetka 24,5, Епіцентр 15)
+  { const a_ = String(art || '').trim(), sp_ = parseFloat(sitePrice); if ((drIsArt_(a_) || /^(TV|TALVI)-/.test(a_)) && !(drIsArt_(a_) && DR_OWN_.indexOf(a_) >= 0) && sp_ > 0) return Math.round(sp_ * (1 + pct / 100)); } // 27.11.2026 рішення Дмитра: поріг «до 400» прибрано — весь дроп Talvi і ДоРечі = ціна сайту (дроп ×2) + комісія майданчика (Prom 18, Kasta 22, Rozetka 24,5, Епіцентр 15); ДоРечі з власного складу — без змін // 04.11.2026 рішення Дмитра: Talvi і ДоРечі дешевше 400 грн (MagBaby — mbCom_) — ціна сайту + комісія майданчика (Prom 18, Kasta 22, Rozetka 24,5, Епіцентр 15)
   if (drIsArt_(art) && DR_OWN_.indexOf(String(art).trim()) >= 0) return DR_OWN_PRICE_[String(art).trim()] || Math.round(parseFloat(sitePrice)); // 31.10.2026: ДоРечі з власного складу (рах. №754) — РРЦ без комісії на всіх маркетплейсах (рішення Дмитра)
   if (drIsArt_(art)) return Math.round(parseFloat(sitePrice)); // 01.11.2026 рішення Дмитра: ДоРечі на всіх сайтах = дроп-ціна ×2 (ціна сайту), без надбавки на комісію
   if (/^(TV|TALVI)-/.test(String(art || '').trim())) return Math.round(parseFloat(sitePrice)); // 04.11.2026: і Talvi-дроп — ціна сайту (дроп ×2), як на інших маркетплейсах // Talvi 18.10.2026: ціна сайту (як у взуття)
@@ -2942,7 +2942,7 @@ function mpPrices_(xml, pct, stats) {
     let np = mpPrice_(art, nm, sp, pct);
     if (/<vendor>(?:<!\[CDATA\[)?\s*MagBaby/.test(body)) np = mbCom_(mbPrice_(art, sp), pct); // 02.11.2026: MagBaby = закупка × 2
     // 31.10.2026: MagBaby, якого немає у фіді MagBaby (немає ціни 1), — дешевше 500 грн іде з повною комісією від ціни сайту (раніше йшов по ціні сайту без комісії)
-    if (!np && /<vendor>\s*MagBaby\s*<\/vendor>/.test(body) && parseFloat(sp) < TOY_CHEAP_LT) np = Math.round(parseFloat(sp) * (1 + pct / 100));
+    if (!np && /<vendor>\s*MagBaby\s*<\/vendor>/.test(body)) np = Math.round(parseFloat(sp) * (1 + pct / 100));
     if (stats) { stats.total++; if (fromFeed) stats.feed++; else if (np) stats.table++; else stats.none.push(art + ' ' + nm.slice(0, 40)); }
     if (!np) return all;
     body = body
