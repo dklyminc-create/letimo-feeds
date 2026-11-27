@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-27 11:12">
+<yml_catalog date="2026-11-27 11:39">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -208470,7 +208470,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">М'який кашкорсе - 95% бавовна, 5% лайкра</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="4962" available="true">
+   <offer id="4962" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1115</categoryId>
 <vendor>MagBaby</vendor>
@@ -208479,7 +208479,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[<p>Штани-повзуни  Berry  поєднують дві речі: штанці з подовженою стопою, яка закриває ніжку, як у повзунків, і звичайні штани, якщо стопу відвернути манжетом.</p><h3>Що важливо</h3><ul><li>М'який кашкорсе в рубчик, приємний до тіла.</li><li>Трансформована стопа: носяться довше, ніж один сезон.</li><li>Пояс на м'якій резинці, не тисне на животик.</li><li>Зручні, коли малюк починає повзати.</li></ul><h3>Догляд</h3><p>Прати при 30  C у делікатному режимі, сушити розправленими.</p><p><strong>Порада LETIMO:</strong> у період повзання штанці змінюють кілька разів на день, тому зручно мати 2 3 пари. Добре пасують до боді-толстовки  Juice .</p>]]></description_ua>
 <price>592</price>
 <price_old>592</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/13/55429213544221_%2B01aa4e1a80.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/shtany-povzuny-berry-morski-68-3-6-mis.-97750434455262_%2B0fee3ea00d.jpg</picture>
 <picture>https://letimo.com.ua/content/images/13/shtany-povzuny-berry-morski-68-3-6-mis.-98426009958874_%2B305ff7fb23.jpg</picture>
@@ -213528,7 +213528,7 @@ SYSTEM "shops.dtd">
 <vendor>ДоРечі</vendor>
 <article>LT80373070</article>
 <name_ua><![CDATA[Комбінезон зимовий Аполло Чорний]]></name_ua>
-<description_ua><![CDATA[<p><strong>Під замовлення</strong>: товар шиє виробник, відправка орієнтовно через 15 робочих днів після оформлення замовлення.</p><p>Зимовий мембранний комбінезон Аполло (колір: Чорний) - для дітей зростом 74-98 см. Тепло і сухо на прогулянках від +5 до -20 &deg;C: у мокрий сніг, дощ і під час активних ігор. Шиємо в Миколаєві з 2011 року.</p>
+<description_ua><![CDATA[<p>Зимовий мембранний комбінезон Аполло (колір: Чорний) - для дітей зростом 74-98 см. Тепло і сухо на прогулянках від +5 до -20 &deg;C: у мокрий сніг, дощ і під час активних ігор. Шиємо в Миколаєві з 2011 року.</p>
 
 <h2>Переваги</h2>
 
@@ -213625,7 +213625,7 @@ SYSTEM "shops.dtd">
 <vendor>ДоРечі</vendor>
 <article>LT80373070</article>
 <name_ua><![CDATA[Комбінезон зимовий Аполло Чорний]]></name_ua>
-<description_ua><![CDATA[<p>Зимовий мембранний комбінезон Аполло (колір: Чорний) - для дітей зростом 74-98 см. Тепло і сухо на прогулянках від +5 до -20 &deg;C: у мокрий сніг, дощ і під час активних ігор. Шиємо в Миколаєві з 2011 року.</p>
+<description_ua><![CDATA[<p><strong>Під замовлення</strong>: товар шиє виробник, відправка орієнтовно через 15 робочих днів після оформлення замовлення.</p><p>Зимовий мембранний комбінезон Аполло (колір: Чорний) - для дітей зростом 74-98 см. Тепло і сухо на прогулянках від +5 до -20 &deg;C: у мокрий сніг, дощ і під час активних ігор. Шиємо в Миколаєві з 2011 року.</p>
 
 <h2>Переваги</h2>
 
