@@ -1,0 +1,112 @@
+{
+ "at": "2026-11-27T15:30:34.819Z",
+ "created": [],
+ "skipped": [],
+ "errors": [
+  {
+   "sku": "LETIMO-058",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-059",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-060",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-095",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-061",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-062",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-075",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-076",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-077",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-078",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-087",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-088",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-089",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  },
+  {
+   "sku": "LETIMO-090",
+   "status": 401,
+   "body": {
+    "message": "Unauthenticated."
+   }
+  }
+ ],
+ "stock": null,
+ "warehouses": {
+  "status": 404,
+  "body": {
+   "message": "The route v1/warehouses could not be found."
+  }
+ }
+}
