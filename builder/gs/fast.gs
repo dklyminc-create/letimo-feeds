@@ -1594,14 +1594,14 @@ function tvBase_(s) { s = String(s || '').toLowerCase(); for (let i = 0; i < TV_
 function tvDropEpiRule_(cat, nl, size) {
   if (/кепк/.test(nl)) return [cat, /./, '6585', 'Кепки дитячі', 'small'];
   // 27.11.2026: набори 6635 «Дитячі панамки», 5399 «Головні убори», 7889 «Рукавички» більше не прив'язані до категорій на сайті Епіцентру —
-  // картки з ними лишались «Чернеткою» без категорії. Переносимо в «Головні убори дитячі» (2417) і «Дитячі рукавиці» (2419).
-  const tvFit_ = function (S) { try { return tvSizePick_(size, epiOptions_(S, '2293')).length > 0; } catch (e) { return false; } };
-  if (/панам/.test(nl)) { if (tvFit_('2417')) return [cat, /./, '2417', 'Головні убори дитячі', 'small']; try { if (tvSizePick_(size, epiOptions_('6635', '2293')).length) return [cat, /./, '6635', 'Дитячі панамки', 'small']; } catch (e) {} }
-  if ((cat === '1128' || cat === '1136') && /універс/i.test(String(size || ''))) { if (tvFit_('2417')) return [cat, /./, '2417', 'Головні убори дитячі', 'small']; return [cat, /./, '5399', 'Головні убори', 'small']; } // 05.11.2026: універсальні шапки й пов'язки (2+ роки й дорослі) — розмір виробника текстом
+  // картки з ними лишались «Чернеткою» без категорії. Дитячі головні убори на Епіцентрі тепер лише в «Головні убори для новонароджених» (166),
+  // рукавички — «Дитячі рукавиці» (2419). Універсальні шапки Talvi (2+ роки й дорослі) — розмір 166 «50-56».
+  if (/панам/.test(nl)) { if (tvSizePick_(size, epiOptions_('166', '2293')).length) return [cat, /./, '166', 'Головні убори для новонароджених', 'small']; }
+  if ((cat === '1128' || cat === '1136') && /універс/i.test(String(size || ''))) { if (epiOptions_('166', '2293')['50-56']) return [cat, /./, '166', 'Головні убори для новонароджених', 'small']; return [cat, /./, '5399', 'Головні убори', 'small']; } // 05.11.2026: універсальні шапки й пов'язки (2+ роки й дорослі)
   if (cat === '1128' || cat === '1136') return [cat, /./, '166', 'Головні убори для новонароджених', 'small'];
   if (cat === '1122') return [cat, /./, '2418', 'Шарфи і снуди дитячі', 'small'];
   if (cat === '1108') return [cat, /./, '4112', 'Пледи і покривала дитячі', 'big'];
-  if (cat === '1088') { try { if (tvSizePick_(size, epiOptions_('2419', '2293')).length) return [cat, /./, '2419', 'Дитячі рукавиці', 'small']; } catch (e) {} return [cat, /./, '7889', 'Рукавички', 'small']; } // 05.11.2026: у наборі «Рукавички» розмір не обов'язковий (раніше пропускали)
+  if (cat === '1088') { try { if (tvMitSize_(size, epiOptions_('2419', '2293')).length) return [cat, /./, '2419', 'Дитячі рукавиці', 'small']; } catch (e) {} return [cat, /./, '7889', 'Рукавички', 'small']; } // 05.11.2026: у наборі «Рукавички» розмір не обов'язковий (раніше пропускали)
   if (cat === '1088-old') return false; // рукавички: розміри Talvi (0–12 міс, універсальний) не мають відповідника в довіднику Епіцентру
   if (cat === '1150') {
     if (/сукн|плать/.test(nl)) return [cat, /./, '797', 'Плаття дитячі', 'light'];
@@ -1610,11 +1610,15 @@ function tvDropEpiRule_(cat, nl, size) {
   }
   return undefined;
 }
+// 27.11.2026: розмір рукавичок Talvi для «Дитячі рукавиці» (2419): «0–12 міс» → «1» (рік); універсальні не підбираємо
+function tvMitSize_(size, opts) { const n = tvSizeNorm_(size); if (/^0-?12міс/.test(n) && opts['1']) return ['1']; return tvSizePick_(size, opts); }
 function tvDropEpiVals_(a, S, opts, P, nameUa) {
   const nm = String(nameUa || '').toLowerCase(), keys = Object.keys(opts || {});
   const pick = function (list) { const o = []; list.forEach(function (v) { v = String(v || '').toLowerCase().trim(); if (v && keys.indexOf(v) >= 0 && o.indexOf(v) < 0) o.push(v); }); return o; };
   const c = String(a.c), size = P['Розмір'] || '';
   const g = /дівч/.test(nm) && !/хлопч/.test(nm) ? 'g' : /хлопч/.test(nm) && !/дівч/.test(nm) ? 'b' : 'u';
+  if (c === '2293' && S === '2419') return tvMitSize_(size, opts);
+  if (c === '2293' && S === '166' && /універс/i.test(String(size)) && opts['50-56']) return ['50-56']; // 27.11.2026: універсальні шапки Talvi
   if (c === '2293' || c === '5575') return tvSizePick_(size, opts);
   if (c === '12036') {
     const m = String(size + ' ' + nm).match(/(\d{2,3})\s*[*xх×]\s*(\d{2,3})/); if (!m) return [];
