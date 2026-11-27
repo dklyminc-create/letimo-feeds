@@ -1842,6 +1842,20 @@ function rzHideFix_(xml) {
       o = o.replace(/<param name="Розмір">-<\/param>\s*/, ps.map(function (p) { return '<param name="' + p[0] + '">' + esc(p[1]) + '</param>\n'; }).join(''));
       st.toy++;
     }
+    // 4) 27.11.2026: Talvi-дроп, приховані модератором («На фото асортимент» ~71%, «Назва і Назва (ua) не співпадають» ~17%)
+    const oid_ = (o.match(/<offer\b[^>]*\bid="(?:rzid_)?([^"]+)"/) || [])[1];
+    if (oid_ && typeof TV_DROP_IDS_ !== 'undefined' && TV_DROP_IDS_[oid_]) {
+      // 4а) лише перше фото — фото саме цього кольору; далі в Talvi йдуть загальні фото моделі в інших кольорах
+      let pn = 0;
+      const o4 = o.replace(/<picture>[\s\S]*?<\/picture>\s*/g, function (pic) { return pn++ === 0 ? pic : ''; });
+      if (pn > 1) { st.tvPic = (st.tvPic || 0) + 1; o = o4; }
+      // 4б) RU-назва = UA-назва дослівно: без хвоста «, колір» і з тим самим тире в розмірі
+      const ua4 = (o.match(/<name_ua>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name_ua>/) || [])[1] || '';
+      const ru4 = (o.match(/<name>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/name>/) || [])[1] || '';
+      let nr4 = (ru4.match(/,/g) || []).length > (ua4.match(/,/g) || []).length ? ru4.replace(/,\s*[^,()]+?(?=\s*\(\d+\)\s*$|\s*$)/, '') : ru4;
+      if (/\d–\d/.test(ua4)) nr4 = nr4.replace(/(\d)-(\d)/g, '$1–$2');
+      if (nr4 !== ru4 && nr4.length > 10) { st.tvName = (st.tvName || 0) + 1; o = o.replace(/<name>[\s\S]*?<\/name>/, function () { return '<name><![CDATA[' + nr4 + ']]></name>'; }); }
+    }
     return o;
   });
   Logger.log('rzHideFix_: ' + JSON.stringify(st));
