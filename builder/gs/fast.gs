@@ -699,25 +699,43 @@ var KW3_CATS_ = {};
 const KWM_SYN_ = { 'комбе': 'комбі', 'комби': 'комбі', 'джого': 'джогер', 'штанц': 'штан' };
 function kwmToks_(s, set) {
   (String(s).toLowerCase().replace(/[ʼ’]/g, "'").match(/[a-zа-яіїєґ'0-9]+/g) || []).forEach(function (w) {
-    const st = w.length > 5 ? w.slice(0, 5) : w; set[KWM_SYN_[st] || st] = 1;
+    let st;
+    if (/^рукави[чц]/.test(w)) st = 'рукавичка';          // «рукав» (довжина рукава) ≠ рукавички
+    else if (/^термоме/.test(w)) st = 'термометр';         // термометр ≠ термокостюм
+    else if (/^мітенк/.test(w)) st = 'рукавичка';
+    else st = w.length > 5 ? w.slice(0, 5) : w;
+    set[KWM_SYN_[st] || st] = 1;
   });
   return set;
 }
+// Назви типів товару: фраза з таким словом додається лише якщо це слово є в НАЗВІ товару
+const KWM_NOUN_ = { 'комбі': 1, 'костю': 1, 'сукня': 1, 'сукні': 1, 'сукон': 1, 'штани': 1, 'штан': 1, 'худі': 1, 'шапка': 1, 'шапки': 1, 'рукавичка': 1, 'череви': 1, 'дутик': 1, 'пінет': 1, 'піжам': 1, 'повзу': 1, 'царап': 1, 'боді': 1, 'чолов': 1, 'плед': 1, 'пледи': 1, 'конве': 1, 'кокон': 1, 'маніш': 1, 'накид': 1, 'слиня': 1, 'пелюш': 1, 'термо': 1, 'джогер': 1, 'іграш': 1 };
+const KWM_STOP_ = { 'дитяч': 1, 'для': 1, 'на': 1, 'з': 1, 'і': 1, 'та': 1, 'в': 1, 'купит': 1, 'дітей': 1 };
 const KWM_CLOTH_ = /Головні|Кофти|Футбол|Костюм|Штани|Чоловічки|Шарф|Комбінез|Шорти|Верхній|Боді|Білизна|Сукні|Комплект|Піжам|Пелюш|Пінетк|Рукавич|Повзун|Царапк|Набори в пологовий|Конверт/;
-const KWM_BABY_ = /Царапк|Пелюш|Пінетк|Набори в пологовий|Конверт|Іграшки для малюків/;
+const KWM_OK_ = /Головні|Кофти|Футбол|Костюм|Штани|Чоловічки|Шарф|Комбінез|Шорти|Верхній|Боді|Білизна|Сукні|Комплект|Піжам|Пелюш|Пінетк|Рукавич|Повзун|Царапк|Набори в пологовий|Конверт|Пледи|Накидки|Слинявч|Взуття|^Іграшки для малюків$/;
+const KWM_NEWB_ = /Царапк|Пелюш|Набори в пологовий|Конверт/;
+const KWM_PAR_ = ['Колір', 'Відтінок', 'Сезон', 'Стать', 'Тип тканини', 'Матеріал верху', 'Утеплювач'];
+var KWM_ROWS_ = null;
 function kwMarket_(o, name) {
   if (typeof KW_MARKET_ === 'undefined') return [];
+  if (!KWM_ROWS_) KWM_ROWS_ = KW_MARKET_.map(function (r) {
+    const t = Object.keys(kwmToks_(r[0], {})).filter(function (k) { return !KWM_STOP_[k]; });
+    return [r[0], t];
+  }).filter(function (r) { return r[1].length && !/^(дитячого одягу|дитячий термокостюм)$/.test(r[0]); });
   const cat = KW3_CATS_[(o.match(/<categoryId>(\d+)<\/categoryId>/) || [])[1]] || '';
+  if (!KWM_OK_.test(cat)) return [];
   const pr = {}; (o.match(/<param name="[^"]+"[^>]*>[^<]*<\/param>/g) || []).forEach(function (x) {
     const m = x.match(/<param name="([^"]+)"[^>]*>([^<]*)</); pr[m[1]] = m[2];
   });
-  let txt = name + ' ' + cat;
-  Object.keys(pr).forEach(function (k) { if (k !== 'Склад' && k !== 'Країна виробник') txt += ' ' + pr[k]; });
-  const t = kwmToks_(txt, {});
+  const nt = kwmToks_(name.replace(/["«“„][^"»”“]*["»”“]/g, ' '), {}); // назва моделі в лапках («Худі-Тун») — не тип товару
+  const t = kwmToks_(name, {});
+  KWM_PAR_.forEach(function (k) { if (pr[k]) kwmToks_(pr[k], t); });
   if (KWM_CLOTH_.test(cat)) t['одяг'] = 1;
+  const nl = name.toLowerCase();
   const sz = +((pr['Розмір дитячого одягу (за зростом)'] || '').match(/^\d+/) || [0])[0];
-  if (sz && sz <= 68) { t['новон'] = t['немов'] = t['малюк'] = 1; } else if (sz && sz <= 86) { t['немов'] = t['малюк'] = 1; }
-  if (KWM_BABY_.test(cat)) { t['новон'] = t['немов'] = t['малюк'] = 1; }
+  if (sz && sz <= 62) { t['новон'] = t['немов'] = t['малюк'] = 1; } else if (sz && sz <= 86) { t['немов'] = t['малюк'] = 1; }
+  if (KWM_NEWB_.test(cat) || /новонар|\(0-[1-3]\s*міс|\b0-[1-3]\s*міс/.test(nl)) { t['новон'] = t['немов'] = t['малюк'] = 1; }
+  if (/Пінетк|Іграшки для малюків/.test(cat)) { t['немов'] = t['малюк'] = 1; }
   const sea = (pr['Сезон'] || '').toLowerCase();
   if (/зим/.test(sea)) t['зимов'] = 1;
   if (/демі|осін/.test(sea)) ['деміс', 'осінн', 'весна', 'весня', 'осінь'].forEach(function (k) { t[k] = 1; });
@@ -726,7 +744,9 @@ function kwMarket_(o, name) {
   if (/дівч/.test(sx)) t['дівчи'] = 1;
   if (/унісекс/.test(sx)) { t['хлопч'] = t['дівчи'] = 1; }
   const out = [];
-  KW_MARKET_.forEach(function (r) { if (r[2].every(function (k) { return t[k]; })) out.push(r[0]); });
+  KWM_ROWS_.forEach(function (r) {
+    if (r[1].every(function (k) { return t[k] && (!KWM_NOUN_[k] || nt[k]); })) out.push(r[0]);
+  });
   return out;
 }
 function kwV3_(xml) {
