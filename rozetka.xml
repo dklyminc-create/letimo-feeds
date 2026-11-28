@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-28 11:41">
+<yml_catalog date="2026-11-28 12:09">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -241649,7 +241649,7 @@ SYSTEM "shops.dtd">
 <param name="Розмір">14 (0-18м)</param>
 <param name="Країна виробник">Україна</param>
 </offer>
-<offer id="91871952" available="true">
+<offer id="91871952" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1103</categoryId>
 <vendor>ДоРечі</vendor>
@@ -241659,7 +241659,7 @@ SYSTEM "shops.dtd">
 <description_ua><![CDATA[]]></description_ua>
 <price>819</price>
 <price_old>819</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 
 <param name="Колір">білий</param>
 <param name="Розмір">15</param>
