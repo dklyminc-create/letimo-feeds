@@ -1615,7 +1615,7 @@ function tvDropEpiRule_(cat, nl, size) {
   return undefined;
 }
 // 27.11.2026: розмір рукавичок Talvi для «Дитячі рукавиці» (2419): «0–12 міс» → «1» (рік); універсальні не підбираємо
-function tvMitSize_(size, opts) { const n = tvSizeNorm_(size); if (/^0-?12міс/.test(n) && opts['1']) return ['1']; return tvSizePick_(size, opts); }
+function tvMitSize_(size, opts) { const n = tvSizeNorm_(size); if (/^0-?12міс/.test(n) && opts['1']) return ['1']; if (/універс/i.test(String(size || '')) && opts['5/6']) return ['5/6']; /* 28.11.2026: мітенки «Флаффі»/«Хантер» «Універсальний» — без розміру падали в набір 7889 (не прив'язаний до категорії) → Чернетка */ return tvSizePick_(size, opts); }
 function tvDropEpiVals_(a, S, opts, P, nameUa) {
   const nm = String(nameUa || '').toLowerCase(), keys = Object.keys(opts || {});
   const pick = function (list) { const o = []; list.forEach(function (v) { v = String(v || '').toLowerCase().trim(); if (v && keys.indexOf(v) >= 0 && o.indexOf(v) < 0) o.push(v); }); return o; };
