@@ -23,7 +23,7 @@ jobs:
               curl -s -H "Authorization: Bearer $T" -H "Accept: application/json" "https://merchant-api.epicentrm.com.ua/v2/pim/attribute-sets/$SET/attributes/$ATTR/options?page=$p" | tee -a /tmp/raw.txt | python3 -c "import sys,json
           try:
             j=json.load(sys.stdin); it=j.get('items') or j.get('data') or []
-            print('\n'.join('%s\t%s'%(o.get('code'),(o.get('translations') or [{}])[0].get('title') if o.get('translations') else o.get('title')) for o in it))
+            print('\n'.join('%s\t%s'%(o.get('code'),[t.get('value') for t in (o.get('translations') or []) if t.get('languageCode')=='ua'][:1]) for o in it))
           except Exception as e: print('ERR',e)" >> _diag/epi-options.txt
             done
           done < _diag/epi-diag.run
