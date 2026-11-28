@@ -93,6 +93,11 @@ async function send(items) {
   for (const id of Object.keys(cur)) {
     if (prev.sent[id] !== cur[id]) { items.push({ sku: id, availability: cur[id] }); changes.push({ id, from: prev.sent[id] || null, to: cur[id] }); }
   }
+  // 28.11.2026: товар зник із фіду (напр. DR-1842 після правила «немає» в прайсі ДоРечі), а на Епіцентрі був «в наявності» —
+  // знімаємо з продажу, інакше Епіцентр так і показує його доступним.
+  for (const id of Object.keys(prev.sent)) {
+    if (!(id in cur) && prev.sent[id] === "in_stock") { items.push({ sku: id, availability: "not_available" }); changes.push({ id, from: "in_stock", to: "not_available (зник із фіду)" }); cur[id] = "not_available"; }
+  }
   console.log("Епіцентр API: змін наявності " + items.length + (items.length ? " (з них стало «немає» " + items.filter((i) => i.availability === "not_available").length + ")" : ""));
   changes.slice(0, 40).forEach((c) => console.log("  " + c.id + ": " + c.from + " → " + c.to));
   if (!items.length) return;
