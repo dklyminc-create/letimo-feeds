@@ -980,9 +980,13 @@ const KASTA_OWN_BRANDS = /^(Talvi|Timi Tex|Apawwa|Clibee|American Club)$/;
 const KASTA_OWN_DISC = 5; // %
 // 31.10.2026: + ДоРечі з власного складу (рах. №754) — id пропозицій у фідах (з фіду ДоРечі)
 const KASTA_OWN_IDS = ['98837654','98554708','98554702','98554735','98327061','98327088','98327094','98327121','98754047','91951667','91951690','91951692','97403420','97403443','97403445','97403447','92080489','98235219'];
+// 28.11.2026 (Дмитро): фіксована ціна на Kasta без знижки власного складу — черевики Apawwa ABD0156R Black (Kasta 417618706), 1790 грн
+const KASTA_FIXED_PRICE_ = { '15892': 1790, '15893': 1790, '15894': 1790, '15895': 1790, '15896': 1790, '15897': 1790 };
 function kastaOwnSale_(xml) {
   let n = 0;
   xml = xml.replace(/<offer\b[^>]*>[\s\S]*?<\/offer>/g, function (o) {
+    const fid = (o.match(/<offer\b[^>]*\bid="(?:rzid_)?([^"]+)"/) || [])[1] || '';
+    if (KASTA_FIXED_PRICE_[fid]) return o.replace(/<price>[^<]*<\/price>/, '<price>' + KASTA_FIXED_PRICE_[fid] + '</price>').replace(/<price_old>[^<]*<\/price_old>\s*/, '');
     const v = (o.match(/<vendor>(?:<!\[CDATA\[)?\s*([^<\]]+?)\s*(?:\]\]>)?<\/vendor>/) || [])[1] || '';
     const oid = (o.match(/<offer\b[^>]*\bid="(?:rzid_)?([^"]+)"/) || [])[1] || '';
     if (TV_DROP_IDS_[oid]) return o; // Talvi-дроп — не власний склад, без знижки
