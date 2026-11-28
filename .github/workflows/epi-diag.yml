@@ -30,7 +30,7 @@ jobs:
           except Exception as e: print('ERR',e)" >> _diag/epi-options.txt
             done
           done < _diag/epi-diag.run
-          head -c 1500 /tmp/raw.txt >> _diag/epi-options.txt
+          true
       - name: Зберегти
         run: |
           git config user.name "letimo-feeds-bot"; git config user.email "feeds-bot@users.noreply.github.com"
