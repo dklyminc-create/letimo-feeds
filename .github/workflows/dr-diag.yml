@@ -14,7 +14,7 @@ jobs:
         env:
           DR_FEED_URL: ${{ secrets.DR_FEED_URL }}
         run: |
-          curl -sSL --max-time 120 "$DR_FEED_URL" -o /tmp/dr.xml
+          U=$(printf %s "$DR_FEED_URL" | tr -d "\r\n\t "); curl -sSL --max-time 120 "$U" -o /tmp/dr.xml
           python3 - <<'P'
           import re,datetime
           x=open('/tmp/dr.xml',encoding='utf8',errors='replace').read()
