@@ -2571,7 +2571,7 @@ function epiFallback_(a, ctx, opts, setTitle) {
   // колір / візерунок з назви, коли в товарі немає характеристики «Колір» («… "Liam", сірий меланж 56»)
   const nameCol = (String(ctx.nl || '').split(',')[1] || '').replace(/\d.*$/, '').replace(/[«»"]/g, '').trim();
   if (/^базовий колір/.test(n)) { const b = epiBaseColor_(nameCol) || epiBaseColor_(nl); return b ? pick([b]) : []; }
-  if (/^колір виробника/.test(n) || a.c === '78') { const b = epiBaseColor_(nameCol) || epiBaseColor_(nl); return pick([nameCol, b]); }
+  if (/^колір виробника/.test(n) || a.c === '78') { const b = epiBaseColor_(nameCol) || epiBaseColor_(nl); return pick([nameCol, b]).slice(0, 1); } // 28.11.2026: 78 — модельний атрибут (isModel), лише ОДНЕ значення; «молочний,білий» лишало картку Чернеткою (обов'язкові 9/10)
   if (/^візерунок/.test(n)) return epiPattern_(nameCol || nl).filter(function (v) { return !!opts[v]; }).slice(0, 1);
   if (/^вік дитини/.test(n)) {
     const h = (ctx.heights && ctx.heights.length) ? +ctx.heights[0] : 0;
