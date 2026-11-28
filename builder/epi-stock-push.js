@@ -81,6 +81,13 @@ async function send(items) {
     console.log("Епіцентр API (тест): результат " + JSON.stringify(r));
     return;
   }
+  if (MODE.startsWith("off:")) { // 28.11.2026: разово зняти з продажу перелічені SKU (через кому)
+    const skus = MODE.slice(4).split(",").map((x) => x.trim()).filter(Boolean);
+    console.log("Епіцентр API (off): знімаю з продажу " + skus.join(", "));
+    const r = await send(skus.map((sku) => ({ sku, availability: "not_available" })));
+    console.log("Епіцентр API (off): результат " + JSON.stringify(r));
+    return;
+  }
   if (MODE !== "live") { console.log("Епіцентр API: невідомий режим " + MODE); return; }
 
   const prev = readJson(STATE, null);
