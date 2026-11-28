@@ -1,34 +1,34 @@
-name: Довідники Епіцентру й характеристики іграшок Kiddisvit
+name: Діагностика довідників Епіцентру
 on:
-  schedule:
-    - cron: '17 1 * * *'   # щоночі: дочитати нові картки Kiddisvit (довідники Епіцентру — раз на 7 днів)
-  workflow_dispatch: {}
   push:
-    branches: [main]
-    paths: ['_diag/run-diag.txt']
+    paths: ['_diag/epi-diag.run']
+  workflow_dispatch: {}
 permissions:
   contents: write
 jobs:
   diag:
     runs-on: ubuntu-latest
-    timeout-minutes: 58
     steps:
       - uses: actions/checkout@v4
-        with: { fetch-depth: 1 }
-      - uses: actions/setup-node@v4
-        with: { node-version: '20' }
-      - name: Довідники
+      - name: Опції атрибутів
         env:
           EPICENTR_TOKEN: ${{ secrets.EPICENTR_TOKEN }}
-        run: node builder/epi-diag.js
-        continue-on-error: true
-      - name: Характеристики іграшок Kiddisvit
-        run: node builder/kd-chars.js
-        continue-on-error: true
+        run: |
+          T=$(printf %s "$EPICENTR_TOKEN" | tr -d '\r\n\t ')
+          : > _diag/epi-options.txt
+          while read -r SET ATTR; do
+            [ -z "$SET" ] && continue
+            echo "== $SET / $ATTR" >> _diag/epi-options.txt
+            for p in 1 2 3; do
+              curl -s -H "Authorization: Bearer $T" -H "Accept: application/json" "https://api.epicentrm.com.ua/v2/pim/attribute-sets/$SET/attributes/$ATTR/options?page=$p" | python3 -c "import sys,json
+          try:
+            j=json.load(sys.stdin); it=j.get('items') or j.get('data') or []
+            print('\n'.join('%s\t%s'%(o.get('code'),(o.get('translations') or [{}])[0].get('title') if o.get('translations') else o.get('title')) for o in it))
+          except Exception as e: print('ERR',e)" >> _diag/epi-options.txt
+            done
+          done < _diag/epi-diag.run
       - name: Зберегти
         run: |
-          git config user.name "letimo-feeds-bot"
-          git config user.email "feeds-bot@users.noreply.github.com"
-          for f in _diag/epi-allsets.json _diag/epi-toysets.json _data/epi-brands.json _data/epi-countries.json _data/kd-chars.json; do [ -f "$f" ] && git add -- "$f"; done
-          git commit -m "kd-chars / довідники Епіцентру $(TZ=Europe/Kyiv date '+%Y-%m-%d %H:%M')" || exit 0
-          for i in 1 2 3 4 5; do git push && exit 0; git pull --rebase --autostash -X theirs || true; sleep $((i*5)); done
+          git config user.name "letimo-feeds-bot"; git config user.email "feeds-bot@users.noreply.github.com"
+          git add _diag/epi-options.txt; git commit -m "diag: опції Епіцентру" || exit 0
+          for i in 1 2 3; do git push && exit 0; git pull --rebase; done
