@@ -1236,7 +1236,11 @@ function drOffers_() {
     if (!cat) { rep.noCat.push(fid + ' ' + name.slice(0, 40)); return all; }
     // 14.11.2026 (Дмитро): онлайн-таблиця ДоРечі застаріла — наявність беремо з фіду SalesDrive ДоРечі (у ньому лише товари в наявності, available="true").
     // Таблиця лишається джерелом дроп-ціни; кількість — з таблиці, якщо там > 0, інакше 1.
-    const qty = /available="true"/.test(attrs) ? (p.st > 0 ? p.st : 1) : 0;
+    // 28.11.2026 (Дмитро, після замовлення DR-1842 «Тренд на овчині» на Епіцентрі): фід ДоРечі буває застарілим (available="true"),
+    // а в онлайн-прайсі «немає» і склад 0 — тоді товару немає (на dorechi.ua теж «Немає в наявності»). Прайс має пріоритет.
+    const drNo = /^\s*немає/i.test(p.av || '') && !(p.st > 0);
+    if (drNo && /available="true"/.test(attrs)) { rep.prNo = (rep.prNo || []); rep.prNo.push(vc || fid); }
+    const qty = /available="true"/.test(attrs) && !drNo ? (p.st > 0 ? p.st : 1) : 0;
     const desc = drClean_((body.match(/<description>([\s\S]*?)<\/description>/) || [])[1] || '') || drDescFallback_(name);
     const pics = (body.match(/<picture>[^<]*<\/picture>/g) || []).slice(0, 15);
     const size = drSize_(p.name);
@@ -1244,7 +1248,7 @@ function drOffers_() {
     groupsSeen[gid] = 1;
     const drArt = 'DR-' + key.replace(/[\s\/]+/g, '-');
     if (/очіку/.test(p.av || '')) DR_MTO_[drArt] = p.lt || ''; // 22.11.2026: у прайсі ДоРечі «очікується» = шиють під замовлення
-    if (/^\s*Тренд/i.test(p.name || '') && !(p.st > 0)) { if (!DR_MTO_[drArt]) DR_MTO_[drArt] = p.lt || '15 робочих днів'; DR_MTO_ON_[drArt] = 1; } // 24.11.2026: «Тренд» з нулем у таблиці — під замовлення
+    if (/^\s*Тренд/i.test(p.name || '') && !(p.st > 0) && !drNo) { if (!DR_MTO_[drArt]) DR_MTO_[drArt] = p.lt || '15 робочих днів'; DR_MTO_ON_[drArt] = 1; } // 24.11.2026: «Тренд» з нулем у таблиці — під замовлення; 28.11.2026: крім «немає» у прайсі
     let id = 90000000 + drHash_(drArt); while (ids[id]) id++; ids[id] = 1;
     const sizeTxt = /^\d{2,3}([\/\-]\d{2,3})?$/.test(size) ? size + ' см' : size;
     const fullName = (name + (sizeTxt ? ' ' + sizeTxt : '')).replace(/\]\]>/g, '');

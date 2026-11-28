@@ -26,9 +26,32 @@ jobs:
               out.append(o)
           open('_diag/dr-1842.xml','w',encoding='utf8').write('\n\n'.join(out)+'\n')
           P
+      - name: Розбіжності фід ДоРечі vs прайс
+        env:
+          DR_FEED_URL: ${{ secrets.DR_FEED_URL }}
+        run: |
+          for g in 273495408 0; do curl -sSL "https://docs.google.com/spreadsheets/d/1DU8uF_VH4aO1FURXuu-mvtzzC5QJWhGy0l2gO0nYPVw/export?format=csv&gid=$g" -o /tmp/pr_$g.csv; done
+          python3 - <<'P'
+          import re,csv
+          x=open('/tmp/dr.xml',encoding='utf8',errors='replace').read()
+          norm=lambda a:re.sub(r'\s+',' ',a.replace('О','O').replace('о','o')).strip().upper()
+          pr={}
+          for g in ('273495408','0'):
+            for r in csv.reader(open('/tmp/pr_%s.csv'%g,encoding='utf8')):
+              if len(r)>7 and r[0].strip(): pr[norm(r[0])]=(r[1].strip(),r[4].strip().lower(),r[7].strip())
+          rows=[]
+          for a,b in re.findall(r'<offer\b([^>]*)>(.*?)</offer>',x,re.S):
+            if 'available="true"' not in a: continue
+            vc=norm((re.search(r'<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]]*)',b) or [None,''])[1])
+            nm=(re.search(r'<name>(?:<!\[CDATA\[)?([^<\]]*)',b) or [None,''])[1]
+            t=[pr.get(k) for k in (vc,vc.replace(' F',''),vc+' N') if pr.get(k)]
+            if t and t[0][1].startswith('немає') and not (t[0][2].lstrip('-').isdigit() and int(t[0][2])>0):
+              rows.append('DR-%s | %s | прайс: %s, склад %s' % (vc.replace(' ','-').replace('/','-'), nm, t[0][1], t[0][2]))
+          open('_diag/dr-mismatch.txt','w',encoding='utf8').write('Фід ДоРечі available=true, а в прайсі «немає» і склад ≤0: %d\n' % len(rows) + '\n'.join(rows)+'\n')
+          P
       - name: Зберегти
         run: |
           git config user.name "letimo-feeds-bot"; git config user.email "feeds-bot@users.noreply.github.com"
-          git add _diag/dr-1842.xml
+          git add _diag/dr-1842.xml _diag/dr-mismatch.txt
           git commit -m "diag: ДоРечі DR-1842" || exit 0
           for i in 1 2 3; do git push && exit 0; git pull --rebase; done
