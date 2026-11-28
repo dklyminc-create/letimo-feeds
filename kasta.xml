@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-28 16:11">
+<yml_catalog date="2026-11-28 16:42">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -144484,23 +144484,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="8810" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3194451</article>
-<name_ua><![CDATA[Зимовий комплект «Рубчик+фліс»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Зимовий комплект  Рубчик+фліс </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Базовий комплект для дітей та дорослих в універсальному розмірі</li><li>Шапка утеплена флісом по лінії вух</li><li>UNISEX</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</li><li>Розміри (обхват голови): Універсальний</li><li>Кольори: Білий, Пудра, Гірчиця, Коричневий, Темна пудра, Світло-рожевий, Світло-сірий, Чорний, Світло-коричневий, (MLN) Бордовий меланж, Блакитний, Рожевий, Темно-синій, Темно-сірий меланж, М'ята, Світлий джинс, Світло-сірий меланж, Світло-бежевий меланж, Персик, Молочний, Червоний, Теракот, Кавовий, Світлий хакі, Жовтий, Лаванда, Малина, Хакі, Бежевий, Зелений, Помаранчевий</li></ul>]]></description_ua>
-<price>520</price>
-<price_old>520</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/11/21502563940362_%2Bbfd13a46ac.jpg</picture>
-<picture>https://letimo.com.ua/content/images/11/16281200742145_%2Bc257d0451e.jpg</picture>
-<param name="Колір">коричневий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 50% вовна, 50% акрил; підклад - 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="8812" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -178250,23 +178233,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">віскоза-52%, еластан-26%, нейлон-22%, підклад -фліс</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="12321" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1128</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3399451-cb6c7</article>
-<name_ua><![CDATA[Шапка в'язана зимова «Олені»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Шапка в'язана зимова  Олені </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Шапка з м'якої пряжі з веселим малюночком, буде дарувати гарний</li><li>настрій та комфорт взимку</li><li>Утеплена флісом по всій площі</li><li>Помпон на кнопці, тож можна</li><li>відстібнути за бажанням або для прання</li><li>Помпон виготовлений з високоякісного штучного хутра</li><li>UNISEX</li><li>Колір помпону/оленів може відрізнятися від представлених на фото</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: віскоза-52%, еластан-26%, нейлон-22%, підклад -фліс</li><li>Розміри (обхват голови): 50 52 см, 54 56 см</li><li>Кольори: Білий, Світла пудра, Лаванда, Світло-рожевий, Блакитний, Джинс, Світло-сірий, Темно-синій, Пудра, Чорний</li></ul>]]></description_ua>
-<price>232</price>
-<price_old>232</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/22/27920388859892_%2Bf1078421a1.jpg</picture>
-<picture>https://letimo.com.ua/content/images/22/58142526465127_%2B06c27fe3f7.jpg</picture>
-<param name="Колір">фіолетовий</param>
-<param name="Розмір">50-54</param>
-<param name="Склад">віскоза-52%, еластан-26%, нейлон-22%, підклад -фліс</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="12322" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1128</categoryId>
@@ -200656,23 +200622,6 @@ SYSTEM "shops.dtd">
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
 </offer>
-   <offer id="15083" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3555451</article>
-<name_ua><![CDATA[Тепла манішка «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тепла манішка  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила двошарова манішка з хутром тедді</li><li>Горловина вив'язана з м'якої пряжі преміальної якості, що не "кусається"</li><li>Додатково утеплена шаром флісу по всій грудині зсередини</li><li>UNISEX</li><li>Може служити як додатковим утепленням для малюків, так і доповненням для стильних образів підлітків та дорослих</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри: Універсальний</li><li>Кольори: Коричневий, Білий, Світлий беж, Малиновий, Джинс, Світла пудра, Світлий хакі, Молочний, Чорний, Сірий, Персикова пудра, Бежевий</li></ul>]]></description_ua>
-<price>464</price>
-<price_old>464</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/34/76517492379996_%2B9e10a86e61.jpg</picture>
-<picture>https://letimo.com.ua/content/images/34/17746765610626_%2Bc91fa78189.jpg</picture>
-<param name="Колір">малиновий</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
    <offer id="15084" available="true">
 <currencyId>UAH</currencyId>
 <categoryId>1122</categoryId>
@@ -200703,23 +200652,6 @@ SYSTEM "shops.dtd">
 <picture>https://letimo.com.ua/content/images/37/57740589941698_%2B1fe50c33bd.jpg</picture>
 <picture>https://letimo.com.ua/content/images/37/25470607675835_%2B6d1e60cd29.jpg</picture>
 <param name="Колір">хакі</param>
-<param name="Розмір">Універсальний</param>
-<param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
-<param name="страна-производитель">Україна</param>
-</offer>
-   <offer id="15089" available="true">
-<currencyId>UAH</currencyId>
-<categoryId>1122</categoryId>
-<vendor>Talvi</vendor>
-<article>LT3555451</article>
-<name_ua><![CDATA[Тепла манішка «Тедді»]]></name_ua>
-<description_ua><![CDATA[<p><strong>Тепла манішка  Тедді </strong> від українського бренду Talvi.</p><h3>Що важливо</h3><ul><li>Мила двошарова манішка з хутром тедді</li><li>Горловина вив'язана з м'якої пряжі преміальної якості, що не "кусається"</li><li>Додатково утеплена шаром флісу по всій грудині зсередини</li><li>UNISEX</li><li>Може служити як додатковим утепленням для малюків, так і доповненням для стильних образів підлітків та дорослих</li></ul><h3>Характеристики</h3><ul><li>Бренд: Talvi (Україна)</li><li>Склад: основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</li><li>Розміри: Універсальний</li><li>Кольори: Коричневий, Білий, Світлий беж, Малиновий, Джинс, Світла пудра, Світлий хакі, Молочний, Чорний, Сірий, Персикова пудра, Бежевий</li></ul>]]></description_ua>
-<price>464</price>
-<price_old>464</price_old>
-<stock_quantity>1</stock_quantity>
-<picture>https://letimo.com.ua/content/images/40/61825484842032_%2B5993360e55.jpg</picture>
-<picture>https://letimo.com.ua/content/images/40/85633699971046_%2B65dcace63d.jpg</picture>
-<param name="Колір">сірий</param>
 <param name="Розмір">Універсальний</param>
 <param name="Склад">основа - 52% віскоза, 26% еластан, 22% нейлон; підклад- 100% поліестер (фліс)</param>
 <param name="страна-производитель">Україна</param>
