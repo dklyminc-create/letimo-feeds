@@ -46,7 +46,7 @@ jobs:
             nm=(re.search(r'<name>(?:<!\[CDATA\[)?([^<\]]*)',b) or [None,''])[1]
             t=[pr.get(k) for k in (vc,vc.replace(' F',''),vc+' N') if pr.get(k)]
             if t and t[0][1].startswith('немає') and not (t[0][2].lstrip('-').isdigit() and int(t[0][2])>0):
-              rows.append('DR-%s | %s | прайс: %s, склад %s | %s' % (vc.replace(' ','-').replace('/','-'), nm, t[0][1], t[0][2], ur))
+              rows.append('DR-%s | %s | прайс: %s, склад %s' % (vc.replace(' ','-').replace('/','-'), nm, t[0][1], t[0][2]))
           open('_diag/dr-mismatch.txt','w',encoding='utf8').write('Фід ДоРечі available=true, а в прайсі «немає» і склад ≤0: %d\n' % len(rows) + '\n'.join(rows)+'\n')
           P
       - name: Наявність на сайті ДоРечі
