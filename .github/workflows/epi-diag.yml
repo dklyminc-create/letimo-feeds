@@ -18,7 +18,7 @@ jobs:
           : > _diag/epi-options.txt
           while read -r SET ATTR; do
             [ -z "$SET" ] && continue
-            if [ "$ATTR" = "ATTRS" ]; then curl -s -H "Authorization: Bearer $T" -H "Accept: application/json" "https://merchant-api.epicentrm.com.ua/v2/pim/attribute-sets/$SET/attributes?page=1" | head -c 20000 >> _diag/epi-options.txt; continue; fi
+            if [ "$ATTR" = "ATTRS" ]; then curl -s -H "Authorization: Bearer $T" -H "Accept: application/json" "https://merchant-api.epicentrm.com.ua/v2/pim/attribute-sets?filter%5Bcodes%5D%5B%5D=$SET" | head -c 20000 >> _diag/epi-options.txt; continue; fi
             echo "== $SET / $ATTR" >> _diag/epi-options.txt
             for p in 1 2 3; do
               curl -s -H "Authorization: Bearer $T" -H "Accept: application/json" "https://merchant-api.epicentrm.com.ua/v2/pim/attribute-sets/$SET/attributes/$ATTR/options?page=$p" | tee -a /tmp/raw.txt | python3 -c "import sys,json
