@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-28 15:11">
+<yml_catalog date="2026-11-28 15:39">
 <offers>
 <offer id="1076013176" available="true">
 <price>1176</price>
@@ -168217,8 +168217,8 @@
 </offer>
 <offer id="TALVI-03578-91058" available="true">
 <price>368</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">Пухнасті зимові мітенки «Флаффі», рожевий, Універсальний</name>
 <name lang="ru">Пушистые зимние митенки «Флаффи», розовый, универсальный.</name>
 <picture>https://letimo.com.ua/content/images/2/92951351855811_+231adb59f9.jpg</picture>
@@ -168234,15 +168234,16 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">100% нейлон</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8">універсальний</param>
+<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-03578-91675" available="true">
 <price>368</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">Пухнасті зимові мітенки «Флаффі», світла пудра, Універсальний</name>
 <name lang="ru">Пушистые зимние митенки «Флаффи», светлая пудра, Универсальный</name>
 <picture>https://letimo.com.ua/content/images/3/54546011870091_+3e230f8b73.jpg</picture>
@@ -168258,15 +168259,16 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">100% нейлон</param>
-<param name="Колір виробника" paramcode="78" valuecode="rlw0sagvkdvthagh">світла пудра</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8">універсальний</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-03578-91105" available="true">
 <price>368</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">Пухнасті зимові мітенки «Флаффі», білий, Універсальний</name>
 <name lang="ru">Пушистые зимние митенки «Флаффи», белый, универсальный.</name>
 <picture>https://letimo.com.ua/content/images/4/76321105543862_+b797fcba1e.jpg</picture>
@@ -168282,15 +168284,16 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">100% нейлон</param>
+<param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8">універсальний</param>
+<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-03578-91471" available="true">
 <price>368</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">Пухнасті зимові мітенки «Флаффі», молочний, Універсальний</name>
 <name lang="ru">Пушистые зимние митенки «Флаффи», молочный, Универсальный.</name>
 <picture>https://letimo.com.ua/content/images/5/31029862342503_+ecc7f3b2f7.jpg</picture>
@@ -168306,15 +168309,16 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">100% нейлон</param>
-<param name="Колір виробника" paramcode="78" valuecode="m1ibfybx">молочний</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8">універсальний</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-03578-91057" available="true">
 <price>368</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">Пухнасті зимові мітенки «Флаффі», світлий беж, Універсальний</name>
 <name lang="ru">Пушистые зимние митенки «Флаффи», светлый беж, Универсальный</name>
 <picture>https://letimo.com.ua/content/images/6/69435086405697_+6eed5317e8.jpg</picture>
@@ -168330,15 +168334,16 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">100% нейлон</param>
-<param name="Колір виробника" paramcode="78" valuecode="596687299a86c">світлий беж</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de511b68">нейлон</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8">універсальний</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Сезон" paramcode="2295" valuecode="de6d5cc818b5178c70e98676a7225c34,34599b6fc5a568ddbc6f1f0386aa00e3">зима,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02977-87827" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», світлий беж, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», Универсальный светлый беж.</name>
 <picture>https://letimo.com.ua/content/images/16/51285889121765_+d46d5a3d32.jpg</picture>
@@ -168354,15 +168359,17 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
-<param name="Колір виробника" paramcode="78" valuecode="596687299a86c">світлий беж</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno">універсальний,в'язані</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02977-81697" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», лаванда, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», лаванда, Универсальный.</name>
 <picture>https://letimo.com.ua/content/images/18/36525162549945_+592ba1ce68.jpg</picture>
@@ -168378,15 +168385,17 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
-<param name="Колір виробника" paramcode="78" valuecode="nnxjopwuibuljxr9">лаванда</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno,oeufwmmlozskrq4l">універсальний,в'язані,лаванда</param>
+<param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02977-88314" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», (527) персикова пудра, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», (527) персиковая пудра, Универсальный</name>
 <picture>https://letimo.com.ua/content/images/19/57995618109647_+78f48e655e.jpg</picture>
@@ -168402,15 +168411,17 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno">універсальний,в'язані</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02977-85973" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», бузок, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», сирень, Универсальная</name>
 <picture>https://letimo.com.ua/content/images/21/23086622790623_+f84261f926.jpg</picture>
@@ -168426,15 +168437,17 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
+<param name="Базовий колір" paramcode="12097" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="ct2lhsxt">фіолетовий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno">універсальний,в'язані</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02977-86339" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», бежевий, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», бежевый, Универсальный.</name>
 <picture>https://letimo.com.ua/content/images/22/99050799881380_+c01e5e9e4f.jpg</picture>
@@ -168450,15 +168463,17 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno">універсальний,в'язані</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02978-86817" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», бежевий, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», бежевый, Универсальный.</name>
 <picture>https://letimo.com.ua/content/images/31/50694636745990_+5522b96ff9.jpg</picture>
@@ -168474,15 +168489,17 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
+<param name="Базовий колір" paramcode="12097" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno">універсальний,в'язані</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02978-86794" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», (527) персикова пудра, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», (527) персиковая пудра, Универсальный</name>
 <picture>https://letimo.com.ua/content/images/32/27518532161254_+61af8fc047.jpg</picture>
@@ -168498,15 +168515,17 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
 <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno">універсальний,в'язані</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-02978-86778" available="true">
 <price>230</price>
-<category code="7889">Рукавички</category>
-<attribute_set code="7889">Рукавички</attribute_set>
+<category code="2419">Дитячі рукавиці</category>
+<attribute_set code="2419">Дитячі рукавиці</attribute_set>
 <name lang="ua">В'язані тоненькі мітенки «Хантер», світла пудра, Універсальний</name>
 <name lang="ru">Вязаные тоненькие митенки «Хантер», светлая пудра, Универсальный</name>
 <picture>https://letimo.com.ua/content/images/34/22380576428298_+13eb733302.jpg</picture>
@@ -168522,10 +168541,12 @@
 <param name="Ширина" paramcode="width">100</param>
 <param name="Вага" paramcode="weight">50</param>
 <param lang="ua" paramcode="5123" name="Склад тканини">50% акрил, 28% ПБТ, 22% нейлон</param>
-<param name="Колір виробника" paramcode="78" valuecode="rlw0sagvkdvthagh">світла пудра</param>
-<param name="Вид" paramcode="51" valuecode="59474de50f51c">мітенки</param>
-<param name="Матеріал" paramcode="52" valuecode="59474de5112c1,59474de511b68,59474de5121ec">акрил,нейлон,трикотаж</param>
-<param name="Тип" paramcode="50" valuecode="c5d7e5c15abb44b841a82e628c41e7c8,gaax344wnjhtzgno">універсальний,в'язані</param>
+<param name="Базовий колір" paramcode="12097" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param name="Матеріал" paramcode="52" valuecode="59474de5112c1">акрил</param>
+<param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+<param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+<param name="Сезон" paramcode="2295" valuecode="a8dc185a699b1f70201a1b88422c63b8,77e9f945d07e0156186bbc3bfb392a2a,34599b6fc5a568ddbc6f1f0386aa00e3">демісезон,весна,осінь</param>
+<param name="Розмір" paramcode="2293" valuecode="2reqhte3tvuyd8of">5/6</param>
 </offer>
 <offer id="TALVI-04521-98447" available="true">
 <price>345</price>
