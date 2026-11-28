@@ -49,9 +49,11 @@ jobs:
               rows.append('DR-%s | %s | прайс: %s, склад %s | %s' % (vc.replace(' ','-').replace('/','-'), nm, t[0][1], t[0][2], ur))
           open('_diag/dr-mismatch.txt','w',encoding='utf8').write('Фід ДоРечі available=true, а в прайсі «немає» і склад ≤0: %d\n' % len(rows) + '\n'.join(rows)+'\n')
           P
+      - name: Наявність на сайті ДоРечі
+        run: python3 builder/dr-sitecheck.py
       - name: Зберегти
         run: |
           git config user.name "letimo-feeds-bot"; git config user.email "feeds-bot@users.noreply.github.com"
-          git add _diag/dr-1842.xml _diag/dr-mismatch.txt
+          git add _diag/dr-1842.xml _diag/dr-mismatch.txt _diag/dr-site.txt
           git commit -m "diag: ДоРечі DR-1842" || exit 0
           for i in 1 2 3; do git push && exit 0; git pull --rebase; done
