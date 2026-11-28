@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog
 SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-28 06:09">
+<yml_catalog date="2026-11-28 06:41">
  <shop>
   <currencies><currency id="UAH" rate="1"/></currencies>
   <categories>
@@ -62418,7 +62418,7 @@ SYSTEM "shops.dtd">
 <param name="Склад">100% бавовна, еластан</param>
 <param name="Країна-виробник товару">Україна</param>
 </offer>
-   <offer id="3070" available="true">
+   <offer id="3070" available="false">
 <currencyId>UAH</currencyId>
 <categoryId>1100</categoryId>
 <vendor>MagBaby</vendor>
@@ -62429,7 +62429,7 @@ SYSTEM "shops.dtd">
 <description><![CDATA[<p>Двойной сет трусиков Marco для мальчиков две пары трусиков-боксеров.</p><h3> Что важно</h3><ul><li> Стрейч-кулир: 95% хлопок, 5% эластан.</li><li> Кожа дышит, без раздражений.</li><li> Эластичные и износостойкие.</li><li> Яркие цвета.</li></ul><h3> Уход</h3><p> Стирать при 30 40 C, сушить естественным способом.</p><p> <strong>Совет:</strong> трусиков лучше иметь несколько в смену.</p>]]></description>
 <price>690</price>
 <price_old>690</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <picture>https://letimo.com.ua/content/images/21/93455144180129_%2B8752163a04.jpg</picture>
 <picture>https://letimo.com.ua/content/images/21/podviinyi-set-trusykiv-marco-syzyi-98-2-3-roky-12447154485646_%2B838589dfed.jpg</picture>
 <param name="Колір">сіро-голубий</param>
