@@ -1,0 +1,34 @@
+name: Діагностика фіду ДоРечі
+on:
+  push:
+    paths: ['_diag/dr-diag.run']
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Витягти DR-1842 з фіду ДоРечі
+        env:
+          DR_FEED_URL: ${{ secrets.DR_FEED_URL }}
+        run: |
+          curl -sSL --max-time 120 "$DR_FEED_URL" -o /tmp/dr.xml
+          python3 - <<'P'
+          import re,datetime
+          x=open('/tmp/dr.xml',encoding='utf8',errors='replace').read()
+          out=['<!-- знято '+datetime.datetime.utcnow().isoformat()+'Z, офферів у фіді: '+str(len(re.findall(r'<offer\b',x)))+' -->']
+          for o in re.findall(r'<offer\b.*?</offer>',x,re.S):
+            vc=(re.search(r'<vendorCode>(?:<!\[CDATA\[)?\s*([^<\]]*)',o) or [None,''])[1].strip()
+            if re.match(r'^1842(\s|$)',vc) or re.search(r'Тренд[^<]{0,40}(Чорн|черн)',o,re.I):
+              o=re.sub(r'<description>.*?</description>','<description>…</description>',o,flags=re.S)
+              out.append(o)
+          open('_diag/dr-1842.xml','w',encoding='utf8').write('\n\n'.join(out)+'\n')
+          P
+      - name: Зберегти
+        run: |
+          git config user.name "letimo-feeds-bot"; git config user.email "feeds-bot@users.noreply.github.com"
+          git add _diag/dr-1842.xml
+          git commit -m "diag: ДоРечі DR-1842" || exit 0
+          for i in 1 2 3; do git push && exit 0; git pull --rebase; done
